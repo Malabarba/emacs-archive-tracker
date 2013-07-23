@@ -17,11 +17,11 @@
         $('#main_content').headsmart()
       })
     </script>
-    <title>EAT by Bruce-Connor</title>
+    <title>EAT by Artur Malabarba</title>
   </head>
 
   <body>
-    <a id="forkme_banner" href="https://github.com/Bruce-Connor/emacs-archive-tracker">View on GitHub</a>
+    <!-- <a id="forkme_banner" href="https://github.com/Bruce-Connor/emacs-archive-tracker">View on GitHub</a> -->
     <div class="shell">
 
       <header>
@@ -54,20 +54,20 @@ Currently included archives are:</p>
 ("melpa" . "http://melpa.milkbox.net/packages/")
 </code></pre>
 
-<p>If you know of any others please create an issue and let me know.</p>
+<p>If you know of any others please <a href="https://github.com/Bruce-Connor/emacs-archive-tracker/issues/new">create an issue</a> and let me know.</p>
 
 <h1>
 <a name="global-reports" class="anchor" href="#global-reports"><span class="octicon octicon-link"></span></a>Global Reports</h1>
 
 <p>This graph is updated hourly<br><img src="http://bruce-connor.github.io/emacs-archive-tracker/overall-count.jpg" alt="Package count as a function of time"></p>
 
-<p>On average, 60% of packages are single-file (the rest are tar).</p>
+<h3><p>On average, <b>60%</b> of packages are single-file (the rest are tar).</p></h3>
       </section>
 
       <footer>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <p>this project by <a href="https://github.com/Bruce-Connor">Bruce-Connor</a> can be found on <a href="https://github.com/Bruce-Connor/emacs-archive-tracker">GitHub</a></p>
+            <p>this project by Artur Malabarba can be found on <a href="https://github.com/Bruce-Connor/emacs-archive-tracker">GitHub</a></p>
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
@@ -82,12 +82,21 @@ Currently included archives are:</p>
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
           </script>
-          <script type="text/javascript">
-            try {
-              var pageTracker = _gat._getTracker("UA-42656294-1");
-            pageTracker._trackPageview();
-            } catch(err) {}
+          <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                                   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                                   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-42656294-1', 'bruce-connor.github.io');
+          ga('send', 'pageview');
           </script>
+          <!-- <script type="text/javascript">
+          try {
+          var pageTracker = _gat._getTracker("UA-42656294-1");
+          pageTracker._trackPageview();
+          } catch(err) {}
+          </script> -->
 
   </body>
 </html>
