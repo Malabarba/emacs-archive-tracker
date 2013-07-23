@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=640" />
+
+    <link rel="stylesheet" href="stylesheets/core.css" media="screen"/>
+    <link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)"/>
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css"/>
+
+    <script type="text/javascript" src="javascripts/modernizr.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $('#main_content').headsmart()
+      })
+    </script>
+    <title>EAT by Bruce-Connor</title>
+  </head>
+
+  <body>
+    <a id="forkme_banner" href="https://github.com/Bruce-Connor/emacs-archive-tracker">View on GitHub</a>
+    <div class="shell">
+
+      <header>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>EAT</h1>
+            <h2>All info displayed here is for you to devour.</h2>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </header>
+
+      <section id="downloads">
+        <span class="inner">
+          <a href="https://github.com/Bruce-Connor/emacs-archive-tracker/zipball/master" class="zip"><em>download</em> .ZIP</a><a href="https://github.com/Bruce-Connor/emacs-archive-tracker/tarball/master" class="tgz"><em>download</em> .TGZ</a>
+        </span>
+      </section>
+
+
+      <span class="banner-fix"></span>
+
+
+      <section id="main_content">
+        <p>EAT (emacs-archive-tracker) is a script in emacs-lisp to track some statistics about emacs package archives.<br>
+Currently included archives are:</p>
+
+<pre><code>("gnu" . "http://elpa.gnu.org/packages/")
+("marmalade" . "http://marmalade-repo.org/packages/")
+("melpa" . "http://melpa.milkbox.net/packages/")
+</code></pre>
+
+<p>If you know of any others please create an issue and let me know.</p>
+
+<h1>
+<a name="global-reports" class="anchor" href="#global-reports"><span class="octicon octicon-link"></span></a>Global Reports</h1>
+
+<p>This graph is updated hourly<br><img src="http://bruce-connor.github.io/emacs-archive-tracker/overall-count.jpg" alt="Package count as a function of time"></p>
+
+<p>On average, 60% of packages are single-file (the rest are tar).</p>
+      </section>
+
+      <footer>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <p>this project by <a href="https://github.com/Bruce-Connor">Bruce-Connor</a> can be found on <a href="https://github.com/Bruce-Connor/emacs-archive-tracker">GitHub</a></p>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+        <p>Generated with <a href="http://pages.github.com">GitHub Pages</a> using Merlot</p>
+        <span class="octocat"></span>
+      </footer>
+
+    </div>
+
+              <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-42656294-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
+  </body>
+</html>
