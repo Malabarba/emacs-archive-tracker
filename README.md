@@ -1,7 +1,7 @@
-emacs-archive-tracker
+EAT (emacs-archive-tracker)
 =====================
 
-A script in emacs-lisp to track some statistics about emacs package archives.  
+EAT is a script in emacs-lisp to track some statistics about emacs package archives.  
 Currently included archives are:
 
     ("gnu" . "http://elpa.gnu.org/packages/")
