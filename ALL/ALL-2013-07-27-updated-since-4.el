@@ -135,4 +135,5 @@
   (markdown-mode . [(20130726 2142) nil "Emacs Major mode for Markdown-formatted text files [git]" single "melpa"])
   (org . [(20130727 224) nil "Outline-based notes management and organizer [git]" tar "melpa"])
   (sublime-themes . [(20130727 1028) nil "A collection of themes based on Sublime Text [github]" tar "melpa"])
+  (psgml . [(1 4 1) nil "Lennart Staflin's Psgml package, with Elisp syntax and sgml-validate fixed for Emacsen >=24." tar "marmalade"])
  )
