@@ -71,6 +71,7 @@
   (creole . [(20130729 35) ((noflet (0 0 3)) (kv (0 0 17))) "A parser for the Creole Wiki language [github]" single "melpa"])
   (ecukes . [(20130727 2035) ((s (1 3 0)) (dash (1 0 1)) (ansi (0 0 2))) "Cucumber for Emacs. [github]" tar "melpa"])
   (evil-nerd-commenter . [(20130727 2248) nil "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim [github]" tar "melpa"])
+  (f . [(20130729 951) ((s (1 6 0)) (dash (1 4 0))) "Modern API for working with files and directories [github]" single "melpa"])
   (flx . [(20130728 2028) ((cl-lib (0 3))) "fuzzy matching with good sorting [github]" single "melpa"])
   (flx-ido . [(20130728 820) ((flx (0 1)) (cl-lib (0 3))) "flx integration for ido [github]" single "melpa"])
   (flycheck . [(20130728 1724) ((s (1 6 0)) (dash (1 2)) (cl-lib (0 1)) (emacs (24 1))) "On-the-fly syntax checking (Flymake done right) [github]" tar "melpa"])
