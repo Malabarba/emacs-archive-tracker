@@ -88,7 +88,6 @@
   (mo-git-blame . [(20130728 1717) nil "An interactive, iterative 'git blame' mode for Emacs [github]" single "melpa"])
   (notmuch . [(20130727 1822) nil "No description available. [git]" tar "melpa"])
   (nrepl . [(20130728 710) ((clojure-mode (2 0 0)) (cl-lib (0 3))) "Client for Clojure nREPL [github]" single "melpa"])
-  (org . [(20130728 2140) nil "Outline-based notes management and organizer [git]" tar "melpa"])
   (org-reveal . [(20130729 1007) ((org (8 0))) "reveal.js Presentation Back-End for Org Export Engine [github]" single "melpa"])
   (pophint . [(20130729 700) ((popup (0 5 0)) (log4e (0 2 0)) (yaxception (0 1))) "Provide navigation using pop-up tips, like Firefox's Vimperator Hint Mode [github]" tar "melpa"])
   (robe . [(20130728 1241) ((inf-ruby (2 3 0))) "Code navigation, documentation lookup and completion for Ruby [github]" tar "melpa"])
@@ -98,4 +97,5 @@
   (yari . [(20130727 1639) nil "Yet Another RI interface for Emacs [github]" single "melpa"])
   (psgml . [(1 4 1) nil "Lennart Staflin's Psgml package, with Elisp syntax and sgml-validate fixed for Emacsen >=24." tar "marmalade"])
   (cm-mode . [(0 1 0) nil "Wrapper for CodeMirror-style Emacs modes" single "marmalade"])
+  (org . [(20130729) nil "Outline-based notes management and organizer" tar "gnu"])
  )
