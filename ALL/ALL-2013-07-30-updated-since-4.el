@@ -86,4 +86,5 @@
   (yari . [(20130727 1639) nil "Yet Another RI interface for Emacs [github]" single "melpa"])
   (psgml . [(1 4 1) nil "Lennart Staflin's Psgml package, with Elisp syntax and sgml-validate fixed for Emacsen >=24." tar "marmalade"])
   (cm-mode . [(0 1 0) nil "Wrapper for CodeMirror-style Emacs modes" single "marmalade"])
+  (adaptive-wrap . [(0 4) nil "Smart line-wrapping with wrap-prefix" single "gnu"])
  )

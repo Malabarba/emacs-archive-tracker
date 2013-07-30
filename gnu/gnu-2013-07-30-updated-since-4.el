@@ -18,4 +18,5 @@
   (queue . [(0 1) nil "Queue data structure" single "gnu"])
   (quarter-plane . [(0 1) nil "Minor mode for quarter-plane style editing" single "gnu"])
   (org . [(20130729) nil "Outline-based notes management and organizer" tar "gnu"])
+  (adaptive-wrap . [(0 4) nil "Smart line-wrapping with wrap-prefix" single "gnu"])
  )
