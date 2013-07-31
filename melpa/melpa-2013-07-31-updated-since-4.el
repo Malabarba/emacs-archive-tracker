@@ -88,7 +88,7 @@
   (multiple-cursors . [(20130730 2211) nil "Multiple cursors for Emacs. [github]" tar "melpa"])
   (notmuch . [(20130727 1822) nil "No description available. [git]" tar "melpa"])
   (nrepl . [(20130729 1256) ((clojure-mode (2 0 0)) (cl-lib (0 3))) "Client for Clojure nREPL [github]" single "melpa"])
-  (org . [(20130730 1244) nil "Outline-based notes management and organizer [git]" tar "melpa"])
+  (org . [(20130731 1445) nil "Outline-based notes management and organizer [git]" tar "melpa"])
   (org-reveal . [(20130729 1007) ((org (8 0))) "reveal.js Presentation Back-End for Org Export Engine [github]" single "melpa"])
   (org-trello . [(20130731 222) ((org (7 9 2)) (dash (1 4 0)) (request (0 1 0)) (cl-lib (0 3 0)) (json (1 2))) "Minor mode for org-mode to sync org-mode and trello [github]" tar "melpa"])
   (php-mode . [(20130729 1530) nil "Major mode for editing PHP code [github]" single "melpa"])
