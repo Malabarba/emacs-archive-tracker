@@ -1,5 +1,4 @@
 '(
-  (pylint . [(20121112 1335) nil "minor mode for running `pylint' [hg]" single "melpa"])
   (starter-kit . [(20121025 1511) ((paredit (22)) (idle-highlight-mode (1 1 1)) (find-file-in-project (3 0)) (smex (1 1 2)) (ido-ubiquitous (0 3)) (magit (0 8 1))) "Saner defaults and goodies. [github]" tar "melpa"])
   (starter-kit-bindings . [(20120101 1955) ((starter-kit (2 0 2))) "Saner defaults and goodies: bindings [github]" single "melpa"])
   (starter-kit-eshell . [(20121001 1714) nil "Saner defaults and goodies: eshell tweaks [github]" single "melpa"])
@@ -102,5 +101,5 @@
   (yari . [(20130727 1639) nil "Yet Another RI interface for Emacs [github]" single "melpa"])
   (psgml . [(1 4 1) nil "Lennart Staflin's Psgml package, with Elisp syntax and sgml-validate fixed for Emacsen >=24." tar "marmalade"])
   (cm-mode . [(0 1 0) nil "Wrapper for CodeMirror-style Emacs modes" single "marmalade"])
-  (adaptive-wrap . [(0 4) nil "Smart line-wrapping with wrap-prefix" single "gnu"])
+  (adaptive-wrap . [(0 5) nil "Smart line-wrapping with wrap-prefix" single "gnu"])
  )
