@@ -1,4 +1,5 @@
 '(
+  (wedge-ws . [(0 1 0) nil "Wedge whitespace between columns in text" tar "marmalade"])
   (sparkline . [(0 3 0) nil "Make sparkline images from a list of numbers" single "marmalade"])
   (flymake-puppet . [(1 0 0) ((flymake-easy (0 9))) "An Emacs flymake handler for syntax-checking puppet using puppet-lint" single "marmalade"])
   (palimpsest . [(0 8) nil "Various deletion strategies when editing" single "marmalade"])

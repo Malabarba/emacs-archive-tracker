@@ -9,6 +9,7 @@
   (vc-check-status . [(20130730 1656) nil "Warn you when quitting emacs and leaving repo dirty. [github]" tar "melpa"])
   (virtualenvwrapper . [(20130803 759) ((dash (1 5 0)) (s (1 6 1))) "a modern virtualenv tool for Emacs [github]" single "melpa"])
   (wgrep-ag . [(20130725 1831) ((wgrep (2 1 5))) "Writable ag buffer and apply the changes to files [github]" single "melpa"])
+  (wedge-ws . [(0 1 0) nil "Wedge whitespace between columns in text" tar "marmalade"])
   (sparkline . [(0 3 0) nil "Make sparkline images from a list of numbers" single "marmalade"])
   (cubicle-mode . [(0 1) nil "Cubicle major mode for emacs" single "marmalade"])
   (pickup . [(0 0 3) nil "pickup file. " single "marmalade"])
