@@ -28,7 +28,7 @@
   (tronesque-theme . [(20130813 1909) nil "Color Theme based on Tron universe. [github]" tar "melpa"])
   (tt-mode . [(20130804 1145) nil "Emacs major mode for editing Template Toolkit files. [github]" single "melpa"])
   (vagrant . [(20130808 1330) nil "Manage a vagrant box from emacs [github]" single "melpa"])
-  (vc-check-status . [(20130808 2306) nil "Warn you when quitting emacs and leaving repo dirty. [github]" tar "melpa"])
+  (vc-check-status . [(20130814 1026) nil "Warn you when quitting emacs and leaving repo dirty. [github]" tar "melpa"])
   (virtualenvwrapper . [(20130805 2238) ((dash (1 5 0)) (s (1 6 1))) "a modern virtualenv tool for Emacs [github]" single "melpa"])
   (wedge-ws . [(20130804 2311) nil "Wedge whitespace between columns in text [github]" single "melpa"])
   (wgrep-ag . [(20130725 1831) ((wgrep (2 1 5))) "Writable ag buffer and apply the changes to files [github]" single "melpa"])
