@@ -1,5 +1,4 @@
 '(
-  (php-auto-yasnippets . [(20130807 1647) ((php-mode (1 11)) (yasnippet (0 8 0))) "Creates snippets for PHP functions [github]" tar "melpa"])
   (auto-yasnippet . [(20130812 1318) ((yasnippet (0 8 0))) "Quickly create disposable yasnippets [github]" single "melpa"])
   (bibslurp . [(20130811 1411) nil "retrieve BibTeX entries from NASA ADS [github]" single "melpa"])
   (cask . [(20130813 1151) nil "Emacs dependency management made easy [github]" tar "melpa"])
@@ -20,6 +19,7 @@
   (palimpsest . [(20130731 1821) nil "Various deletion strategies when editing [github]" single "melpa"])
   (password-vault . [(20130807 942) ((cl-lib (0 2)) (emacs (24))) "A Password manager for Emacs. [github]" single "melpa"])
   (perl-completion . [(20090528 1536) nil "No description available. [github]" single "melpa"])
+  (php-auto-yasnippets . [(20130807 1647) ((php-mode (1 11)) (yasnippet (0 8 0))) "Creates snippets for PHP functions [github]" tar "melpa"])
   (py-import-check . [(20130802 1150) nil "Finds the unused python imports using importchecker [github]" single "melpa"])
   (ruby-refactor . [(20130808 2227) ((ruby-mode (1 2))) "A minor mode which presents various Ruby refactoring helpers. [github]" single "melpa"])
   (sparkline . [(20130803 1442) nil "Make sparkline images from a list of numbers [github]" single "melpa"])
