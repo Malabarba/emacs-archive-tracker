@@ -14,6 +14,7 @@
   (heroku-theme . [(20130810 43) nil "Heroku color theme [github]" single "melpa"])
   (magit-find-file . [(20130813 1030) ((magit (1 2 0))) "completing-read over all files in Git [github]" single "melpa"])
   (magit-tramp . [(20130812 2216) ((magit (1 2 0))) "git method for TRAMP [github]" single "melpa"])
+  (minibuffer-complete-cycle . [(20130814 145) nil "Cycle through the *Completions* buffer [github]" single "melpa"])
   (org-pandoc . [(20130729 2050) nil "Export from Org using Pandoc [github]" tar "melpa"])
   (palimpsest . [(20130731 1821) nil "Various deletion strategies when editing [github]" single "melpa"])
   (password-vault . [(20130807 942) ((cl-lib (0 2)) (emacs (24))) "A Password manager for Emacs. [github]" single "melpa"])
