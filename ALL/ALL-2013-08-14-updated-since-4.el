@@ -170,6 +170,7 @@
   (cm-mode . [(0 1 0) nil "Wrapper for CodeMirror-style Emacs modes" single "marmalade"])
   (citrus-mode . [(0 0 2) nil "Major mode for editing Citrus files" single "marmalade"])
   (mactag . [(0 0 1) nil "Mode for automatically handle multiple tags files with Mactag rubygem" single "marmalade"])
+  (vlf . [(0 9 1) nil "View Large Files" single "gnu"])
   (rainbow-mode . [(0 9) nil "Colorize color names in buffers" single "gnu"])
   (org . [(20130812) nil "Outline-based notes management and organizer" tar "gnu"])
   (adaptive-wrap . [(0 5) nil "Smart line-wrapping with wrap-prefix" single "gnu"])
