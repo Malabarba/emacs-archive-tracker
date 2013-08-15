@@ -1,4 +1,5 @@
 '(
+  (aok . [(0 1) nil "various useful ways to do `multi-occur'" single "marmalade"])
   (magit-tramp . [(0 1 0) ((magit (1 2 0))) "git method for TRAMP" single "marmalade"])
   (tronesque-theme . [(1 2) nil "Color Theme based on Tron universe." single "marmalade"])
   (helm-recoll . [(1 1) ((helm (20130806 1505))) "helm interface for the recoll desktop search tool." single "marmalade"])

@@ -2,7 +2,7 @@
   (auto-yasnippet . [(20130812 1318) ((yasnippet (0 8 0))) "Quickly create disposable yasnippets [github]" single "melpa"])
   (bibslurp . [(20130811 1411) nil "retrieve BibTeX entries from NASA ADS [github]" single "melpa"])
   (cask . [(20130813 1151) nil "Emacs dependency management made easy [github]" tar "melpa"])
-  (clojure-cheatsheet . [(20130810 1701) ((helm (1 5 3)) (nrepl (0 1 8))) "The Clojure Cheatsheet in Emacs [github]" single "melpa"])
+  (clojure-cheatsheet . [(20130814 2234) ((helm (1 5 3)) (nrepl (0 1 8))) "The Clojure Cheatsheet in Emacs [github]" single "melpa"])
   (efire . [(20130812 49) ((circe (1 2))) "Use campfire from Emacs [github]" single "melpa"])
   (elisp-sandbox . [(20130810 2131) nil "Evaluate EmacsLisp expressions in a sandbox [github]" single "melpa"])
   (fit-frame . [(20130723 2311) nil "Resize a frame.  In particular, fit a frame to its buffers. [wiki]" single "melpa"])
