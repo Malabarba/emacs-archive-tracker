@@ -38,5 +38,6 @@
   (helm-delicious . [(1 1) nil "helm extensions for delicious bookmarks" single "marmalade"])
   (cubicle-mode . [(0 1) nil "Cubicle major mode for emacs" single "marmalade"])
   (pickup . [(0 0 3) nil "pickup file. " single "marmalade"])
+  (discord . [(0 2) nil "Discordian dates for calendar" single "marmalade"])
   (dismal . [(1 5) nil "Dis Mode Ain't Lotus: Spreadsheet program Emacs" tar "gnu"])
  )
