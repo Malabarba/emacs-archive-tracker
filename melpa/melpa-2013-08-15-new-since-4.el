@@ -10,7 +10,7 @@
   (flymake-puppet . [(20130731 2203) ((flymake-easy (0 9))) "An Emacs flymake handler for syntax-checking puppet using puppet-lint [github]" single "melpa"])
   (go-direx . [(20130808 2224) ((direx (0 1 -3))) "Tree style source code viewer for Go language [github]" single "melpa"])
   (god-mode . [(20130812 1018) nil "God-like command entering minor mode [github]" single "melpa"])
-  (helm-recoll . [(20130810 1804) ((helm (20130806 1505))) "helm interface for the recoll desktop search tool. [github]" single "melpa"])
+  (helm-recoll . [(20130815 440) ((helm (20130806 1505))) "helm interface for the recoll desktop search tool. [github]" single "melpa"])
   (heroku-theme . [(20130810 43) nil "Heroku color theme [github]" single "melpa"])
   (magit-find-file . [(20130813 1030) ((magit (1 2 0))) "completing-read over all files in Git [github]" single "melpa"])
   (magit-tramp . [(20130812 2216) ((magit (1 2 0))) "git method for TRAMP [github]" single "melpa"])

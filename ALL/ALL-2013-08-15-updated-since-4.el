@@ -40,6 +40,7 @@
   (desktop-registry . [(20130807 2227) nil "Keep a central registry of desktop files [git]" single "melpa"])
   (dircmp . [(20130806 1457) nil "Compare and sync directories. [github]" tar "melpa"])
   (dired+ . [(20130812 1425) nil "Extensions to Dired. [wiki]" single "melpa"])
+  (direx . [(20130815 1006) nil "Simple Directory Explorer [github]" tar "melpa"])
   (drupal-mode . [(20130809 1027) ((php-mode (1 5 0))) "Advanced minor mode for Drupal development [github]" tar "melpa"])
   (ecb . [(20130807 1822) nil "a code browser for Emacs [github]" tar "melpa"])
   (ecukes . [(20130727 2035) ((s (1 3 0)) (dash (1 0 1)) (ansi (0 0 2))) "Cucumber for Emacs. [github]" tar "melpa"])
