@@ -21,7 +21,7 @@
   (org-pandoc . [(20130729 2050) nil "Export from Org using Pandoc [github]" tar "melpa"])
   (outorg . [(20130815 1554) nil "Org-style comment editing [github]" single "melpa"])
   (outshine . [(20130815 1459) nil "outline with outshine outshines outline [github]" single "melpa"])
-  (package+ . [(20130725 1401) nil "Extensions for the package library. [github]" single "melpa"])
+  (package+ . [(20130815 1709) nil "Extensions for the package library. [github]" single "melpa"])
   (palimpsest . [(20130731 1821) nil "Various deletion strategies when editing [github]" single "melpa"])
   (password-vault . [(20130807 942) ((cl-lib (0 2)) (emacs (24))) "A Password manager for Emacs. [github]" single "melpa"])
   (perl-completion . [(20090528 1536) nil "No description available. [github]" single "melpa"])
