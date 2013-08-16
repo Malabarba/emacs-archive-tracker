@@ -9,7 +9,7 @@
   (tsql . [(1 0) nil "customizes sql.el for T-SQL" single "marmalade"])
   (frame-restore . [(0 3) ((dash (1 2)) (f (0 4 1)) (emacs (24 1))) "Restore Emacs frame -*- lexical-binding: t; -*-" single "marmalade"])
   (ample-theme . [(0 11) ((color-theme (6 6 5))) "Calm Dark Theme for Emacs" single "marmalade"])
-  (emmet-mode . [(1 0 1) nil "Unofficial Emmet's support for emacs" single "marmalade"])
+  (emmet-mode . [(1 0 2) nil "Unofficial Emmet's support for emacs" single "marmalade"])
   (web-mode . [(6 0 31) nil "major mode for editing html templates" single "marmalade"])
   (processing-mode . [(1 2 0) nil "Major mode for Processing 2.0" single "marmalade"])
   (git-gutter+ . [(0 2) nil "Manage Git hunks straight from the buffer" single "marmalade"])
