@@ -1,4 +1,5 @@
 '(
+  (f . [(0 6 0) ((s (1 6 1)) (dash (1 5 0))) "Modern API for working with files and directories" single "marmalade"])
   (aok . [(0 1) nil "various useful ways to do `multi-occur'" single "marmalade"])
   (magit-tramp . [(0 1 0) ((magit (1 2 0))) "git method for TRAMP" single "marmalade"])
   (tronesque-theme . [(1 2) nil "Color Theme based on Tron universe." single "marmalade"])
