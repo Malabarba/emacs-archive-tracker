@@ -32,7 +32,7 @@
   (cpputils-cmake . [(0 4 0) nil "Easy real time C++ syntax check and intellisense if you use CMake." tar "marmalade"])
   (flycheck . [(0 14 1) ((s (1 6 0)) (dash (1 6 0)) (f (0 5 0)) (cl-lib (0 1)) (emacs (24 1))) "On-the-fly syntax checking (Flymake done right)" tar "marmalade"])
   (elpy . [(1 1) ((auto-complete (1 4)) (fuzzy (0 1)) (yasnippet (0 8)) (virtualenv (1 2)) (highlight-indentation (0 5 0)) (find-file-in-project (3 2)) (idomenu (0 1)) (nose (0 1 1)) (iedit (0 97))) "Emacs Lisp Python Environment" tar "marmalade"])
-  (auto-indent-mode . [(0 104) nil "Auto indent Minor mode" single "marmalade"])
+  (auto-indent-mode . [(0 106) nil "Auto indent Minor mode" single "marmalade"])
   (lispyscript-mode . [(0 3 0) nil "Major mode for LispyScript code." single "marmalade"])
   (dash . [(1 8 0) nil "A modern list library for Emacs" single "marmalade"])
   (git-commit-mode . [(0 13) nil "Major mode for editing git commit messages -*- lexical-binding: t; -*-" single "marmalade"])
