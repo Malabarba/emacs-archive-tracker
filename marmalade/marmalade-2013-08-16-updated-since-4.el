@@ -40,4 +40,5 @@
   (fill-column-indicator . [(1 85) nil "Graphically indicate the fill column" single "marmalade"])
   (nrepl . [(0 1 8) ((clojure-mode (2 0 0)) (cl-lib (0 3))) "Client for Clojure nREPL" single "marmalade"])
   (android-mode . [(0 2 4) nil "Minor mode for Android application development" single "marmalade"])
+  (ack-and-a-half . [(1 2 0) nil "Yet another front-end for ack" single "marmalade"])
  )
