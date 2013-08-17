@@ -1,5 +1,5 @@
 '(
-  (aok . [(20130815 756) nil "various useful ways to do `multi-occur' [wiki]" single "melpa"])
+  (aok . [(20130817 845) nil "various useful ways to do `multi-occur' [wiki]" single "melpa"])
   (auto-yasnippet . [(20130812 1318) ((yasnippet (0 8 0))) "Quickly create disposable yasnippets [github]" single "melpa"])
   (bibslurp . [(20130811 1411) nil "retrieve BibTeX entries from NASA ADS [github]" single "melpa"])
   (cask . [(20130813 1151) nil "Emacs dependency management made easy [github]" tar "melpa"])
