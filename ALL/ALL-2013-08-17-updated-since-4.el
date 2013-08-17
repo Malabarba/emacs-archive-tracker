@@ -44,7 +44,7 @@
   (edit-server . [(20130811 1234) nil "server that responds to edit requests from Chrome [github]" single "melpa"])
   (editorconfig . [(20130802 1542) nil "EditorConfig Emacs extension [github]" single "melpa"])
   (el-mock . [(20130806 2248) nil "Tiny Mock and Stub framework in Emacs Lisp [github]" single "melpa"])
-  (eldoc-eval . [(20130813 1825) nil "Enable eldoc support when minibuffer is in use. [github]" single "melpa"])
+  (eldoc-eval . [(20130817 655) nil "Enable eldoc support when minibuffer is in use. [github]" single "melpa"])
   (emacsc . [(20130814 1858) nil "helper for emacsc(1) [github]" tar "melpa"])
   (emamux-ruby-test . [(20130811 1203) ((emamux (0 1)) (projectile (0 9 1))) "Ruby test with emamux [github]" single "melpa"])
   (emmet-mode . [(20130816 1530) nil "Unofficial Emmet's support for emacs [github]" single "melpa"])
