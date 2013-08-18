@@ -149,7 +149,7 @@
   (scratch-pop . [(20130802 2039) nil "popup \"scratch\"es [github]" single "melpa"])
   (show-marks . [(20130805 1549) ((fm (1 0))) "Navigate and visualize the mark-ring [github]" single "melpa"])
   (simple-httpd . [(20130817 1557) nil "pure elisp HTTP server [github]" single "melpa"])
-  (skewer-mode . [(20130809 1518) ((simple-httpd (1 4 0)) (js2-mode (20090723))) "live browser JavaScript and CSS interaction [github]" tar "melpa"])
+  (skewer-mode . [(20130817 1831) ((simple-httpd (1 4 0)) (js2-mode (20090723))) "live browser JavaScript and CSS interaction [github]" tar "melpa"])
   (smart-mode-line . [(20130811 1418) nil "A color coded smart mode-line. [github]" single "melpa"])
   (smartparens . [(20130813 1626) ((cl-lib (0 1)) (dash (1 1 0))) "Automatic insertion, wrapping and paredit-like navigation with user defined pairs. [github]" tar "melpa"])
   (solarized-theme . [(20130804 1649) nil "The Solarized color theme, ported to Emacs. [github]" tar "melpa"])
