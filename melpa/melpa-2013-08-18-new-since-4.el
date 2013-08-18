@@ -21,7 +21,7 @@
   (minibuffer-complete-cycle . [(20130814 145) nil "Cycle through the *Completions* buffer [github]" single "melpa"])
   (navi-mode . [(20130815 1509) nil "major-mode for easy buffer-navigation [github]" single "melpa"])
   (nummm-mode . [(20130817 1808) nil "Display the number of minor modes instead of their names [github]" single "melpa"])
-  (omnisharp . [(20130817 2230) ((json (1 2)) (dash (1 8 0)) (popup (0 5)) (auto-complete (1 4)) (flycheck (0 13))) "Omnicompletion (intellisense) and more for C# [github]" single "melpa"])
+  (omnisharp . [(20130817 2324) ((json (1 2)) (dash (1 8 0)) (popup (0 5)) (auto-complete (1 4)) (flycheck (0 13))) "Omnicompletion (intellisense) and more for C# [github]" single "melpa"])
   (org-pandoc . [(20130729 2050) nil "Export from Org using Pandoc [github]" tar "melpa"])
   (outorg . [(20130815 1554) nil "Org-style comment editing [github]" single "melpa"])
   (outshine . [(20130815 1459) nil "outline with outshine outshines outline [github]" single "melpa"])
