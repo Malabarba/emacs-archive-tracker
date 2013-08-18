@@ -15,7 +15,7 @@
   (god-mode . [(20130812 1018) nil "God-like command entering minor mode [github]" single "melpa"])
   (helm-recoll . [(20130815 440) ((helm (20130806 1505))) "helm interface for the recoll desktop search tool. [github]" single "melpa"])
   (heroku-theme . [(20130810 43) nil "Heroku color theme [github]" single "melpa"])
-  (ido-at-point . [(20130816 2132) ((emacs (24)) (cl-lib (0 3))) "ido-style completion-at-point [github]" single "melpa"])
+  (ido-at-point . [(20130818 22) ((emacs (24)) (cl-lib (0 3))) "ido-style completion-at-point [github]" single "melpa"])
   (magit-find-file . [(20130816 2050) ((magit (1 2 0))) "completing-read over all files in Git [github]" single "melpa"])
   (magit-tramp . [(20130812 2216) ((magit (1 2 0))) "git method for TRAMP [github]" single "melpa"])
   (minibuffer-complete-cycle . [(20130814 145) nil "Cycle through the *Completions* buffer [github]" single "melpa"])
