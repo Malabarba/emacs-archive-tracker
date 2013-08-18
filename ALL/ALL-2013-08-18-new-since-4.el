@@ -42,6 +42,8 @@
   (virtualenvwrapper . [(20130805 2238) ((dash (1 5 0)) (s (1 6 1))) "a modern virtualenv tool for Emacs [github]" single "melpa"])
   (wedge-ws . [(20130804 2311) nil "Wedge whitespace between columns in text [github]" single "melpa"])
   (wgrep-ag . [(20130725 1831) ((wgrep (2 1 5))) "Writable ag buffer and apply the changes to files [github]" single "melpa"])
+  (flycheck-cask . [(0 1) ((flycheck (0 14)) (dash (2 0 0)) (f (0 6 0))) "Cask support in Flycheck -*- lexical-binding: t; -*-" single "marmalade"])
+  (dash-functional . [(1 0 0) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp  -*- lexical-binding: t -*-" single "marmalade"])
   (pkg-info . [(0 1) ((dash (1 6 0)) (s (1 6 0))) "Information about packages       -*- lexical-binding: t; -*-" single "marmalade"])
   (tsql . [(1 0) nil "customizes sql.el for T-SQL" single "marmalade"])
   (helm-delicious . [(1 1) nil "helm extensions for delicious bookmarks" single "marmalade"])

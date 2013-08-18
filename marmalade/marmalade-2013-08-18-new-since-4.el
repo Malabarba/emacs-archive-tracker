@@ -1,4 +1,6 @@
 '(
+  (flycheck-cask . [(0 1) ((flycheck (0 14)) (dash (2 0 0)) (f (0 6 0))) "Cask support in Flycheck -*- lexical-binding: t; -*-" single "marmalade"])
+  (dash-functional . [(1 0 0) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp  -*- lexical-binding: t -*-" single "marmalade"])
   (pkg-info . [(0 1) ((dash (1 6 0)) (s (1 6 0))) "Information about packages       -*- lexical-binding: t; -*-" single "marmalade"])
   (f . [(0 6 0) ((s (1 6 1)) (dash (1 5 0))) "Modern API for working with files and directories" single "marmalade"])
   (aok . [(0 1) nil "various useful ways to do `multi-occur'" single "marmalade"])
