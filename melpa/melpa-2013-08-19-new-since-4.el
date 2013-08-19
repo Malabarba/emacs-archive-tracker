@@ -1,6 +1,6 @@
 '(
   (aok . [(20130817 845) nil "various useful ways to do `multi-occur' [wiki]" single "melpa"])
-  (auctex-lua . [(20130818 1145) nil "Lua editing support for AUCTeX [github]" single "melpa"])
+  (auctex-lua . [(20130818 1420) nil "Lua editing support for AUCTeX [github]" single "melpa"])
   (auto-yasnippet . [(20130812 1318) ((yasnippet (0 8 0))) "Quickly create disposable yasnippets [github]" single "melpa"])
   (bibslurp . [(20130811 1411) nil "retrieve BibTeX entries from NASA ADS [github]" single "melpa"])
   (cask . [(20130818 1344) nil "Emacs dependency management made easy [github]" tar "melpa"])
@@ -25,7 +25,7 @@
   (mu4e-maildirs-extension . [(20130818 39) nil "Show mu4e maildirs summary in mu4e-main-view [github]" single "melpa"])
   (navi-mode . [(20130815 1509) nil "major-mode for easy buffer-navigation [github]" single "melpa"])
   (nummm-mode . [(20130817 1808) nil "Display the number of minor modes instead of their names [github]" single "melpa"])
-  (omnisharp . [(20130818 1108) ((json (1 2)) (dash (1 8 0)) (popup (0 5)) (auto-complete (1 4)) (flycheck (0 13))) "Omnicompletion (intellisense) and more for C# [github]" single "melpa"])
+  (omnisharp . [(20130818 2359) ((json (1 2)) (dash (1 8 0)) (popup (0 5)) (auto-complete (1 4)) (flycheck (0 13))) "Omnicompletion (intellisense) and more for C# [github]" single "melpa"])
   (org-pandoc . [(20130729 2050) nil "Export from Org using Pandoc [github]" tar "melpa"])
   (outorg . [(20130815 1554) nil "Org-style comment editing [github]" single "melpa"])
   (outshine . [(20130815 1459) nil "outline with outshine outshines outline [github]" single "melpa"])
