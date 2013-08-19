@@ -26,6 +26,7 @@
   (navi-mode . [(20130815 1509) nil "major-mode for easy buffer-navigation [github]" single "melpa"])
   (nummm-mode . [(20130817 1808) nil "Display the number of minor modes instead of their names [github]" single "melpa"])
   (omnisharp . [(20130818 2359) ((json (1 2)) (dash (1 8 0)) (popup (0 5)) (auto-complete (1 4)) (flycheck (0 13))) "Omnicompletion (intellisense) and more for C# [github]" single "melpa"])
+  (openstack-cgit-browse-file . [(20130819 1127) nil "Browse the current file in OpenStack cgit [github]" single "melpa"])
   (org-pandoc . [(20130729 2050) nil "Export from Org using Pandoc [github]" tar "melpa"])
   (outorg . [(20130815 1554) nil "Org-style comment editing [github]" single "melpa"])
   (outshine . [(20130815 1459) nil "outline with outshine outshines outline [github]" single "melpa"])
