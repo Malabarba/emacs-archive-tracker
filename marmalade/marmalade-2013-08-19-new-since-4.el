@@ -1,5 +1,5 @@
 '(
-  (openstack-cgit-browse-file . [(0 1) nil "View the current file in OpenStack cgit" single "marmalade"])
+  (openstack-cgit-browse-file . [(0 2) nil "Browse the current file in OpenStack cgit" single "marmalade"])
   (flycheck-cask . [(0 1) ((flycheck (0 14)) (dash (2 0 0)) (f (0 6 0))) "Cask support in Flycheck -*- lexical-binding: t; -*-" single "marmalade"])
   (dash-functional . [(1 0 0) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp  -*- lexical-binding: t -*-" single "marmalade"])
   (pkg-info . [(0 1) ((dash (1 6 0)) (s (1 6 0))) "Information about packages       -*- lexical-binding: t; -*-" single "marmalade"])
