@@ -108,7 +108,7 @@
   (leuven-theme . [(20130814 1421) nil "Awesome Emacs color theme on white background [github]" single "melpa"])
   (lispyscript-mode . [(20130809 2119) nil "Major mode for LispyScript code. [github]" single "melpa"])
   (logalimacs . [(20130815 1904) ((popwin (20120529)) (popup (20120331)) (stem (20120826))) "Front-end to logaling-command for Ruby gems [github]" single "melpa"])
-  (magit . [(20130818 2114) ((cl-lib (0 3)) (git-commit-mode (0 14 0)) (git-rebase-mode (0 14 0))) "Control Git from Emacs. [github]" tar "melpa"])
+  (magit . [(20130819 224) ((cl-lib (0 3)) (git-commit-mode (0 14 0)) (git-rebase-mode (0 14 0))) "Control Git from Emacs. [github]" tar "melpa"])
   (magit-commit-training-wheels . [(20130730 1032) nil "Advice for magit-log-edit-commit [github]" single "melpa"])
   (magit-filenotify . [(20130801 1545) nil "No description available. [github]" single "melpa"])
   (mallard-mode . [(20130819 53) nil "Major mode for editing Mallard files [github]" tar "melpa"])
