@@ -33,7 +33,7 @@
   (palimpsest . [(20130731 1821) nil "Various deletion strategies when editing [github]" single "melpa"])
   (password-vault . [(20130807 942) ((cl-lib (0 2)) (emacs (24))) "A Password manager for Emacs. [github]" single "melpa"])
   (perl-completion . [(20090528 1536) nil "No description available. [github]" single "melpa"])
-  (php-auto-yasnippets . [(20130815 1404) ((php-mode (1 11)) (yasnippet (0 8 0))) "Creates snippets for PHP functions [github]" tar "melpa"])
+  (php-auto-yasnippets . [(20130818 2349) ((php-mode (1 11)) (yasnippet (0 8 0))) "Creates snippets for PHP functions [github]" tar "melpa"])
   (pkg-info . [(20130817 2334) ((dash (1 6 0)) (s (1 6 0))) "Information about packages [github]" tar "melpa"])
   (py-import-check . [(20130802 1150) nil "Finds the unused python imports using importchecker [github]" single "melpa"])
   (ruby-refactor . [(20130808 2227) ((ruby-mode (1 2))) "A minor mode which presents various Ruby refactoring helpers. [github]" single "melpa"])
