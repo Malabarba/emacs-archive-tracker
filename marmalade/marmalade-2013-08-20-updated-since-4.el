@@ -19,7 +19,7 @@
   (processing-mode . [(1 2 0) nil "Major mode for Processing 2.0" single "marmalade"])
   (git-gutter+ . [(0 2) nil "Manage Git hunks straight from the buffer" single "marmalade"])
   (remember-theme . [(20130807 1251) nil "Remembers the last theme in use and re-loads for the next session." single "marmalade"])
-  (org-trello . [(0 1 1) ((org (8 0 7)) (dash (1 5 0)) (request (0 2 0)) (cl-lib (0 3 0)) (json (1 2))) "Org minor mode to synchronize with trello" tar "marmalade"])
+  (org-trello . [(0 1 2) ((org (8 0 7)) (dash (1 5 0)) (request (0 2 0)) (cl-lib (0 3 0)) (json (1 2)) (elnode (0 9 9 7 6))) "Org minor mode to synchronize with trello" tar "marmalade"])
   (syslog-mode . [(2 1) ((hide-lines (20130623))) "Major-mode for viewing log files" single "marmalade"])
   (desktop-registry . [(1 1 0) nil "Keep a central registry of desktop files -*- lexical-binding: t -*-" single "marmalade"])
   (show-marks . [(0 4) ((fm (1 0))) "Navigate and visualize the mark-ring" single "marmalade"])
