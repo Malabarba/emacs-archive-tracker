@@ -104,6 +104,7 @@
   (ibuffer-vc . [(20130728 926) ((cl-lib (0 2))) "Group ibuffer's list by VC project, or show VC status [github]" single "melpa"])
   (icicles . [(20130815 1612) nil "Minibuffer input completion and cycling. [wiki]" tar "melpa"])
   (ignoramus . [(20130726 1720) nil "Ignore backups, build files, et al. [github]" single "melpa"])
+  (import-popwin . [(20130820 1129) ((popwin (0 6))) "popwin buffer near by import statements with popwin [github]" single "melpa"])
   (interaction-log . [(20130816 1540) nil "exhaustive log of interactions with Emacs [github]" single "melpa"])
   (isearch-symbol-at-point . [(20130728 952) nil "Use isearch to search for the symbol at point [github]" single "melpa"])
   (key-combo . [(20130806 1814) nil "map key sequence to commands [github]" tar "melpa"])
