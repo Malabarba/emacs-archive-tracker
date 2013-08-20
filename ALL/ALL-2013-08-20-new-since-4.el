@@ -1,7 +1,7 @@
 '(
   (aok . [(20130817 845) nil "various useful ways to do `multi-occur' [wiki]" single "melpa"])
   (auctex-lua . [(20130818 1420) nil "Lua editing support for AUCTeX [github]" single "melpa"])
-  (auto-yasnippet . [(20130812 1318) ((yasnippet (0 8 0))) "Quickly create disposable yasnippets [github]" single "melpa"])
+  (auto-yasnippet . [(20130820 959) ((yasnippet (0 8 0))) "Quickly create disposable yasnippets [github]" single "melpa"])
   (bibslurp . [(20130811 1411) nil "retrieve BibTeX entries from NASA ADS [github]" single "melpa"])
   (cask . [(20130818 1344) nil "Emacs dependency management made easy [github]" tar "melpa"])
   (clojure-cheatsheet . [(20130819 1113) ((helm (1 5 3)) (nrepl (0 1 8))) "The Clojure Cheatsheet in Emacs [github]" single "melpa"])
