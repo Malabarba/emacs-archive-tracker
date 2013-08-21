@@ -46,5 +46,6 @@
   (nrepl . [(0 1 8) ((clojure-mode (2 0 0)) (cl-lib (0 3))) "Client for Clojure nREPL" single "marmalade"])
   (android-mode . [(0 2 4) nil "Minor mode for Android application development" single "marmalade"])
   (ack-and-a-half . [(1 2 0) nil "Yet another front-end for ack" single "marmalade"])
+  (ido-ubiquitous . [(1 7) nil "Use ido (nearly) everywhere." single "marmalade"])
   (yaml-mode . [(0 0 9) nil "Major mode for editing YAML files" single "marmalade"])
  )
