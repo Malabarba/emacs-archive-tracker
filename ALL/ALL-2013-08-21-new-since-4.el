@@ -13,6 +13,7 @@
   (flycheck-cask . [(20130818 1153) ((flycheck (0 14)) (dash (2 0 0)) (f (0 6 0))) "Cask support in Flycheck [github]" single "melpa"])
   (flycheck-d-unittest . [(20130818 1800) ((flycheck (0 14)) (dash (1 4 0))) "Add D unittest support to flycheck [github]" single "melpa"])
   (flymake-puppet . [(20130731 2203) ((flymake-easy (0 9))) "An Emacs flymake handler for syntax-checking puppet using puppet-lint [github]" single "melpa"])
+  (git-annex . [(20130816 1258) nil "Mode for easy editing of git-annex'd files [github]" single "melpa"])
   (git-rebase-mode . [(20130819 1430) nil "Major mode for editing git rebase files [github]" single "melpa"])
   (go-direx . [(20130808 2224) ((direx (0 1 -3))) "Tree style source code viewer for Go language [github]" single "melpa"])
   (god-mode . [(20130812 1018) nil "God-like command entering minor mode [github]" single "melpa"])
