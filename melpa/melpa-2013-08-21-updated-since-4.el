@@ -107,6 +107,7 @@
   (html-script-src . [(20120403 2015) nil "Insert <script src=\"..\"> for popular JavaScript libraries [github]" single "melpa"])
   (ibuffer-vc . [(20130728 926) ((cl-lib (0 2))) "Group ibuffer's list by VC project, or show VC status [github]" single "melpa"])
   (icicles . [(20130815 1612) nil "Minibuffer input completion and cycling. [wiki]" tar "melpa"])
+  (ido-ubiquitous . [(20130820 1824) nil "Use ido (nearly) everywhere. [github]" single "melpa"])
   (ignoramus . [(20130726 1720) nil "Ignore backups, build files, et al. [github]" single "melpa"])
   (import-popwin . [(20130820 1129) ((popwin (0 6))) "popwin buffer near by import statements with popwin [github]" single "melpa"])
   (inf-ruby . [(20130820 2222) nil "Run a ruby process in a buffer [github]" single "melpa"])
