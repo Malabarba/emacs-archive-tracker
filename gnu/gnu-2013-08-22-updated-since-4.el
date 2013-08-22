@@ -6,5 +6,7 @@
   (rainbow-mode . [(0 9) nil "Colorize color names in buffers" single "gnu"])
   (org . [(20130819) nil "Outline-based notes management and organizer" tar "gnu"])
   (js2-mode . [(20130619) ((emacs (24 1))) "Improved JavaScript editing mode" tar "gnu"])
+  (ggtags . [(0 6 7) nil "GNU Global source code tagging system" single "gnu"])
   (adaptive-wrap . [(0 5) nil "Smart line-wrapping with wrap-prefix" single "gnu"])
+  (ack . [(1 3) nil "Interface to ack-like source code search tools" tar "gnu"])
  )
