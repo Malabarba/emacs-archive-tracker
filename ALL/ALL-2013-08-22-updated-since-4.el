@@ -104,7 +104,7 @@
   (helm-ack . [(20130819 1512) ((helm (1 0))) "Ack command with helm interface [github]" single "melpa"])
   (helm-ag . [(20130731 2023) ((helm (1 0))) "the silver search with helm interface [github]" single "melpa"])
   (helm-go-package . [(20130727 2129) ((helm (1 0)) (go-mode (9)) (deferred (0 3 2))) "helm sources for Go programming language's package [github]" single "melpa"])
-  (helm-gtags . [(20130815 1553) ((helm (1 0))) "GNU GLOBAL helm interface [github]" single "melpa"])
+  (helm-gtags . [(20130822 755) ((helm (1 0))) "GNU GLOBAL helm interface [github]" single "melpa"])
   (helm-migemo . [(20130820 2040) ((helm (1 5 3)) (migemo (1 9))) "Migemo plug-in for helm [github]" single "melpa"])
   (hi2 . [(20130819 1449) nil "indentation module for Haskell Mode [github]" single "melpa"])
   (html-script-src . [(20120403 2015) nil "Insert <script src=\"..\"> for popular JavaScript libraries [github]" single "melpa"])
