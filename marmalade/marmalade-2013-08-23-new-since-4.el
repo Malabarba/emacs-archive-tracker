@@ -1,4 +1,5 @@
 '(
+  (insert-shebang . [(0 9) nil "Inserts shebang line automatically" tar "marmalade"])
   (tronesque-theme . [(1 3) nil "Color Theme based on Tron universe." single "marmalade"])
   (openstack-cgit-browse-file . [(0 2) nil "Browse the current file in OpenStack cgit" single "marmalade"])
   (flycheck-cask . [(0 1) ((flycheck (0 14)) (dash (2 0 0)) (f (0 6 0))) "Cask support in Flycheck -*- lexical-binding: t; -*-" single "marmalade"])
