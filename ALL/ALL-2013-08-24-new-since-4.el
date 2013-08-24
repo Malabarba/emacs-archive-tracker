@@ -29,7 +29,7 @@
   (mustang-theme . [(20130823 1804) nil "port of vim's mustang theme [github]" single "melpa"])
   (navi-mode . [(20130815 1509) nil "major-mode for easy buffer-navigation [github]" single "melpa"])
   (nummm-mode . [(20130817 1808) nil "Display the number of minor modes instead of their names [github]" single "melpa"])
-  (omnisharp . [(20130823 2221) ((json (1 2)) (dash (1 8 0)) (popup (0 5)) (auto-complete (1 4)) (flycheck (0 13))) "Omnicompletion (intellisense) and more for C# [github]" single "melpa"])
+  (omnisharp . [(20130823 2334) ((json (1 2)) (dash (1 8 0)) (popup (0 5)) (auto-complete (1 4)) (flycheck (0 13))) "Omnicompletion (intellisense) and more for C# [github]" single "melpa"])
   (openstack-cgit-browse-file . [(20130819 1127) nil "Browse the current file in OpenStack cgit [github]" single "melpa"])
   (org-pandoc . [(20130729 2050) nil "Export from Org using Pandoc [github]" tar "melpa"])
   (org-screenshot . [(20130822 22) ((org (7))) "screenshots integrated with org attachment dirs [github]" single "melpa"])
