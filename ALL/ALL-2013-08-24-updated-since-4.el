@@ -128,7 +128,7 @@
   (magit . [(20130824 24) ((cl-lib (0 3)) (git-commit-mode (0 14 0)) (git-rebase-mode (0 14 0))) "Control Git from Emacs. [github]" tar "melpa"])
   (magit-commit-training-wheels . [(20130730 1032) nil "Advice for magit-log-edit-commit [github]" single "melpa"])
   (magit-filenotify . [(20130801 1545) nil "No description available. [github]" single "melpa"])
-  (mallard-mode . [(20130823 526) nil "Major mode for editing Mallard files [github]" tar "melpa"])
+  (mallard-mode . [(20130824 417) nil "Major mode for editing Mallard files [github]" tar "melpa"])
   (mark . [(20130805 1549) ((fm (1 0))) "Navigate and visualize the mark-ring [github]" single "melpa"])
   (markdown-mode . [(20130726 2142) nil "Emacs Major mode for Markdown-formatted text files [git]" single "melpa"])
   (melpa . [(20130815 2147) nil "special handling for the MELPA repository [github]" single "melpa"])
