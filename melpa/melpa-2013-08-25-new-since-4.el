@@ -21,7 +21,7 @@
   (helm-recoll . [(20130815 440) ((helm (20130806 1505))) "helm interface for the recoll desktop search tool. [github]" single "melpa"])
   (heroku-theme . [(20130810 43) nil "Heroku color theme [github]" single "melpa"])
   (ido-at-point . [(20130818 22) ((emacs (24)) (cl-lib (0 3))) "ido-style completion-at-point [github]" single "melpa"])
-  (insert-shebang . [(20130823 1147) nil "Inserts shebang line automatically [github]" tar "melpa"])
+  (insert-shebang . [(20130825 106) nil "Inserts shebang line automatically [github]" tar "melpa"])
   (kaesar . [(20130824 2251) nil "Another AES encryptin/decryptin. (string with password) [github]" single "melpa"])
   (kaesar-file . [(20130824 2251) ((kaesar (0 1 0))) "Encrypt/Decrypt file with password. [github]" single "melpa"])
   (kaesar-mode . [(20130824 2251) ((kaesar (0 1 0))) "Encrypt/Decrypt string with password. [github]" single "melpa"])

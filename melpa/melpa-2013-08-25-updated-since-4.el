@@ -186,7 +186,7 @@
   (rspec-mode . [(20130810 1844) ((ruby-mode (1 0))) "Enhance ruby-mode for RSpec [github]" tar "melpa"])
   (ruby-dev . [(20130811 1051) nil "Interactive developement environment for Ruby. [github]" tar "melpa"])
   (rust-mode . [(20130808 1925) nil "A major emacs mode for editing Rust source code [github]" single "melpa"])
-  (s . [(20130824 2141) nil "The long lost Emacs string manipulation library. [github]" single "melpa"])
+  (s . [(20130824 2225) nil "The long lost Emacs string manipulation library. [github]" single "melpa"])
   (sauron . [(20130818 2134) nil "Track (erc/org/dbus/...) events and react to them. [github]" tar "melpa"])
   (scratch-palette . [(20130802 2041) nil "save scratch notes on each file [github]" single "melpa"])
   (scratch-pop . [(20130802 2039) nil "popup \"scratch\"es [github]" single "melpa"])
