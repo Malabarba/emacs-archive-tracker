@@ -1,4 +1,6 @@
 '(
+  (figlet . [(285) nil "banner generator" single "marmalade"])
+  (smtpmail-multi . [(0 1) nil "Use different smtp servers for sending mail" single "marmalade"])
   (insert-shebang . [(0 9 1) nil "Inserts shebang line automatically" tar "marmalade"])
   (tronesque-theme . [(1 3) nil "Color Theme based on Tron universe." single "marmalade"])
   (openstack-cgit-browse-file . [(0 2) nil "Browse the current file in OpenStack cgit" single "marmalade"])
