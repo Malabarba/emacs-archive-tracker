@@ -1,4 +1,5 @@
 '(
+  (smart-whitespace-comment-fixup . [(1 0) nil "Enables advice around yanking/killing lines that auto-indents and formats properly" single "marmalade"])
   (figlet . [(289) nil "banner generator" single "marmalade"])
   (smtpmail-multi . [(0 3) nil "Use different smtp servers for sending mail" single "marmalade"])
   (insert-shebang . [(0 9 1) nil "Inserts shebang line automatically" tar "marmalade"])
