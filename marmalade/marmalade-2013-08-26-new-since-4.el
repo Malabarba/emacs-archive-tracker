@@ -13,7 +13,7 @@
   (helm-recoll . [(20130815 0) ((helm (20130806 1505))) "helm interface for the recoll desktop search tool." single "marmalade"])
   (god-mode . [(2 7 0) nil "God-like command entering minor mode" single "marmalade"])
   (heroku-theme . [(1 1 0) nil "Heroku color theme" single "marmalade"])
-  (wisp-mode . [(0 1 1) nil "Major mode for editing wisp: Whitespace-to-Lisp" single "marmalade"])
+  (wisp-mode . [(0 1 2) nil "Major mode for editing wisp: Whitespace-to-Lisp" single "marmalade"])
   (tsql . [(1 0) nil "customizes sql.el for T-SQL" single "marmalade"])
   (helm-delicious . [(1 1) nil "helm extensions for delicious bookmarks" single "marmalade"])
   (wedge-ws . [(0 1 1) nil "Wedge whitespace between columns in text" tar "marmalade"])
