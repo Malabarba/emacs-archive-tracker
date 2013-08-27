@@ -1,8 +1,8 @@
 '(
+  (insert-shebang . [(0 9 1) nil "Inserts shebang line automatically" tar "marmalade"])
   (smart-whitespace-comment-fixup . [(1 0) nil "Enables advice around yanking/killing lines that auto-indents and formats properly" single "marmalade"])
   (figlet . [(289) nil "banner generator" single "marmalade"])
   (smtpmail-multi . [(0 3) nil "Use different smtp servers for sending mail" single "marmalade"])
-  (insert-shebang . [(0 9 1) nil "Inserts shebang line automatically" tar "marmalade"])
   (tronesque-theme . [(1 3) nil "Color Theme based on Tron universe." single "marmalade"])
   (openstack-cgit-browse-file . [(0 2) nil "Browse the current file in OpenStack cgit" single "marmalade"])
   (flycheck-cask . [(0 1) ((flycheck (0 14)) (dash (2 0 0)) (f (0 6 0))) "Cask support in Flycheck -*- lexical-binding: t; -*-" single "marmalade"])
@@ -29,7 +29,7 @@
   (desktop-registry . [(1 1 0) nil "Keep a central registry of desktop files -*- lexical-binding: t -*-" single "marmalade"])
   (show-marks . [(0 4) ((fm (1 0))) "Navigate and visualize the mark-ring" single "marmalade"])
   (evil-leader . [(0 3 4) ((evil (0))) "let there be <leader>" single "marmalade"])
-  (ag . [(0 24) nil "A front-end for ag ('the silver searcher'), the C ack replacement." single "marmalade"])
+  (ag . [(0 27) nil "A front-end for ag ('the silver searcher'), the C ack replacement." single "marmalade"])
   (groovy-mode . [(201203310931) nil "Groovy mode derived mode" single "marmalade"])
   (flymake-elixir . [(0 5) nil "A flymake handler for elixir-mode .ex files.     " single "marmalade"])
   (psgml . [(1 4 1) nil "Lennart Staflin's Psgml package, with Elisp syntax and sgml-validate fixed for Emacsen >=24." tar "marmalade"])
