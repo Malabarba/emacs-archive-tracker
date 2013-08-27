@@ -26,7 +26,7 @@
   (heroku-theme . [(20130810 43) nil "Heroku color theme [github]" single "melpa"])
   (ido-at-point . [(20130818 22) ((emacs (24)) (cl-lib (0 3))) "ido-style completion-at-point [github]" single "melpa"])
   (insert-shebang . [(20130825 106) nil "Inserts shebang line automatically [github]" tar "melpa"])
-  (kaesar . [(20130826 1429) nil "Another AES algorithm encrypt/decrypt string with password. [github]" single "melpa"])
+  (kaesar . [(20130827 1323) nil "Another AES algorithm encrypt/decrypt string with password. [github]" single "melpa"])
   (kaesar-file . [(20130826 1429) ((kaesar (0 1 1))) "Encrypt/Decrypt file by AES with password. [github]" single "melpa"])
   (kaesar-mode . [(20130826 1429) ((kaesar (0 1 1))) "Encrypt/Decrypt buffer by AES with password. [github]" single "melpa"])
   (magit-find-file . [(20130825 2256) ((magit (1 2 0))) "completing-read over all files in Git [github]" single "melpa"])
