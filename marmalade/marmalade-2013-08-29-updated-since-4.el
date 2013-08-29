@@ -1,4 +1,5 @@
 '(
+  (winpoint-ignore-dired . [(1 1) ((winpoint (1 0))) "Have winpoint ignore dired-mode buffers" single "marmalade"])
   (tox . [(0 1) nil "Launch current python test with tox." single "marmalade"])
   (insert-shebang . [(0 9 1) nil "Inserts shebang line automatically" tar "marmalade"])
   (smart-whitespace-comment-fixup . [(1 0) nil "Enables advice around yanking/killing lines that auto-indents and formats properly" single "marmalade"])
