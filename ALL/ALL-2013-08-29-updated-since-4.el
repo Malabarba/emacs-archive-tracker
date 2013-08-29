@@ -164,6 +164,7 @@
   (outline-magic . [(20130813 2233) nil "outline mode extensions for Emacs [github]" single "melpa"])
   (package-build . [(20130806 1515) ((cl-lib (0 2))) "Tools for assembling a package archive [github]" tar "melpa"])
   (pallet . [(20130827 2107) ((cask (0 4 6))) "A package manager for Emacs, using Cask. [github]" tar "melpa"])
+  (paste-kde . [(20130828 2120) ((web (0 3 6))) "paste text to KDE's pastebin service [github]" single "melpa"])
   (pg . [(20130731 1742) nil "Emacs Lisp interface to the PostgreSQL RDBMS [github]" single "melpa"])
   (phi-search . [(20130826 1954) nil "another incremental search command, compatible with \"multiple-cursors\" [github]" tar "melpa"])
   (php-mode . [(20130828 1434) nil "Major mode for editing PHP code [github]" single "melpa"])
