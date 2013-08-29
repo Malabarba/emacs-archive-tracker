@@ -1,4 +1,5 @@
 '(
+  (comint-better-defaults . [(1 0) nil "better defaults for comint-derived modes" single "marmalade"])
   (winpoint-ignore-dired . [(1 1) ((winpoint (1 0))) "Have winpoint ignore dired-mode buffers" single "marmalade"])
   (tox . [(0 1) nil "Launch current python test with tox." single "marmalade"])
   (insert-shebang . [(0 9 1) nil "Inserts shebang line automatically" tar "marmalade"])

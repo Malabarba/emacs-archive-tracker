@@ -6,7 +6,7 @@
   (bibslurp . [(20130811 1411) nil "retrieve BibTeX entries from NASA ADS [github]" single "melpa"])
   (busybee-theme . [(20130828 1844) nil "port of vim's mustang theme [github]" single "melpa"])
   (cask . [(20130818 1344) nil "Emacs dependency management made easy [github]" tar "melpa"])
-  (clojure-cheatsheet . [(20130828 2015) ((helm (1 5 3)) (nrepl (0 1 8))) "The Clojure Cheatsheet in Emacs [github]" single "melpa"])
+  (clojure-cheatsheet . [(20130829 1339) ((helm (1 5 3)) (nrepl (0 1 8))) "The Clojure Cheatsheet in Emacs [github]" single "melpa"])
   (css-eldoc . [(20130828 1736) nil "an eldoc-mode plugin for CSS source code [github]" tar "melpa"])
   (dash-functional . [(20130818 1143) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp [github]" single "melpa"])
   (efire . [(20130812 49) ((circe (1 2))) "Use campfire from Emacs [github]" single "melpa"])
