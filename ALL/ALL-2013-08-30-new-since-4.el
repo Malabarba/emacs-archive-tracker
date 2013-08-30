@@ -66,6 +66,7 @@
   (virtualenvwrapper . [(20130805 2238) ((dash (1 5 0)) (s (1 6 1))) "a modern virtualenv tool for Emacs [github]" single "melpa"])
   (wedge-ws . [(20130804 2311) nil "Wedge whitespace between columns in text [github]" single "melpa"])
   (wgrep-ag . [(20130725 1831) ((wgrep (2 1 5))) "Writable ag buffer and apply the changes to files [github]" single "melpa"])
+  (waher-theme . [(20130830 213) ((emacs (24 1))) "Emacs 24 theme based on waher for st2 by dduckster" single "marmalade"])
   (comint-better-defaults . [(1 0) nil "better defaults for comint-derived modes" single "marmalade"])
   (winpoint-ignore-dired . [(1 1) ((winpoint (1 0))) "Have winpoint ignore dired-mode buffers" single "marmalade"])
   (tox . [(0 1) nil "Launch current python test with tox." single "marmalade"])
