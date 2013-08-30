@@ -1,4 +1,5 @@
 '(
+  (gerrit-download . [(0 1) ((magit (20130828 1540))) "Show gerrit reviews in a diff buffer." single "marmalade"])
   (waher-theme . [(20130830 213) ((emacs (24 1))) "Emacs 24 theme based on waher for st2 by dduckster" single "marmalade"])
   (comint-better-defaults . [(1 0) nil "better defaults for comint-derived modes" single "marmalade"])
   (winpoint-ignore-dired . [(1 1) ((winpoint (1 0))) "Have winpoint ignore dired-mode buffers" single "marmalade"])
@@ -15,7 +16,7 @@
   (f . [(0 6 0) ((s (1 6 1)) (dash (1 5 0))) "Modern API for working with files and directories" single "marmalade"])
   (aok . [(0 1) nil "various useful ways to do `multi-occur'" single "marmalade"])
   (magit-tramp . [(0 1 0) ((magit (1 2 0))) "git method for TRAMP" single "marmalade"])
-  (helm-recoll . [(20130830) ((helm (1 5 4))) "helm interface for the recoll desktop search tool." single "marmalade"])
+  (helm-recoll . [(20130830 2030) ((helm (1 5 4))) "helm interface for the recoll desktop search tool." single "marmalade"])
   (god-mode . [(2 7 0) nil "God-like command entering minor mode" single "marmalade"])
   (heroku-theme . [(1 1 0) nil "Heroku color theme" single "marmalade"])
   (wisp-mode . [(0 1 2) nil "Major mode for editing wisp: Whitespace-to-Lisp" single "marmalade"])
