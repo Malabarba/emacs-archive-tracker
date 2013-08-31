@@ -14,7 +14,7 @@
   (elixir-yasnippets . [(20130825 1105) ((yasnippet (0 8 0))) "Yasnippets for Elixir [github]" tar "melpa"])
   (ez-query-replace . [(20130821 1808) ((dash (1 2 0))) "A helpful query-replace. [github]" single "melpa"])
   (fit-frame . [(20130723 2311) nil "Resize a frame.  In particular, fit a frame to its buffers. [wiki]" single "melpa"])
-  (floobits . [(20130812 1707) ((json (1 2)) (highlight (0))) "Floobits plugin for real-time collaborative editing [github]" tar "melpa"])
+  (floobits . [(20130830 1116) ((json (1 2)) (highlight (0))) "Floobits plugin for real-time collaborative editing [github]" tar "melpa"])
   (flycheck-cask . [(20130818 1153) ((flycheck (0 14)) (dash (2 0 0)) (f (0 6 0))) "Cask support in Flycheck [github]" single "melpa"])
   (flycheck-d-unittest . [(20130818 1800) ((flycheck (0 14)) (dash (1 4 0))) "Add D unittest support to flycheck [github]" single "melpa"])
   (flymake-puppet . [(20130731 2203) ((flymake-easy (0 9))) "An Emacs flymake handler for syntax-checking puppet using puppet-lint [github]" single "melpa"])
