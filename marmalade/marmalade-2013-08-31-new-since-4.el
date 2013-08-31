@@ -1,6 +1,6 @@
 '(
   (multi . [(1 0 0) ((emacs (24))) "Clojure-style multi-methods for emacs lisp -*- lexical-binding: t -*-" single "marmalade"])
-  (gerrit-download . [(0 1) ((magit (20130828 1540))) "Show gerrit reviews in a diff buffer." single "marmalade"])
+  (gerrit-download . [(0 2) ((magit (20130828 1540))) "Show gerrit reviews in a diff buffer." single "marmalade"])
   (waher-theme . [(20130830 213) ((emacs (24 1))) "Emacs 24 theme based on waher for st2 by dduckster" single "marmalade"])
   (comint-better-defaults . [(1 0) nil "better defaults for comint-derived modes" single "marmalade"])
   (winpoint-ignore-dired . [(1 1) ((winpoint (1 0))) "Have winpoint ignore dired-mode buffers" single "marmalade"])
