@@ -215,7 +215,7 @@
   (vlfi . [(20130825 1823) nil "Obsolete - install vlf instead! [github]" single "melpa"])
   (w3m . [(20130826 546) nil "an Emacs interface to w3m [cvs]" tar "melpa"])
   (web . [(20130827 1312) nil "useful HTTP client [github]" single "melpa"])
-  (web-mode . [(20130828 18) nil "major mode for editing html templates [github]" tar "melpa"])
+  (web-mode . [(20130831 1025) nil "major mode for editing html templates [github]" tar "melpa"])
   (websocket . [(20130803 1409) nil "Emacs WebSocket client and server [github]" single "melpa"])
   (weechat . [(20130813 1432) ((s (1 3 1)) (cl-lib (0 2)) (emacs (24)) (tracking (1 2))) "Chat via WeeChat's relay protocol in Emacs [github]" tar "melpa"])
   (window-layout . [(20130806 1054) nil "window layout manager [github]" single "melpa"])

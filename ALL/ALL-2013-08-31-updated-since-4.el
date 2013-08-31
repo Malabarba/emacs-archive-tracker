@@ -1,5 +1,8 @@
 '(
   (js-comint . [(20080530 957) nil "Run javascript in an inferior process window. [svn]" single "melpa"])
+  (jtags . [(20111208 1922) nil "enhanced tags functionality for Java development [git]" tar "melpa"])
+  (xml-rpc . [(20130423 1656) nil "An elisp implementation of clientside XML-RPC [bzr]" single "melpa"])
+  (zeitgeist . [(20120212 140) nil "No description available. [bzr]" single "melpa"])
   (abc-mode . [(20130607 917) nil "Major mode for editing abc music files [github]" single "melpa"])
   (abl-mode . [(20120718 1655) nil "Python TDD minor mode [github]" single "melpa"])
   (ac-dabbrev . [(20091116 1626) nil "auto-complete.el source for dabbrev [wiki]" single "melpa"])
@@ -223,7 +226,7 @@
   (vlfi . [(20130825 1823) nil "Obsolete - install vlf instead! [github]" single "melpa"])
   (w3m . [(20130826 546) nil "an Emacs interface to w3m [cvs]" tar "melpa"])
   (web . [(20130827 1312) nil "useful HTTP client [github]" single "melpa"])
-  (web-mode . [(20130828 18) nil "major mode for editing html templates [github]" tar "melpa"])
+  (web-mode . [(20130831 1025) nil "major mode for editing html templates [github]" tar "melpa"])
   (websocket . [(20130803 1409) nil "Emacs WebSocket client and server [github]" single "melpa"])
   (weechat . [(20130813 1432) ((s (1 3 1)) (cl-lib (0 2)) (emacs (24)) (tracking (1 2))) "Chat via WeeChat's relay protocol in Emacs [github]" tar "melpa"])
   (window-layout . [(20130806 1054) nil "window layout manager [github]" single "melpa"])
