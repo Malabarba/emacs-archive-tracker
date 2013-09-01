@@ -36,6 +36,7 @@
   (desktop-registry . [(1 1 0) nil "Keep a central registry of desktop files -*- lexical-binding: t -*-" single "marmalade"])
   (show-marks . [(0 4) ((fm (1 0))) "Navigate and visualize the mark-ring" single "marmalade"])
   (evil-leader . [(0 3 4) ((evil (0))) "let there be <leader>" single "marmalade"])
+  (noflet . [(0 0 10) nil "locally override functions" single "marmalade"])
   (ag . [(0 27) nil "A front-end for ag ('the silver searcher'), the C ack replacement." single "marmalade"])
   (groovy-mode . [(201203310931) nil "Groovy mode derived mode" single "marmalade"])
   (flymake-elixir . [(0 5) nil "A flymake handler for elixir-mode .ex files.     " single "marmalade"])
