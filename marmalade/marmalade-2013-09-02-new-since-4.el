@@ -1,4 +1,5 @@
 '(
+  (helm-helm-commands . [(0 1) ((helm (1 5 4))) "List all helm commands with helm" single "marmalade"])
   (evil-indent-textobject . [(0 2) ((evil (0))) "evil textobjects based on indentation" single "marmalade"])
   (multi . [(1 0 1) ((emacs (24))) "Clojure-style multi-methods for emacs lisp -*- lexical-binding: t -*-" single "marmalade"])
   (gerrit-download . [(0 2) ((magit (20130828 1540))) "Show gerrit reviews in a diff buffer." single "marmalade"])
