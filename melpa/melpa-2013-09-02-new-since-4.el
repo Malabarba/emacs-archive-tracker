@@ -13,6 +13,8 @@
   (efire . [(20130812 49) ((circe (1 2))) "Use campfire from Emacs [github]" single "melpa"])
   (elisp-sandbox . [(20130810 2131) nil "Evaluate EmacsLisp expressions in a sandbox [github]" single "melpa"])
   (elixir-yasnippets . [(20130825 1105) ((yasnippet (0 8 0))) "Yasnippets for Elixir [github]" tar "melpa"])
+  (evil-indent-textobject . [(20130901 19) ((evil (0))) "evil textobjects based on indentation [github]" single "melpa"])
+  (evm . [(20130901 1646) ((s (1 7 0)) (dash (2 1 0)) (f (0 7 1)) (commander (0 5 0))) "Emacs version manager [github]" single "melpa"])
   (ez-query-replace . [(20130821 1808) ((dash (1 2 0))) "A helpful query-replace. [github]" single "melpa"])
   (fasd . [(20130831 1903) ((grizzl (0))) "Emacs integration for the command-line productivity booster `fasd' [github]" single "melpa"])
   (fit-frame . [(20130723 2311) nil "Resize a frame.  In particular, fit a frame to its buffers. [wiki]" single "melpa"])
