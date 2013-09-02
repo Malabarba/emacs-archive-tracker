@@ -73,7 +73,7 @@
   (wedge-ws . [(20130804 2311) nil "Wedge whitespace between columns in text [github]" single "melpa"])
   (wgrep-ag . [(20130725 1831) ((wgrep (2 1 5))) "Writable ag buffer and apply the changes to files [github]" single "melpa"])
   (window-numbering . [(20130323 928) nil "No description available. [github]" single "melpa"])
-  (helm-helm-commands . [(0 1) ((helm (1 5 4))) "List all helm commands with helm" single "marmalade"])
+  (helm-helm-commands . [(0 2) ((helm (1 5 4))) "List all helm commands with helm" single "marmalade"])
   (gerrit-download . [(0 2) ((magit (20130828 1540))) "Show gerrit reviews in a diff buffer." single "marmalade"])
   (waher-theme . [(20130830 213) ((emacs (24 1))) "Emacs 24 theme based on waher for st2 by dduckster" single "marmalade"])
   (comint-better-defaults . [(1 0) nil "better defaults for comint-derived modes" single "marmalade"])
