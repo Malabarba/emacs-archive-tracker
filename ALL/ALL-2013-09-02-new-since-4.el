@@ -72,7 +72,7 @@
   (virtualenvwrapper . [(20130805 2238) ((dash (1 5 0)) (s (1 6 1))) "a modern virtualenv tool for Emacs [github]" single "melpa"])
   (wedge-ws . [(20130804 2311) nil "Wedge whitespace between columns in text [github]" single "melpa"])
   (wgrep-ag . [(20130725 1831) ((wgrep (2 1 5))) "Writable ag buffer and apply the changes to files [github]" single "melpa"])
-  (window-numbering . [(20130323 928) nil "No description available. [github]" single "melpa"])
+  (window-numbering . [(20130902 1815) nil "Numbered window shortcuts [github]" single "melpa"])
   (helm-helm-commands . [(0 2) ((helm (1 5 4))) "List all helm commands with helm" single "marmalade"])
   (gerrit-download . [(0 2) ((magit (20130828 1540))) "Show gerrit reviews in a diff buffer." single "marmalade"])
   (waher-theme . [(20130830 213) ((emacs (24 1))) "Emacs 24 theme based on waher for st2 by dduckster" single "marmalade"])

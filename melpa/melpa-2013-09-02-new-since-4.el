@@ -78,5 +78,5 @@
   (vlf . [(20130826 1229) nil "View Large Files [github]" single "melpa"])
   (wedge-ws . [(20130804 2311) nil "Wedge whitespace between columns in text [github]" single "melpa"])
   (wgrep-ag . [(20130725 1831) ((wgrep (2 1 5))) "Writable ag buffer and apply the changes to files [github]" single "melpa"])
-  (window-numbering . [(20130323 928) nil "No description available. [github]" single "melpa"])
+  (window-numbering . [(20130902 1815) nil "Numbered window shortcuts [github]" single "melpa"])
  )
