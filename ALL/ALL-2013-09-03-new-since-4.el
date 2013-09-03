@@ -30,7 +30,7 @@
   (heroku-theme . [(20130810 43) nil "Heroku color theme [github]" single "melpa"])
   (ido-at-point . [(20130818 22) ((emacs (24)) (cl-lib (0 3))) "ido-style completion-at-point [github]" single "melpa"])
   (insert-shebang . [(20130831 7) nil "Inserts shebang line automatically [github]" tar "melpa"])
-  (js3 . [(20130829 1622) nil "No description available. [github]" single "melpa"])
+  (js3 . [(20130902 1658) nil "An improved JavaScript editing mode [github]" single "melpa"])
   (kaesar . [(20130831 1208) nil "Another AES algorithm encrypt/decrypt string with password. [github]" single "melpa"])
   (kaesar-file . [(20130826 1429) ((kaesar (0 1 1))) "Encrypt/Decrypt file by AES with password. [github]" single "melpa"])
   (kaesar-mode . [(20130831 1201) ((kaesar (0 1 1))) "Encrypt/Decrypt buffer by AES with password. [github]" single "melpa"])
