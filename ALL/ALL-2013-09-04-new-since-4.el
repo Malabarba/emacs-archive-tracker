@@ -49,7 +49,7 @@
   (omnisharp . [(20130903 2305) ((json (1 2)) (dash (1 8 0)) (popup (0 5)) (auto-complete (1 4)) (flycheck (0 13))) "Omnicompletion (intellisense) and more for C# [github]" single "melpa"])
   (on-screen . [(20130901 1542) nil "guide your eyes while scrolling [github]" single "melpa"])
   (openstack-cgit-browse-file . [(20130819 1127) nil "Browse the current file in OpenStack cgit [github]" single "melpa"])
-  (org-page . [(20130829 2020) ((ht (1 5)) (mustache (0 22)) (htmlize (1 47)) (org (8))) "a static site generator based on org mode [github]" tar "melpa"])
+  (org-page . [(20130903 1701) ((ht (1 5)) (mustache (0 22)) (htmlize (1 47)) (org (8 0)) (dash (2 0 0))) "a static site generator based on org mode [github]" tar "melpa"])
   (org-pandoc . [(20130729 2050) nil "Export from Org using Pandoc [github]" tar "melpa"])
   (org-screenshot . [(20130822 22) ((org (7))) "screenshots integrated with org attachment dirs [github]" single "melpa"])
   (outorg . [(20130815 1554) nil "Org-style comment editing [github]" single "melpa"])
