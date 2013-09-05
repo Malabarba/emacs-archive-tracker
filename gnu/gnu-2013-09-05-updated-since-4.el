@@ -1,5 +1,6 @@
 '(
   (yasnippet . [(0 8 0) nil "Yet another snippet extension for Emacs." tar "gnu"])
+  (xclip . [(1 1) nil "use xclip to copy&paste" single "gnu"])
   (vlf . [(0 9 1) nil "View Large Files" single "gnu"])
   (shen-mode . [(0 1) nil "A major mode for editing shen source code" tar "gnu"])
   (rainbow-mode . [(0 9) nil "Colorize color names in buffers" single "gnu"])
