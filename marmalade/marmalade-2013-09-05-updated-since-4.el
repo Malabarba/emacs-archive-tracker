@@ -34,7 +34,7 @@
   (lispyscript-mode . [(0 3 0) nil "Major mode for LispyScript code." single "marmalade"])
   (dash . [(2 1 0) nil "A modern list library for Emacs" single "marmalade"])
   (git-commit-mode . [(0 13) nil "Major mode for editing git commit messages -*- lexical-binding: t; -*-" single "marmalade"])
-  (s . [(1 7 0) nil "The long lost Emacs string manipulation library." single "marmalade"])
+  (s . [(1 8 0) nil "The long lost Emacs string manipulation library." single "marmalade"])
   (exec-path-from-shell . [(1 6) nil "Get environment variables such as $PATH from the shell" single "marmalade"])
   (fill-column-indicator . [(1 85) nil "Graphically indicate the fill column" single "marmalade"])
   (nrepl . [(0 1 8) ((clojure-mode (2 0 0)) (cl-lib (0 3))) "Client for Clojure nREPL" single "marmalade"])
