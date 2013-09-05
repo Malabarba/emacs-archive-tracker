@@ -1,4 +1,5 @@
 '(
+  (jujube-theme . [(0 1) nil "Pastel theme loosely based on jellybeans" single "marmalade"])
   (paste-kde . [(0 3) ((web (0 3 6))) "paste text to KDE's pastebin service" single "marmalade"])
   (git-gutter+ . [(0 1) ((git-commit-mode (1 0))) "Manage Git hunks straight from the buffer" single "marmalade"])
   (frame-restore . [(0 3) ((dash (1 2)) (f (0 4 1)) (emacs (24 1))) "Restore Emacs frame -*- lexical-binding: t; -*-" single "marmalade"])
