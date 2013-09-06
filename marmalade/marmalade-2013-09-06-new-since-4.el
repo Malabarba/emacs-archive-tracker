@@ -20,7 +20,7 @@
   (f . [(0 6 0) ((s (1 6 1)) (dash (1 5 0))) "Modern API for working with files and directories" single "marmalade"])
   (aok . [(0 1) nil "various useful ways to do `multi-occur'" single "marmalade"])
   (magit-tramp . [(0 1 0) ((magit (1 2 0))) "git method for TRAMP" single "marmalade"])
-  (helm-recoll . [(20130905 2230) ((helm (1 5 4))) "helm interface for the recoll desktop search tool." single "marmalade"])
+  (helm-recoll . [(20130905 2330) ((helm (1 5 4))) "helm interface for the recoll desktop search tool." single "marmalade"])
   (god-mode . [(2 7 0) nil "God-like command entering minor mode" single "marmalade"])
   (heroku-theme . [(1 1 0) nil "Heroku color theme" single "marmalade"])
   (wisp-mode . [(0 1 2) nil "Major mode for editing wisp: Whitespace-to-Lisp" single "marmalade"])
