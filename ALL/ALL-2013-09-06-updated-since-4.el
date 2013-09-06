@@ -264,7 +264,7 @@
   (cm-mode . [(0 1 0) nil "Wrapper for CodeMirror-style Emacs modes" single "marmalade"])
   (citrus-mode . [(0 0 2) nil "Major mode for editing Citrus files" single "marmalade"])
   (mactag . [(0 0 1) nil "Mode for automatically handle multiple tags files with Mactag rubygem" single "marmalade"])
-  (xclip . [(1 1) nil "use xclip to copy&paste" single "gnu"])
+  (xclip . [(1 2) nil "use xclip to copy&paste" single "gnu"])
   (shen-mode . [(0 1) nil "A major mode for editing shen source code" tar "gnu"])
   (rainbow-mode . [(0 9) nil "Colorize color names in buffers" single "gnu"])
   (org . [(20130902) nil "Outline-based notes management and organizer" tar "gnu"])
