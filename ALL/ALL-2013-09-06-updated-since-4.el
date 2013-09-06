@@ -254,7 +254,7 @@
   (zenburn-theme . [(20130831 739) nil "A low contrast color theme for Emacs. [github]" single "melpa"])
   (znc . [(20130508 1343) ((cl-lib (0 2)) (erc (5 3))) "ZNC + ERC [github]" single "melpa"])
   (zoom-frm . [(20130807 1542) ((frame-fns (0)) (frame-cmds (0))) "Commands to zoom frame font size. [wiki]" single "melpa"])
-  (clues-theme . [(20130905 2230) ((emacs (24 0))) "an Emacs 24 theme which may well be fully awesome..." single "marmalade"])
+  (clues-theme . [(20130905 211) ((emacs (24 0))) "an Emacs 24 theme which may well be fully awesome..." single "marmalade"])
   (purple-haze-theme . [(20130905 2211) ((emacs (24 0))) "an overtly purple color theme for Emacs24." single "marmalade"])
   (remember-theme . [(20130807 1251) nil "Remembers the last theme in use and re-loads for the next session." single "marmalade"])
   (groovy-mode . [(201203310931) nil "Groovy mode derived mode" single "marmalade"])

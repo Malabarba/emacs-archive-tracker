@@ -1,5 +1,5 @@
 '(
-  (clues-theme . [(20130905 2230) ((emacs (24 0))) "an Emacs 24 theme which may well be fully awesome..." single "marmalade"])
+  (clues-theme . [(20130905 211) ((emacs (24 0))) "an Emacs 24 theme which may well be fully awesome..." single "marmalade"])
   (purple-haze-theme . [(20130905 2211) ((emacs (24 0))) "an overtly purple color theme for Emacs24." single "marmalade"])
   (paste-kde . [(0 3) ((web (0 3 6))) "paste text to KDE's pastebin service" single "marmalade"])
   (git-gutter+ . [(0 1) ((git-commit-mode (1 0))) "Manage Git hunks straight from the buffer" single "marmalade"])
