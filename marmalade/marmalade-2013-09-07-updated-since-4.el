@@ -33,6 +33,7 @@
   (auto-indent-mode . [(0 107) nil "Auto indent Minor mode" single "marmalade"])
   (flymake-coffee . [(0 12) ((flymake-easy (0 1))) "A flymake handler for coffee script" single "marmalade"])
   (bug-reference-github . [(0 2 0) nil "Automatically set `bug-reference-url-format' in Github repositories." single "marmalade"])
+  (less-css-mode . [(0 17) nil "Major mode for editing LESS CSS files (lesscss.org)" single "marmalade"])
   (lispyscript-mode . [(0 3 0) nil "Major mode for LispyScript code." single "marmalade"])
   (dash . [(2 1 0) nil "A modern list library for Emacs" single "marmalade"])
   (git-commit-mode . [(0 13) nil "Major mode for editing git commit messages -*- lexical-binding: t; -*-" single "marmalade"])
