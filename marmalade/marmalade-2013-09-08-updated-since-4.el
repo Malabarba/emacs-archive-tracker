@@ -1,4 +1,6 @@
 '(
+  (elfeed-web . [(1 0 1) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed" tar "marmalade"])
+  (elfeed . [(1 0 1) ((emacs (24 1))) "an Emacs web feed reader" tar "marmalade"])
   (simple-httpd . [(1 4 4) nil "pure elisp HTTP server" single "marmalade"])
   (wonderland . [(0 1 0) ((dash (2 0 0)) (dash-functional (1 0 0)) (multi (1 0 1)) (emacs (24))) "declarative configuration for Emacsen -*- lexical-binding: t -*-" single "marmalade"])
   (ps-ccrypt . [(1 10) nil "reading/writing/loading encrypted files" tar "marmalade"])
