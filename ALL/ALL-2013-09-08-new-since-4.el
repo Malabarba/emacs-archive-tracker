@@ -80,6 +80,7 @@
   (wedge-ws . [(20130804 2311) nil "Wedge whitespace between columns in text [github]" single "melpa"])
   (wgrep-ag . [(20130725 1831) ((wgrep (2 1 5))) "Writable ag buffer and apply the changes to files [github]" single "melpa"])
   (window-numbering . [(20130902 1815) nil "Numbered window shortcuts [github]" single "melpa"])
+  (wonderland . [(0 1 0) ((dash (2 0 0)) (dash-functional (1 0 0)) (multi (1 0 1)) (emacs (24))) "declarative configuration for Emacsen -*- lexical-binding: t -*-" single "marmalade"])
   (ps-ccrypt . [(1 10) nil "reading/writing/loading encrypted files" tar "marmalade"])
   (jujube-theme . [(0 1) nil "Pastel theme loosely based on jellybeans" single "marmalade"])
   (gerrit-download . [(0 2) ((magit (20130828 1540))) "Show gerrit reviews in a diff buffer." single "marmalade"])

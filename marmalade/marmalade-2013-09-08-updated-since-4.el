@@ -1,4 +1,6 @@
 '(
+  (simple-httpd . [(1 4 4) nil "pure elisp HTTP server" single "marmalade"])
+  (wonderland . [(0 1 0) ((dash (2 0 0)) (dash-functional (1 0 0)) (multi (1 0 1)) (emacs (24))) "declarative configuration for Emacsen -*- lexical-binding: t -*-" single "marmalade"])
   (ps-ccrypt . [(1 10) nil "reading/writing/loading encrypted files" tar "marmalade"])
   (clues-theme . [(20130908 801) ((emacs (24 0))) "an Emacs 24 theme which may well be fully awesome..." single "marmalade"])
   (purple-haze-theme . [(20130905 2211) ((emacs (24 0))) "an overtly purple color theme for Emacs24." single "marmalade"])
