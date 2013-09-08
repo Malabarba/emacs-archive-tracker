@@ -1,4 +1,5 @@
 '(
+  (ps-ccrypt . [(1 10) nil "reading/writing/loading encrypted files" tar "marmalade"])
   (jujube-theme . [(0 1) nil "Pastel theme loosely based on jellybeans" single "marmalade"])
   (helm-helm-commands . [(0 2) ((helm (1 5 4))) "List all helm commands with helm" single "marmalade"])
   (evil-indent-textobject . [(0 2) ((evil (0))) "evil textobjects based on indentation" single "marmalade"])

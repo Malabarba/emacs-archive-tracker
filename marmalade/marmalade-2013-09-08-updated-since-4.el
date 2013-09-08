@@ -1,4 +1,5 @@
 '(
+  (ps-ccrypt . [(1 10) nil "reading/writing/loading encrypted files" tar "marmalade"])
   (clues-theme . [(20130908 801) ((emacs (24 0))) "an Emacs 24 theme which may well be fully awesome..." single "marmalade"])
   (purple-haze-theme . [(20130905 2211) ((emacs (24 0))) "an overtly purple color theme for Emacs24." single "marmalade"])
   (paste-kde . [(0 3) ((web (0 3 6))) "paste text to KDE's pastebin service" single "marmalade"])
