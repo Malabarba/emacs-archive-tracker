@@ -1,4 +1,5 @@
 '(
+  (skewer-mode . [(1 5 3) ((simple-httpd (1 4 0)) (js2-mode (20090723))) "live browser JavaScript, CSS, and HTML interaction" tar "marmalade"])
   (elfeed-web . [(1 0 1) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed" tar "marmalade"])
   (elfeed . [(1 0 1) ((emacs (24 1))) "an Emacs web feed reader" tar "marmalade"])
   (simple-httpd . [(1 4 4) nil "pure elisp HTTP server" single "marmalade"])

@@ -1,4 +1,5 @@
 '(
+  (skewer-mode . [(1 5 3) ((simple-httpd (1 4 0)) (js2-mode (20090723))) "live browser JavaScript, CSS, and HTML interaction" tar "marmalade"])
   (elfeed-web . [(1 0 1) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed" tar "marmalade"])
   (elfeed . [(1 0 1) ((emacs (24 1))) "an Emacs web feed reader" tar "marmalade"])
   (simple-httpd . [(1 4 4) nil "pure elisp HTTP server" single "marmalade"])
@@ -23,6 +24,7 @@
   (show-marks . [(0 4) ((fm (1 0))) "Navigate and visualize the mark-ring" single "marmalade"])
   (evil-leader . [(0 3 4) ((evil (0))) "let there be <leader>" single "marmalade"])
   (noflet . [(0 0 10) nil "locally override functions" single "marmalade"])
+  (org-dotemacs . [(0 3) ((org (7 9 3)) (cl-lib (1 0))) "Store your emacs config as an org file, and choose which bits to load." single "marmalade"])
   (ag . [(0 27) nil "A front-end for ag ('the silver searcher'), the C ack replacement." single "marmalade"])
   (groovy-mode . [(201203310931) nil "Groovy mode derived mode" single "marmalade"])
   (flymake-elixir . [(0 5) nil "A flymake handler for elixir-mode .ex files.     " single "marmalade"])
