@@ -11,7 +11,7 @@
   (git-gutter+ . [(0 1) ((git-commit-mode (1 0))) "Manage Git hunks straight from the buffer" single "marmalade"])
   (frame-restore . [(0 3) ((dash (1 2)) (f (0 4 1)) (emacs (24 1))) "Restore Emacs frame -*- lexical-binding: t; -*-" single "marmalade"])
   (ample-theme . [(0 2 2) nil "Calm Dark Theme for Emacs" single "marmalade"])
-  (emmet-mode . [(1 0 2) nil "Unofficial Emmet's support for emacs" single "marmalade"])
+  (emmet-mode . [(1 0 3) nil "Unofficial Emmet's support for emacs" single "marmalade"])
   (web-mode . [(7 0 0) nil "major mode for editing html templates -*- coding: utf-8 -*-" single "marmalade"])
   (processing-mode . [(1 2 0) nil "Major mode for Processing 2.0" single "marmalade"])
   (git-gutter-fringe+ . [(0 0 2) ((git-gutter+ (0 1)) (fringe-helper (20130519 1641))) "Fringe version of git-gutter+.el" single "marmalade"])
