@@ -106,6 +106,7 @@
   (helm-delicious . [(1 1) nil "helm extensions for delicious bookmarks" single "marmalade"])
   (cubicle-mode . [(0 1) nil "Cubicle major mode for emacs" single "marmalade"])
   (pickup . [(0 0 3) nil "pickup file. " single "marmalade"])
+  (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
   (discord . [(0 5) nil "Discordian dates for calendar" single "marmalade"])
   (w3 . [(4 0 49) nil "Fully customizable, largely undocumented web browser for Emacs" tar "gnu"])
   (temp-buffer-browse . [(1 0) nil "temp buffer browse mode" single "gnu"])
