@@ -13,9 +13,9 @@
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
     <script type="text/javascript">
-     $(document).ready(function () {
-       $('#main_content').headsmart()
-     })
+      $(document).ready(function () {
+      $('#main_content').headsmart()
+      })
     </script>
     <title>EAT by Artur Malabarba</title>
   </head>
@@ -46,25 +46,31 @@
 
 
       <section id="main_content">
-        <p><em>EAT (emacs-archive-tracker)</em> is a script in emacs-lisp to track some statistics about emacs package archives. It runs every couple of hours and automatically updates this page.<br>
-Currently included archives are:</p>
+        <p><em>EAT (emacs-archive-tracker)</em> is a script in
+          emacs-lisp to track some statistics about emacs package archives. It
+          runs every couple of hours and automatically updates this page.<br>
+          Currently included archives are:</p>
 
-        <pre><code>("gnu" . "http://elpa.gnu.org/packages/")
+<pre><code>("gnu" . "http://elpa.gnu.org/packages/")
 ("marmalade" . "http://marmalade-repo.org/packages/")
-("melpa" . "http://melpa.milkbox.net/packages/")
-        </code></pre>
-        <h3>UNDER CONSTRUCTION</h3>
-        <!-- <table border="1">
-
-        </table> -->
+("melpa" . "http://melpa.milkbox.net/packages/")</code></pre>
         <p>If you know of any others please <a href="https://github.com/Bruce-Connor/emacs-archive-tracker/issues/new">create an issue</a> and let me know.</p>
 
-        <h1>
-          <a name="global-reports" class="anchor" href="#global-reports"><span class="octicon octicon-link"></span></a>Global Reports</h1>
+        <h1><a name="global-reports"
+               class="anchor"
+               href="#global-reports"><span class="octicon octicon-link"></span></a>Global Reports</h1>
 
-          <p><img src="full-plot.jpg" alt="Package count as a function of time"></p>
+          <p>The two graphs below display the number of packages added
+          to each repository. Clearly an average rate of <strong>80 new packages
+          per month</strong> is not too shabby!</p>
+          <img src="newPackagePlotMonth.jpg" alt="Package count as a function of time">
+          <img src="newPackagePlotEver.jpg" alt="Package count as a function of time">
+          <!-- <p><img src="newPackagePlotEver.png" alt="Package count as a function of time"></p> -->
+          <!-- <p><img src="newPackagePlotEver.svg" alt="Package count as a function of time"></p> -->
+          <!-- <p><img src="newPackagePlotEver.pdf" alt="Package count as a function of time"></p> -->
 
-          <p>On average, <b>79%</b> of packages are single-file (the rest are tar).</p>
+          <p>On average, <b>79%</b> of packages are single-file (the
+          rest are tar balls).</p>
       </section>
       
       <footer>
