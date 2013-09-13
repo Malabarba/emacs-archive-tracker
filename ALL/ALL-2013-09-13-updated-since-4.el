@@ -277,6 +277,7 @@
   (znc . [(20130508 1343) ((cl-lib (0 2)) (erc (5 3))) "ZNC + ERC [github]" single "melpa"])
   (zoom-frm . [(20130807 1542) ((frame-fns (0)) (frame-cmds (0))) "Commands to zoom frame font size. [wiki]" single "melpa"])
   (remember-theme . [(20130807 1251) nil "Remembers the last theme in use and re-loads for the next session." single "marmalade"])
+  (flymake-less . [(0 3) ((less-css-mode (0 15))) "Flymake handler for LESS stylesheets (lesscss.org)" single "marmalade"])
   (groovy-mode . [(201203310931) nil "Groovy mode derived mode" single "marmalade"])
   (company-cmake . [(0 1) ((company (0 6 8))) "company-mode completion back-end for CMake" single "marmalade"])
   (psgml . [(1 4 1) nil "Lennart Staflin's Psgml package, with Elisp syntax and sgml-validate fixed for Emacsen >=24." tar "marmalade"])

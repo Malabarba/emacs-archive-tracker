@@ -20,6 +20,7 @@
   (org-trello . [(0 2 0) ((org (8 0 7)) (dash (1 5 0)) (request (0 2 0)) (cl-lib (0 3 0)) (json (1 2)) (elnode (0 9 9 7 6)) (esxml (0 3 0)) (s (1 7 0))) "Org minor mode to synchronize with trello" tar "marmalade"])
   (sourcetalk . [(1 1 0) ((request (0 2 0))) "SourceTalk (http://sourcetalk.net) plugin for Emacs" single "marmalade"])
   (syslog-mode . [(2 1) ((hide-lines (20130623))) "Major-mode for viewing log files" single "marmalade"])
+  (flymake-less . [(0 3) ((less-css-mode (0 15))) "Flymake handler for LESS stylesheets (lesscss.org)" single "marmalade"])
   (org-journal . [(1 4 2) nil "a simple org-mode based journaling mode" single "marmalade"])
   (desktop-registry . [(1 1 0) nil "Keep a central registry of desktop files -*- lexical-binding: t -*-" single "marmalade"])
   (show-marks . [(0 4) ((fm (1 0))) "Navigate and visualize the mark-ring" single "marmalade"])
