@@ -25,6 +25,7 @@
   (org-journal . [(1 4 2) nil "a simple org-mode based journaling mode" single "marmalade"])
   (desktop-registry . [(1 1 0) nil "Keep a central registry of desktop files -*- lexical-binding: t -*-" single "marmalade"])
   (show-marks . [(0 4) ((fm (1 0))) "Navigate and visualize the mark-ring" single "marmalade"])
+  (kmacro-decision . [(1 4) ((el-x (1 0)) (jb-misc-macros (0 2))) "Add conditional branching to keyboard macros" single "marmalade"])
   (evil-leader . [(0 3 4) ((evil (0))) "let there be <leader>" single "marmalade"])
   (noflet . [(0 0 10) nil "locally override functions" single "marmalade"])
   (org-dotemacs . [(0 3) ((org (7 9 3)) (cl-lib (1 0))) "Store your emacs config as an org file, and choose which bits to load." single "marmalade"])
