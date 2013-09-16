@@ -15,7 +15,7 @@
   (css-eldoc . [(20130902 1635) nil "an eldoc-mode plugin for CSS source code [github]" tar "melpa"])
   (dash-functional . [(20130831 1646) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp [github]" single "melpa"])
   (efire . [(20130812 49) ((circe (1 2))) "Use campfire from Emacs [github]" single "melpa"])
-  (elfeed . [(20130914 1802) ((emacs (24 1))) "an Emacs Atom/RSS feed reader [github]" tar "melpa"])
+  (elfeed . [(20130916 1134) ((emacs (24 1))) "an Emacs Atom/RSS feed reader [github]" tar "melpa"])
   (elfeed-web . [(20130908 1734) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed [github]" tar "melpa"])
   (elisp-sandbox . [(20130810 2131) nil "Evaluate EmacsLisp expressions in a sandbox [github]" single "melpa"])
   (elixir-yasnippets . [(20130908 2230) ((yasnippet (0 8 0))) "Yasnippets for Elixir [github]" tar "melpa"])
