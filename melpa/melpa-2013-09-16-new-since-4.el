@@ -75,7 +75,7 @@
   (palimpsest . [(20130731 1821) nil "Various deletion strategies when editing [github]" single "melpa"])
   (password-vault . [(20130807 942) ((cl-lib (0 2)) (emacs (24))) "A Password manager for Emacs. [github]" single "melpa"])
   (perl-completion . [(20090528 1536) nil "No description available. [github]" single "melpa"])
-  (phi-rectangle . [(20130910 39) nil "another rectangle-mark command (rewrite of rect-mark) [github]" single "melpa"])
+  (phi-rectangle . [(20130916 2248) nil "another rectangle-mark command (rewrite of rect-mark) [github]" single "melpa"])
   (phi-search-mc . [(20130910 47) ((phi-search (1 1 3)) (multiple-cursors (1 2 1))) "multiple-cursors extension for phi-search [github]" single "melpa"])
   (php-auto-yasnippets . [(20130818 2349) ((php-mode (1 11)) (yasnippet (0 8 0))) "Creates snippets for PHP functions [github]" tar "melpa"])
   (pig-snippets . [(20130912 2126) ((yasnippet (0 8 0))) "Snippets for pig-mode [github]" tar "melpa"])
