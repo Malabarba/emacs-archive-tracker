@@ -10,7 +10,7 @@
   (busybee-theme . [(20130911 1330) nil "port of vim's mustang theme [github]" single "melpa"])
   (calmer-forest-theme . [(20130910 2031) nil "Darkish theme with green/orange tint [github]" single "melpa"])
   (cask . [(20130912 1858) nil "Emacs dependency management made easy [github]" tar "melpa"])
-  (cl-lib-highlight . [(20130914 2013) ((cl-lib (0 3))) "full cl-lib font-lock highlighting [github]" single "melpa"])
+  (cl-lib-highlight . [(20130915 2059) ((cl-lib (0 3))) "full cl-lib font-lock highlighting [github]" single "melpa"])
   (clojure-cheatsheet . [(20130831 1134) ((helm (1 5 3)) (nrepl (0 1 8))) "The Clojure Cheatsheet in Emacs [github]" single "melpa"])
   (colorsarenice-theme . [(20130914 1605) ((emacs (24))) "A color theme. [hg]" tar "melpa"])
   (css-eldoc . [(20130902 1635) nil "an eldoc-mode plugin for CSS source code [github]" tar "melpa"])
