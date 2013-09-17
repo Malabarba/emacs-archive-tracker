@@ -66,7 +66,7 @@
   (drupal-mode . [(20130809 1027) ((php-mode (1 5 0))) "Advanced minor mode for Drupal development [github]" tar "melpa"])
   (dylan-mode . [(20130905 2139) nil "Major mode for editing Dylan programs. [github]" tar "melpa"])
   (e2wm . [(20130910 1431) ((window-layout (1 2))) "simple window manager for emacs [github]" tar "melpa"])
-  (ebib . [(20130917 549) nil "a BibTeX database manager [github]" tar "melpa"])
+  (ebib . [(20130917 1223) nil "a BibTeX database manager [github]" tar "melpa"])
   (ecb . [(20130826 1941) nil "a code browser for Emacs [github]" tar "melpa"])
   (ecukes . [(20130831 2145) ((f (0 7 1)) (s (1 6 2)) (dash (2 1 0)) (ansi (0 3 0)) (espuds (0 2 2)) (commander (0 4 0))) "Cucumber for Emacs. [github]" tar "melpa"])
   (edbi . [(20130809 556) ((concurrent (0 3 1)) (ctable (0 1 2)) (epc (0 1 1))) "Emacs Database Interface [github]" tar "melpa"])

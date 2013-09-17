@@ -1,11 +1,5 @@
 '(
-  (shell-pop . [(0 1) nil "helps you to use shell easily on Emacs. Only one key action to work." single "marmalade"])
-  (skewer-mode . [(1 5 3) ((simple-httpd (1 4 0)) (js2-mode (20090723))) "live browser JavaScript, CSS, and HTML interaction" tar "marmalade"])
-  (elfeed-web . [(1 0 1) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed" tar "marmalade"])
-  (elfeed . [(1 0 1) ((emacs (24 1))) "an Emacs web feed reader" tar "marmalade"])
-  (simple-httpd . [(1 4 4) nil "pure elisp HTTP server" single "marmalade"])
-  (wonderland . [(0 1 1) ((dash (2 0 0)) (dash-functional (1 0 0)) (multi (2 0 0)) (emacs (24))) "declarative configuration for Emacsen -*- lexical-binding: t -*-" single "marmalade"])
-  (ps-ccrypt . [(1 10) nil "reading/writing/loading encrypted files" tar "marmalade"])
+  (page-break-lines . [(0 8) nil "Display ugly ^L page breaks as tidy horizontal lines" single "marmalade"])
   (clues-theme . [(20130908 801) ((emacs (24 0))) "an Emacs 24 theme which may well be fully awesome..." single "marmalade"])
   (purple-haze-theme . [(20130905 2211) ((emacs (24 0))) "an overtly purple color theme for Emacs24." single "marmalade"])
   (paste-kde . [(0 3) ((web (0 3 6))) "paste text to KDE's pastebin service" single "marmalade"])
