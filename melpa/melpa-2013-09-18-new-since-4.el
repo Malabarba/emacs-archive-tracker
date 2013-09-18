@@ -3,7 +3,7 @@
   (ac-emmet . [(20130826 726) ((emmet-mode (1 0 2)) (auto-complete (1 4))) "auto-complete sources for emmet-mode's snippets [github]" single "melpa"])
   (aok . [(20130817 845) nil "various useful ways to do `multi-occur' [wiki]" single "melpa"])
   (auctex-lua . [(20130818 1420) nil "Lua editing support for AUCTeX [github]" single "melpa"])
-  (auto-complete-nxml . [(20130915 726) ((auto-complete (1 4))) "do completion by auto-complete.el on nXML-mode [github]" single "melpa"])
+  (auto-complete-nxml . [(20130918 1219) ((auto-complete (1 4))) "do completion by auto-complete.el on nXML-mode [github]" single "melpa"])
   (auto-yasnippet . [(20130820 959) ((yasnippet (0 8 0))) "Quickly create disposable yasnippets [github]" single "melpa"])
   (automargin . [(20130910 40) nil "add margins to windows not-splitted, and center them [github]" single "melpa"])
   (bibslurp . [(20130904 1053) ((s (1 6 0)) (dash (1 5 0))) "retrieve BibTeX entries from NASA ADS [github]" single "melpa"])
