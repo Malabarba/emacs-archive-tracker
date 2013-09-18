@@ -1,4 +1,6 @@
 '(
+  (ac-emmet . [(20130826 726) ((emmet-mode (1 0 2)) (auto-complete (1 4))) "auto-complete sources for emmet-mode's snippets [github]" single "melpa"])
+  (aok . [(20130817 845) nil "various useful ways to do `multi-occur' [wiki]" single "melpa"])
   (auctex-lua . [(20130818 1420) nil "Lua editing support for AUCTeX [github]" single "melpa"])
   (auto-complete-nxml . [(20130915 726) ((auto-complete (1 4))) "do completion by auto-complete.el on nXML-mode [github]" single "melpa"])
   (auto-yasnippet . [(20130820 959) ((yasnippet (0 8 0))) "Quickly create disposable yasnippets [github]" single "melpa"])
@@ -12,8 +14,6 @@
   (colorsarenice-theme . [(20130914 1605) ((emacs (24))) "A color theme. [hg]" tar "melpa"])
   (css-eldoc . [(20130902 1635) nil "an eldoc-mode plugin for CSS source code [github]" tar "melpa"])
   (dash-functional . [(20130831 1646) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp [github]" single "melpa"])
-  (ac-emmet . [(20130826 726) ((emmet-mode (1 0 2)) (auto-complete (1 4))) "auto-complete sources for emmet-mode's snippets [github]" single "melpa"])
-  (aok . [(20130817 845) nil "various useful ways to do `multi-occur' [wiki]" single "melpa"])
   (efire . [(20130812 49) ((circe (1 2))) "Use campfire from Emacs [github]" single "melpa"])
   (elfeed . [(20130916 1134) ((emacs (24 1))) "an Emacs Atom/RSS feed reader [github]" tar "melpa"])
   (elfeed-web . [(20130908 1734) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed [github]" tar "melpa"])
