@@ -32,7 +32,7 @@
   (flycheck-cask . [(20130818 1153) ((flycheck (0 14)) (dash (2 0 0)) (f (0 6 0))) "Cask support in Flycheck [github]" single "melpa"])
   (flycheck-d-unittest . [(20130818 1800) ((flycheck (0 14)) (dash (1 4 0))) "Add D unittest support to flycheck [github]" single "melpa"])
   (flymake-puppet . [(20130731 2203) ((flymake-easy (0 9))) "An Emacs flymake handler for syntax-checking puppet using puppet-lint [github]" single "melpa"])
-  (geiser . [(20130919 324) nil "No description available. [github]" tar "melpa"])
+  (geiser . [(20130919 1824) nil "GNU Emacs and Scheme talk to each other [github]" tar "melpa"])
   (genrnc . [(20130712 1451) ((deferred (0 3 1)) (log4e (0 2 0)) (yaxception (0 1))) "generate RELAX NG Compact Schema from RELAX NG Schema, XML Schema and DTD. [github]" tar "melpa"])
   (git . [(20130915 932) ((s (1 7 0)) (dash (2 2 0)) (f (0 10 0))) "An Elisp API for programmatically using Git [github]" single "melpa"])
   (git-annex . [(20130816 1258) nil "Mode for easy editing of git-annex'd files [github]" single "melpa"])
