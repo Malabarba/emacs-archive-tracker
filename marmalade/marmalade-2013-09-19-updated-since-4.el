@@ -26,6 +26,7 @@
   (org-dotemacs . [(0 3) ((org (7 9 3)) (cl-lib (1 0))) "Store your emacs config as an org file, and choose which bits to load." single "marmalade"])
   (ag . [(0 27) nil "A front-end for ag ('the silver searcher'), the C ack replacement." single "marmalade"])
   (groovy-mode . [(201203310931) nil "Groovy mode derived mode" single "marmalade"])
+  (rubocop . [(0 3) ((dash (1 0 0))) "An Emacs interface for RuboCop" single "marmalade"])
   (flymake-elixir . [(0 5) nil "A flymake handler for elixir-mode .ex files.     " single "marmalade"])
   (psgml . [(1 4 1) nil "Lennart Staflin's Psgml package, with Elisp syntax and sgml-validate fixed for Emacsen >=24." tar "marmalade"])
   (smartparens . [(1 5) ((cl-lib (0 1)) (dash (1 1 0))) "Automatic insertion, wrapping and paredit-like navigation with user defined pairs." tar "marmalade"])
