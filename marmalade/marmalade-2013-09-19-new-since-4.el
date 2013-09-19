@@ -18,7 +18,7 @@
   (insert-shebang . [(0 9 2) nil "Inserts shebang line automatically" tar "marmalade"])
   (smart-whitespace-comment-fixup . [(1 0) nil "Enables advice around yanking/killing lines that auto-indents and formats properly" single "marmalade"])
   (figlet . [(289) nil "banner generator" single "marmalade"])
-  (smtpmail-multi . [(0 3) nil "Use different smtp servers for sending mail" single "marmalade"])
+  (smtpmail-multi . [(0 5) nil "Use different smtp servers for sending mail" single "marmalade"])
   (tronesque-theme . [(1 3) nil "Color Theme based on Tron universe." single "marmalade"])
   (openstack-cgit-browse-file . [(0 2) nil "Browse the current file in OpenStack cgit" single "marmalade"])
   (flycheck-cask . [(0 1) ((flycheck (0 14)) (dash (2 0 0)) (f (0 6 0))) "Cask support in Flycheck -*- lexical-binding: t; -*-" single "marmalade"])

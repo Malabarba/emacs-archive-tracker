@@ -114,7 +114,7 @@
   (comint-better-defaults . [(1 0) nil "better defaults for comint-derived modes" single "marmalade"])
   (winpoint-ignore-dired . [(1 1) ((winpoint (1 0))) "Have winpoint ignore dired-mode buffers" single "marmalade"])
   (smart-whitespace-comment-fixup . [(1 0) nil "Enables advice around yanking/killing lines that auto-indents and formats properly" single "marmalade"])
-  (smtpmail-multi . [(0 3) nil "Use different smtp servers for sending mail" single "marmalade"])
+  (smtpmail-multi . [(0 5) nil "Use different smtp servers for sending mail" single "marmalade"])
   (helm-recoll . [(20130905 2330) ((helm (1 5 4))) "helm interface for the recoll desktop search tool." single "marmalade"])
   (tsql . [(1 0) nil "customizes sql.el for T-SQL" single "marmalade"])
   (helm-delicious . [(1 1) nil "helm extensions for delicious bookmarks" single "marmalade"])
