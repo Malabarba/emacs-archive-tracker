@@ -85,7 +85,7 @@
   (php-auto-yasnippets . [(20130818 2349) ((php-mode (1 11)) (yasnippet (0 8 0))) "Creates snippets for PHP functions [github]" tar "melpa"])
   (pig-snippets . [(20130912 2126) ((yasnippet (0 8 0))) "Snippets for pig-mode [github]" tar "melpa"])
   (pkg-info . [(20130817 2334) ((dash (1 6 0)) (s (1 6 0))) "Information about packages [github]" tar "melpa"])
-  (plsense . [(20130910 55) ((auto-complete (1 4 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide interface for PlSense that is a development tool for Perl. [github]" single "melpa"])
+  (plsense . [(20130920 1112) ((auto-complete (1 4 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide interface for PlSense that is a development tool for Perl. [github]" single "melpa"])
   (popup-kill-ring . [(20130710 1447) nil "No description available. [github]" single "melpa"])
   (puppetfile-mode . [(20130824 2131) nil "Syntax highlighting for Puppetfiles [github]" single "melpa"])
   (purple-haze-theme . [(20130906 1327) ((emacs (24 0))) "an overtly purple color theme for Emacs24. [github]" single "melpa"])
