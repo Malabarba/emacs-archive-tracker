@@ -1,4 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=640" />
 
+    <link rel="stylesheet" href="stylesheets/core.css" media="screen"/>
+    <link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)"/>
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css"/>
+
+    <script type="text/javascript" src="javascripts/modernizr.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+      $('#main_content').headsmart()
+      })
+    </script>
+    <title>EAT by Artur Malabarba</title>
+  </head>
+
+  <body>
+    <div class="shell">
+
+      <header>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>EAT</h1>
+            <h2>All info displayed here is for you to devour.</h2>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </header>
+
+      <section id="downloads">
+        <span class="inner">
+          <a href="./about.html" class="zip"><em>What is this?</em> ABOUT</a>
+          <a href="https://raw.github.com/Bruce-Connor/emacs-archive-tracker/gh-pages/data.tar.gz" class="tgz"><em>Download Data</em> .TAR.GZ</a>
+        </span>
+      </section>
+      <span class="banner-fix"></span>
+
+      <section id="main_content">
+      
   <p><em><strong>EAT</strong> (emacs-archive-tracker)</em> is a script
   in emacs-lisp to track some statistics about emacs package archives.
   It runs every couple of hours and automatically updates this
@@ -7,7 +52,45 @@
 <pre><code>("gnu" . "http://elpa.gnu.org/packages/")
 ("marmalade" . "http://marmalade-repo.org/packages/")
 ("melpa" . "http://melpa.milkbox.net/packages/")</code></pre>
-<p>If you know of any others
-please <a href="https://github.com/Bruce-Connor/emacs-archive-tracker/issues/new">create
-an issue</a> and let me know.</p>
+  <p>If you know of any others
+    please <a href="https://github.com/Bruce-Connor/emacs-archive-tracker/issues/new">create
+      an issue</a> and let me know.</p>
 
+      </section>
+      
+      <footer>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <p>this project by <a>Artur Malabarba</a> can be found on <a href="https://github.com/Bruce-Connor/emacs-archive-tracker">GitHub</a></p>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+        <p>Generated with <a href="http://pages.github.com">GitHub Pages</a> using Merlot</p>
+        <span class="octocat"></span>
+      </footer>
+      
+    </div>
+    
+    <script type="text/javascript">
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      
+      ga('create', 'UA-42656294-1', 'bruce-connor.github.io');
+      ga('send', 'pageview');
+    </script>
+    <!-- <script type="text/javascript">
+      try {
+      var pageTracker = _gat._getTracker("UA-42656294-1");
+      pageTracker._trackPageview();
+      } catch(err) {}
+    </script> -->
+    
+  </body>
+</html>
