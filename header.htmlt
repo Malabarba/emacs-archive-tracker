@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=640" />
+
+    <link rel="stylesheet" href="stylesheets/core.css" media="screen"/>
+    <link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)"/>
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css"/>
+
+    <script type="text/javascript" src="javascripts/modernizr.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+      $('#main_content').headsmart()
+      })
+    </script>
+    <title>EAT by Artur Malabarba</title>
+  </head>
+
+  <body>
+    <div class="shell">
+
+      <header>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>EAT</h1>
+            <h2>All info displayed here is for you to devour.</h2>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </header>
+
+      <section id="downloads">
+        <span class="inner">
+          <a href="./about.html" class="zip"><em>What is this?</em> ABOUT</a>
+          <a href="https://raw.github.com/Bruce-Connor/emacs-archive-tracker/gh-pages/data.tar.gz" class="tgz"><em>Download Data</em> .TAR.GZ</a>
+        </span>
+      </section>
+      <span class="banner-fix"></span>
+
+      <section id="main_content">
+        <h1><a name="net-growth"
+               class="anchor"
+               href="#net-growth"><span class="octicon
+               octicon-link"></span></a>Net Growth</h1>
+
+        <p>The two graphs below display the number of packages added
+          to each repository:</p>
+        <p><strong>Since 1 month ago</strong></p>
+        <a href="newPackagePlotMonth.png"><img src="newPackagePlotMonth.jpg" alt="Package count as a function of time"></a>
+        <p><strong>Since we started counting</strong></p>
+        <a href="newPackagePlotEver.png"><img src="newPackagePlotEver.jpg" alt="Package count as a function of time"></a>
+
