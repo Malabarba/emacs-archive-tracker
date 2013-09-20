@@ -1,1 +1,0 @@
-  yasnippet                    0.8.0              available  Yet another snippet extension for Emacs.
