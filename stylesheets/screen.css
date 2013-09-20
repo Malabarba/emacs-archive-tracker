@@ -491,7 +491,7 @@ td {
 }
 
 td:first-child, th:first-child {
-    border-right: medium solid;
+    border-right: thin solid;
 }
 
 td:last-child, th:last-child {
@@ -503,7 +503,7 @@ tr:last-child td {
 }
 
 tr:first-child th {
-    border-bottom: medium solid;
+    border-bottom: thin solid;
 }
 
 dl {
