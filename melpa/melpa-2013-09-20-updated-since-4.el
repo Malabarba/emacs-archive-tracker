@@ -168,7 +168,7 @@
   (livescript-mode . [(20130826 1723) nil "Major mode for editing LiveScript files [github]" single "melpa"])
   (logalimacs . [(20130917 1341) ((popwin (20130329)) (popup (20130708)) (stem (20130120))) "Front-end to logaling-command for Ruby gems [github]" single "melpa"])
   (lua-mode . [(20130910 922) nil "a major-mode for editing Lua scripts [github]" single "melpa"])
-  (magit . [(20130919 1051) ((cl-lib (0 3)) (git-commit-mode (0 14 0)) (git-rebase-mode (0 14 0))) "control Git from Emacs [github]" tar "melpa"])
+  (magit . [(20130920 2) ((cl-lib (0 3)) (git-commit-mode (0 14 0)) (git-rebase-mode (0 14 0))) "control Git from Emacs [github]" tar "melpa"])
   (magit-commit-training-wheels . [(20130730 1032) nil "Advice for magit-log-edit-commit [github]" single "melpa"])
   (magit-filenotify . [(20130801 1545) nil "No description available. [github]" single "melpa"])
   (magit-push-remote . [(20130906 135) ((magit (1 3 0))) "Push remote support for Magit. [github]" tar "melpa"])
