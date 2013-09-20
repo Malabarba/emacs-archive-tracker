@@ -43,4 +43,5 @@
   (fit-frame . [(0) nil "Resize a frame.  In particular, fit a frame to its buffers." single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
   (discord . [(0 5) nil "Discordian dates for calendar" single "marmalade"])
+  (osx-pseudo-daemon . [(1 0) nil "Daemon mode that plays nice with OSX." single "marmalade"])
  )
