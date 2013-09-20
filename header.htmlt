@@ -45,10 +45,7 @@
       <section id="main_content">
         <p>The following data regards the Emacs package archives. More
           information at the <a href="./about.html">About page</a>.</p>
-        <h1><a name="net-growth"
-               class="anchor"
-               href="#net-growth"><span class="octicon
-                                               octicon-link"></span></a>Net Growth</h1>
+        <h1><a name="net-growth" class="anchor" href="#net-growth"><span class="octicon octicon-link"></span></a>Net Growth</h1>
 
         <p>The two graphs below display the number of packages added
           to each repository:</p>
@@ -56,4 +53,16 @@
         <a href="newPackagePlotMonth.png"><img src="newPackagePlotMonth.jpg" alt="Package count as a function of time"></a>
         <p><strong>Since we started counting</strong></p>
         <a href="newPackagePlotEver.png"><img src="newPackagePlotEver.jpg" alt="Package count as a function of time"></a>
-
+        
+        <h1><a name="total-counts" class="anchor"
+               href="#total-counts"><span class="octicon
+                                                 octicon-link"></span></a>Current Totals</h1>
+        <p>The breakdown of total number of packages for each
+          repository (as well as a comparison of single files vs tar
+          balls).</p>
+        <table border="1">
+          <tr>
+            <th>Total</th> <th>Single</th> <th>Tar</th> <th>gnu</th> <th>marmalade</th> <th>melpa</th>
+          </tr>
+          <tr>
+            

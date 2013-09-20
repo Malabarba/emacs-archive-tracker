@@ -54,5 +54,6 @@
   (android-mode . [(0 2 4) nil "Minor mode for Android application development" single "marmalade"])
   (ack-and-a-half . [(1 2 0) nil "Yet another front-end for ack" single "marmalade"])
   (ido-ubiquitous . [(2 2) ((emacs (24 1))) "Use ido (nearly) everywhere." single "marmalade"])
+  (langtool . [(1 2 1) nil "Grammar check utility using LanguageTool" single "marmalade"])
   (yaml-mode . [(0 0 9) nil "Major mode for editing YAML files" single "marmalade"])
  )

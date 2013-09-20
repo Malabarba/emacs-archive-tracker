@@ -1,7 +1,4 @@
 '(
-  (js-comint . [(20080530 957) nil "Run javascript in an inferior process window. [svn]" single "melpa"])
-  (org-mac-link-grabber . [(20130514 1519) nil "Grab links and url from various mac [git]" single "melpa"])
-  (vc-darcs . [(20090617 1305) nil "a VC backend for darcs [darcs]" single "melpa"])
   (abc-mode . [(20130607 917) nil "Major mode for editing abc music files [github]" single "melpa"])
   (abl-mode . [(20120718 1655) nil "Python TDD minor mode [github]" single "melpa"])
   (ac-dabbrev . [(20130906 518) nil "auto-complete.el source for dabbrev [wiki]" single "melpa"])
