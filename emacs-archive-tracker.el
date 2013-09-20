@@ -46,11 +46,8 @@
 ;;; Code:
 
 (require 'cl-lib)
-
 (defconst eat/version "0.7" "Version of the emacs-archive-tracker.el package.")
-
 (defconst eat/version-int 3 "Version of the emacs-archive-tracker.el package, as an integer.")
-
 (defun eat/bug-report ()
   "Opens github issues page in a web browser. Please send me any bugs you find, and please inclue your emacs and eat versions."
   (interactive)
@@ -317,7 +314,18 @@
             (format "%s" eat/ALL-count) "</strong></td> <td>"
             (format "%s" eat/ALL-single-count) "</td> <td>"
             (format "%s" eat/ALL-tar-count)    "</td> <td>"
-            (mapconcat 'eat/source-name-to-total-count eat/sources "</td> <td>") "</td>"))
+            (mapconcat 'eat/source-name-to-total-count eat/sources "</td> <td>") "</td>")
+    (insert " \n</tr> \n</table> \n</section>"))
+
+  ;; You stopped here. (581891)
+  ;; (with-temp-file eat/new-package-list-file
+  ;;   (set-buffer-file-coding-system 'no-conversion)
+  ;;   (insert "<td><strong>"
+  ;;           (format "%s" eat/ALL-count) "</strong></td> <td>"
+  ;;           (format "%s" eat/ALL-single-count) "</td> <td>"
+  ;;           (format "%s" eat/ALL-tar-count)    "</td> <td>"
+  ;;           (mapconcat 'eat/source-name-to-total-count eat/sources "</td> <td>") "</td>")
+  ;;   (insert " \n</tr> \n</table> \n</section>"))
 
   (eat/-log "Running %s%s" eat/directory eat/script)
   (if (= 0 (shell-command
