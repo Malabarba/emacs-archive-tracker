@@ -1,12 +1,8 @@
 /feed-website.sh
+/pull-website.sh
 /eat.log
 *.old
 *.m
 #.*#
 #*
 /#*
-/ALL/
-/melpa/
-/marmalade/
-/gnu/
-/pull-website.sh

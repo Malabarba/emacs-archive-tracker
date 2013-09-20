@@ -1,0 +1,90 @@
+  tronesque-theme              1.0                available  Color Theme based on Tron universe.
+  truthy                       0.2.6              available  Test the content of a value
+  tsql                         1.0                available  customizes sql.el for T-SQL
+  tt-mode                      20121117.2045      available  Emacs major mode for editing Template Toolkit files.
+  ttl-mode                     0.1                available  mode for Turtle(RDF)
+  ttrss                        1.7.5              available  Tiny Tiny RSS elisp bindings
+  tuareg                       2.0.5              available  OCaml mode for Emacs.
+  tumble                       1.5                available  an Tumblr mode for Emacs
+  tumblesocks                  0.0.6              available  An Emacs tumblr client.
+  tup-mode                     1.2                available  Major mode for editing files for Tup
+  twilight-theme               1.0.0              available  Twilight theme for GNU Emacs 24 (deftheme)
+  twittering-mode              2.0.0              available  Major mode for Twitter
+  typing                       1.1.4              available  A game for fast typers, inspired by The Typing Of The Dead.
+  typing-practice              0.1                available  Typing practice
+  typo                         1.1                available  Minor mode for typographic editing
+  typopunct                    1.0                available  Automatic typographical punctuation marks
+  uci-mode                     1.0.0              available  Major mode for UCI configuration files
+  ucs-utils                    0.7.2              available  Utilities for Unicode characters
+  ujelly-theme                 1.0.20             available  Ujelly theme for GNU Emacs 24 (deftheme)
+  unbound                      0.1                available  find convenient unbound keystrokes
+  undo-tree                    0.3.1              available  Treat undo history as a tree
+  unfill                       0.1                available  The inverse of fill-paragraph and fill-region
+  unicode-enbox                0.1.3              available  Surround a string with box-drawing characters
+  unicode-fonts                0.3.4              available  Configure Unicode fonts
+  unicode-progress-reporter    0.5.3              available  Progress-reporter with fancy characters
+  unicode-whitespace           0.2.3              available  teach whitespace-mode about fancy characters
+  uuid                         0.0.3              available  UUID's for EmacsLisp
+  vala-mode                    0.1                available  Vala mode derived mode
+  vc-darcs                     1.12               available  a VC backend for darcs
+  vcard                        0.1                available  vcard parsing and display routines
+  vector-utils                 0.1.0              available  Vector-manipulation utility functions
+  vertica                      0.1.0              available  Vertica SQL mode extension
+  vimgolf                      0.9.2              available  VimGolf interface for the One True Editor
+  vimrc-mode                   0.3.1              available  Major mode for vimrc files
+  virtualenv                   1.2                available  Virtualenv for Python  -*- coding: utf-8 -*-
+  visible-color-code           0.0.1              available  color code strings in current buffer, this elisp show you one as real color.
+  vline                        1.10               available  show vertical line (column highlighting) mode.
+  volatile-highlights          1.10               available  Minor mode for visual feedback on some operations.
+  w32-browser                  21.0               available  Run Windows application associated with a file.
+  w32-registry                 2012.4.6           available  read the registry from elisp
+  wacspace                     0.4.1              available  The WACky WorkSPACE manager for emACS
+  watch-buffer                 1.0.1              available  run a shell command when saving a buffer
+  wc-mode                      1.1                available  Running word count with goals (minor mode)
+  wcheck-mode                  2013.6.25          available  General interface for text checkers
+  weather                      2012.3.27.2        available  Get weather reports via worldweatheronline.com
+  weather-metno                20121023           available  Weather data from met.no in Emacs
+  web                          0.3.7              available  useful HTTP client -*- lexical-binding: t -*-
+  web-mode                     6.0.18             available  major mode for editing html templates
+  websocket                    1.0                available  Emacs WebSocket client and server
+  wedge-ws                     0.1.1              available  Wedge whitespace between columns in text
+  weechat                      0.2                available  Chat via WeeChat's relay protocol in Emacs
+  wget                         1.94               available  Emacs-wget is an interface program of GNU wget on Emacs.
+  wgrep                        2.1.3              available  Writable grep buffer and apply the changes to files
+  wgrep-ack                    0.1.1              available  Writable ack-and-a-half buffer and apply the changes to files
+  wgrep-helm                   0.1.0              available  Writable helm-grep-mode buffer and apply the changes to files
+  whole-line-or-region         1.3.1              available  operate on current line if region undefined
+  wiki-nav                     0.6.4              available  Simple file navigation using [[WikiStrings]]
+  wikidoc                      0.8.1              available  use elisp doc strings to make other documentation
+  win-switch                   1.0.8              available  fast, dynamic bindings for window-switching/resizing
+  window-end-visible           0.0.3              available  Find the last visible point in a window
+  window-number                1.0.1              available  Jump to a window by number
+  windsize                     0.1                available  Simple, intuitive window resizing
+  winpoint                     1.4                available  Remember buffer positions per-window, not per buffer
+  wisp-mode                    0.1                available  Major mode for editing wisp: Whitespace-to-Lisp
+  with-namespace               1.1                available  Poor-man's namespaces for elisp
+  workgroups                   0.2.0              available  workgroups for windows (for Emacs)
+  workspaces                   0.1                available  Workspaces for Emacsen 
+  world-time-mode              0.0.2              available  show whole days of world-time diffs
+  wrap-region                  0.7.1              available  Wrap text with punctation or tag
+  writegood-mode               1.2                available  Polish up poor writing on the fly
+  ws-trim                      1.4                available  Tools and minor mode to trim whitespace on text lines
+  wxwidgets-help               0.0.3              available  Look up wxWidgets API by using local html manual.
+  xlicense                     1.1                available  Insert pre-defined license text
+  xml-gen                      0.4                available  A DSL for generating XML.
+  xml-rpc                      1.6.8              available  An elisp implementation of clientside XML-RPC
+  yagist                       0.8.6              available  Yet Another Emacs integration for gist.github.com
+  yaml-mode                    0.0.7              available  Major mode for editing YAML files
+  yaoddmuse                    0.1.1              available  Yet another oddmuse for Emacs
+  yari                         0.6                available  Yet Another RI interface for Emacs
+  yas-jit                      0.8.3              available  Loads Yasnippets on demand (makes start up faster)
+  yascroll                     0.2.0              available  Yet Another Scroll Bar Mode
+  yasnippet                    0.6.1              available  Yasnippet template engine
+  yasnippet-bundle             0.6.1              available  Yet another snippet extension (Auto compiled bundle)
+  zeitgeist                    0.1                available  integrates Emacs with Zeitgeist.
+  zen-and-art-theme            1.0.1              available  zen and art color theme for GNU Emacs 24
+  zen-mode                     20120627           available  remove/restore Emacs distractions quickly
+  zenburn-theme                2.1                available  A low contrast color theme for Emacs.
+  zencoding-mode               0.5.1              available  Unfold CSS-selector-like expressions to markup
+  zjl-hl                       20121028.1901      available  Highlight variable and function call and others in c/emacs, make life easy.
+  znc                          0.0.2              available  ZNC + ERC 

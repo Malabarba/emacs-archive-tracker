@@ -1,0 +1,92 @@
+  vc-darcs                     20090617.1305      available  a VC backend for darcs [darcs]
+  vcard                        0.1                available  vcard parsing and display routines
+  vcl-mode                     20121129.2114      available  Syntax highlighting for Varnish Command Language [github]
+  vcomp                        20121231.1148      available  compare version strings [github]
+  vector-utils                 20121205.1458      available  Vector-manipulation utility functions [github]
+  vertica                      20130213.1545      available  Vertica SQL mode extension [github]
+  viewer                       20130314.2337      available  View-mode extension [wiki]
+  vimgolf                      20120228.848       available  VimGolf interface for the One True Editor [github]
+  vimrc-mode                   20130228.1544      available  Major mode for vimrc files [github]
+  virtualenv                   20120930.1034      available  Virtualenv for Python [github]
+  virtualenvwrapper            20130805.2238      available  a modern virtualenv tool for Emacs [github]
+  visible-color-code           0.0.1              available  color code strings in current buffer, this elisp show you one as real color.
+  visible-mark                 20080221.651       available  Make marks visible. [wiki]
+  visual-regexp                20130527.1820      available  A regexp/replace command for Emacs with interactive visual feedback [github]
+  visual-regexp-steroids       20130411.2323      available  Extends visual-regexp to support other regexp engines [github]
+  vlf                          0.9.1              available  View Large Files
+  vlfi                         20130813.1239      available  View Large Files [github]
+  vline                        20120108.1245      available  show vertical line (column highlighting) mode. [wiki]
+  volatile-highlights          20130321.2241      available  Minor mode for visual feedback on some operations. [github]
+  w32-browser                  21.0               available  Run Windows application associated with a file.
+  w32-registry                 2012.4.6           available  read the registry from elisp
+  w3m                          20130812.2337      available  an Emacs interface to w3m [cvs]
+  wacspace                     20130726.1007      available  The WACky WorkSPACE manager for emACS [github]
+  watch-buffer                 20120331.1344      available  run a shell command when saving a buffer [github]
+  wc-mode                      20120531.1344      available  show wc-like information in status bar [wiki]
+  wcheck-mode                  20130613.1808      available  General interface for text checkers [github]
+  weather                      2012.3.27.2        available  Get weather reports via worldweatheronline.com
+  weather-metno                20121023           available  Weather data from met.no in Emacs
+  web                          20130818.1425      available  useful HTTP client [github]
+  web-mode                     20130818.2201      available  major mode for editing html templates [github]
+  weblogger                    20110926.1218      available  Weblog maintenance via XML-RPC APIs [bzr]
+  websocket                    20130803.1409      available  Emacs WebSocket client and server [github]
+  wedge-ws                     20130804.2311      available  Wedge whitespace between columns in text [github]
+  weechat                      20130813.1432      available  Chat via WeeChat's relay protocol in Emacs [github]
+  wget                         1.94               available  Emacs-wget is an interface program of GNU wget on Emacs.
+  wgrep                        20130723.2134      available  Writable grep buffer and apply the changes to files [github]
+  wgrep-ack                    20121201.2230      available  Writable ack-and-a-half buffer and apply the changes to files [github]
+  wgrep-ag                     20130725.1831      available  Writable ag buffer and apply the changes to files [github]
+  wgrep-helm                   20121201.2230      available  Writable helm-grep-mode buffer and apply the changes to files [github]
+  whole-line-or-region         20110901.930       available  operate on current line if region undefined [github]
+  wide-column                  20120814.912       available  Calls functions dependant on column position. [hg]
+  widget-mvc                   20130430.2357      available  MVC framework for the emacs widgets [github]
+  wiki                         20120807.1458      available  hypertext authoring the WikiWay [wiki]
+  wiki-nav                     20121205.1453      available  Simple file navigation using [[WikiStrings]] [github]
+  wikidoc                      0.8.1              available  use elisp doc strings to make other documentation
+  win-switch                   20130202.1237      available  fast, dynamic bindings for window-switching/resizing [github]
+  window-end-visible           20121025.923       available  Find the last visible point in a window [github]
+  window-jump                  20130224.114       available  Move left/right/up/down through your windows. [github]
+  window-layout                20130806.1054      available  window layout manager [github]
+  window-number                20100803.1327      available  Select windows by numbers [wiki]
+  windresize                   0.1                available  Resize windows interactively
+  windsize                     20110728.1636      available  Simple, intuitive window resizing [github]
+  winpoint                     20120526.2108      available  Remember buffer positions per-window, not per buffer [github]
+  wisp-mode                    20130527.1609      available  Major mode for Wisp code. [github]
+  with-namespace               20130407.1922      available  interoperable elisp namespaces [github]
+  workgroups                   20110724.1825      available  workgroups for windows (for Emacs) [github]
+  workgroups2                  20130707.2016      available  New workspaces for Emacs [github]
+  workspaces                   0.1                available  Workspaces for Emacsen 
+  world-time-mode              20130401.229       available  show whole days of world-time diffs [github]
+  wrap-region                  20130529.728       available  Wrap text with punctation or tag [github]
+  writegood-mode               20130406.2316      available  Polish up poor writing on the fly [github]
+  writeroom-mode               20130315.2007      available  Minor mode for distraction-free writing [github]
+  ws-trim                      1.4                available  Tools and minor mode to trim whitespace on text lines
+  wxwidgets-help               0.0.3              available  Look up wxWidgets API by using local html manual.
+  xclip                        1.0                available  Emacs Interface to XClip
+  xlicense                     1.1                available  Insert pre-defined license text
+  xml-gen                      0.4                available  A DSL for generating XML.
+  xml-rpc                      20130423.1656      available  An elisp implementation of clientside XML-RPC [bzr]
+  xmlgen                       20130219.1019      available  A DSL for generating XML. [github]
+  xterm-frobs                  20091212.55        available  manipulate xterm when running emacs in tty mode [github]
+  yagist                       20130725.2023      available  Yet Another Emacs integration for gist.github.com [github]
+  yalinum                      20130217.1711      available  yet another display line numbers. [github]
+  yaml-mode                    20130311.1301      available  Major mode for editing YAML files [github]
+  yaoddmuse                    20130225.1711      available  Yet another oddmuse for Emacs [wiki]
+  yard-mode                    20130402.1603      available  Minor mode for Ruby YARD comments [github]
+  yari                         20130727.1639      available  Yet Another RI interface for Emacs [github]
+  yas-jit                      0.8.3              available  Loads Yasnippets on demand (makes start up faster)
+  yascroll                     20130321.334       available  Yet Another Scroll Bar Mode [github]
+  yasnippet                    20130722.1832      available  Yet another snippet extension for Emacs. [github]
+  yasnippet-bundle             0.6.1              available  Yet another snippet extension (Auto compiled bundle)
+  yaxception                   20130501.727       available  provide framework about exception like Java for elisp [github]
+  zeitgeist                    20120212.140       available  No description available. [bzr]
+  zen-and-art-theme            20120622.937       available  zen and art color theme for GNU Emacs 24 [github]
+  zen-mode                     20120627           available  remove/restore Emacs distractions quickly
+  zenburn-theme                20130716.1457      available  A low contrast color theme for Emacs. [github]
+  zencoding-mode               20111231.345       available  Unfold CSS-selector-like expressions to markup [github]
+  zjl-hl                       20121028.1901      available  Highlight variable and function call and others in c/emacs, make life easy.
+  zlc                          20130426.1811      available  Provides zsh like completion system to Emacs [github]
+  znc                          20130508.1343      available  ZNC + ERC [github]
+  zoom-frm                     20130807.1542      available  Commands to zoom frame font size. [wiki]
+  zossima                      20121117.108       available  Ruby from Emacs [github]
+  zotelo                       20130428.2053      available  Manage Zotero collections from emacs [github]

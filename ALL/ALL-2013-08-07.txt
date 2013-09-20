@@ -1,0 +1,1496 @@
+  abc-mode                     20130607.917       available  Major mode for editing abc music files [github]
+  abl-mode                     20120718.1655      available  Python TDD minor mode [github]
+  ac-dabbrev                   20091116.1626      available  auto-complete.el source for dabbrev [wiki]
+  ac-helm                      20130412.42        available  Auto Complete with Helm [github]
+  ac-ja                        0.0.1              available  auto-complete-mode source for Japanese 
+  ac-js2                       20130619.1934      available  Auto-complete source for Js2-mode, with navigation [github]
+  ac-math                      20130226.2354      available  Auto-complete sources for input of mathematical symbols and latex tags [github]
+  ac-nrepl                     20130420.929       available  auto-complete sources for Clojure using nrepl completions [github]
+  ac-slime                     20130503.1302      available  An auto-complete source using slime completions [github]
+  ace-jump-buffer              20130627.2104      available  fast buffer switching extension to `ace-jump-mode' [github]
+  ace-jump-mode                20130720.1153      available  a quick cursor location minor mode for emacs [github]
+  ack                          1.2                available  Interface to ack-like source code search tools
+  ack-and-a-half               20130204.1838      available  Yet another front-end for ack [github]
+  ack-menu                     20130312.131       available  A menu-based front-end for ack [github]
+  actionscript-mode            20130328.1110      available  A simple mode for editing Actionscript 3 files [github]
+  adaptive-wrap                0.5                available  Smart line-wrapping with wrap-prefix
+  adoc-mode                    20130118.2207      available  a major-mode for editing AsciiDoc files in Emacs [github]
+  aes                          20130121.413       available  Implementation of AES [github]
+  ag                           20130806.1432      available  A front-end for ag ('the silver searcher'), the C ack replacement. [github]
+  ahg                          20130328.848       available  Alberto's Emacs interface for Mercurial (Hg) [hg]
+  airplay                      20130212.2126      available  Airplay bindings to Emacs [github]
+  alert                        20130510.912       available  Growl-style notification system for Emacs [github]
+  align-cljlet                 20121118.1041      available  Space align various Clojure forms [github]
+  all                          1.0                available  Edit all lines matching a given regexp
+  all-ext                      20130201.1223      available  Extension of M-x all [wiki]
+  alpha                        1.0                available  increase frame transparency
+  ample-theme                  20130806.1130      available  Calm Dark Theme for Emacs [github]
+  anaphora                     20121205.1452      available  anaphoric macros providing implicit temp variables [github]
+  android-mode                 20130806.932       available  Minor mode for Android application development [github]
+  angry-police-captain         20120829.1352      available  Show quote from http://theangrypolicecaptain.com in the minibuffer [github]
+  angular-snippets             20130505.1446      available  Yasnippets for AngularJS [github]
+  annoying-arrows-mode         20130515.1534      available  Ring the bell if using arrows too much [github]
+  ansi                         20121008.1920      available  Turn string into ansi strings [github]
+  anti-zenburn-theme           20130716.24        available  Low-contrast Zenburn-inverted theme [github]
+  anything                     20130606.946       available  open anything / QuickSilver-like candidate-selection framework [git]
+  anything-R                   0.1.2010           available  anything-sources and some utilities for GNU R.
+  anything-complete            1.86               available  completion with anything
+  anything-config              0.4.1              available  Predefined configurations for `anything.el'
+  anything-el-swank-fuzzy      0.1.2009           available  anything-sources for el-swank-fuzzy.el
+  anything-extension           0.2                available  Extension functions for anything.el
+  anything-exuberant-ctags     0.1.2              available  Exuberant ctags anything.el interface
+  anything-git                 1.1.1              available  Show git files in anything
+  anything-git-files           20130609.1843      available  anything for git files [github]
+  anything-git-goto            0.1.0              available  Quick listing of:
+  anything-git-grep            20130609.1111      available  anything for git grep [github]
+  anything-ipython             0.1.2009           available   Ipython anything
+  anything-match-plugin        1.27               available  Humane match plug-in for anything
+  anything-obsolete            0.1                available  obsolete functions of anything
+  anything-show-completion     20091119           available  Show selection in buffer for anything completion
+  apache-mode                  20080905.553       available  major mode for editing Apache configuration files [wiki]
+  applescript-mode             20090320.2332      available  major mode for editing AppleScript source [github]
+  apt-utils                    20080905.554       available  Emacs interface to APT (Debian package management) [wiki]
+  apt-utils-ido                20130527.2145      available  Ido commands for apt-utils [github]
+  archive-region               20130130.2149      available  Move region to archive file instead of killing [wiki]
+  ascii                        20110112.258       available  ASCII code display. [wiki]
+  ascope                       20130328.1110      available  Another cscope interface for emacs [wiki]
+  assemblage-theme             20130715.621       available  a dark theme for Emacs 24
+  async                        20130716.1449      available  Asynchronous processing in Emacs [github]
+  auctex                       11.86.1            available  Integrated environment for *TeX*
+  auctex-latexmk               20130620.2312      available  Add LatexMk support to AUCTeX [github]
+  audio-notes-mode             20130720.30        available  Play audio notes synced from somewhere else. [github]
+  auto-async-byte-compile      20120811.837       available  Automatically byte-compile when saved [wiki]
+  auto-auto-indent             20130531.1903      available  Indents code as you type [github]
+  auto-capitalize              20101130.2120      available  Automatically capitalize (or upcase) words [wiki]
+  auto-compile                 20130701.215       available  automatically compile Emacs Lisp libraries [github]
+  auto-complete                20130724.1750      available  Auto Completion for GNU Emacs [github]
+  auto-complete-clang          20120612.2224      available  Auto Completion source for clang for GNU Emacs [github]
+  auto-complete-clang-async    20130526.2314      available  Auto Completion source for clang for GNU Emacs [github]
+  auto-dictionary              20130628.1153      available  automatic dictionary switcher for flyspell [github]
+  auto-dim-other-buffers       20130429.2026      available  Visually makes non-current buffers less prominent [github]
+  auto-highlight-symbol        1.55               available  Automatic highlighting current symbol minor mode
+  auto-indent-mode             20130729.907       available  Auto indent Minor mode [github]
+  auto-install                 20130306.426       available  Auto install elisp file [wiki]
+  auto-save-buffers-enhanced   20130605.2340      available  Automatically save buffers in a decent way [github]
+  auto-shell-command           20130405.123       available  Run the shell command asynchronously that you specified when you save the file. [github]
+  autopair                     20121123.1829      available  Automagically pair braces and quotes like TextMate [github]
+  awk-it                       20130414.1900      available  Run AWK interactively on region! [wiki]
+  babcore                      0.0.2              available  Core Emacs configuration. This should be the minimum in every emacs config.
+  back-button                  20121205.1452      available  Visual navigation through mark rings [github]
+  backtrace-mode               20130223.1354      available  A better way to browse /var/log/messages files [github]
+  backup-each-save             20130704.1432      available  backup each savepoint of a file [wiki]
+  backup-walker                20130720.2316      available  quickly traverse all backups of a file [github]
+  bang                         0.1.0              available  A modern list library for Emacs
+  bar-cursor                   1.1                available  package used to switch block cursor to a bar
+  base16-theme                 20130216.947       available  No description available. [github]
+  bash-completion              20130526.544       available  BASH completion for the shell buffer [github]
+  batch-mode                   20110113.952       available  major mode for editing ESRI batch scrips [wiki]
+  bbcode-mode                  20130227.1437      available  Major mode for writing BBCode markup [github]
+  bbdb                         20130728.2143      available  core of BBDB [git]
+  bbdb-ext                     20130513.1952      available  Extra commands for BBDB [github]
+  bbdb-vcard                   20130605.1520      available  vCard import/export for BBDB [github]
+  bbdb2erc                     20130607.829       available  make bbdb show if pal is online with ERC, click i to chat [github]
+  bdo                          20130510.1321      available  Do things to a browser page from Emacs. BETA! [github]
+  better-defaults              20130422.1322      available  Fixing weird quirks and poor defaults [github]
+  bf-mode                      20130403.2255      available  Browse file persistently on dired [github]
+  bibretrieve                  20130611.1145      available  Retrieving BibTeX entries from the web [github]
+  bibslurp                     20130805.2123      available  retrieve BibTeX entries from NASA ADS [github]
+  bigint                       1.0.0              available  A simple bigint package for emacs
+  bind-key                     20130728.945       available  A simple way to manage personal keybindings [github]
+  birds-of-paradise-plus-theme 20130401.1436      available  A brown/orange light-on-dark theme for Emacs 24 (deftheme). [github]
+  bitlbee                      20130328.1118      available  Help get Bitlbee (http://www.bitlbee.org) up and running. [github]
+  bitly                        20130503.1049      available  Shorten URLs using the bitly.com shortener service [github]
+  blank-mode                   20080905.553       available  minor mode to visualize TAB, (HARD) SPACE, NEWLINE [wiki]
+  bm                           20121212.2224      available  Visible bookmarks in buffer. [github]
+  bookmark+                    20130724.1518      available  Bookmark+: extensions to standard library `bookmark.el'. [wiki]
+  boxquote                     20081011.2126      available  Quote text with a semi-box. [github]
+  browse-kill-ring             20130729.1607      available  interactively insert items from kill-ring [github]
+  browse-url-dwim              20121205.1453      available  Context-sensitive external browse URL or Internet search [github]
+  bs-ext                       20130511.2339      available  Extensions to emacs buffer-selection library (bs.el) [wiki]
+  buffer-move                  20110305.249       available  Swap buffers without typing C-x b on each window [wiki]
+  buffer-stack                 20101223.1020      available  Enhanced intelligent switch-to-other-buffer replacement. [wiki]
+  buffer-utils                 20121025.1239      available  Buffer-manipulation utility functions [github]
+  bufshow                      20130711.1139      available  A simple presentation tool for Emacs. [github]
+  bug-reference-github         20121031.738       available  Automatically set `bug-reference-url-format' in Github repositories. [github]
+  bundler                      20130316.2242      available  Interact with Bundler from Emacs [github]
+  buster-mode                  20121219.1422      available  Minor mode to speed up development when writing tests with Buster.js [github]
+  buster-snippets              20130714.1440      available  Yasnippets for the Buster javascript testing framework [github]
+  butler                       20130714.1457      available  Client for Jenkins [github]
+  button-lock                  20121205.1453      available  Clickable text defined by regular expression [github]
+  c-eldoc                      20120430.408       available  helpful description of the arguments to C functions [github]
+  cache                        20111019.1600      available  implementation of a hash table whose key-value pairs expire [github]
+  cacoo                        20120319.2027      available  Minor mode for Cacoo : http://cacoo.com [github]
+  calfw                        20130202.2206      available  Calendar view framework on Emacs [github]
+  calfw-gcal                   20120111.1900      available  edit Google calendar for calfw.el. [github]
+  caml                         20130322.1319      available  No description available. [svn]
+  capture                      20130710.942       available  easy screencasting using the avconv program [github]
+  cask                         20130806.2048      available  Emacs dependency management made easy [github]
+  cdlatex                      4.0                available  Fast input methods for LaTeX environments and math
+  center-text                  0.8                available  Center the text in a fixed-width column
+  centered-cursor-mode         20100310.1348      available  cursor stays vertically centered [wiki]
+  change-inner                 20130208.2030      available  Change contents based on semantic units [github]
+  charmap                      20130331.125       available  Unicode table for Emacs [github]
+  chicken-scheme               20130502.2142      available  Scheme-mode extensions for Chicken Scheme [github]
+  chm-view                     20110616.1719      available  View CHM file. [wiki]
+  circe                        20130701.1628      available  Client for IRC in Emacs [github]
+  citrus-mode                  20121008.1918      available  Major mode for editing Citrus files [github]
+  cl-format                    1.1                available  CL format routine.
+  cl-lib                       0.3                available  Properly prefixed CL functions and macros
+  clippy                       20130612.310       available  Show tooltip with function documentation at point [github]
+  clips-mode                   0.6                available  Major mode for editing CLIPS code and REPL
+  clj-mode                     0.9                available  basic Major mode (clj) for Clojure code
+  clj-refactor                 20130205.1310      available  A collection of clojure refactoring functions [github]
+  cljdoc                       0.1.0              available  eldoc mode for clojure
+  cljsbuild-mode               20130110.1632      available  A minor mode for the ClojureScript 'lein cljsbuild' command [github]
+  clojure-mode                 20130806.1837      available  Major mode for Clojure code [github]
+  clojure-project-mode         1.0                available  Extends project-mode for Clojure projects
+  clojure-snippets             20130403.2046      available  Yasnippets for clojure [github]
+  clojure-test-mode            20130618.1420      available  Minor mode for Clojure tests [github]
+  clojurescript-mode           0.5                available  Major mode for ClojureScript code
+  closure-lint-mode            20101118.2224      available  minor mode for the Closure Linter [github]
+  closure-template-html-mode   0.1                available  highlighting for google closure templates
+  cloud-to-butt-erc            20130627.1908      available  Replace 'the cloud' with 'my butt' [github]
+  clues-theme                  20130720.1601      available  Emacs 24 theme which is ok I suppose [github]
+  cm-mode                      0.1.0              available  Wrapper for CodeMirror-style Emacs modes
+  cmake-mode                   20110824           available  major-mode for editing CMake sources
+  cmake-project                0.6                available  Integrates CMake build process with Emacs
+  cn-outline                   20100322.114       available  No description available. [github]
+  code-headers                 0.7                available  Navigate code with headers embedded in comments.  -*- mode: Emacs-Lisp; lexical-binding: t; -*
+  coffee-fof                   20130422.201       available  A coffee-mode configuration for `ff-find-other-file'. [github]
+  coffee-mode                  20130618.1418      available  Major mode to edit CoffeeScript files in Emacs [github]
+  col-highlight                20130723.2148      available  Highlight the current column. [wiki]
+  color-file-completion        1.0.1              available  add colors to file completion
+  color-moccur                 20120811.2127      available  multi-buffer occur (grep) mode [github]
+  color-theme                  20080305.834       available  install color themes [bzr]
+  color-theme-active           0.0.1              available  Active theme inspired by jEdit theme of the same name
+  color-theme-actress          0.2.2              available  A dark color theme for GNU Emacs.
+  color-theme-approximate      20130329.933       available  Makes Emacs theme works on terminal transparently [github]
+  color-theme-blackboard       0.0.2              available  Blackboard Colour Theme for Emacs.
+  color-theme-buffer-local     20120703.17        available  Install color-themes by buffer. [github]
+  color-theme-cobalt           0.0.2              available  Cobalt Color Theme for Emacs
+  color-theme-colorful-obso... 0.0.1              available  Colorful Obsolescence theme designed for partially transparent windows
+  color-theme-complexity       0.1.0              available  A black and green color theme for Emacs.
+  color-theme-dawn-night       1.0                available  color theme of dawn and night.
+  color-theme-dg               0.1.0              available  A black and green color theme for Emacs.
+  color-theme-dpaste           0.0.1              available  Dpaste color theme for GNU Emacs.
+  color-theme-eclipse          0.0.2              available  Eclipse color theme for GNU Emacs.
+  color-theme-emacs-revert-... 0.1                available  Color-theme revert to emacs colors
+  color-theme-github           0.0.3              available  Github color theme for GNU Emacs.
+  color-theme-gruber-darker    1                  available  Gruber Darker color theme for Emacs by Jason Blevins
+  color-theme-heroku           1.0.0              available  Heroku color theme
+  color-theme-ir-black         1.0.1              available  pastel color theme 
+  color-theme-library          0.0.10             available  The real color theme functions
+  color-theme-molokai          0.1                available  Molokai color theme by Lloyd
+  color-theme-monokai          0.0.5              available  Monokai Color Theme for Emacs.
+  color-theme-railscasts       0.0.2              available  Railscasts color theme for GNU Emacs.
+  color-theme-sanityinc-sol... 20130716.2117      available  A version of Ethan Schoonover's Solarized themes [github]
+  color-theme-sanityinc-tom... 20130726.2201      available  A version of Chris Kempson's various Tomorrow themes [github]
+  color-theme-solarized        20130307.1350      available  Solarized themes for Emacs [github]
+  color-theme-tango            0.0.2              available  Tango palette color theme for GNU Emacs.
+  color-theme-twilight         0.1                available  Twilight Colour Theme for Emacs.
+  color-theme-vim-insert-mode  0.1                available  Color theme VIM insert mode
+  color-theme-wombat           0.0.1              available  The wombat color theme for Emacs.
+  color-theme-wombat+          0.0.2              available  wombat with improvements and many more faces
+  color-theme-x                1.3                available  convert color themes to X11 resource settings
+  colour-region                0.4                available  Toggle regions of the buffer with different text snippets
+  column-marker                20121128.843       available  Highlight certain character columns [wiki]
+  combinators                  0.0.1              available  -*- lexical-binding: t; -*-
+  command-frequency            1.1                available  Track command frequencies
+  command-stats                0.1                available  Track frequency of commands executed in emacs
+  command-t                    0.0.1              available  Finds file in project using fuzzy search.
+  commander                    20130731.1431      available  Emacs command line parser [github]
+  company                      20130806.2026      available  Modular in-buffer completion framework [github]
+  company-cmake                20130712.1700      available  company-mode completion back-end for CMake [github]
+  company-inf-ruby             20130630.2230      available  company-mode completion back-end for inf-ruby [github]
+  concurrent                   20120306.1807      available  Concurrent utility functions for emacs lisp [github]
+  config-block                 0.0.1              available  config-block is utility for individual settings (e.g. .emacs).
+  confluence                   20130804.2240      available  Emacs mode for interacting with confluence wikis [svn]
+  confluence-edit              20130804.2241      available  Emacs mode for editing confluence content buffers [svn]
+  control-lock                 1.1.2              available  Like caps-lock, but for your control key.  Give your pinky a rest!
+  cperl-mode                   20130619.1241      available  Perl code editing commands for Emacs [github]
+  cppcheck                     1.0                available  run cppcheck putting hits in a grep buffer
+  cpputils-cmake               0.4.0              available  Easy real time C++ syntax check and intellisense if you use CMake.
+  crab                         20130609.1058      available  WebSocket server to remotely control a browser [github]
+  crappy-jsp-mode              20121117.1856      available  A pretty crappy major-mode for jsp. [github]
+  creole                       20130802.922       available  A parser for the Creole Wiki language [github]
+  creole-mode                  0.0.5              available  a markup mode for creole
+  crontab-mode                 20090510.2255      available  Mode for editing crontab files [github]
+  crosshairs                   20130723.2151      available  Highlight the current line and column. [wiki]
+  cryptol-mode                 20130406.2043      available  Cryptol major mode for Emacs [github]
+  csharp-mode                  20120204.1826      available  C# mode derived mode [wiki]
+  csv-mode                     20130424.1528      available  Major mode for editing comma/char separated values [github]
+  csv-nav                      20130407.1820      available  navigate and edit CSV files [wiki]
+  ctable                       20130706.1939      available  Table component for Emacs Lisp [github]
+  ctags                        20110911.1204      available  Exuberant Ctags utilities for Emacs [hg]
+  ctags-update                 20130703.23        available  (auto) update TAGS in parent directory using exuberant-ctags [github]
+  ctypes                       1.2                available  Enhanced Font lock support for custom defined types.
+  cubicle-mode                 0.1                available  Cubicle major mode for emacs
+  cups                         0.1                available  CUPS features for Emacs
+  current-story                0.1.0              available  Track and insert current Pivotal Tracker
+  cursor-chg                   20130723.2244      available  Change cursor dynamically, depending on the context. [wiki]
+  cus-edit+                    20130723.2245      available  Enhancements to `cus-edit.el'. [wiki]
+  cyberpunk-theme              20130515.1255      available  Cyberpunk Color Theme [github]
+  cycbuf                       0.5.0              available  Cycle buffers code by Martin Pohlack, inspired by
+  cygwin-mount                 2001               available  Teach EMACS about cygwin styles and mount points.
+  d-mode                       20130807.32        available  D Programming Language mode for (X)Emacs [github]
+  darcsum                      20120115.1513      available  a pcl-cvs like interface for managing darcs patches [darcs]
+  dart-mode                    20121218.1449      available  Major mode for editing Dart files [github]
+  dash                         20130712.2307      available  A modern list library for Emacs [github]
+  dash-at-point                20130417.1034      available  Search the word at point with Dash [github]
+  datomic-snippets             20130707.2215      available  Yasnippets for Datomic [github]
+  db                           20130125.1829      available  A database for EmacsLisp [github]
+  db-pg                        0.0.3              available  A PostgreSQL adapter for emacs-db
+  debbugs                      0.4                available  SOAP library to access debbugs servers
+  debian-changelog-mode        1.96               available  major mode for Debian changelog files.
+  dedicated                    20090428.2131      available  A very simple minor mode for dedicated buffers [github]
+  deep-thought-theme           0.1.1              available  Emacs 24 theme with the Answer to The Ultimate Question
+  defaultcontent               1.4                available  a templating tool. Fill new files with default content.
+  deferred                     20130523.1007      available  Simple asynchronous functions for emacs lisp [github]
+  deft                         20130707.918       available  quickly browse, filter, and edit plain text notes [git]
+  delim-kill                   20100517.820       available  Kill text between delimiters. [github]
+  descbinds-anything           1.5                available  Yet Another `describe-bindings' with `anything'.
+  desktop                      0.1                available  save partial status of Emacs when killed
+  desktop-registry             20130604.157       available  Keep a central registry of desktop files [git]
+  diatheke                     1.0                available  A minor mode using the diatheke command-line Bible tool
+  dic-lookup-w3m               20121101.1233      available  look up dictionaries on the Internet [svn]
+  dict-tree                    0.12.8             available  Dictionary data structure
+  diff-hl                      20130419.2347      available  Highlight uncommitted changes [github]
+  diminish                     20091203.1912      available  Diminished modes are minor modes with no modeline display [github]
+  dircmp                       20130806.1457      available  Compare and sync directories. [github]
+  dired+                       20130724.1508      available  Extensions to Dired. [wiki]
+  dired-details                20130328.1119      available  make file details hide-able in dired [wiki]
+  dired-details+               20130723.2252      available  Enhancements to library `dired-details+.el'. [wiki]
+  dired-dups                   20130527.2225      available  Find duplicate files and display them in a dired buffer [github]
+  dired-efap                   20130607.1446      available  Edit Filename At Point in a dired buffer [github]
+  dired-single                 20130207.2150      available  Reuse the current dired buffer to visit another directory [wiki]
+  direx                        20130708.1904      available  Simple Directory Explorer [github]
+  disaster                     20130509.1355      available  Disassemble C/C++ code under cursor in Emacs [github]
+  disk                         20081128.1506      available  simplified find-file, revert-file, save-buffer interface [wiki]
+  dispass                      20130216.1048      available  Emacs wrapper for DisPass [github]
+  dix                          0.1.0              available  minor mode for editing Apertium XML dictionary files
+  dizzee                       20111009.1416      available  A more pleasant way to manage your project's subprocesses in Emacs. [github]
+  django-theme                 20130309.1841      available  Custom face theme for Emacs [github]
+  djvu                         0.5                available  Edit and view Djvu files via djvused
+  dna-mode                     20120510.1800      available  a major mode for editing dna sequences [github]
+  doc-mode                     0.2                available  convenient editing of in-code documentation
+  docbook                      0.1                available  Info-like viewer for DocBook
+  docbook-snippets             20130717.349       available  Yasnippets for DocBook [github]
+  doctags                      0.1                available  Generation of tags documentation in Doxygen syntax
+  dollaro                      20130620.2225      available  simple text templates [github]
+  dom                          20091224.1827      available  DOM implementation [wiki]
+  dot-mode                     20100803.1208      available  Minor mode to repeat typing or commands [wiki]
+  dotassoc                     0.0.1              available  dot access embedded alists
+  dpaste                       20120823.1129      available  Emacs integration for dpaste.com [github]
+  dpaste_de                    20130318.2301      available  Emacs mode to paste to dpaste.de [github]
+  drag-stuff                   20130412.1112      available  Drag stuff (lines, words, region, etc...) around [github]
+  drill-instructor-AZIK-force  20120908.1017      available  Support AZIK input [github]
+  dropbox                      20130513.1837      available  Emacs backend for dropbox [github]
+  dropdown-list                20120329.1636      available  Drop-down menu interface [wiki]
+  drupal-mode                  20130725.1822      available  Advanced minor mode for Drupal development [github]
+  drupal-spell                 20130520.1854      available  Aspell extra dictionary for Drupal [github]
+  dsvn                         20130120.1457      available  Subversion interface [svn]
+  dtrt-indent                  0.2.0              available  Adapt to foreign indentation offsets
+  dummy-h-mode                 20120906.1018      available  switch major mode to c-/c++-/objc-mode on .h file [wiki]
+  duplicate-thing              20120516.148       available  Duplicate current line & selection [github]
+  durendal                     0.2                available  A bucket of tricks for Clojure and Slime.
+  dylan-mode                   20130726.1211      available  Major mode for editing Dylan programs. [github]
+  dynamic-fonts                20121218.1153      available  Set faces based on available fonts [github]
+  e2wm                         20130427.1620      available  simple window manager for emacs [github]
+  e2wm-R                       20130506.1408      available  some e2wm plugin and perspective for GNU R [github]
+  e2wm-bookmark                20120812.1550      available  Bookmark plugin for e2wm.el [github]
+  e2wm-svg-clock               20130304.626       available  e2wm plugin for svg-clock [github]
+  easy-after-load              20121224.2049      available  eval-after-load for all files in a directory [github]
+  ebib                         20130517.2212      available  a BibTeX database manager [github]
+  ecb                          20130406.1406      available  a code browser for Emacs [github]
+  ecb-snapshot                 20120830           available  Emacs Code Browser CVS snapshot
+  ecukes                       20130727.2035      available  Cucumber for Emacs. [github]
+  edbi                         20130628.1458      available  Emacs Database Interface [github]
+  edebug-x                     20130616.1455      available  Extensions for Edebug [github]
+  ediprolog                    1.0                available  Emacs Does Interactive Prolog
+  edit-color-stamp             20130529.1833      available  Edit a hex color stamp, using a QT or the internal color picker [github]
+  edit-list                    20100930.1643      available  edit a single list [github]
+  edit-server                  20130804.2144      available  server that responds to edit requests from Chrome [github]
+  edit-server-htmlize          20130327.1537      available  (de)HTMLization hooks for edit-server.el [github]
+  editorconfig                 20130802.1542      available  EditorConfig Emacs extension [github]
+  egg                          20130702.925       available  Emacs Got Git - Emacs interface to Git [github]
+  egison-mode                  20130620.1829      available  Egison editing mode [github]
+  eh-basic                     0.0.2              available  tuamshu's emacs basic configure
+  eh-functions                 0.0.1              available  tuamshu's emacs functions
+  eh-gnus                      0.0.6              available  tuamshu's gnus configure
+  eh-keybindings               0.0.1              available  tuamshu's emacs keybindings
+  eieio                        1.4                available  Enhanced Implememntation of Emacs Interpreted Objects
+  eimp                         20091025.922       available  Emacs Image Manipulation Package [wiki]
+  ein                          20130710.2114      available  Emacs IPython Notebook [github]
+  el-autoyas                   20120918.817       available  Automatically create Emacs-Lisp Yasnippets [github]
+  el-mock                      20121004.2057      available  Tiny Mock and Stub framework in Emacs Lisp [wiki]
+  el-spec                      20121018.304       available  ruby's rspec like syntax test frame work [github]
+  el-swank-fuzzy               20091023.1909      available  fuzzy symbol completion. [wiki]
+  el-x                         20130418.2335      available  main entry point for el-x package [github]
+  eldoc-eval                   20130421.757       available  Show eldoc when using M-: [github]
+  eldoc-extension              20130410.17        available  Some extension for eldoc [wiki]
+  electric-case                20130620.1754      available  insert camelCase, snake_case words without "Shift"ing [github]
+  elein                        20120118.1537      available  running leiningen commands from emacs [github]
+  elisp-cache                  1.15               available  Faster emacs startup through byte-compiling.
+  elisp-depend                 20120427.123       available  Parse depend libraries of elisp file. [wiki]
+  elisp-slime-nav              20130612.1246      available  Make M-. and M-, work in elisp like they do in slime [github]
+  elixir-mix                   20130720.1119      available  Emacs integration for Elixir's mix [github]
+  elixir-mode                  20130721.2352      available  Major mode for editing Elixir files [github]
+  elmine                       20130330.2100      available  Redmine API access via elisp. [github]
+  elnode                       20130416.1626      available  The Emacs webserver. [github]
+  elpa-audit                   20130514.1209      available  Handy functions for inspecting and comparing package archives [github]
+  elpakit                      1.0.7              available  package archive builder
+  elpy                         20130719.2030      available  Emacs Lisp Python Environment [github]
+  elscreen                     20120413.1107      available  Emacs window session manager [github]
+  emacs-droid                  0.0.0              available  Android application development tools for Emacs
+  emacs-eclim                  20130716.1734      available  An interface to the Eclipse IDE. [github]
+  emacs-highlight-unique-sy... 20130612.1442      available  highlight symbols which not appear in the repository [github]
+  emacs-setup                  20120727.926       available  Package for maintaining your emacs configuration. Clean up your .emacs! [github]
+  emacsc                       20130712.1419      available  helper for emacsc(1) [github]
+  emacsd-tile                  0.1                available  tiling windows for emacs
+  emagician-fix-spell-memory   20130415.1244      available  Simple hack into ispell to fix (muscle) memory problems [github]
+  emamux                       20130331.2353      available  Interact with tmux [github]
+  emamux-ruby-test             20130722.1942      available  Ruby test with emamux [github]
+  emmet-mode                   20130806.1047      available  Unofficial Emmet's support for emacs [github]
+  emms                         20130530.1819      available  The Emacs Multimedia System [git]
+  emms-mark-ext                20130529.427       available  Extra functions for emms-mark-mode and emms-tag-edit-mode [github]
+  emr                          20130619.2216      available  Emacs refactoring system. [github]
+  emstar                       1.4                available  Casual game, like a brainy Pac-Man
+  enclose                      20121008.1814      available  Enclose cursor within punctuation pairs. [github]
+  enh-ruby-mode                20130701.1347      available  Major mode for editing Ruby files [github]
+  enotify                      20130407.1548      available  A networked notification system for emacs [github]
+  enwc                         1.0                available  The Emacs Network Client
+  epc                          20130804.1428      available  A RPC stack for the Emacs Lisp [github]
+  epic                         20130320.1540      available  Evernote Picker [github]
+  epoch-view                   0.0.1              available  Minor mode to visualize epoch timestamps
+  eproject                     20130220.1109      available  assign files to projects, programatically [github]
+  erc-hl-nicks                 20130114.1648      available  ERC nick highlighter that ignores uniquifying chars when colorizing [github]
+  erc-image                    20130424.14        available  Show received image urls in the ERC buffer [github]
+  erc-terminal-notifier        20130509.1829      available  OSX notifications via the terminal-notifier gem for Emacs ERC. [github]
+  erc-track-score              20130328.1315      available  Add score support to tracked channel buffers [git]
+  erc-tweet                    20130618.1508      available  shows text of a tweet when an url is posted in erc buffers [github]
+  ercn                         20121230.1313      available  Flexible ERC notifications [github]
+  eredis                       20120808.2207      available  eredis, a Redis client in emacs lisp [svn]
+  erefactor                    20130521.1838      available  Emacs-Lisp refactoring utilities [github]
+  ergoemacs-mode               20130806.1119      available  Emacs mode based on common modern software interface and ergonomics. [github]
+  erlang                       20130701.1012      available  Erlang major mode [github]
+  ert                          0                  available  Emacs Lisp Regression Testing
+  ert-expectations             20121009.734       available  The simplest unit test framework in the world [wiki]
+  ert-runner                   20130730.919       available  Opinionated Ert testing workflow [github]
+  ert-x                        0                  available  Staging area for experimental extensions to ERT
+  es-lib                       20130801.1212      available  A collection of emacs utilities [github]
+  escreen                      20091203.1913      available  emacs window session manager [github]
+  esh-buf-stack                20130620.2354      available  Add a buffer stack feature to Eshell [github]
+  esh-help                     20130708.1932      available  Add some help functions and support for Eshell [github]
+  eshell-manual                0.0.2              available  An updated manual for Eshell.
+  esk                          0.1                available  Emacs Search Kit - An easy way to find files and/or strings in a project
+  espresso-theme               20130301.1148      available  Espresso Tutti Colori port for Emacs [github]
+  espuds                       20130226.2124      available  Ecukes step definitions [github]
+  ess                          20130711.2359      available  No description available. [github]
+  ess-R-data-view              20130509.2058      available  Data viewer for GNU R [github]
+  ess-R-object-popup           20130302.2036      available  popup description of R object [github]
+  ess-smart-underscore         0.79               available  Ess Smart Underscore
+  esup                         20130607.1650      available  the Emacs StartUp Profiler (ESUP) [github]
+  esxml                        20130512.1747      available  Library for working with xml via esxml and sxml [github]
+  etags-select                 1.13               available  Select from multiple tags
+  etags-table                  20090327.1737      available  Set tags table(s) based on current file [wiki]
+  ethan-wspace                 20130518.1144      available  whitespace customizations for emacs [github]
+  evernote-mode                0.41               available  Evernote client for Emacs
+  everything                   0.1.5              available  Bridge to MS Windows desktop-search engine Everything
+  eviews                       0.1                available  Major-mode for editing eviews program files
+  evil                         20130804.1513      available  Extensible Vi layer for Emacs. [git]
+  evil-leader                  20130730.1744      available  let there be <leader> [github]
+  evil-nerd-commenter          20130727.2248      available  Comment/uncomment lines efficiently. Like Nerd Commenter in Vim [github]
+  evil-numbers                 20121109.238       available  increment/decrement numbers like in vim [github]
+  evil-paredit                 20130408.1611      available  Paredit support for evil keybindings [github]
+  exec-path-from-shell         20130806.925       available  Get environment variables such as $PATH from the shell [github]
+  expand-region                20130710.1104      available  Increase selected region by semantic units. [github]
+  expectations-mode            0.0.4              available  Minor mode for expectations tests
+  express                      20130522.1214      available  Alternatives to `message' [github]
+  extend-dnd                   20130328.1234      available  R drag and Drop [github]
+  f                            20130729.1445      available  Modern API for working with files and directories [github]
+  f90-interface-browser        1.1                available  Parse and browse f90 interfaces
+  factlog                      20130210.240       available  File activity logger [github]
+  fakespace                    20120817.2006      available  fake namespaces with defpackage [github]
+  fakir                        20130711.2122      available  fakeing bits of Emacs [github]
+  fancy-mode                   0.1                available  Major mode for programming with the Fancy language.
+  fastnav                      20120211.1557      available  Fast navigation and editing routines. [github]
+  feature-mode                 20130714.2220      available  Major mode for editing Gherkin (i.e. Cucumber) user stories [github]
+  fetchmacs                    20130323.1403      available  A major mode for the Fetchnotes note taking service [github]
+  fic-ext-mode                 0.1                available  Show FIXME/TODO/BUG(...) in special face only in comments and strings
+  fic-mode                     20101029.1604      available  Show FIXME/TODO/BUG/KLUDGE in special face only in comments and strings [wiki]
+  figlet                       20120601.1515      available  Annoy people with big, ascii art text [hg]
+  fill-column-indicator        20130126.1540      available  Graphically indicate the fill column [github]
+  find-file-in-git-repo        0.1.2              available  Utility to find files in a git repo
+  find-file-in-project         20120716.1655      available  Find files in a project quickly. [github]
+  find-file-in-repository      20130221.811       available  Quickly find files in a git, mercurial or other repository [github]
+  find-things-fast             20111123.2341      available  An emacs mode to find things fast and move around in a project quickly [github]
+  findr                        20130127.2032      available  Breadth-first file-finding facility for (X)Emacs [wiki]
+  fiplr                        20130713.2058      available  Fuzzy Search for Files in Projects [github]
+  fit-frame                    20130723.2311      available  Resize a frame.  In particular, fit a frame to its buffers. [wiki]
+  fixmee                       20121205.1450      available  Quickly navigate to FIXME notices in code [github]
+  flex-autopair                20120809.2118      available  Automatically insert pair braces and quotes, insertion conditions & actions are highly customizable. [github]
+  flex-isearch                 20130508.1703      available  Flex matching (like ido) in isearch. [hg]
+  floobits                     20130805.1800      available  Floobits plugin for real-time collaborative editing [github]
+  flx                          20130728.2028      available  fuzzy matching with good sorting [github]
+  flx-ido                      20130728.820       available  flx integration for ido [github]
+  fly-jshint-wsh               2.0.3              available  use flymake with jshint on js code, on Windows
+  flycheck                     20130806.2030      available  On-the-fly syntax checking (Flymake done right) [github]
+  flycheck-color-mode-line     20130604.2321      available  Change mode line color with Flycheck status [github]
+  flycheck-d                   20130708.2100      available  Add D support to flycheck [github]
+  flymake                      0.4.16             available  a universal on-the-fly syntax checker
+  flymake-checkers             0.3                available  Flymake reloaded with useful checkers
+  flymake-coffee               20130805.1101      available  A flymake handler for coffee script [github]
+  flymake-css                  20121104.1904      available  Flymake support for css using csslint [github]
+  flymake-csslint              1.1.0              available  making flymake work with CSSLint
+  flymake-cursor               20121220.957       available  displays flymake error msg in minibuffer after delay [wiki]
+  flymake-d                    0.1                available  A flymake handler for d-mode files
+  flymake-easy                 20130610.1705      available  Helpers for easily building flymake checkers [github]
+  flymake-elixir               20130420.59        available  A flymake handler for elixir-mode .ex files. [github]
+  flymake-for-jslint-for-wsh   1.3.0              available  use flymake with js code, on Windows
+  flymake-gjshint              20130327.2132      available  A flymake handler for javascript using both jshint and gjslint [github]
+  flymake-go                   20130314.1541      available  A flymake handler for go-mode files [github]
+  flymake-haml                 20130324.1051      available  A flymake handler for haml files [github]
+  flymake-haskell-multi        20130620.1222      available  Syntax-check haskell-mode using both ghc and hlint [github]
+  flymake-hlint                20130309.945       available  A flymake handler for haskell-mode files using hlint [github]
+  flymake-jshint               20130610.1057      available  making flymake work with JSHint [github]
+  flymake-jslint               20130613.1002      available  A flymake handler for javascript using jslint [github]
+  flymake-json                 20130424.757       available  A flymake handler for json using jsonlint [github]
+  flymake-less                 0.2                available  Flymake handler for LESS stylesheets (lesscss.org)
+  flymake-lua                  20130329.1110      available  Flymake for Lua [github]
+  flymake-perlcritic           20120328.914       available  Flymake handler for Perl to invoke Perl::Critic [github]
+  flymake-php                  20121104.1902      available  A flymake handler for php-mode files [github]
+  flymake-phpcs                1.0.5              available  Flymake handler for PHP to invoke PHP-CodeSniffer
+  flymake-puppet               20130731.2203      available  An Emacs flymake handler for syntax-checking puppet using puppet-lint [github]
+  flymake-python-pyflakes      20130730.131       available  A flymake handler for python-mode files using pyflakes (or flake8) [github]
+  flymake-ruby                 20121104.1859      available  A flymake handler for ruby-mode files [github]
+  flymake-sass                 20121218.812       available  Flymake handler for sass and scss files [github]
+  flymake-shell                20121104.1900      available  A flymake syntax-checker for shell scripts [github]
+  flymake-tuareg               0.1                available  A flymake handler for tuareg-mode files
+  flymake-yaml                 20130424.48        available  A flymake handler for YAML [github]
+  flyphpcs                     1.0.1              available  Flymake for PHP via PHP-CodeSniffer
+  flyspell-lazy                20121207.1630      available  Improve flyspell responsiveness using idle timers [github]
+  fm                           20130612.1         available  follow mode for compilation/output buffers
+  fold-dwim                    20120926.1236      available  No description available. [github]
+  fold-dwim-org                20111202.902       available  Fold DWIM bound to org key-strokes. [github]
+  fold-this                    20121218.1630      available  Just fold this region please [github]
+  font-utils                   20121205.1454      available  Utility functions for working with fonts [github]
+  foreign-regexp               20130618.1921      available  search and replace by foreign regexp. [github]
+  frame-cmds                   20130723.2317      available  Frame and window commands (interactive functions). [wiki]
+  frame-fns                    20130723.2318      available  Non-interactive frame and window functions. [wiki]
+  frame-restore                20130806.2021      available  Restore Emacs frame [github]
+  frame-tag                    20120527.1636      available  Minor mode that assigns a unique number to each frame for easy switching [github]
+  framemove                    20130328.1133      available  directional frame selection routines [wiki]
+  framesize                    0.0.1              available  change the size of frames in Emacs
+  fringe-helper                20130519.1641      available  helper functions for fringe bitmaps [github]
+  fsharp-mode                  20130719.2017      available  F# mode for Emacs [github]
+  fsvn                         0.9.13             available  Another frontend of subversion.
+  fuel                         20130805.1116      available  Major mode for the Factor programming language. [git]
+  full-ack                     20130423.2204      available  a front-end for ack [github]
+  fullscreen-mode              20130524.956       available  fullscreen window support for Emacs [github]
+  furl                         20110112.1707      available  Friendly URL retrieval [hg]
+  fuzzy                        20120323.1044      available  Fuzzy Matching [github]
+  fuzzy-format                 20100415.1127      available  select indent-tabs-mode and format code automatically. [wiki]
+  fuzzy-match                  20130723.2319      available  fuzzy matching [wiki]
+  fwb-cmds                     20120808.1317      available  misc frame, window and buffer commands [github]
+  fyure                        20130216.2214      available  An interface to fix Japanese hyoki-yure [github]
+  gandalf-theme                20130721.2         available  Gandalf color theme [github]
+  gap-mode                     20121214.1631      available  Major mode for editing files in the GAP programing language. [hg]
+  gather                       20100915.2220      available  Gather string in buffer. [github]
+  gccsense                     0.2                available  GCCSense client for Emacs
+  geben                        20100330.543       available  DBGp protocol frontend, a script debugger [svn]
+  gedit-mode                   20130513.1719      available  Emulate the look & feel of GEdit in Emacs [github]
+  geiser                       0.4                available  GNU Emacs and Scheme talk to each other
+  generate-autoloads           0.0.10             available  A package to help you lazy-load everything
+  ggo-mode                     20130524.443       available  Gengetopt major mode [github]
+  ggtags                       0.6.6              available  GNU Global source code tagging system
+  gh                           20130612.253       available  A GitHub library for Emacs [github]
+  ghc                          20130520.1540      available  Sub mode for Haskell mode [github]
+  ghci-completion              20130310.836       available  Completion for GHCi commands in inferior-haskell buffers [github]
+  gimme                        2.1                available  The XMMS2 interface we all love! Check out http://gimmeplayer.org for more info.
+  gist                         20130315.2306      available  Emacs integration for gist.github.com [github]
+  git-auto-commit-mode         20130410.157       available  Emacs Minor mode to automatically commit and push [github]
+  git-blame                    20110509.1226      available  Minor mode for incremental blame for Git [github]
+  git-commit                   0.1                available  Major mode for editing git commit messages
+  git-commit-mode              20130806.1708      available  Major mode for editing git commit messages [github]
+  git-dwim                     20130130.2150      available  Context-aware git commands such as branch handling [wiki]
+  git-gutter                   20130613.2232      available  Port of Sublime Text plugin GitGutter [github]
+  git-gutter+                  20130803.2130      available  Manage Git hunks straight from the buffer [github]
+  git-gutter-fringe            20130416.1524      available  Fringe version of git-gutter.el [github]
+  git-gutter-fringe+           20130523.2126      available  Fringe version of git-gutter+.el [github]
+  git-messenger                20130718.659       available  Port of gitmessenger.vim [github]
+  gitconfig                    20130718.1135      available  Emacs lisp interface to work with git-config variables [github]
+  gitconfig-mode               20130806.1117      available  Major mode for editing .gitconfig files [github]
+  github-browse-file           20130515.2247      available  View the file you're editing on GitHub [github]
+  github-theme                 0.0.3              available  Github color theme for GNU Emacs 24
+  gitignore-mode               20130806.1117      available  Major mode for editing .gitignore files [github]
+  gitty                        20121014.1642      available  vc-mode extension for fast git interaction [github]
+  glsl-mode                    20130502.1213      available  major mode for Open GLSL shader files [github]
+  gnomenm                      0.0.3              available  Emacs interface to Gnome nmcli command
+  gnugo                        2.2.12             available  Play a game of Go against gnugo
+  gnuplot                      20130207.101       available  drive gnuplot from within emacs [github]
+  gnuplot-mode                 20130805.1604      available  Major mode for editing gnuplot scripts [github]
+  gnus-alias                   20121124.22        available  an alternative to gnus-posting-styles [wiki]
+  gnusnotes                    0.9.2              available  Adding per-message notes in gnus summary buffer
+  go-autocomplete              20130617.2214      available  auto-complete-mode backend for go-mode [github]
+  go-direx                     20130801.2209      available  Tree style source code viewer for Go language [github]
+  go-eldoc                     20130806.2359      available  eldoc for go-mode [github]
+  go-errcheck                  20130308.1757      available  errcheck integration for go-mode [github]
+  go-mode                      20130724.1348      available  Major mode for the Go programming language [hg]
+  go-play                      20120914.2148      available  Paste to play.golang.org [github]
+  go-snippets                  20130602.2225      available  Yasnippets for go [github]
+  golden-ratio                 20130530.1410      available  Automatic resizing of Emacs windows to the golden ratio [github]
+  google-c-style               20130412.1615      available  Google's C/C++ style for c-mode [svn]
+  google-contacts              20130430.1720      available  Support for Google Contacts in Emacs [git]
+  google-maps                  20130412.1130      available  Access Google Maps from Emacs [git]
+  google-this                  20130718.1044      available  A set of functions and bindings to google under point. [github]
+  google-translate             20130614.53        available  Emacs interface to Google Translate [github]
+  google-weather               20110930.1055      available  Fetch Google Weather forecasts. [git]
+  gopher                       0.0.2              available  easily access and navigate Gopher servers
+  goto-chg                     20080919.2256      available  goto last change [wiki]
+  goto-last-change             20121115.1014      available  Move point through buffer-undo-list positions [wiki]
+  gplusify                     20121211.1422      available  Add Google Plus markup to a piece of code [github]
+  grails-mode                  0.1                available  minor-mode that adds some Grails project management to a grails project
+  grandshell-theme             20130728.1625      available  Dark color theme for Emacs > 24 with intensive colors. [github]
+  graphene                     20130621.911       available  A set of defaults targeted at GUI text editor diaspora. [github]
+  graphviz-dot-mode            20120821.1835      available  Mode for the dot-language used by graphviz (att). [github]
+  grapnel                      20130621.1948      available  HTTP request lib with flexible callback dispatch [github]
+  grep-a-lot                   20120703.1059      available  manages multiple search results buffers for grep.el [github]
+  grep-o-matic                 1.0.4              available  auto grep word under cursor
+  grin                         20110806.1658      available  run grin and grind (python replacements for grep and find) putting hits in a grep buffer [hg]
+  grizzl                       20130713.1943      available  Fuzzy Search Library & Completing Read [github]
+  groovy-mode                  201203310931       available  Groovy mode derived mode
+  grr                          1.0.0              available  Simple Growl notifications for Emacs and Mac OS X
+  gruber-darker-theme          20130730.1713      available  Gruber Darker color theme for Emacs 24. [github]
+  gtags                        3.3                available  gtags facility for Emacs
+  guess-offset                 0.1.1              available  Automatically determine c-basic-offset
+  guide-key                    20130208.2047      available  Guide the following key bindings automatically and dynamically [github]
+  guru-mode                    20121016.1452      available  Become an Emacs guru [github]
+  hackernews                   20130220.2042      available  Access the hackernews aggregator from Emacs [github]
+  haml-mode                    20130130.1622      available  Major mode for editing Haml files [github]
+  handlebars-mode              20130705.1122      available  A major mode for editing Handlebars files. [github]
+  handlebars-sgml-mode         20130624.1133      available  Add Handlebars contextual indenting support to sgml-mode [github]
+  hardcore-mode                20111205.716       available  Disable arrow keys + optionally backspace and return [github]
+  hardhat                      20130522.1243      available  Protect against clobbering user-writable files [github]
+  haskell-mode                 20130728.1338      available  A Haskell editing mode [github]
+  haste                        20120625.1944      available  Emacs client for hastebin (http://hastebin.com/about.md) [github]
+  haxe-mode                    20120801.1225      available  An Emacs major mode for haXe [hg]
+  header-button                20130110.1751      available  clickable buttons in header lines [github]
+  header2                      20130723.2321      available  Support for creation and update of file headers. [wiki]
+  heap                         0.3                available  Heap (a.k.a. priority queue) data structure
+  helm                         20130806.1505      available  Helm is an Emacs incremental and narrowing framework [github]
+  helm-R                       20120820.914       available  helm-sources and some utilities for GNU R. [github]
+  helm-ack                     20130731.2022      available  Ack command with helm interface [github]
+  helm-ag                      20130731.2023      available  the silver search with helm interface [github]
+  helm-anything                20130408.350       available  Bridge between anything and helm [github]
+  helm-c-moccur                20130216.1417      available  helm source for color-moccur.el [github]
+  helm-c-yasnippet             20120906.28        available  helm source for yasnippet.el [github]
+  helm-cmd-t                   20130718.2327      available  cmd-t style completion [github]
+  helm-delicious               1.0                available  helm extensions for delicious bookmarks
+  helm-descbinds               20130612.1604      available  Yet Another `describe-bindings' with `helm'. [github]
+  helm-dired-recent-dirs       20130630.2239      available  Show recent dirs with helm.el support. [github]
+  helm-flymake                 20130717.1444      available  helm interface for flymake [github]
+  helm-gist                    20120820.935       available  helm-sources and some utilities for gist. [github]
+  helm-git                     20120629.1358      available  Helm extension for Git. [github]
+  helm-git-grep                20130609.1135      available  helm for git grep [github]
+  helm-go-package              20130727.2129      available  helm sources for Go programming language's package [github]
+  helm-gtags                   20130731.2025      available  GNU GLOBAL helm interface [github]
+  helm-ls-git                  20130511.1253      available  list git files. [github]
+  helm-mercurial-queue         20130317.2030      available  No description available. [github]
+  helm-migemo                  20120820.900       available  Migemo plug-in for helm [github]
+  helm-open-github             20130501.1426      available  Utilities of Opening Github Page [github]
+  helm-orgcard                 20130608.2030      available  browse the orgcard by helm [github]
+  helm-project-persist         20130601.2228      available  Helm integration for project-persist package [github]
+  helm-projectile              20130716.1820      available  Helm integration for Projectile [github]
+  helm-rails                   20130424.1719      available  Helm extension for Rails projects. [github]
+  helm-rubygems-local          20130711.2039      available  Installed local rubygems find-file for helm [github]
+  helm-sheet                   20130630.2139      available  helm sources for sheet [github]
+  helm-spaces                  20130606.100       available  helm sources for spaces [github]
+  helm-themes                  20121020.2316      available  Color theme selection with helm interface [github]
+  hemisu-theme                 20130508.2044      available  Hemisu for Emacs. [github]
+  heroku                       20120629.1113      available  Interface to Heroku apps. [github]
+  heroku-theme                 20130805.1638      available  Heroku color theme [github]
+  hexrgb                       20130723.2323      available  Functions to manipulate colors, including RGB hex strings. [wiki]
+  hi2                          20130724.1909      available  indentation module for Haskell Mode [github]
+  hide-comnt                   20130725.1547      available  Hide/show comments in code. [wiki]
+  hide-lines                   20130623.1701      available  Commands for hiding lines based on a regexp
+  hideshowvis                  0.5                available  Add markers to the fringe for regions foldable by hideshow.el
+  highlight                    20130724.1606      available  Highlighting commands. [wiki]
+  highlight-80+                1.0                available  highlight characters beyond column 80
+  highlight-cl                 20091012.1730      available  Highlighting `cl' functions. [wiki]
+  highlight-escape-sequences   20130601.212       available  Highlight escape sequences [github]
+  highlight-indentation        20130106.41        available  Minor modes for highlighting indentation [github]
+  highlight-parentheses        20130523.1752      available  highlight surrounding parentheses [github]
+  highlight-symbol             20130628.1552      available  automatic and manual symbol highlighting [github]
+  highline                     7.2.2              available  minor mode to highlight current line in buffer
+  hippie-exp-ext               20120908.842       available  Extension of hippie-expand [wiki]
+  hippie-expand-haskell        0.0.1              available  Hippie expand try function using ghc's completion function.
+  hippie-expand-slime          20130226.1656      available  Hook slime's completion into hippie-expand [github]
+  hippie-namespace             20121205.1455      available  Special treatment for namespace prefixes in hippie-expand [github]
+  hive                         20130213.1610      available  Hive SQL mode extension [github]
+  hjkl-mode                    0.1                available  import some vim's key bindings
+  hl-line+                     20130723.2210      available  Extensions to hl-line.el. [wiki]
+  hl-sentence                  20110815.1154      available  highlight a sentence based on customizable face [github]
+  hl-sexp                      20101130.1343      available  highlight the current sexp [github]
+  hl-todo                      20130504.359       available  highlight TODO keywords in comments [github]
+  hlinum                       20130616.34        available  Extension for linum.el to highlight current line number [hg]
+  hook-utils                   1.0                available  Add a few utility functions for manipulating hooks
+  ht                           20130515.1418      available  The missing hash table library for Emacs [github]
+  html-script-src              20121008.1907      available  Insert <script ...> tags for popular JavaScript libraries [github]
+  htmlfontify                  0.21               available  htmlise a buffer/source tree with optional hyperlinks
+  htmlize                      20130207.2102      available  Convert buffer text and decorations to HTML. [git]
+  http-post-simple             20081104.2213      available  HTTP POST requests using the url library [wiki]
+  http-twiddle                 20121117.1436      available  send & twiddle & resend HTTP requests [github]
+  httpcode                     20120918.1347      available  explains the meaning of an HTTP status code [github]
+  httpd                        1.0.1              available  HTTP/1.0 web server for emacs
+  hungry-delete                20120128.1856      available  hungry delete minor mode [github]
+  huskie                       0.0.2              available  chainsaw powered logging
+  hy-mode                      20130719.2306      available  Major mode for Hy code [github]
+  ibuffer-vc                   20130728.926       available  Group ibuffer's list by VC project, or show VC status [github]
+  icicles                      20130805.1440      available  Minibuffer input completion and cycling. [wiki]
+  icomplete+                   20130723.2333      available  Extensions to `icomplete.el'. [wiki]
+  identica-mode                20130204.1653      available  Major mode API client for status.net open microblogging [github]
+  idle-highlight               1.0                available  highlight the word the point is on
+  idle-highlight-mode          20120920.1848      available  highlight the word the point is on [github]
+  idle-require                 20090716.3         available  load elisp libraries while Emacs is idle [github]
+  ido-better-flex              0.0.2              available  A better flex (fuzzy) algorithm for Ido.
+  ido-complete-space-or-hyphen 20130228.956       available  Complete SPACE or HYPHEN when type SPACE in ido [github]
+  ido-gnus                     20130726.1810      available  Access gnus groups or servers using ido [github]
+  ido-hacks                    20130411.1859      available  Put more IDO in your IDO [github]
+  ido-load-library             20121205.1455      available  Load-library alternative using ido-completing-read [github]
+  ido-sort-mtime               20130427.1211      available  Sort Ido's file list by modification time [github]
+  ido-ubiquitous               20121214.2145      available  Use ido (nearly) everywhere. [github]
+  ido-vertical-mode            20130422.1226      available  Makes ido-mode display vertically. [github]
+  ido-yes-or-no                1.1                available  Use Ido to answer yes-or-no questions
+  idomenu                      20111122.1048      available  imenu tag selection a la ido [wiki]
+  iedit                        20130629.1709      available  Edit multiple regions in the same way simultaneously. [github]
+  iflipb                       20130331.2008      available  interactively flip between recently visited buffers [hg]
+  ignoramus                    20130726.1720      available  Ignore backups, build files, et al. [github]
+  igrep                        20091224.1827      available  An improved interface to `grep` and `find` [wiki]
+  image+                       20130222.120       available  Image manupulation extensions for Emacs [github]
+  image-dired+                 20130605.1509      available  Image-dired extensions [github]
+  imenu-anywhere               20130509.2231      available  ido/helm imenu tag selection across all buffers with the same mode [github]
+  imgur                        0.1                available  imgur client for Emacs
+  impatient-mode               20130531.1453      available  Serve buffers live over HTTP [github]
+  import-popwin                20130618.1200      available  popwin buffer near by import statements with popwin [github]
+  indent-guide                 20130625.7         available  show vertical lines to guide indentation [github]
+  inf-groovy                   2.0                available  minor-mode that adds some Grails project management to a grails project
+  inf-mongo                    20130305.127       available  Run a MongoDB shell process in a buffer [github]
+  inf-php                      20130414.1621      available  Run a php interactive shell in a buffer [github]
+  inf-ruby                     20130726.149       available  Run a ruby process in a buffer [github]
+  inflections                  20121016.957       available  convert english words between singular and plural [github]
+  info+                        20130723.2335      available  Extensions to `info.el'. [wiki]
+  inform-mode                  1.6.1              available  Major mode for Inform 6 interactive fiction code
+  init-loader                  20130218.1210      available  Loader for configuration files [github]
+  initsplit                    20120630.1244      available  code to split customizations into different files [github]
+  inkpot-theme                 20120505.908       available  port of vim's inkpot theme [github]
+  inline-crypt                 20130409.507       available  Simple inline encryption via openssl [github]
+  inlineR                      20120520.2332      available  insert Tag for inline image of R graphics [github]
+  instapaper                   20130104.2221      available  add URLs to instapaper from emacs [hg]
+  interaction-log              20130426.731       available  exhaustive log of interactions with Emacs [wiki]
+  interval-tree                20130325.1507      available  Interval tree data structure for 1D range queries [github]
+  ioccur                       2.4                available  Incremental occur
+  iplayer                      20130625.2103      available  Browse and download BBC TV/radio shows [github]
+  ipython                      2927               available  Adds support for IPython to python-mode.el
+  ir-black-theme               20130303.255       available  Port of ir-black theme [github]
+  irfc                         20120824.1735      available  Interface for IETF RFC document. [wiki]
+  isea                         0.0.2              available  interactive server eval at mode, a comint for a daemonized emacs -*- lexical-binding: t -*-
+  isearch+                     20130723.2336      available  Extensions to `isearch.el'. [wiki]
+  isearch-symbol-at-point      20130728.952       available  Use isearch to search for the symbol at point [github]
+  isend-mode                   20130419.1158      available  Interactively send parts of an Emacs buffer to an interpreter [github]
+  issue-tracker                0.0.1              available  Poor man's issue tracker
+  itail                        20130102.1159      available  An interactive tail mode [github]
+  iy-go-to-char                20130428.1506      available  Go to next CHAR which is similar to "f" in vim [wiki]
+  j-mode                       20130301.2049      available  Major mode for editing J programs [github]
+  jabber                       0.8.90             available  A Jabber client for Emacs.
+  jade-mode                    20130220.1245      available  Major mode for editing .jade files [github]
+  japanlaw                     20130404.2102      available  Japan law from law.e-gov.go.jp [github]
+  jaunte                       20130328.1141      available  Emacs Hit a Hint [github]
+  javadoc-help                 1.0                available  Javadoc-Help.  Look up Java class on online javadocs in browser.
+  javadoc-lookup               20130618.2036      available  Javadoc Emacs integration with Maven [github]
+  javap                        8                  available  Javap major mode
+  javap-mode                   20120223.1408      available  Javap major mode [github]
+  javarun                      0.1.1              available  Minor mode for quick development of Java programs
+  jb-misc-macros               0.2                available  Miscellaneous macros
+  jedi                         20130714.1415      available  Python auto-completion for Emacs [github]
+  jenkins-watch                20121004.1726      available  Watch continuous integration build status [github]
+  jgraph-mode                  1.0                available  Major mode for Jgraph files
+  jinja2-mode                  20120827.1103      available  A major mode for jinja2 [github]
+  jira                         20091012.2123      available  Connect to JIRA issue tracking software [wiki]
+  jknav                        20121006.1325      available  Automatically enable j/k keys for line-based navigation [github]
+  js-comint                    20080530.957       available  Run javascript in an inferior process window. [svn]
+  js2-mode                     20130725.125       available  Improved JavaScript editing mode [github]
+  js2-refactor                 20130622.1018      available  A JavaScript refactoring library for emacs. [github]
+  js3-mode                     20130717.1844      available  No description available. [github]
+  json                         1.2                available  JavaScript Object Notation parser / generator
+  json-mode                    0.1.2              available  Major mode for editing JSON files
+  jss                          20130508.1623      available  An emacs interface to webkit and mozilla debuggers [github]
+  jsshell                      2012.4.7           available  Run a javascript command interpreter in emacs on Windows.
+  jsshell-bundle               2012.4.7           available  JSShell generated bundle
+  jtags                        20111208.1922      available  enhanced tags functionality for Java development [git]
+  jtags-extras                 0.3.0              available  jtags related functionality for Java development
+  jump                         20130702.833       available  build functions which contextually jump between files [github]
+  jump-char                    20130530.752       available  navigation by char [github]
+  jump-to-line                 20130123.153       available  Jump to line number at point. [github]
+  jumpc                        3.0                available  jump to previous insertion points
+  kanban                       20130516.1856      available  Parse org-todo headlines to use org-tables as Kanban tables [hg]
+  key-choices                  0.201              available  Key Choices -- Also Viper has different colors in different modes
+  key-chord                    20080915.2156      available  map pairs of simultaneously pressed keys to commands [wiki]
+  key-combo                    20130806.1814      available  map key sequence to commands [github]
+  keychain-environment         20121026.2146      available  load keychain environment variables [github]
+  keydef                       20090428.2131      available  a simpler way to define keys, with kbd syntax [github]
+  keyfreq                      20130404.2117      available  track command frequencies [github]
+  keymap-utils                 20130427.1926      available  keymap utilities [github]
+  keywiz                       1.4                available  Emacs key sequence quiz
+  kibit-mode                   20130722.1837      available  No description available. [github]
+  kill-ring-search             20110605.1744      available  incremental search for the kill ring [github]
+  killer                       20120808.1322      available  kill and delete text [github]
+  kite                         20130201.2038      available  WebKit inspector front-end [github]
+  kivy-mode                    20130710.2132      available  Emacs major mode for editing Kivy files [github]
+  kmacro-decision              20130713.2239      available  Add conditional branching to keyboard macros [github]
+  kpm-list                     1.0                available  An emacs buffer list that tries to intelligently group together buffers.
+  kv                           20130618.1212      available  key/value data structure functions [github]
+  kwin                         20130207.31        available  communcate with the KWin window manager [github]
+  lacarte                      20130723.2337      available  Execute menu items as commands, with completion. [wiki]
+  lang-refactor-perl           20130224.2353      available  Simple refactorings, primarily for Perl [github]
+  langdoc                      20130606.831       available  Help to define help document mode for various languages [github]
+  langtool                     1.2.0              available  Grammer check utility using LanguageTool
+  late-night-theme             0.0                available  Late Night theme for Emacs 24
+  latest-clojars               20130410.1552      available  Clojure dependency resolver [github]
+  latex-pretty-symbols         20111011.1446      available  Display many latex symbols as their unicode counterparts [hg]
+  launch                       20130619.1804      available  launch files with OS-standard associated applications. [github]
+  lcs                          20121201.1455      available  find out the longest common sequence [github]
+  ldg-mode                     20130712.117       available  No description available. [github]
+  legalese                     20100119.2148      available  Add legalese to your program files [wiki]
+  lein                         20130227.1852      available  Eshell interface to Leiningen [github]
+  lemon-mode                   20130216.2204      available  A major mode for editing lemon grammar files [github]
+  less-css-mode                20130722.928       available  Major mode for editing LESS CSS files (lesscss.org) [github]
+  let-recur                    0.0.5              available  Simplified implementation of recur -*- lexical-binding:t -*-
+  letcheck                     20130214.105       available  Check the erroneous assignments in let forms [github]
+  leuven-theme                 20130806.2220      available  Awesome Emacs color theme on white background [github]
+  levenshtein                  20051013.1756      available  Edit distance between two strings. [wiki]
+  lex                          1.1                available  Lexical analyser construction
+  lexbind-mode                 20130328.1131      available  Puts the value of lexical-binding in the mode line [github]
+  lib-requires                 20130723.2338      available  Commands to list Emacs Lisp library dependencies. [wiki]
+  lineno                       0.1                available  Alternate mode to display line numbers.
+  linphone                     20130524.1306      available  Emacs interface to Linphone [github]
+  linum-off                    0.1                available  Provides an interface for turning line-numbering off
+  linum-relative               20130427.2245      available  display relative line number in emacs. [github]
+  lisp-editing                 0.0.5              available  lisp editing tools
+  lisp-infection               0.0.10             available  Commands to *enhance* S-exp editing
+  lispxmp                      20100506.129       available  Automagic emacs lisp code annotation [wiki]
+  lispyscript-mode             20130527.1613      available  Major mode for LispyScript code. [github]
+  list-utils                   20121205.1456      available  List-manipulation utility functions [github]
+  litable                      20130525.2156      available  dynamic evaluation replacement with emacs [github]
+  lively                       20120728.1413      available  Interactively updating text [wiki]
+  livescript-mode              20130724.1248      available  Major mode for editing LiveScript files [github]
+  lmc                          1.2                available  Little Man Computer in Elisp
+  load-dir                     0.0.3              available  Load all Emacs Lisp files in a given directory
+  load-relative                20130410.549       available  relative file load (within a multi-file Emacs package) [github]
+  load-theme-buffer-local      20120703.17        available  Install emacs24 color themes by buffer. [github]
+  loc-changes                  20130711.309       available  Helps users and programs keep track of positions even after buffer changes. [github]
+  loccur                       20130425.1011      available  Performs an occur-like folding in current buffer. [github]
+  log4e                        20130515.112       available  provide logging framework for elisp [github]
+  log4j-mode                   20101016.1722      available  major mode for viewing log files [github]
+  logalimacs                   20130607.1350      available  Front-end to logaling-command for Ruby gems [github]
+  logito                       20120225.2155      available  logging library for Emacs [github]
+  lolcode-mode                 20111002.1047      available  Major mode for editing LOLCODE [github]
+  look-dired                   20130512.24        available  Extensions to look-mode for dired buffers [github]
+  look-mode                    20091023.521       available  quick file viewer for image and text file browsing [wiki]
+  loop                         20130309.1605      available  friendly imperative loop structures [github]
+  lorem-ipsum                  20051013.1756      available  Insert dummy pseudo Latin text. [wiki]
+  love-minor-mode              20130429.1759      available  Minor mode for working on LÖVE projects [github]
+  lua-mode                     20130528.1415      available  a major-mode for editing Lua scripts [github]
+  lui                          20130602.1912      available  Linewise User Interface [github]
+  lusty-explorer               20130407.1256      available  Dynamic filesystem explorer and buffer switcher [github]
+  mac-key-mode                 2010.1.3           available  provide mac-style key bindings on Carbon Emacs
+  macro-math                   20130328.1434      available  in-buffer mathematical operations [github]
+  macro-utils                  1.0                available  Utilities for writing macros.
+  macrostep                    20130504.1520      available  interactive macro stepper for Emacs Lisp [github]
+  mactag                       20101013.2218      available  Mode for automatically handle multiple tags files with Mactag rubygem [github]
+  mag-menu                     20130224.56        available  Intuitive keyboard-centric menu system [github]
+  magit                        20130806.1102      available  control Git from Emacs [github]
+  magit-commit-training-wheels 20130730.1032      available  Advice for magit-log-edit-commit [github]
+  magit-filenotify             20130801.1545      available  No description available. [github]
+  magit-gh-pulls               20130405.1828      available  GitHub pull requests extension for Magit [github]
+  magit-push-remote            20130708.143       available  Push remote support for Magit. [github]
+  magit-simple-keys            1.0.0              available  simple keybindings for Magit
+  magithub                     20130718.2320      available  Magit extensions for using GitHub [github]
+  maildir                      0.0.20             available  Simple maildir based MUA.
+  main-line                    20130405.1304      available  modeline replacement forked from an early version of powerline.el [github]
+  makefile-runner              1.1.2              available  Searches for Makefile and fetches targets
+  mallard-mode                 20130725.2321      available  Major mode for editing Mallard files [github]
+  mallard-snippets             20130725.2324      available  Yasnippets for Mallard [github]
+  man-commands                 20130627.1653      available  Add interactive commands for every manpages installed in your computer. [github]
+  map-progress                 20120927.1839      available  mapping macros that report progress [github]
+  map-regexp                   20130522.2303      available  map over matches of a regular expression [github]
+  margo                        2012.9.18          available  Client for MarGo, providing Go utilities
+  mark                         20130805.1549      available  Navigate and visualize the mark-ring [github]
+  mark-more-like-this          1.0                available  Mark additional regions in buffer matching current region.
+  mark-multiple                20121118.1654      available  Sorta lets you mark several regions at once. [github]
+  mark-tools                   20130614.1125      available  Some simple tools to access the mark-ring in Emacs [github]
+  markchars                    0.2.0              available  Mark chars fitting certain characteristics
+  markdown-mode                20130726.2142      available  Emacs Major mode for Markdown-formatted text files [git]
+  markdown-mode+               20120829.710       available  extra functions for markdown-mode [github]
+  markup                       20130207.2209      available  Simple markup generation helpers. [github]
+  markup-faces                 20130117.1146      available  collection of faces for markup language modes [github]
+  marmalade                    0.0.4              available  Elisp interface for the Emacs Lisp package server.
+  marmalade-service            2.0.9              available  The Marmalade package store service.
+  marmalade-test               0.0.1              available  A test tarball package.
+  maude-mode                   20130604.925       available  Emacs mode for the programming language Maude [svn]
+  maxframe                     20120725.1149      available  maximize the emacs frame based on display size [github]
+  mediawiki                    20130223.1441      available  mediawiki frontend [bzr]
+  melpa                        20120202.1322      available  special handling for the MELPA repository [github]
+  melpa-upstream-visit         20130719.2305      available  A set of kludges to visit a melpa-hosted package's homepage [github]
+  member-function              0.3.1              available  expand member functions for C++ classes
+  memoize                      20130421.1534      available  Memoization functions [github]
+  memory-usage                 0.2                available  Analyze the memory usage of Emacs in various ways
+  mentor                       20130520.40        available  Frontend for the rTorrent bittorrent client [github]
+  metaweblog                   20130707.1701      available  An emacs library to access metaweblog based weblogs [github]
+  mew                          20130713.1928      available  Messaging in the Emacs World [github]
+  mic-paren                    20120716.1647      available  advanced highlighting of matching parentheses [wiki]
+  midje-mode                   20130716.2249      available  Minor mode for running Midje tests in emacs, see: https://github.com/dnaumov/midje-mode [github]
+  migemo                       20130310.2231      available  Japanese incremental search through dynamic pattern expansion [github]
+  minimal-session-saver        20121205.1456      available  Very lean session saver [github]
+  minimap                      20110427.1123      available  Minimap sidebar for Emacs [git]
+  minor-mode-hack              20130212.1228      available  Change priority of minor-mode keymaps [wiki]
+  misc-fns                     20130723.2346      available  Miscellaneous non-interactive functions. [wiki]
+  mldonkey                     0.0.4              available  Multi-networks peer-to-peer client.
+  mmm-mako                     20121019.2351      available  MMM submode class for Mako Templates [hg]
+  mmm-mode                     20130606.7         available  Allow Multiple Major Modes in a buffer [github]
+  mo-git-blame                 20130728.1717      available  An interactive, iterative 'git blame' mode for Emacs [github]
+  mo-vi-ment-mode              20130607.1642      available  Provide vi-like cursor movement that's easy on the fingers [github]
+  mocker                       20130418.2343      available  mocking framework for emacs [github]
+  mode-compile                 2.29               available   Smart command for compiling files
+  mode-icons                   20130602.1448      available  Show icons for modes [git]
+  mode-line-debug              20121207.1644      available  show status of `debug-on-error' in the mode-line [github]
+  modeline-posn                20130723.2214      available  Set up `mode-line-position'. [wiki]
+  modtime-skip-mode            20130724.122       available  Minor mode for disabling modtime and supersession checks on files. [github]
+  moe-theme                    20130720.2355      available  A colorful eye-candy theme. Moe, moe, kyun! [github]
+  moinmoin-mode                1.0                available  a major mode to edit MoinMoin wiki pages
+  molokai-theme                20120503.1929      available  No description available. [github]
+  mongo                        20120826.14        available  MongoDB driver for Emacs Lisp [github]
+  mongo-elnode                 0.5.0              available  elnode adapter for mongo-el
+  monky                        20130513.1413      available  Control Hg from Emacs. [github]
+  monokai-theme                20130806.1840      available  A fruity color theme for Emacs. [git]
+  mote-mode                    20121015.119       available  Mote minor mode [github]
+  motion-mode                  20130801.1041      available  major mode for RubyMotion enviroment [github]
+  mouse+                       20130723.2348      available  Extensions to `mouse.el'. [wiki]
+  mouse-slider-mode            20130609.1723      available  scale numbers dragged under the mouse [github]
+  move-text                    20130506.1826      available  Move current line or region with M-up or M-down. [wiki]
+  multi-eshell                 20120608.1835      available  Create and manage multiple shells within Emacs [wiki]
+  multi-project                0.0.8              available  Easily work with multiple projects.
+  multi-term                   20130108.2305      available  Managing multiple terminal buffers in Emacs. [wiki]
+  multi-web-mode               20130205.2044      available  multiple major mode support for web editing [github]
+  multifiles                   20130615.2249      available  View and edit parts of multiple files in one buffer [github]
+  multiple-cursors             20130730.2211      available  Multiple cursors for Emacs. [github]
+  muse                         3.20               available  Authoring and publishing tool
+  mustache                     20130611.1422      available  a mustache templating library in emacs lisp [github]
+  mustache-mode                20110927.1253      available  A major mode for editing Mustache files. [github]
+  muttrc-mode                  20090804.2252      available  Major mode to edit muttrc under Emacs [wiki]
+  mwe-log-commands             20100703.1441      available  log keyboard commands to buffer [github]
+  my-packages                  0.1.0              available  Package Initialization.
+  mysql2sqlite                 20120514.931       available  Convert mysql databases into sqlite databases. [github]
+  n3-mode                      20130115.2145      available  mode for Notation 3 [github]
+  namakemono                   0.0.1              available  utility function set for namakemono
+  namespaces                   20130327.1150      available  An implementation of namespaces for Elisp, with an emphasis on immutabilty. [github]
+  naquadah-theme               20130628.1629      available  A theme based on Tango color set [git]
+  nav                          20120507.7         available  Emacs mode for filesystem navigation [hg]
+  nav-flash                    20121205.1456      available  Briefly highlight the current line [github]
+  ncl-mode                     20130528.745       available  Major Mode for editing NCL scripts and other goodies [github]
+  nclip                        20130617.2212      available  Network (HTTP) Clipboard [github]
+  nemerle                      20130328.1439      available  major mode for editing nemerle programs [github]
+  nginx-mode                   20130531.2048      available  major mode for editing nginx config files [github]
+  nhexl-mode                   0.1                available  Minor mode to edit files via hex-dump format
+  nimrod-mode                  20110125.2304      available  A major mode for the Nimrod programming language [github]
+  nlet                         1.10               available  schemes 'named let' for emacs.
+  nlinum                       1.1                available  Show line numbers in the margin
+  no-easy-keys                 1.0.2              available  Learn the proper Emacs movement keys
+  noctilux-theme               20130724.1051      available  No description available. [github]
+  nodejs-repl                  20130521.42        available  Run Node.js REPL [github]
+  noflet                       20130711.2119      available  locally override functions [github]
+  nose                         20110804.819       available  Easy Python test running in Emacs [hg]
+  notes-mode                   1.30               available  Organizing on-line note-taking
+  notify                       2010.8.20          available  notification front-end
+  notmuch                      20130731.1746      available  No description available. [git]
+  notmuch-labeler              0.1                available  Improves notmuch way of displaying labels through fonts, pictures, and hyperlinks.
+  nrepl                        20130802.739       available  Client for Clojure nREPL [github]
+  nrepl-decompile              20130726.1043      available  decompilation extension for nrepl.el [github]
+  nrepl-eval-sexp-fu           20130220.2142      available  Tiny functionality enhancements for evaluating sexps. [github]
+  nrepl-ritz                   20130516.1339      available  nrepl extensions for ritz [github]
+  nsis-mode                    20130723.1548      available  NSIS-mode [github]
+  ntcmd                        1.0                available  major mode for editing cmd scripts
+  num3-mode                    1.1                available  highlight groups of digits in long numbers
+  nurumacs                     3.4.1              available  smooth-scrolling and minimap
+  nyan-mode                    20120710.1922      available  Nyan Cat shows position in current buffer in mode-line. [github]
+  nyan-prompt                  20130721.611       available  Nyan Cat on the eshell prompt. [github]
+  nzenburn-theme               20130513           available  A low contrast color theme for Emacs.
+  o-blog                       20130428.1049      available  Org-blog exporter [github]
+  oauth                        20130127.1751      available  Oauth library. [github]
+  oauth2                       0.9                available  OAuth 2.0 Authorization Protocol
+  ob-browser                   20130724.1702      available  Translation of text blocks in org-mode. [github]
+  ob-mongo                     20130718.1532      available  Execute mongodb queries within org-mode blocks. [github]
+  ob-sml                       20130612.22        available  org-babel functions for template evaluation [github]
+  ob-translate                 20130718.1529      available  Translation of text blocks in org-mode. [github]
+  object-registry              20130521.2113      available  OBSOLETE track data items by various instance slots [github]
+  occidental-theme             20130312.2058      available  Custom theme for faces based on Adwaita [github]
+  occur-default-current-word   1.0                available  Have M-x occur default to the word at point
+  occur-x                      20130610.1543      available  Extra functionality for occur [github]
+  octomacs                     20121026.1649      available  Octopress interface for Emacs [github]
+  oddmuse                      20090222           available  edit pages on an Oddmuse wiki
+  offlineimap                  20130331.1641      available  Run OfflineIMAP from Emacs [git]
+  omn-mode                     1.0                available  Support for OWL Manchester Notation
+  open-junk-file               20130131.720       available  Open a junk (memo) file to try-and-error [wiki]
+  openwith                     20120531.1636      available  Open files with external programs [hg]
+  org                          20130805           available  Outline-based notes management and organizer
+  org-agenda-property          20130707.1317      available  Display org properties in the agenda buffer. [github]
+  org-blog                     1.18.1.1           available  create and publish a blog with org-mode
+  org-bullets                  20130226.1431      available  Show bullets in org-mode as UTF-8 characters [github]
+  org-context                  20130725.2239      available  Contextual capture and agenda commands for Org-mode [github]
+  org-cua-dwim                 20120202.2334      available  Org-mode and Cua mode compatibility layer [github]
+  org-dotemacs                 20130510.1711      available  Store your emacs config as an org file, and choose which bits to load. [github]
+  org-ehtml                    0.20120928         available  Export Org-mode files as editable web pages
+  org-elisp-help               20130424.45        available  org links to emacs-lisp documentation [github]
+  org-email                    1.0                available  use org for an email database -*- lexical-binding: t -*-
+  org-fstree                   20090723.1719      available  include a filesystem subtree into an org file [git]
+  org-jekyll                   20130508.1139      available  Export jekyll-ready posts form org-mode entries [github]
+  org-jira                     20130427.2116      available  Syncing between Jira and Org-mode. [github]
+  org-journal                  20130612.1437      available  a simple org-mode based journaling mode [github]
+  org-mac-iCal                 20130310.1757      available  Imports events from iCal.app to the Emacs diary [git]
+  org-mac-link-grabber         20130514.1519      available  Grab links and url from various mac [git]
+  org-magit                    20120820.2056      available  basic support for magit links [github]
+  org-mime                     20120112           available  org html export for text/html MIME emails
+  org-octopress                20130527.2347      available  Compose octopress articles using org-mode. [github]
+  org-outlook                  20121212.1658      available  Outlook org [github]
+  org-pandoc                   20130729.2050      available  Export from Org using Pandoc [github]
+  org-pomodoro                 20130616.2158      available  Pomodoro implementation for org-mode. [github]
+  org-present                  20130426.2049      available  Minimalist presentation minor-mode for Emacs org-mode. [github]
+  org-presie                   0.0.5              available  simple presentation with an org file
+  org-protocol-jekyll          20130718.1243      available  Jekyll's handler for org-protocol [github]
+  org-readme                   20130508.905       available  Integrates Readme.org and Commentary/Change-logs. [github]
+  org-reveal                   20130729.1007      available  reveal.js Presentation Back-End for Org Export Engine [github]
+  org-table-comment            0.2                available   Org table comment modes.
+  org-toodledo                 20130608.1434      available  Toodledo integration for Emacs Org mode [github]
+  org-trello                   20130806.1644      available  Minor mode for org-mode to sync org-mode and trello [github]
+  org2blog                     20130704.908       available  Blog from Org mode to wordpress [github]
+  orglink                      20130609.1709      available  use Org Mode links in other modes [github]
+  orglue                       20130420.2330      available  more functionality to org-mode. [github]
+  osx-browse                   20121205.1456      available  Web browsing helpers for OS X [github]
+  osx-location                 20130706.212       available  Watch and respond to changes in geographical location on OS X [github]
+  osx-plist                    20101130.1348      available  Apple plist file parser [github]
+  otp                          1.0                available  a one-time password creator
+  otter-mode                   20121202.1703      available  Major mode for source files of the Otter automated theorem prover [github]
+  outline-magic                20130701.33        available  outline mode extensions for Emacs [github]
+  outlined-elisp-mode          20130620.1827      available  outline-minor-mode settings for emacs lisp [github]
+  oz                           16513              available  Major mode for editing Oz programs
+  p4                           20130611.2343      available  Simple Perforce-Emacs Integration [github]
+  pabbrev                      20121025.1200      available  Predictive abbreviation expansion [hg]
+  package                      1.0                available  Simple package system for Emacs
+  package-build                20130806.1515      available  Tools for assembling a package archive [github]
+  package-spec                 20120403.2010      available  Specify package.el packages to use in a package spec [github]
+  package-store                0.3                available  a package cache
+  packed                       20130612.141       available  Package manager agnostic Emacs Lisp package utilities [github]
+  page-break-lines             20130601.1032      available  Display ugly ^L page breaks as tidy horizontal lines [github]
+  pager                        20100330.2031      available  windows-scroll commands [github]
+  pager-default-keybindings    20130719.1357      available  Add the default keybindings suggested for pager.el [github]
+  palimpsest                   20130731.1821      available  Various deletion strategies when editing [github]
+  pallet                       20130806.2109      available  A package manager for Emacs, using Cask. [github]
+  pandoc-mode                  20130619.331       available  Minor mode for interacting with Pandoc [github]
+  pangu-spacing                20130525.1903      available  Minor-mode to add space between Chinese and English characters. [github]
+  paredit                      20130722.1324      available  minor mode for editing parentheses [git]
+  paredit-everywhere           20130430.1059      available  Enable some paredit features in non-lisp buffers [github]
+  paredit-menu                 20121025.1201      available  Adds a menu to paredit.el as memory aid [hg]
+  parenface                    20091203.1917      available  Provide a face for parens in lisp modes. [github]
+  parenface-plus               1.1                available  Provide a face for parens in lispy modes.
+  parenface-reversion          1.1                available  Provide a face for parens in lisp modes.
+  parenface1.1                 1.1                available  Provide a face for parens in lisp modes.
+  parscope                     0.1.0              available  Minor mode for showing the current scope in Lisp-like languages.
+  paste-kde                    20130702.1055      available  paste text to KDE's pastebin service [github]
+  pastebin                     20101125.1955      available  A simple interface to the www.pastebin.com webservice [wiki]
+  pastehub                     20130510.30        available  A client for the PasteHub cloud service [github]
+  pastels-on-dark-theme        20120304.1222      available  Pastels on Dark theme for Emacs 24 [github]
+  path-headerline-mode         20120910.1016      available  Displaying file path on headerline. [github]
+  pc-mode                      0.1                available  major mode for editing PC code,
+  pcache                       20120408.1206      available  persistent caching for Emacs [github]
+  pcmpl-args                   20120912.24        available  Enhanced shell command completion [github]
+  pcmpl-git                    20130408.840       available  pcomplete for git [github]
+  pcre2el                      20130621.210       available  parse, convert, and font-lock PCRE, Emacs and rx regexps [github]
+  pcsv                         1.3.3              available  Parser of csv -*- lexical-binding: t -*-
+  pde                          0.2.16             available  Perl Development Environment
+  peep-open                    0.0.2              available  PeepOpen plugin for emacs.
+  peepopen                     0.1.0              available  Graphical file chooser for Emacs on Mac OS X.
+  peg                          20130320.158       available  Parsing Expression Grammars in Emacs Lisp [wiki]
+  pep8                         1.2                available  run the python pep8 checker putting hits in a grep buffer
+  perl-completion              20090528.1536      available  No description available. [github]
+  perl-myvar                   1.25               available  Declare lexicaly scoped vars as my().
+  perlbrew                     20130126.2153      available  A perlbrew wrapper for Emacs [github]
+  perlcritic                   1.10               available  minor mode for Perl::Critic integration
+  persistent-soft              20121205.1456      available  Persistent storage, returning nil on failure [github]
+  persp-mode                   20130607.36        available  "perspectives" + save/load + shared among frames. [github]
+  perspective                  20121130.1746      available  switch between named "perspectives" of the editor [github]
+  pg                           20130731.1742      available  Emacs Lisp interface to the PostgreSQL RDBMS [github]
+  pgdevenv                     20130527.557       available  Manage your PostgreSQL development envs [github]
+  ph                           20130312.2037      available  A global minor mode for managing multiple projects. [github]
+  phantomjs                    0.0.11             available  Control phantomjs from Emacs			
+  phi-search                   20130623.1237      available  another incremental search command, compatible with "multiple-cursors" [github]
+  phoenix-dark-mono-theme      20130306.1515      available  Monochromatic version of the Phoenix theme [github]
+  phoenix-dark-pink-theme      20130306.1513      available  Port of the Sublime Text 2 theme of the same name [github]
+  php+-mode                    20121129.1452      available  A better PHP mode with Zend Framework 1 support. [github]
+  php-boris                    20130527.1021      available  Run boris php REPL [github]
+  php-eldoc                    20130328.1526      available  eldoc backend for php [github]
+  php-extras                   0.4.4.20130612     available  Extra features for `php-mode'
+  php-mode                     20130729.1530      available  Major mode for editing PHP code [github]
+  pickup                       0.0.3              available  pickup file. 
+  pig-mode                     20130709.819       available  Major mode for Pig files [github]
+  pinboard                     0.0.1              available  get stuff from pinboard -*- lexical-binding: t -*-
+  pivotal-tracker              20130319.2233      available  Interact with Pivotal Tracker through its API [github]
+  pkgbuild-mode                20120214.2332      available  Interface to the ArchLinux package manager [github]
+  plantuml-mode                0.2                available  Major mode for plantuml
+  plenv                        20130707.1516      available  A plenv wrapper for Emacs [github]
+  po-elscreen                  1.4.6              available   Screen for Emacsen(this is not original. original is http://www.morishima.net/~naoto/elscreen-en/?lang=en)
+  po.elscreen                  1.4.6              available   Screen for Emacsen(this is not original)
+  po.foo                       3.0.20             available  Sass major mode
+  pod-mode                     20121117.2120      available  Major mode for editing .pod-files.
+  point-undo                   20100504.829       available  undo/redo position [wiki]
+  pointback                    20100210.1652      available  Restore window points when returning to buffers [github]
+  pomodoro                     20130116.1511      available  A timer for the Pomodoro Technique [github]
+  pony-mode                    20130628.300       available  Minor mode for working with Django Projects [github]
+  pophint                      20130806.212       available  Provide navigation using pop-up tips, like Firefox's Vimperator Hint Mode [github]
+  popup                        20130324.1305      available  Visual Popup User Interface [github]
+  popup-switcher               20130625.2116      available  switch to other buffers and files via popup. [github]
+  popwin                       20130329.2035      available  Popup Window Manager. [github]
+  pos-tip                      20121128.2315      available  Show tooltip at point [github]
+  pov-mode                     20120825.1616      available  Major mode for editing POV-Ray scene files. [git]
+  powerline                    20130623.1829      available  Rewrite of Powerline [github]
+  powershell                   20120709.2122      available  run powershell as an inferior shell in emacs [wiki]
+  powershell-mode              20100203.458       available  Mode for editing Powershell scripts [svn]
+  pp-c-l                       1.0                available  Display Control-l characters in a pretty way
+  predictive                   0.19.5             available  Predictive Mode (Contains Dependencies)
+  pretty-lambdada              22.0               available  Show the word `lambda' as the Greek letter.
+  pretty-mode                  20130331.1551      available  redisplay parts of the buffer as pretty symbols [wiki]
+  pretty-mode-plus             1.1                available  Redisplay parts of the buffer as pretty symbols.
+  pretty-symbols-mode          20130602.1729      available  Draw tokens as Unicode glyphs. [github]
+  proc-net                     20130322.12        available  network process tools [github]
+  processing-mode              20130804.1120      available  Major mode for Processing 2.0 [github]
+  processing-snippets          20130718.2052      available  Snippets for processing-mode [github]
+  project                      1.0                available  Keep track of the current project
+  project-local-variables      20080502.1652      available  Set project-local variables from a file. [wiki]
+  project-mode                 1.0                available  Define code projects. Full-text search, etc.
+  project-persist              20130422.1607      available  A minor mode to allow loading and saving of project settings. [github]
+  projectile                   20130725.1224      available  Manage and navigate projects in Emacs easily [github]
+  projmake-mode                20130614.1235      available  Project oriented automatic builder and error highlighter, flymake for projects [github]
+  prolog                       1.22               available  major mode for editing and running Prolog (and Mercury) code
+  protobuf-mode                20091217.1955      available  major mode for editing protocol buffers. [svn]
+  psgml                        1.4.1              available  Lennart Staflin's Psgml package, with Elisp syntax and sgml-validate fixed for Emacsen >=24.
+  psvn                         20120401.2340      available  Subversion interface for emacs [github]
+  puppet-mode                  20120704.1849      available  A simple mode for editing puppet manifests [github]
+  purple-haze-theme            0.0.7              available  an overtly purple color theme for Emacs24.
+  purty-mode                   20130214.1502      available  Safely pretty-print greek letters, mathematical symbols, or anything else. [github]
+  py-import-check              20130802.1150      available  Finds the unused python imports using importchecker [github]
+  pyde                         0.6                available  Python Development Environment
+  pyflakes                     1.0                available  run the python pyflakes checker putting hits in a grep buffer
+  pylint                       20121112.1335      available  minor mode for running `pylint' [hg]
+  pymacs                       0.25               available  Interface between Emacs Lisp and Python
+  pyregexp                     20130531.929       available  [deprecated, use visual-regexp/visual-regexp-steroids instead] A Python regexp/replace command for Emacs with interactive visual feedback [github]
+  pysmell                      0.7.2              available  Complete python code using heuristic static analysis
+  pytest                       0.2.1              available  Easy Python test running in Emacs
+  python                       20120402           available  Python's flying circus support for Emacs
+  python-django                20130526.1059      available  A Jazzy package for managing Django projects [github]
+  python-environment           20130624.1239      available  virtualenv API for Emacs Lisp [github]
+  python-magic                 20120505.1355      available  outline mode extension for python mode [wiki]
+  python-mode                  6.0.10             available  Python major mode
+  python-pep8                  1.1                available  minor mode for running `pep8'
+  python-pylint                1.1                available  minor mode for running `pylint'
+  pyvirtualenv                 1.1                available  Python Pyvirtualenv support
+  qml-mode                     20130416.1832      available  Major mode for editing QT Declarative (QML) code. [github]
+  qsimpleq-theme               0.1.3              available  Based on solarized color theme for Emacs.
+  quack                        0.42               available  enhanced support for editing and running Scheme code
+  quarter-plane                0.1                available  Minor mode for quarter-plane style editing
+  queue                        0.1                available  Queue data structure
+  quick-buffer-switch          20130304.129       available  Quick switch to file or dir buffers. [github]
+  quickref                     20130113.1700      available  Display relevant notes-to-self in the echo area [github]
+  quickrun                     20130730.1513      available  Run commands quickly [github]
+  r-autoyas                    0.28               available  Provides automatically created yasnippets for R function argument lists.
+  r5rs                         1.0                available  Browse documentation from the R5RS Revised5 Report
+  railgun                      20121017.157       available  No description available. [github]
+  rainbow-delimiters           20130307.340       available  Highlight nested parens, brackets, braces a different color at each depth. [github]
+  rainbow-mode                 0.9                available  Colorize color names in buffers
+  rase                         20120928.2345      available  Run At Sun Event daemon [github]
+  rbenv                        20130805.907       available  Emacs integration for rbenv [github]
+  rcirc-color                  0.2                available  color nicks
+  rcirc-notify                 0.6                available  libnotify popups
+  rcirc-robots                 0.0.7              available  robots based on rcirc irc -*- lexical-binding: t -*-
+  rcirc-ssh                    0.0.7              available  do irc over ssh sessions -*- lexical-binding: t -*-
+  rcirc-ucomplete              1.0.1              available  Unambiguous non-cycling completion for rcirc
+  rdp                          20120928.2154      available  Recursive Descent Parser library [github]
+  real-auto-save               0.3                available  enable real auto save
+  realgud                      20130710.1108      available  A modular front-end for interacting with external debuggers [github]
+  rebox2                       20121113.2100      available  Handling of comment boxes in various styles. [github]
+  recentf-ext                  20130130.2150      available  Recentf extensions [wiki]
+  rect+                        20130401.1422      available  Extensions to rect.el [github]
+  rect-mark                    1.4                available  Mark a rectangle of text with highlighting.
+  recursive-narrow             20111019.1608      available  narrow-to-region that operates recursively [github]
+  redo+                        20130424.155       available  Redo/undo system for Emacs [wiki]
+  redshank                     20120510.1230      available  No description available. [git]
+  refheap                      0.0.3              available  A library for pasting to https://refheap.com
+  regex-dsl                    20100124.1228      available  lisp syntax for regexps [github]
+  regex-tool                   20130328.1510      available  A regular expression evaluation tool for programmers [github]
+  region-bindings-mode         20130430.2107      available  Enable custom bindings when mark is active. [github]
+  region-list-edit             20100530.808       available  Add/delete a region into/from a region list, such as ‘((4 . 7) (11 . 15) (17 . 17) (20 . 25)).
+  register-list                0.1                available  Interactively list/edit registers
+  remember-theme               20130718.230       available  Remembers the last theme in use and re-loads for the next session.
+  repl-toggle                  20130614.615       available  Switch to/from repl buffer for current major-mode [github]
+  replace-from-region          20130316.2304      available  Replace commands whose query is from region [wiki]
+  repository-root              1.0.3              available  deduce the repository root directory for a given file
+  request                      20130526.1915      available  Compatible layer for URL request in Emacs [github]
+  request-deferred             0.2.0              available  Wrap request.el by deferred
+  requirejs-mode               20130215.1604      available  Improved AMD module management [github]
+  restclient                   20130627.1342      available  An interactive HTTP client for Emacs [github]
+  reverse-theme                20130402.1912      available  Reverse theme for Emacs [github]
+  revive                       20121022.1311      available  Resume Emacs [github]
+  rfringe                      20110405.1520      available  display the relative location of the region, in the fringe. [wiki]
+  rhtml-mode                   20130421.1008      available  major mode for editing RHTML files [github]
+  rinari                       20130721.1241      available  Rinari Is Not A Rails IDE [github]
+  rings                        20130721.2305      available  Buffer rings. Like tabs, but better. [github]
+  rnc-mode                     20121227.1802      available  A major mode for editing RELAX NG Compact syntax. [github]
+  robe                         20130730.1120      available  Code navigation, documentation lookup and completion for Ruby [github]
+  roy-mode                     20121207.1930      available  Roy major mode [github]
+  rsense                       20100511.1305      available  RSense client for Emacs [github]
+  rspec-mode                   20130628.2224      available  Enhance ruby-mode for RSpec [github]
+  rubocop                      20130707.1421      available  An Emacs interface for RuboCop [github]
+  ruby-block                   20111101.1152      available  highlight matching block [wiki]
+  ruby-compilation             20130429.1411      available  run a ruby process in a compilation buffer [github]
+  ruby-dev                     20130712.1441      available  Interactive developement environment for Ruby. [github]
+  ruby-electric                20130127.1902      available  Minor mode with electric editing commands for Ruby files [github]
+  ruby-end                     20130426.909       available  Automatic insertion of end blocks for Ruby. [github]
+  ruby-hash-syntax             20130626.1837      available  Toggle ruby hash syntax between classic and 1.9 styles [github]
+  ruby-interpolation           20120326.1309      available  Ruby string interpolation helpers [github]
+  ruby-mode                    1.1                available  ruby-mode package
+  ruby-refactor                20130803.955       available  A minor mode which presents various Ruby refactoring helpers. [github]
+  ruby-test-mode               20121120.1052      available  Minor mode for Behaviour and Test Driven [github]
+  ruby-tools                   20121008.1851      available  Collection of handy functions for ruby-mode. [github]
+  rubyinterpol                 0.1                available  Ruby-like String Interpolation for format
+  rudel                        0.3                available  A collaborative editing framework for Emacs
+  rust-mode                    20130803.1831      available  A major emacs mode for editing Rust source code [github]
+  rvm                          20130521.902       available  Emacs integration for rvm [github]
+  rw-hunspell                  0.2                available  special functions for Hunspell in ispell.el
+  rw-ispell                    0.1                available  additional functions for ispell.el
+  rw-language-and-country-c... 0.1                available  Language & Country Codes
+  s                            20130617.1851      available  The long lost Emacs string manipulation library. [github]
+  s-buffer                     20130605.2224      available  s operations for buffers [github]
+  sackspace                    20130719.1156      available  A better backspace [github]
+  sass-mode                    20101019.30        available  Major mode for editing Sass files [github]
+  sauron                       20120903.1145      available  Track (erc/org/dbus/...) events and react to them. [github]
+  save-load-path               20130130.2150      available  save load-path and reuse it to test [wiki]
+  save-packages                0.20121012         available  save and restore installed packages
+  save-sexp                    20130106.1542      available  save variables in files using setter forms like `setq' [github]
+  save-visited-files           20130508.1233      available  save opened files across sessions [github]
+  savekill                     20130130.2151      available  Save kill ring to disk [wiki]
+  sawfish                      1.32               available  Sawfish mode.
+  scad-mode                    90.0               available  SCAD mode derived mode
+  scala-mode                   20121205.1135      available  No description available. [github]
+  scala-mode2                  20130403.1734      available  Major mode for editing Scala >= 2.9 [github]
+  scf-mode                     20111202.2307      available  shorten file-names in compilation type buffers [github]
+  scheme-complete              20130220.2103      available  Smart tab completion for Scheme in Emacs [hg]
+  scheme-here                  20081208.1711      available  cmuscheme extension for multiple inferior processes [wiki]
+  scion                        20130315.825       available  Haskell Minor Mode for Interacting with the Scion Library [github]
+  sclang-extensions            20130514.1732      available  Extensions for the SuperCollider Emacs mode. [github]
+  sclang-snippets              20130513.951       available  Snippets for the SuperCollider Emacs mode [github]
+  scpaste                      20110617.1856      available  Paste to the web via scp. [wiki]
+  scratch                      20120830.1028      available  Mode-specific scratch buffers [github]
+  scratch-log                  20120131.821       available  Utility for *scratch* buffer. [github]
+  scratch-palette              20130802.2041      available  save scratch notes on each file [github]
+  scratch-persist              1.1                available  persist the scratch buffer across sessions
+  scratch-pop                  20130802.2039      available  popup "scratch"es [github]
+  screen-lines                 0.55               available  a minor mode for screen-line-based point motion
+  screenshot                   20120509.1105      available  Take a screenshot in Emacs [wiki]
+  scrolloff                    1.0                available  This mode ofers vim-like scrolloff function
+  scss-mode                    20121203.127       available  Major mode for editing SCSS files [github]
+  sea-before-storm-theme       0.3                available  Sea Before Storm color theme for Emacs 24
+  seclusion-mode               1.1.1              available  Edit in seclusion. A Dark Room mode.
+  sentence-highlight           20121026.1450      available  highlight the current sentence [wiki]
+  sequence                     0.0.1              available  makes sequences of numbers -*- lexical-binding: t -*-
+  session                      20120511.0         available  use variables, registers and buffer places across sessions [github]
+  session-manager              0.5                available  Support for the Gnome Session Manager
+  shadchen                     1.0                available  pattern matching for elisp
+  shell-command                20090621.1332      available  enables tab-completion for `shell-command' [wiki]
+  shell-here                   20120807.1913      available  Open a shell relative to the working directory [github]
+  shell-history                20100504.850       available  integration with shell history [wiki]
+  shell-pop                    20130616.116       available  helps you to use shell easily on Emacs. Only one key action to work. [github]
+  shell-switcher               20130711.1833      available  Provide fast switching between shell buffers [github]
+  shen-mode                    0.1                available  Utilities for working with Shen code.
+  shift-text                   20130609.2322      available  Move the region in 4 directions, in a way similar to Eclipse's [github]
+  shimbun                      20120719.338       available  interfacing with web newspapers [github]
+  shoes-off                    0.1.8              available  irc bouncer
+  shorten                      20130621.1740      available  component-wise string shortener [github]
+  show-css                     1.1                available  Show the css of the html attribute the cursor is on
+  show-marks                   20130805.1549      available  Navigate and visualize the mark-ring [github]
+  showcss-mode                 20130605.1824      available  No description available. [github]
+  sicp                         20121014.1314      available  No description available. [github]
+  simp                         20130602.1301      available  Simple project definition, chiefly for file finding, and grepping [github]
+  simple-call-tree             20130330.940       available  analyze source code based on font-lock text-properties [wiki]
+  simple-call-tree+            20130512.16        available  Extensions to simple-call-tree [wiki]
+  simple-httpd                 20130527.1257      available  pure elisp HTTP server [github]
+  simple-mode-line             0.3                available  Simplified Mode Line for Emacs 24
+  simpleclip                   20121205.1449      available  Simplified access to the system clipboard [github]
+  simplenote                   20130416.2302      available  Interact with simple-note.appspot.com [github]
+  simplezen                    20130421.1052      available  A simple subset of zencoding-mode for Emacs. [github]
+  sisu-mode                    3.0.3              available  Major mode for SiSU markup text
+  skewer-mode                  20130605.1217      available  live browser JavaScript and CSS interaction [github]
+  skinny                       0.0.3              available  a blog engine with elnode -*- lexical-binding: t -*-
+  slamhound                    20130620.1413      available  Rip Clojure namespaces apart and rebuild them. [github]
+  slideview                    20130513.1342      available  File slideshow [github]
+  slim-mode                    20130614.2240      available  Major mode for editing Slim files [github]
+  slime                        20130626.1151      available  Superior Lisp Interaction Mode for Emacs [github]
+  slime-clj                    0.1.5              available  slime extensions for swank-clj
+  slime-fuzzy                  20100404           available  Fuzzy symbol completion for Slime
+  slime-js                     0.0.1              available  Slime extension for swank-js.
+  slime-repl                   20100404           available  Read-Eval-Print Loop written in Emacs Lisp
+  slime-ritz                   20130218.1829      available  slime extensions for ritz [github]
+  slough                       0.1                available  package for slough - this is for a secret TW thing
+  smart-compile                20120710.1600      available  an interface to `compile' [wiki]
+  smart-forward                20130205.1352      available  Semantic navigatioin [github]
+  smart-mode-line              20130718.1508      available  A color coded smart mode-line. [github]
+  smart-operator               20051013.1756      available  Beautify the operators in codes [wiki]
+  smart-tab                    20130317.1157      available  Intelligent tab completion and indentation. [github]
+  smart-tabs-mode              20130718.1237      available  Intelligently indent with tabs, align with spaces! [github]
+  smart-window                 20130214.1142      available  vim-like window controlling plugin [github]
+  smarter-compile              2012.4.9           available  a smarter wrapper for `compile'
+  smartparens                  20130805.2048      available  Automatic insertion, wrapping and paredit-like navigation with user defined pairs. [github]
+  smartrep                     20130312.1839      available  Support sequential operation which omitted prefix keys. [github]
+  smarty-mode                  20100703.1358      available  major mode for editing smarty templates [github]
+  smex                         20130707.1255      available  M-x interface with Ido-style fuzzy matching. [github]
+  sml-mode                     20130303.2022      available  Major mode for editing (Standard) ML [github]
+  sml-modeline                 0.5                available  Show position in a scrollbar like way in mode-line
+  smooth-scroll                20130321.2114      available  Minor mode for smooth scrolling and in-place scrolling. [github]
+  smooth-scrolling             20130602.1609      available  Make emacs scroll smoothly [github]
+  smotitah                     20130715.1233      available  Modular emacs configuration framework [github]
+  snippet                      20130210.1815      available  Insert snippets of text into a buffer [github]
+  sokoban                      1.23               available  Play the Sokoban game in emacs
+  solarized-theme              20130804.1649      available  The Solarized color theme, ported to Emacs. [github]
+  soothe-theme                 20130805.1700      available  a dark colorful theme for Emacs24. [github]
+  sourcetalk                   20130709.819       available  SourceTalk (http://sourcetalk.net) plugin for Emacs [github]
+  spaces                       20130602.1523      available  Create and switch between named window configurations. [github]
+  sparkline                    20130803.1442      available  Make sparkline images from a list of numbers [github]
+  sparql-mode                  20130702.1410      available  Edit and interactively evaluate SPARQL queries. [github]
+  speck                        2010.5.25          available  minor mode for spell checking
+  splitter                     20130705.50        available  Manage window splits [github]
+  spotify                      20130520.1152      available  Control the spotify application from emacs [github]
+  sprintly-mode                20121005.2234      available  Major mode for dealing with sprint.ly [github]
+  sql-indent                   20090325.2254      available  indentation of SQL statements [wiki]
+  sr-speedbar                  20130309.1959      available  Same frame speedbar [wiki]
+  ssh                          20120904.1342      available  Support for remote logins using ssh. [github]
+  ssh-config-mode              20120513.2233      available  Mode for fontification of ~/.ssh/config [github]
+  stan-mode                    20130416.1559      available  Major mode for editing STAN files [github]
+  starter-kit                  20121025.1511      available  Saner defaults and goodies. [github]
+  starter-kit-bindings         20120101.1955      available  Saner defaults and goodies: bindings [github]
+  starter-kit-eshell           20121001.1714      available  Saner defaults and goodies: eshell tweaks [github]
+  starter-kit-js               20110930.2320      available  Saner defaults and goodies for Javascript [github]
+  starter-kit-lisp             20120504.2007      available  Saner defaults and goodies for lisp languages [github]
+  starter-kit-perl             20120128.1450      available  Some helpful Perl code [github]
+  starter-kit-ruby             20120128.1450      available  Saner defaults and goodies for Ruby [github]
+  stem                         20130120.2111      available  No description available. [github]
+  sticky                       20101130.252       available  Sticky key for capital letters [wiki]
+  string-edit                  20130501.939       available  Avoid escape nightmares by editing string in separate buffer [github]
+  string-utils                 20121108.1917      available  String-manipulation utilities [github]
+  stripe-buffer                20130728.1355      available  Use a different background for even and odd lines [github]
+  stumpwm-mode                 20111113.1231      available  special lisp mode for evaluating code into running stumpwm [git]
+  stupid-indent-mode           20130608.1022      available  Plain stupid indentation minor mode [github]
+  stylus-mode                  20120730.1950      available  Major mode for editing .jade files [github]
+  subatomic-enhanced-theme     20130226.2229      available  Nice looking emacs 24 theme
+  subatomic-theme              20130226.2229      available  Nice looking emacs 24 theme [github]
+  subatomic256-theme           20130621.1210      available  Fork of subatomic-theme for terminals. [github]
+  sublime                      0.0.7              available  REQUIRES EMACS 24 - Sublime Text 2 Emulation for Emacs
+  sublime-themes               20130727.1028      available  A collection of themes based on Sublime Text [github]
+  sublimity                    20130623.1220      available  smooth-scrolling and minimap, like sublime editor [github]
+  subshell-proc                20130122.1322      available  Functions for working with comints [github]
+  sudden-death                 20121218.2249      available  Totsuzen-no-Shi [github]
+  sudo-ext                     20130130.2151      available  sudo support [wiki]
+  sumatra-forward              2008.10.8          available  Provides Sumatra Forward search
+  summarye                     20130328.1027      available  list up matched strings from a buffer, and display them in summary buffer [wiki]
+  suomalainen-kalenteri        20130414.1635      available  Finnish holidays for Emacs calendar. [github]
+  supergenpass                 20130328.2248      available  SuperGenPass for Emacs [github]
+  surround                     20121022.1257      available  emulate surround.vim from Vim [github]
+  svg-clock                    0.5                available  Analog clock using Scalable Vector Graphics
+  svg-mode-line-themes         20130614.1613      available  SVG-based themes for mode-line [github]
+  swank-cdt                    1.0.1              available  swank-cdt helper functions
+  swarmhacker                  0.0.1              available  simple swarm chat
+  swbuff                       20041012.718       available  Quick switch between Emacs buffers. [cvs]
+  swbuff-x                     20130607.1014      available  Modifications to David Ponce's swbuff [wiki]
+  switch-window                20121102.1529      available  A *visual* way to choose a window to switch to [github]
+  sws-mode                     20120730.2122      available  (S)ignificant (W)hite(S)pace mode [github]
+  symbols-mode                 0.3                available  List symbols of object files
+  synonyms                     20130724.6         available  Look up synonyms for a word or phrase in a thesaurus. [wiki]
+  syntactic-sugar              20121205.1457      available  Effect-free forms such as if/then/else [github]
+  syslog-mode                  20130802.2127      available  Major-mode for viewing log files [github]
+  systemtap-mode               20121210.10        available  A mode for SystemTap [github]
+  tNFA                         0.1.1              available  Tagged non-deterministic finite-state automata
+  tabbar                       20110824.1439      available  No description available. [github]
+  tabbar-ruler                 20130701.2353      available  Pretty tabbar, autohide, use both tabbar/ruler [github]
+  tabkey2                      1.40               available  Use second tab key pressed for what you want
+  tabula-rasa-mode             0.1.0              available  Distraction free writing mode
+  tabulated-list               20120406.2251      available  generic major mode for tabulated lists. [github]
+  tagedit                      20130714.1409      available  Some paredit-like features for html-mode [github]
+  tango-2-theme                20120312.1325      available  Tango 2 color theme for GNU Emacs 24 [github]
+  tangotango-theme             20130715.1126      available  Tango Palette color theme for Emacs 24. [github]
+  tc                           20130403.1455      available  a Japanese input method with T-Code on Emacs [github]
+  tea-time                     20120307.1523      available  Simple timer package, useful to make perfect tea. [github]
+  tern                         20130805.1824      available  Tern-powered JavaScript integration [github]
+  tern-auto-complete           20130805.1824      available  Tern Completion by auto-complete.el [github]
+  test-case-mode               20121228.1141      available  unit test front-end [github]
+  test-simple                  20130710.1126      available  Simple Unit Test Framework for Emacs Lisp [github]
+  tex-smart-umlauts            20130708.401       available  Smart umlaut conversion for TeX. [darcs]
+  text-language                0.20121008         available  tracking, setting, guessing language of text
+  textile-mode                 20120721.2158      available  Textile markup editing major mode [github]
+  textmate                     20110816.1446      available  TextMate minor mode for Emacs [github]
+  textmate-to-yas              20130509.1054      available  Import Textmate macros into yasnippet syntax [github]
+  tfs                          20120508.1820      available  MS Team Foundation Server commands for Emacs. [wiki]
+  theme-changer                20130725.2119      available  Sunrise/Sunset Theme Changer for Emacs [github]
+  theme-park-mode              0.1.2              available  Take your themes for a ride!
+  thesaurus                    20121125.1937      available  replace a word with a synonym looked up in a web service. [wiki]
+  thingopt                     20120615.1752      available  Thing at Point optional utilities [github]
+  thread-dump                  20130323.2125      available  Java thread dump viewer [github]
+  thumb-through                20120118.2134      available  Plain text reader of HTML documents [github]
+  tidy                         20111222.1756      available  Interface to the HTML Tidy program [wiki]
+  time-ext                     20130130.2151      available  more function for time/date [wiki]
+  tintin-mode                  1.0.0              available  Mayor mode for editing tintin++ scripts
+  tmmofl                       20121025.1201      available  Calls functions dependant on font lock highlighting at point [hg]
+  todochiku                    20120202.2005      available  A mode for interfacing with Growl, Snarl, and the like. [wiki]
+  todotxt                      20130527.851       available  A major mode for editing todo.txt files [github]
+  tomatinho                    20120717.2026      available  Tomatinho [github]
+  toml-mode                    20130302.748       available  Mojor mode for editing TOML files [github]
+  top-mode                     20130605.1739      available  run "top" from emacs [wiki]
+  toxi-theme                   20130418.2039      available  A dark color theme by toxi [hg]
+  track-closed-files           0.1                available  Keep track of recently closed files
+  tracking                     20130619.1953      available  Buffer modification tracking [github]
+  tree-mode                    20121207.1538      available  A mode to manage tree widgets [wiki]
+  trident-mode                 20130726.1207      available  Live Parenscript interaction [github]
+  trie                         0.2.6              available  Trie data structure
+  tron-theme                   12                 available  A theme loosely based on Tron: Legacy colors
+  truthy                       20121106.1302      available  Test the content of a value [github]
+  tt-mode                      20130804.1145      available  Emacs major mode for editing Template Toolkit files. [github]
+  ttl-mode                     0.1                available  mode for Turtle(RDF)
+  ttrss                        20130409.1849      available  Tiny Tiny RSS elisp bindings [github]
+  tuareg                       20130218.1334      available  OCaml mode for Emacs. [svn]
+  tumble                       20130326.2210      available  an Tumblr mode for Emacs [github]
+  tumblesocks                  20130526.1503      available  An Emacs tumblr client. [github]
+  tup-mode                     20130129.1533      available  Major mode for editing files for Tup [github]
+  twilight-anti-bright-theme   20120713.1116      available  A soothing Emacs 24 light-on-dark theme [github]
+  twilight-bright-theme        20130605.943       available  A Emacs 24 faces port of the TextMate theme [github]
+  twilight-theme               20120412.803       available  Twilight theme for GNU Emacs 24 (deftheme) [github]
+  twittering-mode              20130616.1818      available  Major mode for Twitter [github]
+  typing                       20121026.2118      available  The Typing Of Emacs [wiki]
+  typing-practice              0.1                available  Typing practice
+  typo                         20130312.1948      available  Minor mode for typographic editing [github]
+  typopunct                    1.0                available  Automatic typographical punctuation marks
+  uci-mode                     1.0.0              available  Major mode for UCI configuration files
+  ucs-utils                    20121205.1457      available  Utilities for Unicode characters [github]
+  ujelly-theme                 1.0.20             available  Ujelly theme for GNU Emacs 24 (deftheme)
+  ukrainian-holidays           20130720.1549      available  Ukrainian holidays for Emacs calendar. [github]
+  unbound                      0.1                available  find convenient unbound keystrokes
+  uncrustify-mode              20130707.1323      available  Minor mode to automatically uncrustify. [github]
+  underwater-theme             20120615.1149      available  A gentle, deep blue color theme [github]
+  undo-tree                    20130614.1632      available  No description available. [git]
+  undohist                     20110401.823       available  Persistent Undo History for GNU Emacs [github]
+  unfill                       20120529.1250      available  The inverse of fill-paragraph and fill-region [github]
+  uni-confusables              0.1                available  Unicode confusables table
+  unicode-enbox                20121205.1457      available  Surround a string with box-drawing characters [github]
+  unicode-fonts                20130522.1241      available  Configure Unicode fonts [github]
+  unicode-progress-reporter    20121205.1458      available  Progress-reporter with fancy characters [github]
+  unicode-whitespace           20121205.1458      available  teach whitespace-mode about fancy characters [github]
+  usage-memo                   20110722.1551      available  integration of Emacs help system and memo [wiki]
+  use-package                  20130703.1256      available  A use-package declaration for simplifying your .emacs [github]
+  uuid                         20120910.951       available  UUID's for EmacsLisp [github]
+  vala-mode                    0.1                available  Vala mode derived mode
+  vc-check-status              20130730.1656      available  Warn you when quitting emacs and leaving repo dirty. [github]
+  vc-darcs                     20090617.1305      available  a VC backend for darcs [darcs]
+  vcard                        0.1                available  vcard parsing and display routines
+  vcl-mode                     20121129.2114      available  Syntax highlighting for Varnish Command Language [github]
+  vcomp                        20121231.1148      available  compare version strings [github]
+  vector-utils                 20121205.1458      available  Vector-manipulation utility functions [github]
+  vertica                      20130213.1545      available  Vertica SQL mode extension [github]
+  viewer                       20130314.2337      available  View-mode extension [wiki]
+  vimgolf                      20120228.848       available  VimGolf interface for the One True Editor [github]
+  vimrc-mode                   20130228.1544      available  Major mode for vimrc files [github]
+  virtualenv                   20120930.1034      available  Virtualenv for Python [github]
+  virtualenvwrapper            20130805.2238      available  a modern virtualenv tool for Emacs [github]
+  visible-color-code           0.0.1              available  color code strings in current buffer, this elisp show you one as real color.
+  visible-mark                 20080221.651       available  Make marks visible. [wiki]
+  visual-regexp                20130527.1820      available  A regexp/replace command for Emacs with interactive visual feedback [github]
+  visual-regexp-steroids       20130411.2323      available  Extends visual-regexp to support other regexp engines [github]
+  vlf                          0.9                available  View Large Files
+  vlfi                         20130806.1641      available  View Large Files [github]
+  vline                        20120108.1245      available  show vertical line (column highlighting) mode. [wiki]
+  volatile-highlights          20130321.2241      available  Minor mode for visual feedback on some operations. [github]
+  w32-browser                  21.0               available  Run Windows application associated with a file.
+  w32-registry                 2012.4.6           available  read the registry from elisp
+  w3m                          20130731.2126      available  an Emacs interface to w3m [cvs]
+  wacspace                     20130726.1007      available  The WACky WorkSPACE manager for emACS [github]
+  watch-buffer                 20120331.1344      available  run a shell command when saving a buffer [github]
+  wc-mode                      20120531.1344      available  show wc-like information in status bar [wiki]
+  wcheck-mode                  20130613.1808      available  General interface for text checkers [github]
+  weather                      2012.3.27.2        available  Get weather reports via worldweatheronline.com
+  weather-metno                20121023           available  Weather data from met.no in Emacs
+  web                          20130429.1926      available  useful HTTP client [github]
+  web-mode                     20130806.2118      available  major mode for editing html templates [github]
+  weblogger                    20110926.1218      available  Weblog maintenance via XML-RPC APIs [bzr]
+  websocket                    20130803.1409      available  Emacs WebSocket client and server [github]
+  wedge-ws                     20130804.2311      available  Wedge whitespace between columns in text [github]
+  weechat                      20130625.2317      available  Chat via WeeChat's relay protocol in Emacs [github]
+  wget                         1.94               available  Emacs-wget is an interface program of GNU wget on Emacs.
+  wgrep                        20130723.2134      available  Writable grep buffer and apply the changes to files [github]
+  wgrep-ack                    20121201.2230      available  Writable ack-and-a-half buffer and apply the changes to files [github]
+  wgrep-ag                     20130725.1831      available  Writable ag buffer and apply the changes to files [github]
+  wgrep-helm                   20121201.2230      available  Writable helm-grep-mode buffer and apply the changes to files [github]
+  whole-line-or-region         20110901.930       available  operate on current line if region undefined [github]
+  wide-column                  20120814.912       available  Calls functions dependant on column position. [hg]
+  widget-mvc                   20130430.2357      available  MVC framework for the emacs widgets [github]
+  wiki                         20120807.1458      available  hypertext authoring the WikiWay [wiki]
+  wiki-nav                     20121205.1453      available  Simple file navigation using [[WikiStrings]] [github]
+  wikidoc                      0.8.1              available  use elisp doc strings to make other documentation
+  win-switch                   20130202.1237      available  fast, dynamic bindings for window-switching/resizing [github]
+  window-end-visible           20121025.923       available  Find the last visible point in a window [github]
+  window-jump                  20130224.114       available  Move left/right/up/down through your windows. [github]
+  window-layout                20130806.1054      available  window layout manager [github]
+  window-number                20100803.1327      available  Select windows by numbers [wiki]
+  windresize                   0.1                available  Resize windows interactively
+  windsize                     20110728.1636      available  Simple, intuitive window resizing [github]
+  winpoint                     20120526.2108      available  Remember buffer positions per-window, not per buffer [github]
+  wisp-mode                    20130527.1609      available  Major mode for Wisp code. [github]
+  with-namespace               20130407.1922      available  interoperable elisp namespaces [github]
+  workgroups                   20110724.1825      available  workgroups for windows (for Emacs) [github]
+  workgroups2                  20130707.2016      available  New workspaces for Emacs [github]
+  workspaces                   0.1                available  Workspaces for Emacsen 
+  world-time-mode              20130401.229       available  show whole days of world-time diffs [github]
+  wrap-region                  20130529.728       available  Wrap text with punctation or tag [github]
+  writegood-mode               20130406.2316      available  Polish up poor writing on the fly [github]
+  writeroom-mode               20130315.2007      available  Minor mode for distraction-free writing [github]
+  ws-trim                      1.4                available  Tools and minor mode to trim whitespace on text lines
+  wxwidgets-help               0.0.3              available  Look up wxWidgets API by using local html manual.
+  xclip                        1.0                available  Emacs Interface to XClip
+  xlicense                     1.1                available  Insert pre-defined license text
+  xml-gen                      0.4                available  A DSL for generating XML.
+  xml-rpc                      20130423.1656      available  An elisp implementation of clientside XML-RPC [bzr]
+  xmlgen                       20130219.1019      available  A DSL for generating XML. [github]
+  xterm-frobs                  20091212.55        available  manipulate xterm when running emacs in tty mode [github]
+  yagist                       20130725.2023      available  Yet Another Emacs integration for gist.github.com [github]
+  yalinum                      20130217.1711      available  yet another display line numbers. [github]
+  yaml-mode                    20130311.1301      available  Major mode for editing YAML files [github]
+  yaoddmuse                    20130225.1711      available  Yet another oddmuse for Emacs [wiki]
+  yard-mode                    20130402.1603      available  Minor mode for Ruby YARD comments [github]
+  yari                         20130727.1639      available  Yet Another RI interface for Emacs [github]
+  yas-jit                      0.8.3              available  Loads Yasnippets on demand (makes start up faster)
+  yascroll                     20130321.334       available  Yet Another Scroll Bar Mode [github]
+  yasnippet                    20130722.1832      available  Yet another snippet extension for Emacs. [github]
+  yasnippet-bundle             0.6.1              available  Yet another snippet extension (Auto compiled bundle)
+  yaxception                   20130501.727       available  provide framework about exception like Java for elisp [github]
+  zeitgeist                    20120212.140       available  No description available. [bzr]
+  zen-and-art-theme            20120622.937       available  zen and art color theme for GNU Emacs 24 [github]
+  zen-mode                     20120627           available  remove/restore Emacs distractions quickly
+  zenburn-theme                20130716.1457      available  A low contrast color theme for Emacs. [github]
+  zencoding-mode               20111231.345       available  Unfold CSS-selector-like expressions to markup [github]
+  zjl-hl                       20121028.1901      available  Highlight variable and function call and others in c/emacs, make life easy.
+  zlc                          20130426.1811      available  Provides zsh like completion system to Emacs [github]
+  znc                          20120729.1124      available  ZNC + ERC [github]
+  zoom-frm                     20130724.16        available  Commands to zoom frame font size. [wiki]
+  zossima                      20121117.108       available  Ruby from Emacs [github]
+  zotelo                       20130428.2053      available  Manage Zotero collections from emacs [github]
