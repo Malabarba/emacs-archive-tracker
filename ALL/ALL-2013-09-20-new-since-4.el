@@ -66,6 +66,7 @@
   (multi . [(20130912 2150) ((emacs (24))) "Clojure-style multi-methods for emacs lisp [github]" single "melpa"])
   (mustang-theme . [(20130911 1328) nil "port of vim's mustang theme [github]" single "melpa"])
   (navi-mode . [(20130815 1509) nil "major-mode for easy buffer-navigation [github]" single "melpa"])
+  (nrepl-tracing . [(20130920 1148) ((nrepl (0 1 7)) (clojure-mode (2 1 0))) "tracing extension for nrepl.el [github]" single "melpa"])
   (nummm-mode . [(20130817 1808) nil "Display the number of minor modes instead of their names [github]" single "melpa"])
   (obsidian-theme . [(20130912 2109) nil "port of the eclipse obsidian theme [github]" single "melpa"])
   (omnisharp . [(20130905 2218) ((json (1 2)) (dash (1 8 0)) (popup (0 5)) (auto-complete (1 4)) (flycheck (0 13))) "Omnicompletion (intellisense) and more for C# [github]" single "melpa"])

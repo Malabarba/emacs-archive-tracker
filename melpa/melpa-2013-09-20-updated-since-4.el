@@ -1,6 +1,5 @@
 '(
-  (abc-mode . [(20130607 917) nil "Major mode for editing abc music files [github]" single "melpa"])
-  (abl-mode . [(20120718 1655) nil "Python TDD minor mode [github]" single "melpa"])
+  (iy-go-to-char . [(20130901 729) nil "Go to next CHAR which is similar to \"f\" and \"t\" in vim [wiki]" single "melpa"])
   (ac-dabbrev . [(20130906 518) nil "auto-complete.el source for dabbrev [wiki]" single "melpa"])
   (ac-nrepl . [(20130903 2345) ((nrepl (0 1)) (auto-complete (1 4))) "auto-complete sources for Clojure using nrepl completions [github]" single "melpa"])
   (ack-and-a-half . [(20130815 1917) nil "Yet another front-end for ack [github]" single "melpa"])
@@ -109,6 +108,7 @@
   (frame-restore . [(20130815 2311) ((dash (1 2)) (f (0 4 1)) (emacs (24 1))) "Restore Emacs frame [github]" single "melpa"])
   (fuel . [(20130819 1144) ((cl-lib (0 2)) (emacs (24 2))) "Major mode for the Factor programming language. [git]" tar "melpa"])
   (gandalf-theme . [(20130809 1147) nil "Gandalf color theme [github]" single "melpa"])
+  (gather . [(20130423 750) nil "Gather string in buffer. [github]" single "melpa"])
   (gh . [(20130812 452) ((eieio (1 3)) (pcache (0 2 3)) (logito (0 1))) "A GitHub library for Emacs [github]" tar "melpa"])
   (git-commit-mode . [(20130919 341) nil "Major mode for editing git commit messages [github]" single "melpa"])
   (git-gutter . [(20130919 2251) nil "Port of Sublime Text plugin GitGutter [github]" single "melpa"])
@@ -152,7 +152,6 @@
   (interaction-log . [(20130912 1944) nil "exhaustive log of interactions with Emacs [github]" single "melpa"])
   (isearch+ . [(20130918 1602) nil "Extensions to `isearch.el' (incremental search). [wiki]" single "melpa"])
   (isearch-symbol-at-point . [(20130728 952) nil "Use isearch to search for the symbol at point [github]" single "melpa"])
-  (iy-go-to-char . [(20130901 729) nil "Go to next CHAR which is similar to \"f\" and \"t\" in vim [wiki]" single "melpa"])
   (js2-mode . [(20130920 429) ((emacs (24 1))) "Improved JavaScript editing mode [github]" tar "melpa"])
   (js3-mode . [(20130904 1444) nil "An improved JavaScript editing mode [github]" tar "melpa"])
   (key-combo . [(20130806 1814) nil "map key sequence to commands [github]" tar "melpa"])
