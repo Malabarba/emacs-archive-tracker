@@ -41,7 +41,7 @@
   (git-rebase-mode . [(20130912 1429) nil "Major mode for editing git rebase files [github]" single "melpa"])
   (gnus-spotlight . [(20130901 1435) nil "Search mail with Spotlight [wiki]" single "melpa"])
   (go-direx . [(20130808 2224) ((direx (0 1 -3))) "Tree style source code viewer for Go language [github]" single "melpa"])
-  (god-mode . [(20130812 1018) nil "God-like command entering minor mode [github]" single "melpa"])
+  (god-mode . [(20130921 1502) nil "God-like command entering minor mode [github]" single "melpa"])
   (helm-ag-r . [(20130918 233) ((helm (20130916))) "Search something by ag and display by helm [github]" single "melpa"])
   (helm-emmet . [(20130826 2316) ((helm (1 0)) (emmet-mode (1 0 2))) "helm sources for emmet-mode's snippets [github]" single "melpa"])
   (helm-helm-commands . [(20130902 1848) ((helm (1 5 4))) "List all helm commands with helm [github]" single "melpa"])
