@@ -1,5 +1,5 @@
 '(
-  (shell-pop . [(0 1) nil "helps you to use shell easily on Emacs. Only one key action to work." single "marmalade"])
+  (shell-pop . [(0 2) nil "helps you to use shell easily on Emacs. Only one key action to work." single "marmalade"])
   (skewer-mode . [(1 5 3) ((simple-httpd (1 4 0)) (js2-mode (20090723))) "live browser JavaScript, CSS, and HTML interaction" tar "marmalade"])
   (elfeed-web . [(1 0 1) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed" tar "marmalade"])
   (elfeed . [(1 0 1) ((emacs (24 1))) "an Emacs web feed reader" tar "marmalade"])
