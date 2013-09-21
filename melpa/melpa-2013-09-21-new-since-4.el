@@ -1,6 +1,6 @@
 '(
   (ac-emmet . [(20130826 726) ((emmet-mode (1 0 2)) (auto-complete (1 4))) "auto-complete sources for emmet-mode's snippets [github]" single "melpa"])
-  (anzu . [(20130920 2334) nil "Emacs Port of anzu.vim [github]" single "melpa"])
+  (anzu . [(20130921 1117) nil "Emacs Port of anzu.vim [github]" single "melpa"])
   (aok . [(20130817 845) nil "various useful ways to do `multi-occur' [wiki]" single "melpa"])
   (auctex-lua . [(20130818 1420) nil "Lua editing support for AUCTeX [github]" single "melpa"])
   (auto-complete-nxml . [(20130918 1219) ((auto-complete (1 4))) "do completion by auto-complete.el on nXML-mode [github]" single "melpa"])
