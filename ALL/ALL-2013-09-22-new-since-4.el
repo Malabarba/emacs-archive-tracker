@@ -112,7 +112,7 @@
   (tss . [(20130910 301) ((auto-complete (1 4 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide a interface for auto-complete.el/flymake.el on typescript-mode. [github]" tar "melpa"])
   (vagrant . [(20130808 1330) nil "Manage a vagrant box from emacs [github]" single "melpa"])
   (vc-check-status . [(20130814 1422) nil "Warn you when quitting emacs and leaving repo dirty. [github]" tar "melpa"])
-  (virtualenvwrapper . [(20130913 1203) ((dash (1 5 0)) (s (1 6 1))) "a modern virtualenv tool for Emacs [github]" single "melpa"])
+  (virtualenvwrapper . [(20130921 1707) ((dash (1 5 0)) (s (1 6 1))) "a modern virtualenv tool for Emacs [github]" single "melpa"])
   (wedge-ws . [(20130804 2311) nil "Wedge whitespace between columns in text [github]" single "melpa"])
   (wgrep-ag . [(20130725 1831) ((wgrep (2 1 5))) "Writable ag buffer and apply the changes to files [github]" single "melpa"])
   (window-numbering . [(20130902 1815) nil "Numbered window shortcuts [github]" single "melpa"])
