@@ -1,6 +1,6 @@
 '(
   (ac-emmet . [(20130826 726) ((emmet-mode (1 0 2)) (auto-complete (1 4))) "auto-complete sources for emmet-mode's snippets [github]" single "melpa"])
-  (anzu . [(20130921 1117) nil "Emacs Port of anzu.vim [github]" single "melpa"])
+  (anzu . [(20130922 1939) nil "Emacs Port of anzu.vim [github]" single "melpa"])
   (aok . [(20130817 845) nil "various useful ways to do `multi-occur' [wiki]" single "melpa"])
   (auctex-lua . [(20130818 1420) nil "Lua editing support for AUCTeX [github]" single "melpa"])
   (auto-complete-nxml . [(20130918 1219) ((auto-complete (1 4))) "do completion by auto-complete.el on nXML-mode [github]" single "melpa"])
@@ -88,6 +88,7 @@
   (phi-rectangle . [(20130916 2248) nil "another rectangle-mark command (rewrite of rect-mark) [github]" single "melpa"])
   (phi-search-mc . [(20130910 47) ((phi-search (1 1 3)) (multiple-cursors (1 2 1))) "multiple-cursors extension for phi-search [github]" single "melpa"])
   (php-auto-yasnippets . [(20130818 2349) ((php-mode (1 11)) (yasnippet (0 8 0))) "Creates snippets for PHP functions [github]" tar "melpa"])
+  (pianobar . [(20120128 1601) nil "thin wrapper for Pianobar, a Pandora Radio client [github]" single "melpa"])
   (pig-snippets . [(20130912 2126) ((yasnippet (0 8 0))) "Snippets for pig-mode [github]" tar "melpa"])
   (pkg-info . [(20130817 2334) ((dash (1 6 0)) (s (1 6 0))) "Information about packages [github]" tar "melpa"])
   (plsense . [(20130920 1112) ((auto-complete (1 4 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide interface for PlSense that is a development tool for Perl. [github]" single "melpa"])
