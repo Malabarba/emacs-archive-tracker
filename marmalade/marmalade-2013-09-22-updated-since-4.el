@@ -6,7 +6,7 @@
   (purple-haze-theme . [(20130906 1159) ((emacs (24 0))) "an overtly purple color theme for Emacs24." single "marmalade"])
   (paste-kde . [(0 3) ((web (0 3 6))) "paste text to KDE's pastebin service" single "marmalade"])
   (git-gutter+ . [(0 1) ((git-commit-mode (1 0))) "Manage Git hunks straight from the buffer" single "marmalade"])
-  (frame-restore . [(0 3) ((dash (1 2)) (f (0 4 1)) (emacs (24 1))) "Restore Emacs frame -*- lexical-binding: t; -*-" single "marmalade"])
+  (frame-restore . [(0 4) ((dash (1 2)) (f (0 11)) (emacs (24 1))) "Restore Emacs frame -*- lexical-binding: t; -*-" single "marmalade"])
   (ample-theme . [(0 2 3) nil "Calm Dark Theme for Emacs" single "marmalade"])
   (emmet-mode . [(1 0 5) nil "Unofficial Emmet's support for emacs" single "marmalade"])
   (web-mode . [(7 0 0) nil "major mode for editing html templates -*- coding: utf-8 -*-" single "marmalade"])
