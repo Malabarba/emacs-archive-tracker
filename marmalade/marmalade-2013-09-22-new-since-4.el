@@ -1,4 +1,5 @@
 '(
+  (f . [(0 11 0) ((s (1 7 0)) (dash (2 2 0))) "Modern API for working with files and directories" single "marmalade"])
   (shell-pop . [(0 2) nil "helps you to use shell easily on Emacs. Only one key action to work." single "marmalade"])
   (skewer-mode . [(1 5 3) ((simple-httpd (1 4 0)) (js2-mode (20090723))) "live browser JavaScript, CSS, and HTML interaction" tar "marmalade"])
   (elfeed-web . [(1 0 1) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed" tar "marmalade"])
@@ -24,7 +25,6 @@
   (flycheck-cask . [(0 1) ((flycheck (0 14)) (dash (2 0 0)) (f (0 6 0))) "Cask support in Flycheck -*- lexical-binding: t; -*-" single "marmalade"])
   (dash-functional . [(1 0 0) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp  -*- lexical-binding: t -*-" single "marmalade"])
   (pkg-info . [(0 1) ((dash (1 6 0)) (s (1 6 0))) "Information about packages       -*- lexical-binding: t; -*-" single "marmalade"])
-  (f . [(0 6 0) ((s (1 6 1)) (dash (1 5 0))) "Modern API for working with files and directories" single "marmalade"])
   (aok . [(0 1) nil "various useful ways to do `multi-occur'" single "marmalade"])
   (magit-tramp . [(0 1 0) ((magit (1 2 0))) "git method for TRAMP" single "marmalade"])
   (helm-recoll . [(20130905 2330) ((helm (1 5 4))) "helm interface for the recoll desktop search tool." single "marmalade"])
