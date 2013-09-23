@@ -1,4 +1,6 @@
 '(
+  (highlight-current-line . [(0 57) nil "highlight line where the cursor is." single "marmalade"])
+  (hl-spotlight . [(0) nil "Extension of hl-line.el to spotlight current few lines." single "marmalade"])
   (f . [(0 11 0) ((s (1 7 0)) (dash (2 2 0))) "Modern API for working with files and directories" single "marmalade"])
   (awk-it . [(0 77) nil "Run AWK interactively on region!" single "marmalade"])
   (page-break-lines . [(0 8) nil "Display ugly ^L page breaks as tidy horizontal lines" single "marmalade"])

@@ -1,4 +1,6 @@
 '(
+  (highlight-current-line . [(0 57) nil "highlight line where the cursor is." single "marmalade"])
+  (hl-spotlight . [(0) nil "Extension of hl-line.el to spotlight current few lines." single "marmalade"])
   (f . [(0 11 0) ((s (1 7 0)) (dash (2 2 0))) "Modern API for working with files and directories" single "marmalade"])
   (shell-pop . [(0 2) nil "helps you to use shell easily on Emacs. Only one key action to work." single "marmalade"])
   (skewer-mode . [(1 5 3) ((simple-httpd (1 4 0)) (js2-mode (20090723))) "live browser JavaScript, CSS, and HTML interaction" tar "marmalade"])
