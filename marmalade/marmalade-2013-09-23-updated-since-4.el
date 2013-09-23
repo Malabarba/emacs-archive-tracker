@@ -11,7 +11,7 @@
   (frame-restore . [(0 4) ((dash (1 2)) (f (0 11)) (emacs (24 1))) "Restore Emacs frame -*- lexical-binding: t; -*-" single "marmalade"])
   (ample-theme . [(0 2 3) nil "Calm Dark Theme for Emacs" single "marmalade"])
   (emmet-mode . [(1 0 5) nil "Unofficial Emmet's support for emacs" single "marmalade"])
-  (web-mode . [(7 0 0) nil "major mode for editing html templates -*- coding: utf-8 -*-" single "marmalade"])
+  (web-mode . [(7 0 21) nil "major mode for editing html templates -*- coding: utf-8 -*-" single "marmalade"])
   (processing-mode . [(1 2 1) nil "Major mode for Processing 2.0" single "marmalade"])
   (git-gutter-fringe+ . [(0 0 2) ((git-gutter+ (0 1)) (fringe-helper (20130519 1641))) "Fringe version of git-gutter+.el" single "marmalade"])
   (remember-theme . [(20130807 1251) nil "Remembers the last theme in use and re-loads for the next session." single "marmalade"])
