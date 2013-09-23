@@ -1,6 +1,6 @@
 '(
   (ac-emmet . [(20130826 726) ((emmet-mode (1 0 2)) (auto-complete (1 4))) "auto-complete sources for emmet-mode's snippets [github]" single "melpa"])
-  (anzu . [(20130922 1939) nil "Emacs Port of anzu.vim [github]" single "melpa"])
+  (anzu . [(20130923 1826) nil "Emacs Port of anzu.vim [github]" single "melpa"])
   (aok . [(20130817 845) nil "various useful ways to do `multi-occur' [wiki]" single "melpa"])
   (auctex-lua . [(20130818 1420) nil "Lua editing support for AUCTeX [github]" single "melpa"])
   (auto-complete-nxml . [(20130918 1219) ((auto-complete (1 4))) "do completion by auto-complete.el on nXML-mode [github]" single "melpa"])
@@ -101,7 +101,7 @@
   (sensitive . [(20130912 2135) nil "No description available. [github]" single "melpa"])
   (sequences . [(20130908 1422) ((emacs (24))) "Ports of some Clojure sequence functions. [github]" single "melpa"])
   (sequential-command . [(20100504 855) nil "Many commands into one command [wiki]" tar "melpa"])
-  (soft-charcoal-theme . [(20130919 1008) nil "Dark charcoal theme with soft colors [github]" single "melpa"])
+  (soft-charcoal-theme . [(20130923 1248) nil "Dark charcoal theme with soft colors [github]" single "melpa"])
   (soft-morning-theme . [(20130917 1850) nil "Emacs24 theme with a light background. [github]" single "melpa"])
   (sparkline . [(20130803 1442) nil "Make sparkline images from a list of numbers [github]" single "melpa"])
   (speechd-el . [(20130828 2109) nil "Client to speech synthesizers and Braille displays. [git]" tar "melpa"])
