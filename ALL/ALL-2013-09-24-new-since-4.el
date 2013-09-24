@@ -57,7 +57,7 @@
   (kaesar-mode . [(20130911 2345) ((kaesar (0 1 4))) "Encrypt/Decrypt buffer by AES with password. [github]" single "melpa"])
   (magit-find-file . [(20130915 1223) ((magit (1 2 0))) "completing-read over all files in Git [github]" single "melpa"])
   (magit-stgit . [(20130923 1703) ((cl-lib (0 3)) (magit (1 3 0))) "StGit plug-in for Magit [github]" single "melpa"])
-  (magit-svn . [(20130923 1703) ((cl-lib (0 3)) (magit (1 3 0))) "git-svn plug-in for Magit [github]" single "melpa"])
+  (magit-svn . [(20130924 711) ((cl-lib (0 3)) (magit (1 3 0))) "git-svn plug-in for Magit [github]" single "melpa"])
   (magit-topgit . [(20130923 1703) ((cl-lib (0 3)) (magit (1 3 0))) "topgit plug-in for Magit [github]" single "melpa"])
   (magit-tramp . [(20130812 2216) ((magit (1 2 0))) "git method for TRAMP [github]" single "melpa"])
   (math-symbols . [(20130910 931) ((helm (1 0))) "Math Symbol Input methods and conversion tools [github]" tar "melpa"])
