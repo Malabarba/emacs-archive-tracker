@@ -32,6 +32,7 @@
   (groovy-mode . [(201203310931) nil "Groovy mode derived mode" single "marmalade"])
   (rubocop . [(0 3) ((dash (1 0 0))) "An Emacs interface for RuboCop" single "marmalade"])
   (flymake-elixir . [(0 5) nil "A flymake handler for elixir-mode .ex files.     " single "marmalade"])
+  (ibuffer-vc . [(0 7) ((cl-lib (0 2))) "Group ibuffer's list by VC project, or show VC status" single "marmalade"])
   (psgml . [(1 4 1) nil "Lennart Staflin's Psgml package, with Elisp syntax and sgml-validate fixed for Emacsen >=24." tar "marmalade"])
   (smartparens . [(1 5) ((cl-lib (0 1)) (dash (1 1 0))) "Automatic insertion, wrapping and paredit-like navigation with user defined pairs." tar "marmalade"])
   (evil . [(1 0 7) ((undo-tree (0 5 1))) "Extensible Vi layer for Emacs." tar "marmalade"])
