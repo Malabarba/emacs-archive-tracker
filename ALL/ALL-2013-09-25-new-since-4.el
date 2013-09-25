@@ -120,6 +120,7 @@
   (wgrep-ag . [(20130725 1831) ((wgrep (2 1 5))) "Writable ag buffer and apply the changes to files [github]" single "melpa"])
   (window-numbering . [(20130902 1815) nil "Numbered window shortcuts [github]" single "melpa"])
   (wonderland . [(20130912 2219) ((dash (2 0 0)) (dash-functional (1 0 0)) (multi (2 0 0)) (emacs (24))) "declarative configuration for Emacsen [github]" single "melpa"])
+  (whitespace-cleanup-mode . [(0 1) nil "Intelligently call whitespace-cleanup on save" single "marmalade"])
   (ps-ccrypt . [(1 10) nil "reading/writing/loading encrypted files" tar "marmalade"])
   (jujube-theme . [(0 1) nil "Pastel theme loosely based on jellybeans" single "marmalade"])
   (gerrit-download . [(0 2) ((magit (20130828 1540))) "Show gerrit reviews in a diff buffer." single "marmalade"])
