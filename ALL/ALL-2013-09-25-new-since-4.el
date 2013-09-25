@@ -79,7 +79,7 @@
   (org-page . [(20130903 1701) ((ht (1 5)) (mustache (0 22)) (htmlize (1 47)) (org (8 0)) (dash (2 0 0))) "a static site generator based on org mode [github]" tar "melpa"])
   (org-pandoc . [(20130729 2050) nil "Export from Org using Pandoc [github]" tar "melpa"])
   (org-screenshot . [(20130822 22) ((org (7))) "screenshots integrated with org attachment dirs [github]" single "melpa"])
-  (osx-pseudo-daemon . [(20130923 1152) nil "Daemon mode that plays nice with OSX. [github]" single "melpa"])
+  (osx-pseudo-daemon . [(20130924 2231) nil "Daemon mode that plays nice with OSX. [github]" single "melpa"])
   (outorg . [(20130815 1554) nil "Org-style comment editing [github]" single "melpa"])
   (outshine . [(20130815 1459) nil "outline with outshine outshines outline [github]" single "melpa"])
   (package+ . [(20130827 1626) nil "Extensions for the package library. [github]" single "melpa"])

@@ -258,7 +258,7 @@
   (shift-text . [(20130831 1755) ((cl-lib (1 0)) (es-lib (0 3))) "Move the region in 4 directions, in a way similar to Eclipse's [github]" single "melpa"])
   (show-marks . [(20130805 1549) ((fm (1 0))) "Navigate and visualize the mark-ring [github]" single "melpa"])
   (simple-httpd . [(20130908 1604) nil "pure elisp HTTP server [github]" single "melpa"])
-  (skewer-mode . [(20130917 1520) ((simple-httpd (1 4 0)) (js2-mode (20090723))) "live browser JavaScript, CSS, and HTML interaction [github]" tar "melpa"])
+  (skewer-mode . [(20130924 2029) ((simple-httpd (1 4 0)) (js2-mode (20090723))) "live browser JavaScript, CSS, and HTML interaction [github]" tar "melpa"])
   (slamhound . [(20130907 1251) ((nrepl (0))) "Rip Clojure namespaces apart and rebuild them. [github]" single "melpa"])
   (smart-compile . [(20130917 347) nil "an interface to `compile' [wiki]" single "melpa"])
   (smart-mode-line . [(20130919 2142) nil "A color coded smart mode-line. [github]" single "melpa"])
