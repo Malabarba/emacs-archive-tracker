@@ -84,7 +84,7 @@
   (emms . [(20130821 1048) nil "The Emacs Multimedia System [git]" tar "melpa"])
   (enh-ruby-mode . [(20130916 1412) nil "Major mode for editing Ruby files [github]" tar "melpa"])
   (epc . [(20130804 1428) ((concurrent (0 3 1)) (ctable (0 1 2))) "A RPC stack for the Emacs Lisp [github]" tar "melpa"])
-  (ergoemacs-mode . [(20130925 935) nil "Emacs mode based on common modern software interface and ergonomics. [github]" tar "melpa"])
+  (ergoemacs-mode . [(20130925 1705) nil "Emacs mode based on common modern software interface and ergonomics. [github]" tar "melpa"])
   (erlang . [(20130827 1016) nil "Erlang major mode [github]" tar "melpa"])
   (ert-runner . [(20130905 1137) ((s (1 6 1)) (dash (1 8 0)) (f (0 10 0)) (commander (0 2 0)) (ansi (0 1 0))) "Opinionated Ert testing workflow [github]" tar "melpa"])
   (es-lib . [(20130923 41) ((cl-lib (1 0))) "A collection of emacs utilities [github]" tar "melpa"])
