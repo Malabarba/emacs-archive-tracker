@@ -15,7 +15,7 @@
   (colorsarenice-theme . [(20130926 2008) ((emacs (24))) "A color theme. [hg]" tar "melpa"])
   (css-eldoc . [(20130902 1635) nil "an eldoc-mode plugin for CSS source code [github]" tar "melpa"])
   (dash-functional . [(20130831 1646) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp [github]" single "melpa"])
-  (dim-autoload . [(20130919 2114) nil "dim complete autoload cookie lines [github]" single "melpa"])
+  (dim-autoload . [(20130927 12) nil "dim complete autoload cookie lines [github]" single "melpa"])
   (efire . [(20130812 49) ((circe (1 2))) "Use campfire from Emacs [github]" single "melpa"])
   (elfeed . [(20130918 1943) ((emacs (24 1))) "an Emacs Atom/RSS feed reader [github]" tar "melpa"])
   (elfeed-web . [(20130908 1734) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed [github]" tar "melpa"])
