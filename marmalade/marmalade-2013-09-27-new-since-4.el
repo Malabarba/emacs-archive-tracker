@@ -1,4 +1,5 @@
 '(
+  (java-file-create . [(1 0) nil "automatically insert contents of empty java files" single "marmalade"])
   (isgd . [(20130927) nil "Shorten URLs using the isgd.com shortener service" single "marmalade"])
   (whitespace-cleanup-mode . [(0 3) nil "Intelligently call whitespace-cleanup on save" single "marmalade"])
   (highlight-current-line . [(0 57) nil "highlight line where the cursor is." single "marmalade"])
