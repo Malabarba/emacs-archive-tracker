@@ -12,7 +12,7 @@
   (ample-theme . [(20130921 2221) nil "Calm Dark Theme for Emacs [github]" single "melpa"])
   (android-mode . [(20130806 932) nil "Minor mode for Android application development [github]" single "melpa"])
   (ansi . [(20130827 1653) ((s (1 6 1)) (dash (1 5 0))) "Turn string into ansi strings [github]" single "melpa"])
-  (anti-zenburn-theme . [(20130915 11) nil "Low-contrast Zenburn-inverted theme [github]" single "melpa"])
+  (anti-zenburn-theme . [(20130928 204) nil "Low-contrast Zenburn-inverted theme [github]" single "melpa"])
   (apt-utils . [(20130824 1200) nil "Emacs interface to APT (Debian package management) [wiki]" single "melpa"])
   (archive-region . [(20130824 1207) nil "Move region to archive file instead of killing [wiki]" single "melpa"])
   (ascii . [(20130824 1200) nil "ASCII code display. [wiki]" single "melpa"])
