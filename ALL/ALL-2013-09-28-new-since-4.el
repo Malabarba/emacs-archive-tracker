@@ -122,7 +122,7 @@
   (virtualenvwrapper . [(20130921 1707) ((dash (1 5 0)) (s (1 6 1))) "a modern virtualenv tool for Emacs [github]" single "melpa"])
   (wedge-ws . [(20130804 2311) nil "Wedge whitespace between columns in text [github]" single "melpa"])
   (wgrep-ag . [(20130725 1831) ((wgrep (2 1 5))) "Writable ag buffer and apply the changes to files [github]" single "melpa"])
-  (whitespace-cleanup-mode . [(20130927 1216) nil "Intelligently call whitespace-cleanup on save [github]" single "melpa"])
+  (whitespace-cleanup-mode . [(20130928 1111) nil "Intelligently call whitespace-cleanup on save [github]" single "melpa"])
   (window-numbering . [(20130902 1815) nil "Numbered window shortcuts [github]" single "melpa"])
   (wonderland . [(20130912 2219) ((dash (2 0 0)) (dash-functional (1 0 0)) (multi (2 0 0)) (emacs (24))) "declarative configuration for Emacsen [github]" single "melpa"])
   (java-file-create . [(1 0) nil "automatically insert contents of empty java files" single "marmalade"])

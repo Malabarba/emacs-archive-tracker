@@ -43,6 +43,7 @@
   (circe . [(20130921 2202) ((lui (0)) (lcs (0))) "Client for IRC in Emacs [github]" tar "melpa"])
   (clojure-mode . [(20130923 2238) nil "Major mode for Clojure code [github]" single "melpa"])
   (clues-theme . [(20130908 1801) ((emacs (24 0))) "an Emacs 24 theme which may well be fully awesome... [github]" single "melpa"])
+  (coffee-fof . [(20130928 1003) ((coffee-mode (0 4 1))) "A coffee-mode configuration for `ff-find-other-file'. [github]" single "melpa"])
   (col-highlight . [(20130808 1605) ((vline (0))) "Highlight the current column. [wiki]" single "melpa"])
   (color-theme-sanityinc-tomorrow . [(20130726 2201) nil "A version of Chris Kempson's various Tomorrow themes [github]" tar "melpa"])
   (commander . [(20130901 1637) ((s (1 6 0)) (dash (2 0 0)) (cl-lib (0 3)) (f (0 6 1))) "Emacs command line parser [github]" single "melpa"])
