@@ -115,7 +115,7 @@
   (sequences . [(20130908 1422) ((emacs (24))) "Ports of some Clojure sequence functions. [github]" single "melpa"])
   (sequential-command . [(20100504 855) nil "Many commands into one command [wiki]" tar "melpa"])
   (soft-charcoal-theme . [(20130924 2006) nil "Dark charcoal theme with soft colors [github]" single "melpa"])
-  (soft-morning-theme . [(20130917 1850) nil "Emacs24 theme with a light background. [github]" single "melpa"])
+  (soft-morning-theme . [(20130929 853) nil "Emacs24 theme with a light background. [github]" single "melpa"])
   (sparkline . [(20130803 1442) nil "Make sparkline images from a list of numbers [github]" single "melpa"])
   (speechd-el . [(20130828 2109) nil "Client to speech synthesizers and Braille displays. [git]" tar "melpa"])
   (tern . [(20130828 1616) ((json (1 2)) (emacs (24))) "Tern-powered JavaScript integration [github]" single "melpa"])
