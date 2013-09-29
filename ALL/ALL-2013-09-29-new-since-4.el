@@ -125,6 +125,7 @@
   (whitespace-cleanup-mode . [(20130928 1111) nil "Intelligently call whitespace-cleanup on save [github]" single "melpa"])
   (window-numbering . [(20130902 1815) nil "Numbered window shortcuts [github]" single "melpa"])
   (wonderland . [(20130912 2219) ((dash (2 0 0)) (dash-functional (1 0 0)) (multi (2 0 0)) (emacs (24))) "declarative configuration for Emacsen [github]" single "melpa"])
+  (ac-geiser . [(0 1) ((geiser (0 5)) (auto-complete (1 4))) "Auto-complete backend for geiser" tar "marmalade"])
   (java-file-create . [(1 0) nil "automatically insert contents of empty java files" single "marmalade"])
   (ps-ccrypt . [(1 10) nil "reading/writing/loading encrypted files" tar "marmalade"])
   (jujube-theme . [(0 1) nil "Pastel theme loosely based on jellybeans" single "marmalade"])
