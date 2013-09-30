@@ -329,7 +329,7 @@
   (sml-mode . [(6 4) nil "Major mode for editing (Standard) ML" single "gnu"])
   (shen-mode . [(0 1) nil "A major mode for editing shen source code" tar "gnu"])
   (rainbow-mode . [(0 9) nil "Colorize color names in buffers" single "gnu"])
-  (org . [(20130923) nil "Outline-based notes management and organizer" tar "gnu"])
+  (org . [(20130930) nil "Outline-based notes management and organizer" tar "gnu"])
   (notes-mode . [(1 30) nil "Indexing system for on-line note-taking" tar "gnu"])
   (muse . [(3 20) nil "Authoring and publishing tool for Emacs" tar "gnu"])
   (ggtags . [(0 6 7) nil "GNU Global source code tagging system" single "gnu"])
