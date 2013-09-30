@@ -134,7 +134,7 @@
   (comint-better-defaults . [(1 0) nil "better defaults for comint-derived modes" single "marmalade"])
   (winpoint-ignore-dired . [(1 1) ((winpoint (1 0))) "Have winpoint ignore dired-mode buffers" single "marmalade"])
   (smart-whitespace-comment-fixup . [(1 0) nil "Enables advice around yanking/killing lines that auto-indents and formats properly" single "marmalade"])
-  (smtpmail-multi . [(0 5) nil "Use different smtp servers for sending mail" single "marmalade"])
+  (smtpmail-multi . [(0 6) nil "Use different smtp servers for sending mail" single "marmalade"])
   (tsql . [(1 0) nil "customizes sql.el for T-SQL" single "marmalade"])
   (helm-delicious . [(1 1) nil "helm extensions for delicious bookmarks" single "marmalade"])
   (cubicle-mode . [(0 1) nil "Cubicle major mode for emacs" single "marmalade"])
