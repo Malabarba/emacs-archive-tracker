@@ -1,5 +1,6 @@
 '(
   (helm-c-moccur . [(20130216 1417) nil "helm source for color-moccur.el [github]" single "melpa"])
+  (redshank . [(20120510 1230) nil "No description available. [git]" tar "melpa"])
   (abc-mode . [(20130607 917) nil "Major mode for editing abc music files [github]" single "melpa"])
   (abl-mode . [(20120718 1655) nil "Python TDD minor mode [github]" single "melpa"])
   (ac-dabbrev . [(20130906 518) nil "auto-complete.el source for dabbrev [wiki]" single "melpa"])
@@ -174,7 +175,7 @@
   (livescript-mode . [(20130826 1723) nil "Major mode for editing LiveScript files [github]" single "melpa"])
   (logalimacs . [(20130917 1341) ((popwin (20130329)) (popup (20130708)) (stem (20130120))) "Front-end to logaling-command for Ruby gems [github]" single "melpa"])
   (lua-mode . [(20130910 922) nil "a major-mode for editing Lua scripts [github]" single "melpa"])
-  (magit . [(20130929 1831) ((cl-lib (0 3)) (git-commit-mode (0 14 0)) (git-rebase-mode (0 14 0))) "control Git from Emacs [github]" tar "melpa"])
+  (magit . [(20130930 4) ((cl-lib (0 3)) (git-commit-mode (0 14 0)) (git-rebase-mode (0 14 0))) "control Git from Emacs [github]" tar "melpa"])
   (magit-commit-training-wheels . [(20130730 1032) nil "Advice for magit-log-edit-commit [github]" single "melpa"])
   (magit-filenotify . [(20130801 1545) nil "No description available. [github]" single "melpa"])
   (magit-push-remote . [(20130906 135) ((magit (1 3 0))) "Push remote support for Magit. [github]" tar "melpa"])
@@ -301,5 +302,5 @@
   (yasnippet . [(20130907 1855) nil "Yet another snippet extension for Emacs. [github]" tar "melpa"])
   (zenburn-theme . [(20130927 1228) nil "A low contrast color theme for Emacs. [github]" single "melpa"])
   (znc . [(20130508 1343) ((cl-lib (0 2)) (erc (5 3))) "ZNC + ERC [github]" single "melpa"])
-  (zoom-frm . [(20130913 2132) ((frame-fns (0)) (frame-cmds (0))) "Commands to zoom frame font size. [wiki]" single "melpa"])
+  (zoom-frm . [(20130930 215) ((frame-fns (0)) (frame-cmds (0))) "Commands to zoom frame font size. [wiki]" single "melpa"])
  )

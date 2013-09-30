@@ -106,7 +106,7 @@
   (popup-kill-ring . [(20130710 1447) nil "No description available. [github]" single "melpa"])
   (prognth . [(20130920 1959) nil "Extend prog1 to arbitrary index [github]" single "melpa"])
   (puppetfile-mode . [(20130824 2131) nil "Syntax highlighting for Puppetfiles [github]" single "melpa"])
-  (purple-haze-theme . [(20130920 1918) ((emacs (24 0))) "an overtly purple color theme for Emacs24. [github]" single "melpa"])
+  (purple-haze-theme . [(20130930 1051) ((emacs (24 0))) "an overtly purple color theme for Emacs24. [github]" single "melpa"])
   (py-import-check . [(20130802 1150) nil "Finds the unused python imports using importchecker [github]" single "melpa"])
   (python-info . [(20130916 1420) nil "Python info manual for Emacs [github]" tar "melpa"])
   (rcirc-notify . [(20130825 1756) nil "No description available. [wiki]" single "melpa"])
