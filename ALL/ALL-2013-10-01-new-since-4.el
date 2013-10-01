@@ -1,4 +1,5 @@
 '(
+  (4clojure . [(20130930 1909) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions [github]" single "melpa"])
   (ac-emmet . [(20130826 726) ((emmet-mode (1 0 2)) (auto-complete (1 4))) "auto-complete sources for emmet-mode's snippets [github]" single "melpa"])
   (ac-geiser . [(20130929 1447) ((geiser (0 5)) (auto-complete (1 4))) "Auto-complete backend for geiser [github]" tar "melpa"])
   (anzu . [(20130930 2329) nil "Show number of matches in mode-line while searching [github]" single "melpa"])
