@@ -26,7 +26,7 @@
   (syslog-mode . [(2 1) ((hide-lines (20130623))) "Major-mode for viewing log files" single "marmalade"])
   (php-extras . [(1 0 0 20130923) ((php-mode (1 5 0))) "Extra features for `php-mode'" tar "marmalade"])
   (flymake-less . [(0 3) ((less-css-mode (0 15))) "Flymake handler for LESS stylesheets (lesscss.org)" single "marmalade"])
-  (org-journal . [(1 4 3) nil "a simple org-mode based journaling mode" single "marmalade"])
+  (org-journal . [(1 4 4) nil "a simple org-mode based journaling mode" single "marmalade"])
   (desktop-registry . [(1 1 0) nil "Keep a central registry of desktop files -*- lexical-binding: t -*-" single "marmalade"])
   (show-marks . [(0 4) ((fm (1 0))) "Navigate and visualize the mark-ring" single "marmalade"])
   (kmacro-decision . [(1 5) ((el-x (1 0)) (jb-misc-macros (0 2))) "Add conditional branching to keyboard macros" single "marmalade"])
