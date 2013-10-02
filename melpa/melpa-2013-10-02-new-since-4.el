@@ -1,5 +1,4 @@
 '(
-  (org-mac-link . [(20130908 756) nil "Grab links and url from various mac [git]" single "melpa"])
   (4clojure . [(20131001 1247) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions [github]" single "melpa"])
   (ac-emmet . [(20130826 726) ((emmet-mode (1 0 2)) (auto-complete (1 4))) "auto-complete sources for emmet-mode's snippets [github]" single "melpa"])
   (ac-geiser . [(20130929 1447) ((geiser (0 5)) (auto-complete (1 4))) "Auto-complete backend for geiser [github]" tar "melpa"])
@@ -87,6 +86,7 @@
   (omnisharp . [(20130905 2218) ((json (1 2)) (dash (1 8 0)) (popup (0 5)) (auto-complete (1 4)) (flycheck (0 13))) "Omnicompletion (intellisense) and more for C# [github]" single "melpa"])
   (on-screen . [(20130927 1818) nil "guide your eyes while scrolling [github]" single "melpa"])
   (openstack-cgit-browse-file . [(20130819 1127) nil "Browse the current file in OpenStack cgit [github]" single "melpa"])
+  (org-mac-link . [(20130908 756) nil "Grab links and url from various mac [git]" single "melpa"])
   (org-page . [(20130903 1701) ((ht (1 5)) (mustache (0 22)) (htmlize (1 47)) (org (8 0)) (dash (2 0 0))) "a static site generator based on org mode [github]" tar "melpa"])
   (org-pandoc . [(20130729 2050) nil "Export from Org using Pandoc [github]" tar "melpa"])
   (org-screenshot . [(20130822 22) ((org (7))) "screenshots integrated with org attachment dirs [github]" single "melpa"])
