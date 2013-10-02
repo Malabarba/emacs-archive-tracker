@@ -60,7 +60,7 @@
   (git-commit-mode . [(0 13) nil "Major mode for editing git commit messages -*- lexical-binding: t; -*-" single "marmalade"])
   (s . [(1 8 0) nil "The long lost Emacs string manipulation library." single "marmalade"])
   (exec-path-from-shell . [(1 6) nil "Get environment variables such as $PATH from the shell" single "marmalade"])
-  (ac-nrepl . [(0 19) ((nrepl (0 1)) (auto-complete (1 4))) "auto-complete sources for Clojure using nrepl completions" single "marmalade"])
+  (ac-nrepl . [(0 20) ((nrepl (0 1)) (auto-complete (1 4))) "auto-complete sources for Clojure using nrepl completions" single "marmalade"])
   (ruby-test-mode . [(1 7) ((ruby-mode (1 0))) "Minor mode for Behaviour and Test Driven" single "marmalade"])
   (fill-column-indicator . [(1 85) nil "Graphically indicate the fill column" single "marmalade"])
   (nrepl . [(0 1 8) ((clojure-mode (2 0 0)) (cl-lib (0 3))) "Client for Clojure nREPL" single "marmalade"])
