@@ -1,4 +1,5 @@
 '(
+  (ample-zen-theme . [(0 1) nil "AmpleZen Theme for Emacs 24" single "marmalade"])
   (iasm-mode . [(0 1) nil "interactive assembly major mode." single "marmalade"])
   (ac-geiser . [(0 1) ((geiser (0 5)) (auto-complete (1 4))) "Auto-complete backend for geiser" tar "marmalade"])
   (java-file-create . [(1 0) nil "automatically insert contents of empty java files" single "marmalade"])
