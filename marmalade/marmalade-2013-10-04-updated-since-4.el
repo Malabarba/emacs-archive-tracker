@@ -4,7 +4,7 @@
   (page-break-lines . [(0 8) nil "Display ugly ^L page breaks as tidy horizontal lines" single "marmalade"])
   (clues-theme . [(20130908 801) ((emacs (24 0))) "an Emacs 24 theme which may well be fully awesome..." single "marmalade"])
   (purple-haze-theme . [(20130930 36) ((emacs (24 0))) "an overtly purple color theme for Emacs24." single "marmalade"])
-  (paste-kde . [(0 3) ((web (0 3 6))) "paste text to KDE's pastebin service" single "marmalade"])
+  (paste-kde . [(0 4) ((web (0 3 6))) "paste text to KDE's pastebin service" single "marmalade"])
   (git-gutter+ . [(0 1) ((git-commit-mode (1 0))) "Manage Git hunks straight from the buffer" single "marmalade"])
   (frame-restore . [(0 4) ((dash (1 2)) (f (0 11)) (emacs (24 1))) "Restore Emacs frame -*- lexical-binding: t; -*-" single "marmalade"])
   (ample-theme . [(0 2 4) nil "Calm Dark Theme for Emacs " single "marmalade"])
