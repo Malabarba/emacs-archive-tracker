@@ -1,4 +1,5 @@
 '(
+  (tommyh-theme . [(1 2) nil "A bright, bold-colored theme for emacs." single "marmalade"])
   (scheme-here . [(0 3) nil "cmuscheme extension for multiple inferior processes" single "marmalade"])
   (awk-it . [(0 77) nil "Run AWK interactively on region!" single "marmalade"])
   (page-break-lines . [(0 8) nil "Display ugly ^L page breaks as tidy horizontal lines" single "marmalade"])

@@ -339,7 +339,7 @@
   (notes-mode . [(1 30) nil "Indexing system for on-line note-taking" tar "gnu"])
   (muse . [(3 20) nil "Authoring and publishing tool for Emacs" tar "gnu"])
   (ggtags . [(0 6 7) nil "GNU Global source code tagging system" single "gnu"])
-  (auctex . [(11 87) nil "Integrated environment for *TeX*" tar "gnu"])
+  (auctex . [(11 87 1) nil "Integrated environment for *TeX*" tar "gnu"])
   (adaptive-wrap . [(0 5) nil "Smart line-wrapping with wrap-prefix" single "gnu"])
   (ack . [(1 3) nil "Interface to ack-like source code search tools" tar "gnu"])
  )

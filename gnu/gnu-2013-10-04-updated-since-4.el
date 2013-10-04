@@ -10,7 +10,7 @@
   (js2-mode . [(20130619) ((emacs (24 1))) "Improved JavaScript editing mode" tar "gnu"])
   (ggtags . [(0 6 7) nil "GNU Global source code tagging system" single "gnu"])
   (coffee-mode . [(0 4 1) nil "Major mode for CoffeeScript files" single "gnu"])
-  (auctex . [(11 87) nil "Integrated environment for *TeX*" tar "gnu"])
+  (auctex . [(11 87 1) nil "Integrated environment for *TeX*" tar "gnu"])
   (adaptive-wrap . [(0 5) nil "Smart line-wrapping with wrap-prefix" single "gnu"])
   (ack . [(1 3) nil "Interface to ack-like source code search tools" tar "gnu"])
  )
