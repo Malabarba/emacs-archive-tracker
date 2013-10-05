@@ -56,7 +56,7 @@
   (hl-spotlight . [(20130723 2214) nil "Extension of hl-line.el to spotlight current few lines. [wiki]" single "melpa"])
   (iasm-mode . [(20131004 1944) nil "interactive assembly major mode. [github]" tar "melpa"])
   (ido-at-point . [(20130926 2040) ((emacs (24)) (cl-lib (0 3))) "ido-style completion-at-point [github]" single "melpa"])
-  (insert-shebang . [(20131005 55) nil "Inserts shebang line automatically [github]" single "melpa"])
+  (insert-shebang . [(20131005 1302) nil "Insert shebang line automatically. [github]" single "melpa"])
   (isgd . [(20130927 1557) nil "Shorten URLs using the isgd.com shortener service [github]" single "melpa"])
   (ix . [(20131004 2029) ((grapnel (0 5 3))) "Emacs client for http://ix.io pastebin [github]" single "melpa"])
   (jabber . [(20130906 1046) nil "A Jabber client for Emacs. [git]" tar "melpa"])
