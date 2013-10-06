@@ -41,6 +41,7 @@
   (creole . [(1 0 3) ((noflet (0 0 3)) (kv (0 0 17))) "A parser for the Creole Wiki language" single "marmalade"])
   (robe . [(0 7 6) ((inf-ruby (2 3 0))) "Code navigation, documentation lookup and completion for Ruby" tar "marmalade"])
   (evil-nerd-commenter . [(1 2 4) nil "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" tar "marmalade"])
+  (inf-ruby . [(2 3 1) nil "Run a ruby process in a buffer" single "marmalade"])
   (cpputils-cmake . [(0 4 0) nil "Easy real time C++ syntax check and intellisense if you use CMake." tar "marmalade"])
   (flycheck . [(0 14 1) ((s (1 6 0)) (dash (1 6 0)) (f (0 5 0)) (cl-lib (0 1)) (emacs (24 1))) "On-the-fly syntax checking (Flymake done right)" tar "marmalade"])
   (elpy . [(1 1) ((auto-complete (1 4)) (fuzzy (0 1)) (yasnippet (0 8)) (virtualenv (1 2)) (highlight-indentation (0 5 0)) (find-file-in-project (3 2)) (idomenu (0 1)) (nose (0 1 1)) (iedit (0 97))) "Emacs Lisp Python Environment" tar "marmalade"])
