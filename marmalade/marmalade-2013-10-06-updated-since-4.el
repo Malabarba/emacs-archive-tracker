@@ -52,6 +52,7 @@
   (less-css-mode . [(0 17) nil "Major mode for editing LESS CSS files (lesscss.org)" single "marmalade"])
   (lispyscript-mode . [(0 3 0) nil "Major mode for LispyScript code." single "marmalade"])
   (json-mode . [(1 1 0) nil "Major mode for editing JSON files" single "marmalade"])
+  (el-x . [(0 2 4) ((cl-lib (0 2))) "Emacs-lisp extensions." tar "marmalade"])
   (dash . [(2 2 0) nil "A modern list library for Emacs" single "marmalade"])
   (git-commit-mode . [(0 13) nil "Major mode for editing git commit messages -*- lexical-binding: t; -*-" single "marmalade"])
   (s . [(1 8 0) nil "The long lost Emacs string manipulation library." single "marmalade"])
@@ -66,4 +67,5 @@
   (ido-ubiquitous . [(2 8) ((emacs (24 1))) "Use ido (nearly) everywhere." single "marmalade"])
   (langtool . [(1 2 1) nil "Grammar check utility using LanguageTool" single "marmalade"])
   (yaml-mode . [(0 0 9) nil "Major mode for editing YAML files" single "marmalade"])
+  (mocker . [(0 3 0) ((eieio (1 3)) (el-x (0 2 4))) "mocking framework for emacs" single "marmalade"])
  )
