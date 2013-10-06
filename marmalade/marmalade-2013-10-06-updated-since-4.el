@@ -1,4 +1,5 @@
 '(
+  (pbcopy . [(0 1 0) nil "OS X clipboard integration for Emacs" single "marmalade"])
   (ac-slime . [(0 5) nil "An auto-complete source using slime completions" single "marmalade"])
   (scheme-here . [(0 3) nil "cmuscheme extension for multiple inferior processes" single "marmalade"])
   (awk-it . [(0 77) nil "Run AWK interactively on region!" single "marmalade"])
@@ -60,6 +61,7 @@
   (fill-column-indicator . [(1 85) nil "Graphically indicate the fill column" single "marmalade"])
   (nrepl . [(0 1 8) ((clojure-mode (2 0 0)) (cl-lib (0 3))) "Client for Clojure nREPL" single "marmalade"])
   (android-mode . [(0 2 4) nil "Minor mode for Android application development" single "marmalade"])
+  (grep-a-lot . [(1 0 7) nil "manages multiple search results buffers for grep.el" single "marmalade"])
   (ack-and-a-half . [(1 2 0) nil "Yet another front-end for ack" single "marmalade"])
   (ido-ubiquitous . [(2 8) ((emacs (24 1))) "Use ido (nearly) everywhere." single "marmalade"])
   (langtool . [(1 2 1) nil "Grammar check utility using LanguageTool" single "marmalade"])

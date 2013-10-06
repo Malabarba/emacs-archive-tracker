@@ -1,4 +1,5 @@
 '(
+  (pbcopy . [(0 1 0) nil "OS X clipboard integration for Emacs" single "marmalade"])
   (tommyh-theme . [(1 2) nil "A bright, bold-colored theme for emacs." single "marmalade"])
   (ample-zen-theme . [(0 1) nil "AmpleZen Theme for Emacs 24" single "marmalade"])
   (iasm-mode . [(0 1) nil "interactive assembly major mode." single "marmalade"])
