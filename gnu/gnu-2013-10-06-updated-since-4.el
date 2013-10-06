@@ -9,6 +9,7 @@
   (muse . [(3 20) nil "Authoring and publishing tool for Emacs" tar "gnu"])
   (js2-mode . [(20130619) ((emacs (24 1))) "Improved JavaScript editing mode" tar "gnu"])
   (ggtags . [(0 6 7) nil "GNU Global source code tagging system" single "gnu"])
+  (company . [(0 6 12) nil "Modular in-buffer completion framework" tar "gnu"])
   (coffee-mode . [(0 4 1) nil "Major mode for CoffeeScript files" single "gnu"])
   (auctex . [(11 87 1) nil "Integrated environment for *TeX*" tar "gnu"])
   (adaptive-wrap . [(0 5) nil "Smart line-wrapping with wrap-prefix" single "gnu"])
