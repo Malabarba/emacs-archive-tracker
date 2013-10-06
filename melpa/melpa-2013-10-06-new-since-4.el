@@ -1,4 +1,5 @@
 '(
+  (efire . [(20130812 49) ((circe (1 2))) "Use campfire from Emacs [github]" single "melpa"])
   (4clojure . [(20131001 1247) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions [github]" single "melpa"])
   (ac-emmet . [(20130826 726) ((emmet-mode (1 0 2)) (auto-complete (1 4))) "auto-complete sources for emmet-mode's snippets [github]" single "melpa"])
   (ac-geiser . [(20130929 1447) ((geiser (0 5)) (auto-complete (1 4))) "Auto-complete backend for geiser [github]" tar "melpa"])
@@ -22,7 +23,8 @@
   (dash-functional . [(20130831 1646) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp [github]" single "melpa"])
   (dictionary . [(20131005 1021) ((connection (1 10)) (link (1 10))) "Client for rfc2229 dictionary servers [github]" single "melpa"])
   (dim-autoload . [(20130927 12) nil "dim complete autoload cookie lines [github]" single "melpa"])
-  (efire . [(20130812 49) ((circe (1 2))) "Use campfire from Emacs [github]" single "melpa"])
+  (dkdo . [(20131006 906) ((dkmisc (0 5)) (emacs (24 1))) "Do List major mode based on org-mode. [github]" tar "melpa"])
+  (dkmisc . [(20130928 1056) ((emacs (24 1))) "Miscellaneous functions required by dk* packages. [github]" tar "melpa"])
   (elfeed . [(20131003 107) ((emacs (24 1))) "an Emacs Atom/RSS feed reader [github]" tar "melpa"])
   (elfeed-web . [(20130908 1734) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed [github]" tar "melpa"])
   (elisp-sandbox . [(20130810 2131) nil "Evaluate EmacsLisp expressions in a sandbox [github]" single "melpa"])
@@ -65,6 +67,7 @@
   (jabber . [(20130906 1046) nil "A Jabber client for Emacs. [git]" tar "melpa"])
   (japanese-holidays . [(20130929 149) ((cl-lib (0 3))) "calendar functions for the Japanese calendar [github]" single "melpa"])
   (jsx-mode . [(20130909 224) nil "major mode for JSX [github]" single "melpa"])
+  (jumblr . [(20131005 1810) ((s (1 8 0)) (dash (2 2 0))) "an anagram game for emacs [github]" tar "melpa"])
   (kaesar . [(20130915 909) nil "Another AES algorithm encrypt/decrypt string with password. [github]" single "melpa"])
   (kaesar-file . [(20130912 1812) ((kaesar (0 1 1))) "Encrypt/Decrypt file by AES with password. [github]" single "melpa"])
   (kaesar-mode . [(20130911 2345) ((kaesar (0 1 4))) "Encrypt/Decrypt buffer by AES with password. [github]" single "melpa"])
