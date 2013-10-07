@@ -1,4 +1,5 @@
 '(
+  (highlight-current-line . [(20051013 1756) nil "highlight line where the cursor is. [wiki]" single "melpa"])
   (4clojure . [(20131001 1247) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions [github]" single "melpa"])
   (ac-emmet . [(20130826 726) ((emmet-mode (1 0 2)) (auto-complete (1 4))) "auto-complete sources for emmet-mode's snippets [github]" single "melpa"])
   (ac-geiser . [(20130929 1447) ((geiser (0 5)) (auto-complete (1 4))) "Auto-complete backend for geiser [github]" tar "melpa"])
@@ -39,7 +40,7 @@
   (fasm-mode . [(20130925 1319) nil "Fasm major mode [hg]" single "melpa"])
   (fit-frame . [(20130723 2311) nil "Resize a frame.  In particular, fit a frame to its buffers. [wiki]" single "melpa"])
   (flash-region . [(20130923 2017) nil "Flash a region [github]" single "melpa"])
-  (floobits . [(20130923 2249) ((json (1 2)) (highlight (0))) "Floobits plugin for real-time collaborative editing [github]" tar "melpa"])
+  (floobits . [(20131006 2147) ((json (1 2)) (highlight (0))) "Floobits plugin for real-time collaborative editing [github]" tar "melpa"])
   (flycheck-cask . [(20130818 1153) ((flycheck (0 14)) (dash (2 0 0)) (f (0 6 0))) "Cask support in Flycheck [github]" single "melpa"])
   (flycheck-d-unittest . [(20130818 1800) ((flycheck (0 14)) (dash (1 4 0))) "Add D unittest support to flycheck [github]" single "melpa"])
   (flymake-puppet . [(20130731 2203) ((flymake-easy (0 9))) "An Emacs flymake handler for syntax-checking puppet using puppet-lint [github]" single "melpa"])
@@ -56,7 +57,6 @@
   (helm-rb . [(20130918 1425) ((helm (20130916)) (helm-ag-r (20130917))) "Search Ruby's method by ag and display helm [github]" tar "melpa"])
   (helm-recoll . [(20130906 222) ((helm (1 5 4))) "helm interface for the recoll desktop search tool. [github]" single "melpa"])
   (heroku-theme . [(20130810 43) nil "Heroku color theme [github]" single "melpa"])
-  (highlight-current-line . [(20051013 1756) nil "highlight line where the cursor is. [wiki]" single "melpa"])
   (hl-spotlight . [(20130723 2214) nil "Extension of hl-line.el to spotlight current few lines. [wiki]" single "melpa"])
   (iasm-mode . [(20131004 1944) nil "interactive assembly major mode. [github]" tar "melpa"])
   (ido-at-point . [(20130926 2040) ((emacs (24)) (cl-lib (0 3))) "ido-style completion-at-point [github]" single "melpa"])
