@@ -1,6 +1,6 @@
 '(
   (org-mac-link . [(20130908 756) nil "Grab links and url from various mac [git]" single "melpa"])
-  (4clojure . [(20131001 1247) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions [github]" single "melpa"])
+  (4clojure . [(20131007 1818) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions [github]" single "melpa"])
   (ac-emmet . [(20130826 726) ((emmet-mode (1 0 2)) (auto-complete (1 4))) "auto-complete sources for emmet-mode's snippets [github]" single "melpa"])
   (ac-geiser . [(20130929 1447) ((geiser (0 5)) (auto-complete (1 4))) "Auto-complete backend for geiser [github]" tar "melpa"])
   (alect-themes . [(20131007 1409) nil "2 color themes (light and dark) for Emacs 24 [github]" tar "melpa"])
