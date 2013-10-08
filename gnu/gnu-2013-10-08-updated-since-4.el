@@ -48,7 +48,7 @@
   (debbugs . [(0 4) nil "SOAP library to access debbugs servers" tar ((:url . "http://elpa.gnu.org/packages/debbugs.html")) "gnu"])
   (csv-mode . [(1 2) nil "Major mode for editing comma/char separated values" single ((:url . "http://centaur.maths.qmul.ac.uk/Emacs/")) "gnu"])
   (company . [(0 6 12) nil "Modular in-buffer completion framework" tar ((:url . "http://company-mode.github.io/")) "gnu"])
-  (coffee-mode . [(0 4 1) nil "Major mode for CoffeeScript files" single ((:url . "http://github.com/defunkt/coffee-mode")) "gnu"])
+  (coffee-mode . [(0 4 1 1) nil "Major mode for CoffeeScript files" single ((:url . "http://github.com/defunkt/coffee-mode")) "gnu"])
   (cl-lib . [(0 3) nil "Properly prefixed CL functions and macros" single ((:url . "http://elpa.gnu.org/packages/cl-lib.html")) "gnu"])
   (auctex . [(11 87 1) nil "Integrated environment for *TeX*" tar ((:url . "http://www.gnu.org/software/auctex/")) "gnu"])
   (all . [(1 0) nil "Edit all lines matching a given regexp" single ((:url . "http://elpa.gnu.org/packages/all.html")) "gnu"])
