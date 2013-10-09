@@ -167,7 +167,7 @@
   (ignoramus . [(20130726 1720) nil "Ignore backups, build files, et al. [github]" single "melpa"])
   (import-popwin . [(20130820 1129) ((popwin (0 6))) "popwin buffer near by import statements with popwin [github]" single "melpa"])
   (indent-guide . [(20130918 1331) nil "show vertical lines to guide indentation [github]" single "melpa"])
-  (inf-ruby . [(20131006 1010) nil "Run a ruby process in a buffer [github]" single "melpa"])
+  (inf-ruby . [(20131009 316) nil "Run a Ruby process in a buffer [github]" single "melpa"])
   (interaction-log . [(20130912 1944) nil "exhaustive log of interactions with Emacs [github]" single "melpa"])
   (isearch+ . [(20131006 1800) nil "Extensions to `isearch.el' (incremental search). [wiki]" single "melpa"])
   (isearch-symbol-at-point . [(20130728 952) nil "Use isearch to search for the symbol at point [github]" single "melpa"])
