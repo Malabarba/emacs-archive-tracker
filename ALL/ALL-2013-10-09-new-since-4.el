@@ -1,5 +1,4 @@
 '(
-  (org-mac-link . [(20130908 756) nil "Grab links and url from various mac [git]" single "melpa"])
   (4clojure . [(20131007 1818) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions [github]" single "melpa"])
   (ac-emmet . [(20130826 726) ((emmet-mode (1 0 2)) (auto-complete (1 4))) "auto-complete sources for emmet-mode's snippets [github]" single "melpa"])
   (ac-geiser . [(20130929 1447) ((geiser (0 5)) (auto-complete (1 4))) "Auto-complete backend for geiser [github]" tar "melpa"])
@@ -93,6 +92,7 @@
   (omnisharp . [(20130905 2218) ((json (1 2)) (dash (1 8 0)) (popup (0 5)) (auto-complete (1 4)) (flycheck (0 13))) "Omnicompletion (intellisense) and more for C# [github]" single "melpa"])
   (on-screen . [(20130927 1818) nil "guide your eyes while scrolling [github]" single "melpa"])
   (openstack-cgit-browse-file . [(20130819 1127) nil "Browse the current file in OpenStack cgit [github]" single "melpa"])
+  (org-mac-link . [(20130908 756) nil "Grab links and url from various mac [git]" single "melpa"])
   (org-page . [(20130903 1701) ((ht (1 5)) (mustache (0 22)) (htmlize (1 47)) (org (8 0)) (dash (2 0 0))) "a static site generator based on org mode [github]" tar "melpa"])
   (org-pandoc . [(20130729 2050) nil "Export from Org using Pandoc [github]" tar "melpa"])
   (org-screenshot . [(20130822 22) ((org (7))) "screenshots integrated with org attachment dirs [github]" single "melpa"])
@@ -105,7 +105,7 @@
   (password-vault . [(20130807 942) ((cl-lib (0 2)) (emacs (24))) "A Password manager for Emacs. [github]" single "melpa"])
   (peek-mode . [(20130620 1446) ((elnode (0 9 8 1))) "Serve buffers live over HTTP with elnode backend [github]" tar "melpa"])
   (perl-completion . [(20090528 1536) nil "No description available. [github]" single "melpa"])
-  (phi-rectangle . [(20130916 2248) nil "another rectangle-mark command (rewrite of rect-mark) [github]" single "melpa"])
+  (phi-rectangle . [(20131009 2048) nil "another rectangle-mark command (rewrite of rect-mark) [github]" single "melpa"])
   (phi-search-mc . [(20130910 47) ((phi-search (1 1 3)) (multiple-cursors (1 2 1))) "multiple-cursors extension for phi-search [github]" single "melpa"])
   (php-auto-yasnippets . [(20130818 2349) ((php-mode (1 11)) (yasnippet (0 8 0))) "Creates snippets for PHP functions [github]" tar "melpa"])
   (pianobar . [(20120128 1601) nil "thin wrapper for Pianobar, a Pandora Radio client [github]" single "melpa"])
