@@ -1,5 +1,5 @@
 '(
-  (4clojure . [(20131007 1818) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions [github]" single "melpa"])
+  (4clojure . [(20131009 2058) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions [github]" single "melpa"])
   (ac-emmet . [(20130826 726) ((emmet-mode (1 0 2)) (auto-complete (1 4))) "auto-complete sources for emmet-mode's snippets [github]" single "melpa"])
   (ac-geiser . [(20130929 1447) ((geiser (0 5)) (auto-complete (1 4))) "Auto-complete backend for geiser [github]" tar "melpa"])
   (alect-themes . [(20131007 1409) nil "2 color themes (light and dark) for Emacs 24 [github]" tar "melpa"])
@@ -57,6 +57,7 @@
   (helm-helm-commands . [(20130902 1848) ((helm (1 5 4))) "List all helm commands with helm [github]" single "melpa"])
   (helm-rb . [(20130918 1425) ((helm (20130916)) (helm-ag-r (20130917))) "Search Ruby's method by ag and display helm [github]" tar "melpa"])
   (helm-recoll . [(20130906 222) ((helm (1 5 4))) "helm interface for the recoll desktop search tool. [github]" single "melpa"])
+  (helm-spotify . [(20131009 2126) ((helm (0 0 0)) (multi (2 0 0))) "Control Spotify with Helm. [github]" single "melpa"])
   (heroku-theme . [(20130810 43) nil "Heroku color theme [github]" single "melpa"])
   (highlight-current-line . [(20051013 1756) nil "highlight line where the cursor is. [wiki]" single "melpa"])
   (hl-spotlight . [(20130723 2214) nil "Extension of hl-line.el to spotlight current few lines. [wiki]" single "melpa"])

@@ -65,7 +65,7 @@
   (ac-nrepl . [(0 20) ((nrepl (0 1)) (auto-complete (1 4))) "auto-complete sources for Clojure using nrepl completions" single "marmalade"])
   (ruby-test-mode . [(1 7) ((ruby-mode (1 0))) "Minor mode for Behaviour and Test Driven" single "marmalade"])
   (fill-column-indicator . [(1 85) nil "Graphically indicate the fill column" single "marmalade"])
-  (nrepl . [(0 1 8) ((clojure-mode (2 0 0)) (cl-lib (0 3))) "Client for Clojure nREPL" single "marmalade"])
+  (nrepl . [(0 2 0) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 1))) "Client for Clojure nREPL" single "marmalade"])
   (android-mode . [(0 2 4) nil "Minor mode for Android application development" single "marmalade"])
   (grep-a-lot . [(1 0 7) nil "manages multiple search results buffers for grep.el" single "marmalade"])
   (git-auto-commit-mode . [(4 2 2) nil "Emacs Minor mode to automatically commit and push" single "marmalade"])
