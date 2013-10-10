@@ -340,6 +340,7 @@
   (company-cmake . [(0 1) ((company (0 6 8))) "company-mode completion back-end for CMake" single "marmalade"])
   (psgml . [(1 4 1) nil "Lennart Staflin's Psgml package, with Elisp syntax and sgml-validate fixed for Emacsen >=24." tar "marmalade"])
   (cpputils-cmake . [(0 4 0) nil "Easy real time C++ syntax check and intellisense if you use CMake." tar "marmalade"])
+  (inform-mode . [(1 6 2) nil "Major mode for Inform 6 interactive fiction code" single "marmalade"])
   (json-mode . [(1 1 0) nil "Major mode for editing JSON files" single "marmalade"])
   (cm-mode . [(0 1 0) nil "Wrapper for CodeMirror-style Emacs modes" single "marmalade"])
   (abl-mode . [(0 9 0) nil "Python TDD minor mode" single "marmalade"])
