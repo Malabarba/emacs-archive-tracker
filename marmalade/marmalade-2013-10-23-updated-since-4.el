@@ -1,6 +1,6 @@
 '(
   (proxy-mode . [(0 9) nil "Provides proxy minor mode." single "marmalade"])
-  (latest-clojure-libraries . [(0 4) ((nrepl (0 2 0))) "Clojure dependency resolver" single "marmalade"])
+  (latest-clojure-libraries . [(0 5) nil "Clojure dependency resolver" single "marmalade"])
   (latex-preview-pane . [(20131020) nil "Makes LaTeX editing less painful by providing a updatable preview pane" tar "marmalade"])
   (charmap . [(0 0 1) nil "Unicode table for Emacs" single "marmalade"])
   (dpaste_de . [(0 2) ((web (0 3 7))) "Emacs mode to paste to dpaste.de" single "marmalade"])
@@ -32,6 +32,7 @@
   (desktop-registry . [(1 1 0) nil "Keep a central registry of desktop files -*- lexical-binding: t -*-" single "marmalade"])
   (show-marks . [(0 4) ((fm (1 0))) "Navigate and visualize the mark-ring" single "marmalade"])
   (kmacro-decision . [(1 5) ((el-x (1 0)) (jb-misc-macros (0 2))) "Add conditional branching to keyboard macros" single "marmalade"])
+  (express . [(0 6 0) ((string-utils (0 3 2))) "Alternatives to `message'" single "marmalade"])
   (evil-leader . [(0 4 1) ((evil (0))) "let there be <leader>" single "marmalade"])
   (simple-call-tree+ . [(1 3) nil "Extensions to simple-call-tree" single "marmalade"])
   (noflet . [(0 0 10) nil "locally override functions" single "marmalade"])

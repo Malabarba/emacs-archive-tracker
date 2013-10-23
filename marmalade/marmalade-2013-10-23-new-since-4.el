@@ -1,6 +1,6 @@
 '(
   (proxy-mode . [(0 9) nil "Provides proxy minor mode." single "marmalade"])
-  (latest-clojure-libraries . [(0 4) ((nrepl (0 2 0))) "Clojure dependency resolver" single "marmalade"])
+  (latest-clojure-libraries . [(0 5) nil "Clojure dependency resolver" single "marmalade"])
   (latex-preview-pane . [(20131020) nil "Makes LaTeX editing less painful by providing a updatable preview pane" tar "marmalade"])
   (project-explorer . [(0 7) ((cl-lib (0 3)) (es-lib (0 3))) "A project explorer sidebar -*- lexical-binding: t -*-" single "marmalade"])
   (list-register . [(2 2) nil "List register" single "marmalade"])
