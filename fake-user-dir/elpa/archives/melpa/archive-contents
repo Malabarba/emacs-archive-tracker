@@ -216,7 +216,7 @@
 	       (1 6 8)))
 	     "Weblog maintenance via XML-RPC APIs [bzr]" single])
  (web-mode .
-	   [(20131028 1439)
+	   [(20131030 1743)
 	    nil "major mode for editing html templates [github]" tar])
  (web .
       [(20130827 1312)
@@ -851,7 +851,7 @@
 	   [(20130312 1839)
 	    nil "Support sequential operation which omitted prefix keys. [github]" single])
  (smartparens .
-	      [(20131030 1526)
+	      [(20131030 1600)
 	       ((cl-lib
 		 (0 1))
 		(dash
@@ -1318,7 +1318,7 @@
 			 (0 3 1)))
 		      "virtualenv API for Emacs Lisp [github]" tar])
  (python-django .
-		[(20131028 218)
+		[(20131030 1317)
 		 nil "A Jazzy package for managing Django projects [github]" single])
  (python-cell .
 	      [(20131030 16)
@@ -2355,7 +2355,7 @@
 			       [(20130730 1032)
 				nil "Advice for magit-log-edit-commit [github]" single])
  (magit .
-	[(20131030 1224)
+	[(20131030 1745)
 	 ((cl-lib
 	   (0 3))
 	  (git-commit-mode
@@ -2910,7 +2910,7 @@
 	     [(20130921 1436)
 	      nil "Extensions to `icomplete.el'. [wiki]" single])
  (icicles .
-	  [(20131029 2336)
+	  [(20131030 1706)
 	   nil "Minibuffer input completion and cycling. [wiki]" tar])
  (ibuffer-vc .
 	     [(20130924 1408)
@@ -3049,7 +3049,7 @@
 		 (1 0)))
 	       "Color theme selection with helm interface [github]" single])
  (helm-swoop .
-	     [(20131030 1627)
+	     [(20131031 114)
 	      ((helm
 		(1 0))
 	       (emacs
@@ -3306,7 +3306,7 @@
 	[(20130824 1206)
 	 nil "Extensions to standard library `grep.el'. [wiki]" single])
  (grass-mode .
-	     [(20131027 2129)
+	     [(20131030 1030)
 	      ((cl-lib
 		(0 2)))
 	      "Provides Emacs modes for interacting with the GRASS GIS program [hg]" single])
@@ -4102,7 +4102,7 @@
 	 [(20131025 906)
 	  nil "Erlang major mode [github]" tar])
  (ergoemacs-mode .
-		 [(20131029 930)
+		 [(20131030 1015)
 		  nil "Emacs mode based on common modern software interface and ergonomics. [github]" tar])
  (erefactor .
 	    [(20130521 1838)
@@ -4675,7 +4675,7 @@
 		[(20131028 1417)
 		 nil "Search the word at point with Dash [github]" single])
  (dash .
-       [(20130911 1307)
+       [(20131029 1527)
 	nil "A modern list library for Emacs [github]" single])
  (dart-mode .
 	    [(20130902 924)
@@ -4760,7 +4760,7 @@
 	     [(20131005 1021)
 	      nil "TCP-based client connection [github]" single])
  (conkeror-minor-mode .
-		      [(20131030 930)
+		      [(20131030 1342)
 		       nil "Mode for editing conkeror javascript files. [github]" single])
  (confluence .
 	     [(20130814 735)
@@ -4920,7 +4920,7 @@
 		     (9)))
 		   "decompilation extension for cider [github]" single])
  (cider .
-	[(20131030 852)
+	[(20131030 1649)
 	 ((clojure-mode
 	   (2 0 0))
 	  (cl-lib
@@ -5260,7 +5260,7 @@
       [(20130817 845)
        nil "various useful ways to do `multi-occur' [wiki]" single])
  (anzu .
-       [(20131030 1414)
+       [(20131030 1936)
 	nil "Show number of matches in mode-line while searching [github]" single])
  (anything-git-grep .
 		    [(20130609 1111)
