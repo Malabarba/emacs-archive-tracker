@@ -45,6 +45,9 @@
 ;; 0.1 - 20130723 - Created File.
 ;;; Code:
 
+(setq user-emacs-directory (expand-file-name "./fake-user-dir"))
+(make-directory user-emacs-directory :parents)
+
 (require 'cl-lib)
 
 (defconst eat/version "0.7" "Version of the emacs-archive-tracker.el package.")
@@ -256,54 +259,60 @@
         (eat/-list-to-table new (concat eat/directory eat/new-file))
         (eat/-list-to-table updated (concat eat/directory eat/updated-file))))))
 
-(defun eat/-list-to-table (l f)
-  nil)
+(defun eat/-list-to-table (l f) nil)
 
-;; (defun eat/-compare-last (name days) "")
-(eat/-log "Running %s%s" eat/directory eat/pull-script)
+;;; This where the script actually starts doing stuff.
+(require 'package)
+(eat/-log "Packages dir is %s" package-user-dir)
 
-(defun eat/source-name-to-total-count (src)
-  (format "%s " (eval (intern (concat "eat/" (car src) "-count")))))
+(if (/= 0 (string-match (expand-file-name "./") package-user-dir))
+    (eat/-log "That's not inside the current directory! I'm quitting.")
 
-(if (< 0 (shell-command
-          (format "cd %s && ./%s" eat/directory eat/pull-script)))
-    (with-current-buffer "*Shell Command Output*"
+  ;; (defun eat/-compare-last (name days) "")
+  (eat/-log "Running %s%s" eat/directory eat/pull-script)
+
+  (defun eat/source-name-to-total-count (src)
+    (format "%s " (eval (intern (concat "eat/" (car src) "-count")))))
+
+  (if (< 0 (shell-command
+            (format "cd %s && ./%s" eat/directory eat/pull-script)))
+      (with-current-buffer "*Shell Command Output*"
+        (eat/-log "--- FAILED COMMAND!! --- Here's the output:\n%s" (buffer-string)))
+    (eat/-log "Success.")
+
+    (dolist (cur eat/sources)
+      (eat/fetch-and-save-statistics (list cur) (car cur)))
+
+    (let ((eat/-save-recent-to-global t))
+      (eat/fetch-and-save-statistics eat/sources "ALL"))
+
+    (eat/-log "Saving global data in %s" eat/data-file)
+    (append-to-file
+     (eval (format "%s %s %s %s %s %s\n"
+                   (format-time-string "%s")
+                   (format-time-string "%Y-%m-%dT%R")
+                   eat/ALL-count
+                   eat/ALL-single-count
+                   eat/ALL-tar-count
+                   (mapconcat 'eat/source-name-to-total-count eat/sources "")))
+     nil eat/data-file)
+
+    (with-temp-file eat/table-file
+      (set-buffer-file-coding-system 'no-conversion)
+      (insert "<td><strong>"
+              (format "%s" eat/ALL-count) "</strong></td> <td>"
+              (format "%s" eat/ALL-single-count) "</td> <td>"
+              (format "%s" eat/ALL-tar-count)    "</td> <td>"
+              (mapconcat 'eat/source-name-to-total-count eat/sources "</td> <td>") "</td>"))
+
+    (eat/-log "Running %s%s" eat/directory eat/script)
+    (if (= 0 (shell-command
+              (format "cd %s && ./%s" eat/directory eat/script)))
+        (eat/-log "Success.")
+      (set-buffer "*Shell Command Output*")
       (eat/-log "--- FAILED COMMAND!! --- Here's the output:\n%s" (buffer-string)))
-  (eat/-log "Success.")
 
-  (dolist (cur eat/sources)
-    (eat/fetch-and-save-statistics (list cur) (car cur)))
-
-  (let ((eat/-save-recent-to-global t))
-    (eat/fetch-and-save-statistics eat/sources "ALL"))
-
-  (eat/-log "Saving global data in %s" eat/data-file)
-  (append-to-file
-   (eval (format "%s %s %s %s %s %s\n"
-                 (format-time-string "%s")
-                 (format-time-string "%Y-%m-%dT%R")
-                 eat/ALL-count
-                 eat/ALL-single-count
-                 eat/ALL-tar-count
-                 (mapconcat 'eat/source-name-to-total-count eat/sources "")))
-   nil eat/data-file)
-
-  (with-temp-file eat/table-file
-    (set-buffer-file-coding-system 'no-conversion)
-    (insert "<td><strong>"
-            (format "%s" eat/ALL-count) "</strong></td> <td>"
-            (format "%s" eat/ALL-single-count) "</td> <td>"
-            (format "%s" eat/ALL-tar-count)    "</td> <td>"
-            (mapconcat 'eat/source-name-to-total-count eat/sources "</td> <td>") "</td>"))
-
-  (eat/-log "Running %s%s" eat/directory eat/script)
-  (if (= 0 (shell-command
-            (format "cd %s && ./%s" eat/directory eat/script)))
-      (eat/-log "Success.")
-    (set-buffer "*Shell Command Output*")
-    (eat/-log "--- FAILED COMMAND!! --- Here's the output:\n%s" (buffer-string)))
-
-  (setq eat/-new-day nil))
+    (setq eat/-new-day nil)))
 
 (provide 'emacs-archive-tracker)
 ;;; emacs-archive-tracker.el ends here.
