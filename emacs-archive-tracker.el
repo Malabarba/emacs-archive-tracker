@@ -265,7 +265,8 @@
 (require 'package)
 (eat/-log "Packages dir is %s" package-user-dir)
 
-(if (/= 0 (string-match (expand-file-name "./") package-user-dir))
+(if (/= 0 (or (string-match (expand-file-name "./")
+                            (expand-file-name package-user-dir)) 1))
     (eat/-log "That's not inside the current directory! I'm quitting.")
 
   ;; (defun eat/-compare-last (name days) "")
