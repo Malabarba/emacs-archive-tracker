@@ -1368,7 +1368,7 @@
 		(0 1)))
 	      "Manage and navigate projects in Emacs easily [github]" single])
  (project-persist .
-		  [(20131013 935)
+		  [(20131030 1908)
 		   nil "A minor mode to allow loading and saving of project settings. [github]" tar])
  (project-local-variables .
 			  [(20080502 1652)
@@ -1474,6 +1474,11 @@
  (plenv .
 	[(20130707 1516)
 	 nil "A plenv wrapper for Emacs [github]" single])
+ (plantuml-mode .
+		[(20131030 2215)
+		 ((auto-complete
+		   (1 4)))
+		 "Major mode for plantuml [github]" single])
  (pkgbuild-mode .
 		[(20130816 1020)
 		 nil "Interface to the ArchLinux package manager [github]" single])
@@ -1645,7 +1650,7 @@
 	      [(20131021 1946)
 	       nil "Minor mode for interacting with Pandoc [github]" tar])
  (pallet .
-	 [(20130926 1940)
+	 [(20131030 1847)
 	  ((cask
 	    (0 4 6)))
 	  "A package management tool for Emacs, using Cask. [github]" tar])
@@ -2302,7 +2307,7 @@
 		 (1 2 0)))
 	       "git method for TRAMP [github]" single])
  (magit-topgit .
-	       [(20131030 1223)
+	       [(20131030 1853)
 		((cl-lib
 		  (0 3))
 		 (magit
@@ -2355,7 +2360,7 @@
 			       [(20130730 1032)
 				nil "Advice for magit-log-edit-commit [github]" single])
  (magit .
-	[(20131030 1745)
+	[(20131030 2348)
 	 ((cl-lib
 	   (0 3))
 	  (git-commit-mode
@@ -3199,7 +3204,7 @@
 		   (24)))
 		 "CSS/SCSS selector with helm interface [github]" single])
  (helm-cmd-t .
-	     [(20130718 2327)
+	     [(20131030 1541)
 	      nil "cmd-t style completion [github]" tar])
  (helm-c-yasnippet .
 		   [(20120906 28)
@@ -3317,7 +3322,7 @@
 		    [(20120821 1835)
 		     nil "Mode for the dot-language used by graphviz (att). [github]" single])
  (graphene .
-	   [(20130926 1945)
+	   [(20131030 1903)
 	    ((auto-complete
 	      (20130330))
 	     (smartparens
@@ -3796,7 +3801,7 @@
 		   (0 6 0)))
 		 "Cask support in Flycheck [github]" single])
  (flycheck .
-	   [(20131026 1341)
+	   [(20131030 1902)
 	    ((s
 	      (1 6 0))
 	     (dash
@@ -3811,7 +3816,7 @@
 	      (24 1)))
 	    "On-the-fly syntax checking (Flymake done right) [github]" tar])
  (flx-ido .
-	  [(20130814 2156)
+	  [(20131030 1243)
 	   ((flx
 	     (0 1))
 	    (cl-lib
@@ -3839,7 +3844,7 @@
 	       [(20130923 2017)
 		nil "Flash a region [github]" single])
  (fixmee .
-	 [(20131022 1123)
+	 [(20131030 1417)
 	  ((button-lock
 	    (1 0 0))
 	   (nav-flash
@@ -4102,7 +4107,7 @@
 	 [(20131025 906)
 	  nil "Erlang major mode [github]" tar])
  (ergoemacs-mode .
-		 [(20131030 1015)
+		 [(20131030 1704)
 		  nil "Emacs mode based on common modern software interface and ergonomics. [github]" tar])
  (erefactor .
 	    [(20130521 1838)
@@ -4675,7 +4680,7 @@
 		[(20131028 1417)
 		 nil "Search the word at point with Dash [github]" single])
  (dash .
-       [(20131029 1527)
+       [(20131030 2119)
 	nil "A modern list library for Emacs [github]" single])
  (dart-mode .
 	    [(20130902 924)
@@ -4864,7 +4869,7 @@
 		      (0 8 0)))
 		    "Yasnippets for clojure [github]" tar])
  (clojure-mode .
-	       [(20131019 624)
+	       [(20131030 622)
 		nil "Major mode for Clojure code [github]" single])
  (clojure-cheatsheet .
 		     [(20131022 1505)
@@ -4920,7 +4925,7 @@
 		     (9)))
 		   "decompilation extension for cider [github]" single])
  (cider .
-	[(20131030 1649)
+	[(20131030 1803)
 	 ((clojure-mode
 	   (2 0 0))
 	  (cl-lib
@@ -5046,7 +5051,7 @@
 	   [(20081011 2126)
 	    nil "Quote text with a semi-box. [github]" single])
  (bookmark+ .
-	    [(20131029 2253)
+	    [(20131030 1823)
 	     nil "Bookmark+: extensions to standard library `bookmark.el'. [wiki]" tar])
  (bm .
      [(20121212 2224)
@@ -5260,7 +5265,7 @@
       [(20130817 845)
        nil "various useful ways to do `multi-occur' [wiki]" single])
  (anzu .
-       [(20131030 1936)
+       [(20131031 35)
 	nil "Show number of matches in mode-line while searching [github]" single])
  (anything-git-grep .
 		    [(20130609 1111)
