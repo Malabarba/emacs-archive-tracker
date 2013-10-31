@@ -204,7 +204,7 @@
   (refheap . [(20130815 821) ((json (1 2))) "A library for pasting to https://refheap.com [github]" single "melpa"])
   (relax . [(20131029 921) ((json (1 2))) "For browsing and interacting with CouchDB [github]" single "melpa"])
   (replace+ . [(20131013 2330) nil "Extensions to `replace.el'. [wiki]" single "melpa"])
-  (ruby-additional . [(20131030 511) ((ruby-mode (1 2))) "ruby-mode extensions yet to be merged into Emacs [svn]" tar "melpa"])
+  (ruby-additional . [(20131030 2313) ((emacs (24 3)) (ruby-mode (1 2))) "ruby-mode extensions yet to be merged into Emacs [svn]" tar "melpa"])
   (ruby-refactor . [(20130808 2227) ((ruby-mode (1 2))) "A minor mode which presents various Ruby refactoring helpers. [github]" single "melpa"])
   (runner . [(20131018 1421) nil "Improved \"open with\" suggestions for dired [github]" single "melpa"])
   (second-sel . [(20131016 1506) nil "Secondary selection commands [wiki]" single "melpa"])

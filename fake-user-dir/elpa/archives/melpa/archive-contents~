@@ -1117,9 +1117,6 @@
  (rvm .
       [(20130521 902)
        nil "Emacs integration for rvm [github]" single])
- (rust-mode .
-	    [(20130928 1740)
-	     nil "A major emacs mode for editing Rust source code [github]" single])
  (runner .
 	 [(20131018 1421)
 	  nil "Improved \"open with\" suggestions for dired [github]" single])
@@ -1160,8 +1157,10 @@
 	     [(20130924 21)
 	      nil "highlight matching block [wiki]" single])
  (ruby-additional .
-		  [(20131030 511)
-		   ((ruby-mode
+		  [(20131030 2313)
+		   ((emacs
+		     (24 3))
+		    (ruby-mode
 		     (1 2)))
 		   "ruby-mode extensions yet to be merged into Emacs [svn]" tar])
  (rubocop .
@@ -2360,7 +2359,7 @@
 			       [(20130730 1032)
 				nil "Advice for magit-log-edit-commit [github]" single])
  (magit .
-	[(20131030 2348)
+	[(20131031 241)
 	 ((cl-lib
 	   (0 3))
 	  (git-commit-mode
@@ -5440,5 +5439,8 @@
 	      (1 2))
 	     (request
 	      (0 2 0)))
-	    "Open and evaluate 4clojure.com questions [github]" single]))
+	    "Open and evaluate 4clojure.com questions [github]" single])
+ (rust-mode .
+	    [(20130928 1740)
+	     nil "A major emacs mode for editing Rust source code [github]" single]))
 
