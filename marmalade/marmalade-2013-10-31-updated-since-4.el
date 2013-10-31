@@ -92,7 +92,7 @@
   (pretty-mode-plus . [(1 0) nil "Redisplay parts of the buffer as pretty symbols." tar "marmalade"])
   (exec-path-from-shell . [(1 6) nil "Get environment variables such as $PATH from the shell" single "marmalade"])
   (buffer-utils . [(0 1 0) nil "Buffer-manipulation utility functions" single "marmalade"])
-  (ac-nrepl . [(0 20) ((nrepl (0 1)) (auto-complete (1 4))) "auto-complete sources for Clojure using nrepl completions" single "marmalade"])
+  (ac-nrepl . [(0 21) ((cider (0 1)) (auto-complete (1 4))) "auto-complete sources for Clojure using nrepl completions" single "marmalade"])
   (ido-load-library . [(0 2 0) ((persistent-soft (0 8 8)) (pcache (0 2 3))) "Load-library alternative using ido-completing-read" single "marmalade"])
   (minimal-session-saver . [(0 6 2) nil "Very lean session saver" single "marmalade"])
   (dynamic-fonts . [(0 6 4) ((font-utils (0 7 0)) (persistent-soft (0 8 8)) (pcache (0 2 3))) "Set faces based on available fonts" single "marmalade"])
