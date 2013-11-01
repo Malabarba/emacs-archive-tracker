@@ -947,14 +947,14 @@
  (shut-up .
 	  [(20131029 1602)
 	   nil "Shut up would you! [github]" single])
- (showcss-mode .
-	       [(20130605 1824)
-		nil "No description available. [github]" tar])
  (show-marks .
 	     [(20130805 1549)
 	      ((fm
 		(1 0)))
 	      "Navigate and visualize the mark-ring [github]" single])
+ (show-css .
+	   [(20130605 1824)
+	    nil "Show the css of the html attribute the cursor is on [github]" tar])
  (shorten .
 	  [(20130621 1740)
 	   nil "component-wise string shortener [github]" single])
@@ -1477,10 +1477,10 @@
 	[(20130707 1516)
 	 nil "A plenv wrapper for Emacs [github]" single])
  (plantuml-mode .
-		[(20131030 2215)
+		[(20131031 2332)
 		 ((auto-complete
 		   (1 4)))
-		 "Major mode for plantuml [github]" single])
+		 "Major mode for plantuml [github]" single])
  (pkgbuild-mode .
 		[(20130816 1020)
 		 nil "Interface to the ArchLinux package manager [github]" single])
@@ -2079,7 +2079,7 @@
 	      (1 2 0)))
 	    "a mustache templating library in emacs lisp [github]" tar])
  (multiple-cursors .
-		   [(20131016 1120)
+		   [(20131031 2138)
 		    nil "Multiple cursors for Emacs. [github]" tar])
  (multifiles .
 	     [(20130615 2249)
@@ -2362,7 +2362,7 @@
 			       [(20130730 1032)
 				nil "Advice for magit-log-edit-commit [github]" single])
  (magit .
-	[(20131031 2349)
+	[(20131031 2356)
 	 ((cl-lib
 	   (0 3))
 	  (git-commit-mode
@@ -3056,7 +3056,7 @@
 		 (1 0)))
 	       "Color theme selection with helm interface [github]" single])
  (helm-swoop .
-	     [(20131031 1940)
+	     [(20131101 229)
 	      ((helm
 		(1 0))
 	       (emacs
@@ -3313,7 +3313,7 @@
 	[(20130824 1206)
 	 nil "Extensions to standard library `grep.el'. [wiki]" single])
  (grass-mode .
-	     [(20131030 1030)
+	     [(20131031 1753)
 	      ((cl-lib
 		(0 2)))
 	      "Provides Emacs modes for interacting with the GRASS GIS program [hg]" single])
@@ -4090,7 +4090,7 @@
 	    (0 3)))
 	  "A collection of emacs utilities [github]" tar])
  (ert-runner .
-	     [(20131026 1238)
+	     [(20131031 2019)
 	      ((s
 		(1 6 1))
 	       (dash
@@ -4884,7 +4884,7 @@
 		      (0 8 0)))
 		    "Yasnippets for clojure [github]" tar])
  (clojure-mode .
-	       [(20131030 622)
+	       [(20131030 1554)
 		nil "Major mode for Clojure code [github]" single])
  (clojure-cheatsheet .
 		     [(20131022 1505)
@@ -4940,7 +4940,7 @@
 		     (9)))
 		   "decompilation extension for cider [github]" single])
  (cider .
-	[(20131031 1625)
+	[(20131031 1711)
 	 ((clojure-mode
 	   (2 0 0))
 	  (cl-lib
@@ -5057,7 +5057,7 @@
 		     (0 3 2)))
 		   "Context-sensitive external browse URL or Internet search [github]" single])
  (browse-kill-ring .
-		   [(20131026 1346)
+		   [(20131031 2124)
 		    nil "interactively insert items from kill-ring [github]" single])
  (bpe .
       [(20131027 1221)
