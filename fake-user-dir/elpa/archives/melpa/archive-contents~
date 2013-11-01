@@ -1400,8 +1400,8 @@
 		 [(20131013 2047)
 		  nil "Draw tokens as Unicode glyphs. [github]" single])
  (pretty-mode .
-	      [(20130331 1551)
-	       nil "redisplay parts of the buffer as pretty symbols [wiki]" single])
+	      [(20131031 104)
+	       nil "Redisplay parts of the buffer as pretty symbols. [github]" tar])
  (pretty-lambdada .
 		  [(20130723 2216)
 		   nil "Show the word `lambda' as the Greek letter. [wiki]" single])
@@ -1485,11 +1485,11 @@
 		[(20130816 1020)
 		 nil "Interface to the ArchLinux package manager [github]" single])
  (pkg-info .
-	   [(20131020 1746)
+	   [(20131101 1208)
 	    ((dash
 	      (1 6 0))
 	     (epl
-	      (0 1)))
+	      (0 4)))
 	    "Information about packages [github]" single])
  (pivotal-tracker .
 		  [(20130319 2233)
@@ -3056,7 +3056,7 @@
 		 (1 0)))
 	       "Color theme selection with helm interface [github]" single])
  (helm-swoop .
-	     [(20131101 229)
+	     [(20131101 1756)
 	      ((helm
 		(1 0))
 	       (emacs
@@ -3803,7 +3803,7 @@
 		   (0 6 0)))
 		 "Cask support in Flycheck [github]" single])
  (flycheck .
-	   [(20131031 836)
+	   [(20131101 1046)
 	    ((s
 	      (1 6 0))
 	     (dash
@@ -5280,7 +5280,7 @@
       [(20130817 845)
        nil "various useful ways to do `multi-occur' [wiki]" single])
  (anzu .
-       [(20131031 35)
+       [(20131101 1621)
 	nil "Show number of matches in mode-line while searching [github]" single])
  (anything-git-grep .
 		    [(20130609 1111)

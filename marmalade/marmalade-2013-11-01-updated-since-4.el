@@ -40,7 +40,7 @@
   (org-dotemacs . [(0 3) ((org (7 9 3)) (cl-lib (1 0))) "Store your emacs config as an org file, and choose which bits to load." single "marmalade"])
   (sparql-mode . [(0 7 2) nil "Edit and interactively evaluate SPARQL queries." single "marmalade"])
   (paredit-everywhere . [(0 3) ((paredit (22))) "Enable some paredit features in non-lisp buffers" single "marmalade"])
-  (ag . [(0 27) nil "A front-end for ag ('the silver searcher'), the C ack replacement." single "marmalade"])
+  (ag . [(0 32) nil "A front-end for ag ('the silver searcher'), the C ack replacement." single "marmalade"])
   (groovy-mode . [(201203310931) nil "Groovy mode derived mode" single "marmalade"])
   (rubocop . [(0 3) ((dash (1 0 0))) "An Emacs interface for RuboCop" single "marmalade"])
   (flymake-elixir . [(0 5) nil "A flymake handler for elixir-mode .ex files.     " single "marmalade"])
