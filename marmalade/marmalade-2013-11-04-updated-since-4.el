@@ -1,5 +1,5 @@
 '(
-  (flatland-theme . [(0 1 1) nil "A simple theme for Emacs." single "marmalade"])
+  (flatland-theme . [(0 1 2) nil "A simple theme for Emacs." single "marmalade"])
   (relax . [(0 2) ((json (1 2))) "For browsing and interacting with CouchDB" single "marmalade"])
   (cider . [(0 3 1) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 3))) "Clojure IDE and REPL" tar "marmalade"])
   (lyskom . [(20131008) nil "LysKOM elisp client." single "marmalade"])
@@ -106,7 +106,7 @@
   (ruby-test-mode . [(1 7) ((ruby-mode (1 0))) "Minor mode for Behaviour and Test Driven" single "marmalade"])
   (fill-column-indicator . [(1 85) nil "Graphically indicate the fill column" single "marmalade"])
   (nrepl . [(0 2 0) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 1))) "Client for Clojure nREPL" single "marmalade"])
-  (android-mode . [(0 2 4) nil "Minor mode for Android application development" single "marmalade"])
+  (android-mode . [(0 2 5) nil "Minor mode for Android application development" single "marmalade"])
   (grep-o-matic . [(1 0 6) nil "auto grep word under cursor" single "marmalade"])
   (grep-a-lot . [(1 0 7) nil "manages multiple search results buffers for grep.el" single "marmalade"])
   (repository-root . [(1 0 4) nil "deduce the repository root directory for a given file" single "marmalade"])

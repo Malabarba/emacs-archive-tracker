@@ -245,7 +245,7 @@
   (window-numbering . [(20130902 1815) nil "Numbered window shortcuts [github]" single "melpa"])
   (wonderland . [(20130912 2219) ((dash (2 0 0)) (dash-functional (1 0 0)) (multi (2 0 0)) (emacs (24))) "declarative configuration for Emacsen [github]" single "melpa"])
   (xcscope . [(20131102 1402) nil "cscope interface for (X)Emacs [github]" single "melpa"])
-  (flatland-theme . [(0 1 1) nil "A simple theme for Emacs." single "marmalade"])
+  (flatland-theme . [(0 1 2) nil "A simple theme for Emacs." single "marmalade"])
   (lyskom . [(20131008) nil "LysKOM elisp client." single "marmalade"])
   (proxy-mode . [(0 9) nil "Provides proxy minor mode." single "marmalade"])
   (latex-preview-pane . [(20131020) nil "Makes LaTeX editing less painful by providing a updatable preview pane" tar "marmalade"])
