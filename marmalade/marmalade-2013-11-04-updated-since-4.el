@@ -1,4 +1,5 @@
 '(
+  (flatland-theme . [(0 1 1) nil "A simple theme for Emacs." single "marmalade"])
   (relax . [(0 2) ((json (1 2))) "For browsing and interacting with CouchDB" single "marmalade"])
   (cider . [(0 3 1) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 3))) "Clojure IDE and REPL" tar "marmalade"])
   (lyskom . [(20131008) nil "LysKOM elisp client." single "marmalade"])
@@ -50,7 +51,7 @@
   (smartparens . [(1 5) ((cl-lib (0 1)) (dash (1 1 0))) "Automatic insertion, wrapping and paredit-like navigation with user defined pairs." tar "marmalade"])
   (grapnel . [(0 5 3) nil "HTTP request lib with flexible callback dispatch" single "marmalade"])
   (haml-mode . [(3 1 3) ((ruby-mode (1 0))) "Major mode for editing Haml files" single "marmalade"])
-  (babcore . [(0 0 4) nil "Core Emacs configuration. This should be the minimum in every emacs config." single "marmalade"])
+  (babcore . [(0 0 5) nil "Core Emacs configuration. This should be the minimum in every emacs config." single "marmalade"])
   (gruber-darker-theme . [(0 6) nil "Gruber Darker color theme for Emacs 24." single "marmalade"])
   (evil . [(1 0 7) ((undo-tree (0 5 1))) "Extensible Vi layer for Emacs." tar "marmalade"])
   (rbenv . [(0 0 3) nil "Emacs integration for rbenv" single "marmalade"])

@@ -97,7 +97,7 @@
   (grass-mode . [(20131102 3) ((cl-lib (0 2))) "Provides Emacs modes for interacting with the GRASS GIS program [hg]" single "melpa"])
   (grep+ . [(20130824 1206) nil "Extensions to standard library `grep.el'. [wiki]" single "melpa"])
   (helm-ag-r . [(20131025 1303) ((helm (1 5 0))) "Search something by ag and display by helm [github]" single "melpa"])
-  (helm-css-scss . [(20131027 2357) ((helm (1 0)) (emacs (24))) "CSS/SCSS selector with helm interface [github]" single "melpa"])
+  (helm-css-scss . [(20131104 1509) ((helm (1 0)) (emacs (24))) "CSS/SCSS selector with helm interface [github]" single "melpa"])
   (helm-emmet . [(20131014 1529) ((helm (1 0)) (emmet-mode (1 0 2))) "helm sources for emmet-mode's snippets [github]" single "melpa"])
   (helm-github-stars . [(20131103 1611) ((helm (1 5 5))) "Helm integration for your stared repositories on github [github]" single "melpa"])
   (helm-helm-commands . [(20130902 1848) ((helm (1 5 4))) "List all helm commands with helm [github]" single "melpa"])

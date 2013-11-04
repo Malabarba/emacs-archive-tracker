@@ -1,4 +1,5 @@
 '(
+  (flatland-theme . [(0 1 1) nil "A simple theme for Emacs." single "marmalade"])
   (relax . [(0 2) ((json (1 2))) "For browsing and interacting with CouchDB" single "marmalade"])
   (cider . [(0 3 1) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 3))) "Clojure IDE and REPL" tar "marmalade"])
   (lyskom . [(20131008) nil "LysKOM elisp client." single "marmalade"])
