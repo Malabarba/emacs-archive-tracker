@@ -1,4 +1,5 @@
 '(
+  (immutant-server . [(1 0 0) nil "Run your Immutant server in Emacs" single "marmalade"])
   (flatland-theme . [(0 1 2) nil "A simple theme for Emacs." single "marmalade"])
   (relax . [(0 2) ((json (1 2))) "For browsing and interacting with CouchDB" single "marmalade"])
   (cider . [(0 3 1) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 3))) "Clojure IDE and REPL" tar "marmalade"])
@@ -13,7 +14,7 @@
   (sequences . [(0 1 0) ((emacs (24))) "Ports of some Clojure sequence functions." single "marmalade"])
   (sensitive . [(1 0 1) ((emacs (24)) (sequences (0 1 0))) "A dead simple way to load sensitive information" single "marmalade"])
   (skewer-less . [(0 2) ((skewer-mode (1 5 3))) "Skewer support for live LESS stylesheet updates" single "marmalade"])
-  (evil-matchit . [(0 0 5) nil "Vim matchit ported into Emacs (requires EVIL)" tar "marmalade"])
+  (evil-matchit . [(0 0 6) nil "Vim matchit ported into Emacs (requires EVIL)" tar "marmalade"])
   (tbemail . [(0 2) nil "Provide syntax highlighting for email editing via" single "marmalade"])
   (timestamper . [(0 1 0) nil "A minor mode for easy timelogging" single "marmalade"])
   (pbcopy . [(0 1 0) nil "OS X clipboard integration for Emacs" single "marmalade"])

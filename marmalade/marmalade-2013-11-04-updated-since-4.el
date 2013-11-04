@@ -1,4 +1,5 @@
 '(
+  (immutant-server . [(1 0 0) nil "Run your Immutant server in Emacs" single "marmalade"])
   (flatland-theme . [(0 1 2) nil "A simple theme for Emacs." single "marmalade"])
   (relax . [(0 2) ((json (1 2))) "For browsing and interacting with CouchDB" single "marmalade"])
   (cider . [(0 3 1) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 3))) "Clojure IDE and REPL" tar "marmalade"])
@@ -18,7 +19,7 @@
   (frame-restore . [(0 4) ((dash (1 2)) (f (0 11)) (emacs (24 1))) "Restore Emacs frame -*- lexical-binding: t; -*-" single "marmalade"])
   (ample-theme . [(0 2 4) nil "Calm Dark Theme for Emacs " single "marmalade"])
   (emmet-mode . [(1 0 5) nil "Unofficial Emmet's support for emacs" single "marmalade"])
-  (web-mode . [(7 0 38) nil "major mode for editing html templates" single "marmalade"])
+  (web-mode . [(7 0 50) nil "major mode for editing html templates" single "marmalade"])
   (processing-mode . [(1 2 1) nil "Major mode for Processing 2.0" single "marmalade"])
   (git-gutter-fringe+ . [(0 0 2) ((git-gutter+ (0 1)) (fringe-helper (20130519 1641))) "Fringe version of git-gutter+.el" single "marmalade"])
   (parenface-reversion . [(1 2) nil "Provide a face for parens in lisp modes." single "marmalade"])
