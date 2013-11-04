@@ -219,7 +219,7 @@
 	       (1 6 8)))
 	     "Weblog maintenance via XML-RPC APIs [bzr]" single])
  (web-mode .
-	   [(20131030 1743)
+	   [(20131104 1912)
 	    nil "major mode for editing html templates [github]" tar])
  (web .
       [(20130827 1312)
@@ -347,7 +347,7 @@
 			       (0 2 3)))
 			     "Progress-reporter with fancy characters [github]" single])
  (unicode-fonts .
-		[(20131022 1158)
+		[(20131104 1112)
 		 ((font-utils
 		   (0 7 0))
 		  (ucs-utils
@@ -857,7 +857,7 @@
 	   [(20130312 1839)
 	    nil "Support sequential operation which omitted prefix keys. [github]" single])
  (smartparens .
-	      [(20131103 1535)
+	      [(20131104 1625)
 	       ((cl-lib
 		 (0 1))
 		(dash
@@ -876,8 +876,12 @@
 		 [(20051013 1756)
 		  nil "Beautify the operators in codes [wiki]" single])
  (smart-mode-line .
-		  [(20131021 1133)
-		   nil "A color coded smart mode-line. [github]" single])
+		  [(20131104 1651)
+		   ((emacs
+		     (24 3))
+		    (dash
+		     (2 2 0)))
+		   "A color coded smart mode-line. [github]" single])
  (smart-forward .
 		[(20130205 1352)
 		 ((expand-region
@@ -2123,7 +2127,7 @@
 	 [(20130723 2348)
 	  nil "Extensions to `mouse.el'. [wiki]" single])
  (motion-mode .
-	      [(20130929 2124)
+	      [(20131105 142)
 	       ((flymake-easy
 		 (0 7))
 		(flymake-cursor
@@ -2789,7 +2793,7 @@
 		   (1 1 0)))
 		 "Interval tree data structure for 1D range queries [github]" single])
  (interaction-log .
-		  [(20131031 1540)
+		  [(20131103 2002)
 		   nil "exhaustive log of interactions with Emacs [github]" single])
  (instapaper .
 	     [(20130104 2221)
@@ -2906,7 +2910,7 @@
 			       [(20130228 956)
 				nil "Complete SPACE or HYPHEN when type SPACE in ido [github]" single])
  (ido-at-point .
-	       [(20131023 1114)
+	       [(20131103 1417)
 		((emacs
 		  (24)))
 		"ido-style completion-at-point [github]" single])
@@ -2923,7 +2927,7 @@
 	     [(20130921 1436)
 	      nil "Extensions to `icomplete.el'. [wiki]" single])
  (icicles .
-	  [(20131103 2308)
+	  [(20131104 1609)
 	   nil "Minibuffer input completion and cycling. [wiki]" tar])
  (ibuffer-vc .
 	     [(20130924 1408)
@@ -3148,7 +3152,7 @@
 	     [(20130317 2030)
 	      nil "List hg files in hg project. [github]" single])
  (helm-ls-git .
-	      [(20130912 1059)
+	      [(20131104 1539)
 	       nil "list git files. [github]" single])
  (helm-helm-commands .
 		     [(20130902 1848)
@@ -3821,7 +3825,7 @@
 		   (0 6 0)))
 		 "Cask support in Flycheck [github]" single])
  (flycheck .
-	   [(20131101 1212)
+	   [(20131104 623)
 	    ((s
 	      (1 6 0))
 	     (dash
@@ -3860,6 +3864,9 @@
  (flex-autopair .
 		[(20120809 2118)
 		 nil "Automatically insert pair braces and quotes, insertion conditions & actions are highly customizable. [github]" single])
+ (flatland-theme .
+		 [(20131104 1422)
+		  nil "A simple theme for Emacs. [github]" single])
  (flash-region .
 	       [(20130923 2017)
 		nil "Flash a region [github]" single])
@@ -4027,7 +4034,7 @@
 		      [(20131004 1315)
 		       nil "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim [github]" tar])
  (evil-matchit .
-	       [(20131020 2259)
+	       [(20131105 5)
 		nil "Vim matchit ported into Emacs (requires EVIL) [github]" tar])
  (evil-leader .
 	      [(20130921 1354)
@@ -5475,6 +5482,9 @@
  (ac-c-headers .
 	       [(20131016 1539)
 		nil "auto-complete source for C headers [github]" single])
+ (abl-mode .
+	   [(20131104 1027)
+	    nil "Python TDD minor mode [github]" tar])
  (abc-mode .
 	   [(20130607 917)
 	    nil "Major mode for editing abc music files [github]" single])
