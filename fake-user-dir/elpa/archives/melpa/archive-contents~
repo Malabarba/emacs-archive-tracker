@@ -176,7 +176,7 @@
 		       [(20110901 930)
 			nil "operate on current line if region undefined [github]" single])
  (whitespace-cleanup-mode .
-			  [(20131101 1720)
+			  [(20131105 1505)
 			   nil "Intelligently call whitespace-cleanup on save [github]" single])
  (wgrep-helm .
 	     [(20121201 2230)
@@ -671,6 +671,9 @@
  (suomalainen-kalenteri .
 			[(20130414 1635)
 			 nil "Finnish holidays for Emacs calendar. [github]" single])
+ (sunny-day-theme .
+		  [(20131105 1332)
+		   nil "Emacs24 theme with a light background. [github]" single])
  (summarye .
 	   [(20130328 1027)
 	    nil "list up matched strings from a buffer, and display them in summary buffer [wiki]" single])
@@ -851,7 +854,7 @@
 	      [(20100703 1358)
 	       nil "major mode for editing smarty templates [github]" single])
  (smartscan .
-	    [(20131101 1406)
+	    [(20131105 1629)
 	     nil "Jumps between other symbols found at point [github]" single])
  (smartrep .
 	   [(20130312 1839)
@@ -1693,7 +1696,7 @@
 	    (1 1 1)))
 	  "Package manager agnostic Emacs Lisp package utilities [github]" tar])
  (package-build .
-		[(20131020 1026)
+		[(20131105 1426)
 		 ((cl-lib
 		   (0 2)))
 		 "Tools for assembling a package archive [github]" tar])
@@ -3179,7 +3182,7 @@
 		       (1 5 5)))
 		     "Helm integration for your stared repositories on github [github]" single])
  (helm-git-grep .
-		[(20130609 1135)
+		[(20131105 1149)
 		 ((helm
 		   (1 0)))
 		 "helm for git grep [github]" tar])
@@ -3825,7 +3828,7 @@
 		   (0 6 0)))
 		 "Cask support in Flycheck [github]" single])
  (flycheck .
-	   [(20131104 623)
+	   [(20131105 1502)
 	    ((s
 	      (1 6 0))
 	     (dash
@@ -4328,7 +4331,7 @@
 	       [(20120427 123)
 		nil "Parse depend libraries of elisp file. [wiki]" single])
  (elhome .
-	 [(20131029 150)
+	 [(20131105 1841)
 	  ((initsplit
 	    (20120630)))
 	  "A framework for a \"home\" Emacs configuration [github]" tar])
@@ -4378,6 +4381,15 @@
  (el-autoyas .
 	     [(20120918 817)
 	      nil "Automatically create Emacs-Lisp Yasnippets [github]" tar])
+ (ein .
+      [(20130710 2114)
+       ((websocket
+	 (0 9))
+	(request
+	 (0 2))
+	(auto-complete
+	 (1 4)))
+       "Emacs IPython Notebook [github]" tar])
  (eimp .
        [(20091025 922)
 	nil "Emacs Image Manipulation Package [wiki]" single])
@@ -4971,7 +4983,7 @@
 		     (9)))
 		   "decompilation extension for cider [github]" single])
  (cider .
-	[(20131031 1711)
+	[(20131105 1415)
 	 ((clojure-mode
 	   (2 0 0))
 	  (cl-lib
@@ -5279,7 +5291,7 @@
 		    (11 87)))
 		  "Add LatexMk support to AUCTeX [github]" single])
  (async .
-	[(20131021 1713)
+	[(20131105 129)
 	 nil "Asynchronous processing in Emacs [github]" tar])
  (ascope .
 	 [(20130824 1158)
@@ -5311,7 +5323,7 @@
       [(20130824 1127)
        nil "various useful ways to do `multi-occur' [wiki]" single])
  (anzu .
-       [(20131101 1621)
+       [(20131105 1924)
 	nil "Show number of matches in mode-line while searching [github]" single])
  (anything-git-grep .
 		    [(20130609 1111)
@@ -5495,15 +5507,6 @@
 	     (request
 	      (0 2 0)))
 	    "Open and evaluate 4clojure.com questions [github]" single])
- (ein .
-      [(20130710 2114)
-       ((websocket
-	 (0 9))
-	(request
-	 (0 2))
-	(auto-complete
-	 (1 4)))
-       "Emacs IPython Notebook [github]" tar])
  (minimap .
 	  [(20110427 1123)
 	   nil "Minimap sidebar for Emacs [git]" single]))
