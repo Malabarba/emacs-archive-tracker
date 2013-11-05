@@ -1,5 +1,5 @@
 '(
-  (ac-inf-ruby . [(0 1) ((inf-ruby (2 3 2)) (auto-complete (1 4))) "Enable auto-complete in inf-ruby sessions" single "marmalade"])
+  (ac-inf-ruby . [(0 3) ((inf-ruby (2 3 2)) (auto-complete (1 4))) "Enable auto-complete in inf-ruby sessions" single "marmalade"])
   (immutant-server . [(1 0 0) nil "Run your Immutant server in Emacs" single "marmalade"])
   (flatland-theme . [(0 1 2) nil "A simple theme for Emacs." single "marmalade"])
   (relax . [(0 2) ((json (1 2))) "For browsing and interacting with CouchDB" single "marmalade"])
@@ -10,7 +10,6 @@
   (dpaste_de . [(0 2) ((web (0 3 7))) "Emacs mode to paste to dpaste.de" single "marmalade"])
   (ruby-end . [(0 3 1) nil "Automatic insertion of end blocks for Ruby" single "marmalade"])
   (ac-slime . [(0 5) nil "An auto-complete source using slime completions" single "marmalade"])
-  (scheme-here . [(0 3) nil "cmuscheme extension for multiple inferior processes" single "marmalade"])
   (awk-it . [(0 77) nil "Run AWK interactively on region!" single "marmalade"])
   (page-break-lines . [(0 8) nil "Display ugly ^L page breaks as tidy horizontal lines" single "marmalade"])
   (clues-theme . [(20130908 801) ((emacs (24 0))) "an Emacs 24 theme which may well be fully awesome..." single "marmalade"])
