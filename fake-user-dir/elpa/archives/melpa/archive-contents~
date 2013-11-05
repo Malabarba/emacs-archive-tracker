@@ -421,7 +421,7 @@
 	   [(20131010 113)
 	    nil "Major mode for editing files for Tup [github]" single])
  (tumblesocks .
-	      [(20130526 1503)
+	      [(20131006 1140)
 	       ((htmlize
 		 (1 39))
 		(oauth
@@ -3066,12 +3066,12 @@
 		 (1 0)))
 	       "Color theme selection with helm interface [github]" single])
  (helm-swoop .
-	     [(20131103 1001)
+	     [(20131105 924)
 	      ((helm
 		(1 0))
 	       (emacs
 		(24)))
-	      "Efficiently hopping squeezed lines powered by helm interface [github]" single])
+	      "Efficiently hopping squeezed lines powered by helm interface [github]" tar])
  (helm-spotify .
 	       [(20131014 2221)
 		((helm
@@ -4134,7 +4134,7 @@
 	 [(20131025 906)
 	  nil "Erlang major mode [github]" tar])
  (ergoemacs-mode .
-		 [(20131104 1316)
+		 [(20131104 1641)
 		  nil "Emacs mode based on common modern software interface and ergonomics. [github]" tar])
  (erefactor .
 	    [(20130521 1838)
@@ -4592,12 +4592,12 @@
 	   [(20130821 1105)
 	    nil "a major mode for editing dna sequences [github]" tar])
  (dkmisc .
-	 [(20131008 2300)
+	 [(20131104 2217)
 	  ((emacs
 	    (24 1)))
 	  "Miscellaneous functions required by dk* packages. [github]" tar])
  (dkdo .
-       [(20131008 2311)
+       [(20131104 2217)
 	((dkmisc
 	  (0 5))
 	 (emacs
@@ -4654,7 +4654,7 @@
 		 nil "make file details hide-able in dired [wiki]" single])
  (dired+ .
 	 [(20131104 1728)
-	  nil "Extensions to Dired. [wiki]" single])
+	  nil "No description available. [wiki]" single])
  (dircmp .
 	 [(20130806 1457)
 	  nil "Compare and sync directories. [github]" tar])
@@ -4808,7 +4808,7 @@
 	     [(20131005 1021)
 	      nil "TCP-based client connection [github]" single])
  (conkeror-minor-mode .
-		      [(20131031 2306)
+		      [(20131104 2141)
 		       nil "Mode for editing conkeror javascript files. [github]" single])
  (confluence .
 	     [(20130814 735)
@@ -5327,7 +5327,7 @@
 	   [(20130606 946)
 	    nil "open anything / QuickSilver-like candidate-selection framework [git]" tar])
  (anti-zenburn-theme .
-		     [(20131028 2348)
+		     [(20131105 219)
 		      nil "Low-contrast Zenburn-inverted theme [github]" single])
  (ansi .
        [(20130827 1653)
