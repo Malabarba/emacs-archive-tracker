@@ -272,7 +272,7 @@
 	       [(20080221 651)
 		nil "Make marks visible. [wiki]" single])
  (virtualenvwrapper .
-		    [(20130921 1707)
+		    [(20131104 1403)
 		     ((dash
 		       (1 5 0))
 		      (s
@@ -347,7 +347,7 @@
 			       (0 2 3)))
 			     "Progress-reporter with fancy characters [github]" single])
  (unicode-fonts .
-		[(20131104 1112)
+		[(20131104 1734)
 		 ((font-utils
 		   (0 7 0))
 		  (ucs-utils
@@ -876,7 +876,7 @@
 		 [(20051013 1756)
 		  nil "Beautify the operators in codes [wiki]" single])
  (smart-mode-line .
-		  [(20131104 1651)
+		  [(20131104 2149)
 		   ((emacs
 		     (24 3))
 		    (dash
@@ -1253,7 +1253,7 @@
 		       [(20130430 2107)
 			nil "Enable custom bindings when mark is active. [github]" single])
  (regex-tool .
-	     [(20130328 1510)
+	     [(20131104 1434)
 	      nil "A regular expression evaluation tool for programmers [github]" single])
  (regex-dsl .
 	    [(20100124 1228)
@@ -1439,7 +1439,7 @@
 	 [(20130329 2035)
 	  nil "Popup Window Manager. [github]" single])
  (popup-switcher .
-		 [(20130827 1508)
+		 [(20131105 156)
 		  ((popup
 		    (0 5 0)))
 		  "switch to other buffers and files via popup. [github]" single])
@@ -2056,7 +2056,7 @@
 		 [(20130901 1123)
 		  nil "A theme based on Tango color set [git]" single])
  (nanowrimo .
-	    [(20131103 25)
+	    [(20131104 1501)
 	     nil "Track progress for nanowrimo [hg]" single])
  (namespaces .
 	     [(20130327 1150)
@@ -2127,7 +2127,7 @@
 	 [(20130723 2348)
 	  nil "Extensions to `mouse.el'. [wiki]" single])
  (motion-mode .
-	      [(20131105 142)
+	      [(20131105 208)
 	       ((flymake-easy
 		 (0 7))
 		(flymake-cursor
@@ -2154,7 +2154,7 @@
 		[(20130828 1600)
 		 nil "molokai theme with Emacs theme engine [github]" single])
  (moe-theme .
-	    [(20131026 150)
+	    [(20131105 213)
 	     nil "A colorful eye-candy theme. Moe, moe, kyun! [github]" tar])
  (modtime-skip-mode .
 		    [(20130724 122)
@@ -4134,7 +4134,7 @@
 	 [(20131025 906)
 	  nil "Erlang major mode [github]" tar])
  (ergoemacs-mode .
-		 [(20131103 2313)
+		 [(20131104 1316)
 		  nil "Emacs mode based on common modern software interface and ergonomics. [github]" tar])
  (erefactor .
 	    [(20130521 1838)
@@ -4653,7 +4653,7 @@
 		[(20130824 1158)
 		 nil "make file details hide-able in dired [wiki]" single])
  (dired+ .
-	 [(20131103 2249)
+	 [(20131104 1728)
 	  nil "Extensions to Dired. [wiki]" single])
  (dircmp .
 	 [(20130806 1457)
@@ -4855,10 +4855,10 @@
 			   (6 5 5)))
 			 "Solarized themes for Emacs [github]" tar])
  (color-theme-sanityinc-tomorrow .
-				 [(20131101 1809)
+				 [(20131104 1759)
 				  nil "A version of Chris Kempson's various Tomorrow themes [github]" tar])
  (color-theme-sanityinc-solarized .
-				  [(20131101 1810)
+				  [(20131104 1800)
 				   nil "A version of Ethan Schoonover's Solarized themes [github]" tar])
  (color-theme-buffer-local .
 			   [(20120703 17)
@@ -5350,7 +5350,7 @@
 		       [(20120829 1352)
 			nil "Show quote from http://theangrypolicecaptain.com in the minibuffer [github]" single])
  (android-mode .
-	       [(20131003 920)
+	       [(20131104 1648)
 		nil "Minor mode for Android application development [github]" single])
  (anaphora .
 	   [(20131022 750)
