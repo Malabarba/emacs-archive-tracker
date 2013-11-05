@@ -77,6 +77,7 @@
   (font-utils . [(0 7 0) ((persistent-soft (0 8 8)) (pcache (0 2 3))) "Utility functions for working with fonts" single "marmalade"])
   (list-utils . [(0 4 2) nil "List-manipulation utility functions" single "marmalade"])
   (anaphora . [(1 0 0) nil "anaphoric macros providing implicit temp variables" single "marmalade"])
+  (tumblesocks . [(0 0 7) ((htmlize (1 39)) (oauth (1 0 3)) (markdown-mode (1 8 1))) "An Emacs tumblr client." tar "marmalade"])
   (less-css-mode . [(0 17) nil "Major mode for editing LESS CSS files (lesscss.org)" single "marmalade"])
   (fixmee . [(0 8 4) ((button-lock (1 0 0)) (nav-flash (1 0 0)) (back-button (0 6 0)) (smartrep (0 0 3)) (string-utils (0 3 2)) (tabulated-list (0))) "Quickly navigate to FIXME notices in code" single "marmalade"])
   (browse-url-dwim . [(0 6 6) ((string-utils (0 3 2))) "Context-sensitive external browse URL or Internet search" single "marmalade"])
