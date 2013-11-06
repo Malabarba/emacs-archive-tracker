@@ -1196,7 +1196,7 @@
 	   [(20121207 1930)
 	    nil "Roy major mode [github]" single])
  (robe .
-       [(20131103 412)
+       [(20131106 151)
 	((inf-ruby
 	  (2 3 0)))
 	"Code navigation, documentation lookup and completion for Ruby [github]" tar])
@@ -1875,9 +1875,6 @@
 	      ((org
 		(8 0)))
 	      "Export jekyll-ready posts form org-mode entries [github]" single])
- (org-fstree .
-	     [(20090723 1719)
-	      nil "include a filesystem subtree into an org file [git]" single])
  (org-elisp-help .
 		 [(20130424 45)
 		  ((cl-lib
@@ -3118,6 +3115,11 @@
 	       (inflections
 		(1 1)))
 	      "Helm extension for Rails projects. [github]" single])
+ (helm-pydoc .
+	     [(20131105 2326)
+	      ((helm
+		(1 0)))
+	      "pydoc with helm interface [github]" tar])
  (helm-projectile .
 		  [(20131008 1506)
 		   ((helm
@@ -3493,6 +3495,11 @@
  (git-dwim .
 	   [(20130130 2150)
 	    nil "Context-aware git commands such as branch handling [wiki]" single])
+ (git-commit-training-wheels-mode .
+				  [(20131106 151)
+				   ((git-commit-mode
+				     (0 14 0)))
+				   "Helps you craft well formed commit messages with git-commit-mode [github]" single])
  (git-commit-mode .
 		  [(20131031 1351)
 		   nil "Major mode for editing git commit messages [github]" single])
@@ -4368,7 +4375,7 @@
 		 [(20130824 1157)
 		  nil "fuzzy symbol completion. [wiki]" single])
  (el-spice .
-	   [(20131031 2138)
+	   [(20131106 141)
 	    ((thingatpt+
 	      (0)))
 	    "Extra spice for emacs lisp programming [github]" tar])
@@ -4665,7 +4672,7 @@
 		[(20130824 1158)
 		 nil "make file details hide-able in dired [wiki]" single])
  (dired+ .
-	 [(20131104 1728)
+	 [(20131105 1818)
 	  nil "Extensions to Dired. [wiki]" single])
  (dircmp .
 	 [(20130806 1457)
@@ -5439,7 +5446,7 @@
 		[(20130720 1153)
 		 nil "a quick cursor location minor mode for emacs [github]" single])
  (ace-jump-buffer .
-		  [(20130627 2104)
+		  [(20131005 1340)
 		   ((ace-jump-mode
 		     (1 0)))
 		   "fast buffer switching extension to `ace-jump-mode' [github]" single])
@@ -5507,6 +5514,9 @@
 	     (request
 	      (0 2 0)))
 	    "Open and evaluate 4clojure.com questions [github]" single])
+ (org-fstree .
+	     [(20090723 1719)
+	      nil "include a filesystem subtree into an org file [git]" single])
  (minimap .
 	  [(20110427 1123)
 	   nil "Minimap sidebar for Emacs [git]" single]))
