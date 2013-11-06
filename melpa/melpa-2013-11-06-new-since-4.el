@@ -7,7 +7,7 @@
   (achievements-mode . [(20131101 1229) ((dash (2 1 0)) (f (0 12))) "Achievements for emacs! [github]" tar "melpa"])
   (alect-themes . [(20131022 1107) nil "2 color themes (light and dark) for Emacs 24 [github]" tar "melpa"])
   (ample-zen-theme . [(20131003 1054) nil "AmpleZen Theme for Emacs 24 [github]" single "melpa"])
-  (anzu . [(20131105 1924) nil "Show number of matches in mode-line while searching [github]" single "melpa"])
+  (anzu . [(20131106 1250) nil "Show number of matches in mode-line while searching [github]" single "melpa"])
   (aok . [(20130824 1127) nil "various useful ways to do `multi-occur' [wiki]" single "melpa"])
   (apropos-fn+var . [(20131027 1526) nil "Apropos for functions and variables [wiki]" single "melpa"])
   (auctex-lua . [(20130818 1420) nil "Lua editing support for AUCTeX [github]" single "melpa"])
