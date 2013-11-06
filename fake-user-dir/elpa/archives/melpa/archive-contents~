@@ -139,7 +139,7 @@
 	      [(20130224 114)
 	       nil "Move left/right/up/down through your windows. [github]" single])
  (window-end-visible .
-		     [(20131029 1215)
+		     [(20131106 1006)
 		      nil "Find the last visible point in a window [github]" single])
  (window+ .
 	  [(20130724 15)
@@ -151,7 +151,7 @@
 	    [(20130724 15)
 	     nil "Require confirmation for large region deletion. [wiki]" single])
  (wiki-nav .
-	   [(20131021 1149)
+	   [(20131106 1006)
 	    ((button-lock
 	      (1 0 0))
 	     (nav-flash
@@ -296,7 +296,7 @@
 	     (3 0)))
 	   "Vertica SQL mode extension [github]" single])
  (vector-utils .
-	       [(20131024 1012)
+	       [(20131106 1006)
 		nil "Vector-manipulation utility functions [github]" single])
  (vcomp .
 	[(20121231 1148)
@@ -327,7 +327,7 @@
 	     [(20110722 1551)
 	      nil "integration of Emacs help system and memo [wiki]" single])
  (unicode-whitespace .
-		     [(20131022 1211)
+		     [(20131106 1006)
 		      ((ucs-utils
 			(0 7 6))
 		       (persistent-soft
@@ -336,7 +336,7 @@
 			(0 2 3)))
 		      "teach whitespace-mode about fancy characters [github]" single])
  (unicode-progress-reporter .
-			    [(20131022 1211)
+			    [(20131106 1006)
 			     ((emacs
 			       (24 1 0))
 			      (ucs-utils
@@ -347,7 +347,7 @@
 			       (0 2 3)))
 			     "Progress-reporter with fancy characters [github]" single])
  (unicode-fonts .
-		[(20131104 1734)
+		[(20131106 1006)
 		 ((font-utils
 		   (0 7 0))
 		  (ucs-utils
@@ -358,7 +358,7 @@
 		   (0 2 3)))
 		 "Configure Unicode fonts [github]" single])
  (unicode-enbox .
-		[(20131022 1210)
+		[(20131106 1006)
 		 ((string-utils
 		   (0 3 2))
 		  (ucs-utils
@@ -390,7 +390,7 @@
 	       [(20131101 1248)
 		nil "Ujelly theme for GNU Emacs 24 (deftheme) [github]" single])
  (ucs-utils .
-	    [(20131022 1150)
+	    [(20131106 1006)
 	     ((persistent-soft
 	       (0 8 8))
 	      (pcache
@@ -457,7 +457,7 @@
 	 (0 1)))
        "provide a interface for auto-complete.el/flymake.el on typescript-mode. [github]" tar])
  (truthy .
-	 [(20131101 1449)
+	 [(20131106 1006)
 	  ((list-utils
 	    (0 4 2)))
 	  "Test the content of a value [github]" single])
@@ -638,7 +638,7 @@
 		 (20130623)))
 	       "Major-mode for viewing log files [github]" single])
  (syntactic-sugar .
-		  [(20131101 1448)
+		  [(20131106 1006)
 		   nil "Effect-free forms such as if/then/else [github]" single])
  (synonyms .
 	   [(20130724 6)
@@ -718,7 +718,7 @@
 	  [(20130724 5)
 	   nil "Miscellaneous string functions. [wiki]" single])
  (string-utils .
-	       [(20131022 1102)
+	       [(20131106 1006)
 		((list-utils
 		  (0 4 2)))
 		"String-manipulation utilities [github]" single])
@@ -860,7 +860,7 @@
 	   [(20130312 1839)
 	    nil "Support sequential operation which omitted prefix keys. [github]" single])
  (smartparens .
-	      [(20131104 1625)
+	      [(20131106 1700)
 	       ((cl-lib
 		 (0 1))
 		(dash
@@ -935,7 +935,7 @@
 	     [(20130416 2302)
 	      nil "Interact with simple-note.appspot.com [github]" single])
  (simpleclip .
-	     [(20131025 903)
+	     [(20131106 1006)
 	      nil "Simplified access to the system clipboard [github]" single])
  (simple-httpd .
 	       [(20130908 1604)
@@ -1581,7 +1581,7 @@
 		(0 2 0)))
 	      "\"perspectives\" + save/load + shared among frames - bugs. [github]" single])
  (persistent-soft .
-		  [(20131102 1217)
+		  [(20131106 1006)
 		   ((pcache
 		     (0 2 3))
 		    (list-utils
@@ -1739,7 +1739,7 @@
 	       [(20130907 933)
 		nil "Watch and respond to changes in geographical location on OS X [github]" tar])
  (osx-browse .
-	     [(20131026 1517)
+	     [(20131106 1006)
 	      ((string-utils
 		(0 3 2))
 	       (browse-url-dwim
@@ -2050,7 +2050,7 @@
 	    [(20131001 2025)
 	     nil "major-mode for easy buffer-navigation [github]" single])
  (nav-flash .
-	    [(20131025 901)
+	    [(20131106 1006)
 	     nil "Briefly highlight the current line [github]" single])
  (nav .
       [(20120507 7)
@@ -2059,7 +2059,7 @@
 		 [(20130901 1123)
 		  nil "A theme based on Tango color set [git]" single])
  (nanowrimo .
-	    [(20131105 2045)
+	    [(20131106 547)
 	     nil "Track progress for nanowrimo [hg]" single])
  (namespaces .
 	     [(20130327 1150)
@@ -2202,7 +2202,7 @@
 		  [(20130212 1228)
 		   nil "Change priority of minor-mode keymaps [wiki]" single])
  (minimal-session-saver .
-			[(20131029 1211)
+			[(20131106 1006)
 			 nil "Very lean session saver [github]" single])
  (minibuffer-cua .
 		 [(20130906 2034)
@@ -2375,7 +2375,7 @@
 			       [(20130730 1032)
 				nil "Advice for magit-log-edit-commit [github]" single])
  (magit .
-	[(20131101 1819)
+	[(20131106 1508)
 	 ((cl-lib
 	   (0 3))
 	  (git-commit-mode
@@ -2474,7 +2474,7 @@
 	     (1 1 0)))
 	   "dynamic evaluation replacement with emacs [github]" single])
  (list-utils .
-	     [(20131022 819)
+	     [(20131106 1006)
 	      nil "List-manipulation utility functions [github]" single])
  (list-register .
 		[(20130824 1200)
@@ -2872,7 +2872,7 @@
 	[(20130824 1207)
 	 nil "An improved interface to `grep` and `find` [wiki]" single])
  (ignoramus .
-	    [(20131022 1050)
+	    [(20131106 1006)
 	     nil "Ignore backups, build files, et al. [github]" single])
  (iflipb .
 	 [(20130331 2008)
@@ -2895,7 +2895,7 @@
 		 [(20130427 1211)
 		  nil "Sort Ido's file list by modification time [github]" single])
  (ido-load-library .
-		   [(20131028 854)
+		   [(20131106 1006)
 		    ((persistent-soft
 		      (0 8 8))
 		     (pcache
@@ -2996,7 +2996,7 @@
 	  (3 0)))
 	"Hive SQL mode extension [github]" single])
  (hippie-namespace .
-		   [(20131025 906)
+		   [(20131106 1006)
 		    nil "Special treatment for namespace prefixes in hippie-expand [github]" single])
  (hippie-expand-slime .
 		      [(20130907 932)
@@ -3266,7 +3266,7 @@
 	    (20120509)))
 	  "helm-sources and some utilities for GNU R. [github]" single])
  (helm .
-       [(20131106 755)
+       [(20131106 1604)
 	nil "Helm is an Emacs incremental and narrowing framework [github]" tar])
  (header2 .
 	  [(20130824 1159)
@@ -3286,7 +3286,7 @@
 	       [(20131013 1146)
 		nil "A Haskell editing mode [github]" tar])
  (hardhat .
-	  [(20131022 1057)
+	  [(20131106 1006)
 	   ((ignoramus
 	     (0 7 0)))
 	   "Protect against clobbering user-writable files [github]" single])
@@ -3622,7 +3622,7 @@
 	  (24 2)))
 	"Major mode for the Factor programming language. [git]" tar])
  (fsharp-mode .
-	      [(20131105 1816)
+	      [(20131105 1817)
 	       ((auto-complete
 		 (1 4))
 		(popup
@@ -3667,7 +3667,7 @@
 		 [(20130618 1921)
 		  nil "search and replace by foreign regexp. [github]" tar])
  (font-utils .
-	     [(20131022 1154)
+	     [(20131106 1006)
 	      ((persistent-soft
 		(0 8 8))
 	       (pcache
@@ -3694,7 +3694,7 @@
      [(20130127 118)
       nil "follow mode for compilation/output buffers [github]" single])
  (flyspell-lazy .
-		[(20131028 849)
+		[(20131106 1006)
 		 nil "Improve flyspell responsiveness using idle timers [github]" single])
  (flymake-yaml .
 	       [(20130424 48)
@@ -3838,7 +3838,7 @@
 		   (0 6 0)))
 		 "Cask support in Flycheck [github]" single])
  (flycheck .
-	   [(20131105 1502)
+	   [(20131106 1451)
 	    ((s
 	      (1 6 0))
 	     (dash
@@ -3884,7 +3884,7 @@
 	       [(20130923 2017)
 		nil "Flash a region [github]" single])
  (fixmee .
-	 [(20131030 1417)
+	 [(20131106 1006)
 	  ((button-lock
 	    (1 0 0))
 	   (nav-flash
@@ -4000,7 +4000,7 @@
 	     [(20130328 1234)
 	      nil "R drag and Drop [github]" tar])
  (express .
-	  [(20131023 1200)
+	  [(20131106 1006)
 	   ((string-utils
 	     (0 3 2)))
 	   "Alternatives to `message' [github]" single])
@@ -4047,7 +4047,7 @@
 		      [(20131004 1315)
 		       nil "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim [github]" tar])
  (evil-matchit .
-	       [(20131105 5)
+	       [(20131106 2133)
 		nil "Vim matchit ported into Emacs (requires EVIL) [github]" tar])
  (evil-leader .
 	      [(20130921 1354)
@@ -4469,7 +4469,7 @@
        [(20131015 1929)
 	nil "a BibTeX database manager [github]" tar])
  (easy-kill .
-	    [(20131101 933)
+	    [(20131106 1720)
 	     ((emacs
 	       (24)))
 	     "kill things easily [github]" single])
@@ -4503,7 +4503,7 @@
 	  (1 2)))
 	"simple window manager for emacs [github]" tar])
  (dynamic-fonts .
-		[(20131022 1202)
+		[(20131106 1006)
 		 ((font-utils
 		   (0 7 0))
 		  (persistent-soft
@@ -4925,7 +4925,7 @@
 		    [(20101118 2224)
 		     nil "minor mode for the Closure Linter [github]" single])
  (clojure-test-mode .
-		    [(20131021 1520)
+		    [(20131106 149)
 		     ((clojure-mode
 		       (1 7))
 		      (cider
@@ -5272,7 +5272,7 @@
 		   (0 5 0)))
 		 "Auto Completion for GNU Emacs [github]" tar])
  (auto-compile .
-	       [(20130701 215)
+	       [(20131106 1529)
 		((cl-lib
 		  (0 2))
 		 (packed
@@ -5301,7 +5301,7 @@
 		    (11 87)))
 		  "Add LatexMk support to AUCTeX [github]" single])
  (async .
-	[(20131106 100)
+	[(20131106 532)
 	 nil "Asynchronous processing in Emacs [github]" tar])
  (ascope .
 	 [(20130824 1158)
