@@ -84,7 +84,7 @@
 			 nil "Parse and browse f90 interfaces" single
 			 ((:url . "http://github.com/wence-/f90-iface/"))])
  (ggtags .
-	 [(0 7 2)
+	 [(0 7 3)
 	  nil "GNU Global source code tagging system" single
 	  ((:url . "https://github.com/leoliu/ggtags"))])
  (heap .
