@@ -863,7 +863,7 @@
 	   [(20130312 1839)
 	    nil "Support sequential operation which omitted prefix keys. [github]" single])
  (smartparens .
-	      [(20131112 1643)
+	      [(20131113 1435)
 	       ((cl-lib
 		 (0 1))
 		(dash
@@ -882,7 +882,7 @@
 		 [(20051013 1756)
 		  nil "Beautify the operators in codes [wiki]" single])
  (smart-mode-line .
-		  [(20131112 1246)
+		  [(20131113 1647)
 		   ((emacs
 		     (24 3))
 		    (dash
@@ -1833,7 +1833,7 @@
 		 (7)))
 	       "Minimalist presentation minor-mode for Emacs org-mode. [github]" single])
  (org-pomodoro .
-	       [(20131108 941)
+	       [(20131113 1500)
 		((alert
 		  (0 5 10)))
 		"Pomodoro implementation for org-mode. [github]" tar])
@@ -2389,7 +2389,7 @@
 			       [(20130730 1032)
 				nil "Advice for magit-log-edit-commit [github]" single])
  (magit .
-	[(20131113 53)
+	[(20131113 1722)
 	 ((cl-lib
 	   (0 3))
 	  (git-commit-mode
@@ -3206,7 +3206,7 @@
 		       (1 5 5)))
 		     "Helm integration for your starred repositories on github [github]" single])
  (helm-git-grep .
-		[(20131112 2351)
+		[(20131113 2228)
 		 ((helm
 		   (1 0)))
 		 "helm for git grep, an incremental git grep. [github]" single])
@@ -3706,10 +3706,10 @@
 	     [(20130824 1207)
 	      nil "Enhancements to standard library `font-lock.el'. [wiki]" single])
  (fold-this .
-	    [(20121218 1630)
+	    [(20131113 1147)
 	     nil "Just fold this region please [github]" single])
  (fold-dwim-org .
-		[(20131112 1149)
+		[(20131113 1513)
 		 ((fold-dwim
 		   (1 2)))
 		 "Fold DWIM bound to org key-strokes. [github]" single])
@@ -4741,7 +4741,7 @@
    [(20130930 1434)
     nil "Simple asynchronous functions for emacs lisp [github]" single])
  (dedukti-mode .
-	       [(20131112 1029)
+	       [(20131113 1541)
 		nil "Major mode for Dedukti files [github]" single])
  (dedicated .
 	    [(20090428 2131)
@@ -4910,10 +4910,10 @@
 			   (6 5 5)))
 			 "Solarized themes for Emacs [github]" tar])
  (color-theme-sanityinc-tomorrow .
-				 [(20131110 1401)
+				 [(20131113 1106)
 				  nil "A version of Chris Kempson's various Tomorrow themes [github]" tar])
  (color-theme-sanityinc-solarized .
-				  [(20131110 1401)
+				  [(20131113 1107)
 				   nil "A version of Ethan Schoonover's Solarized themes [github]" tar])
  (color-theme-buffer-local .
 			   [(20120703 17)
@@ -5026,7 +5026,7 @@
 		     (9)))
 		   "decompilation extension for cider [github]" single])
  (cider .
-	[(20131112 1551)
+	[(20131113 1249)
 	 ((clojure-mode
 	   (2 0 0))
 	  (cl-lib
