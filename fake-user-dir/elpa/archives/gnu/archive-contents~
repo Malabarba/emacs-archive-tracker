@@ -90,7 +90,7 @@
 			 nil "Parse and browse f90 interfaces" single
 			 ((:url . "http://github.com/wence-/f90-iface/"))])
  (ggtags .
-	 [(0 7 4)
+	 [(0 7 5)
 	  nil "GNU Global source code tagging system" single
 	  ((:url . "https://github.com/leoliu/ggtags"))])
  (heap .
@@ -168,7 +168,7 @@
 	    nil "Support for OWL Manchester Notation" single
 	    ((:url . "http://elpa.gnu.org/packages/omn-mode.html"))])
  (org .
-      [(20131111)
+      [(20131112)
        nil "Outline-based notes management and organizer" tar nil])
  (quarter-plane .
 		[(0 1)
