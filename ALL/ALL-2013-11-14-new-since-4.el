@@ -80,7 +80,7 @@
   (flash-region . [(20130923 2017) nil "Flash a region [github]" single "melpa"])
   (flatland-theme . [(20131104 1422) nil "A simple theme for Emacs. [github]" single "melpa"])
   (fliptext . [(20131114 218) nil "Input method for flipping characters upside down [wiki]" single "melpa"])
-  (floobits . [(20131113 1814) ((json (1 2)) (highlight (0))) "Floobits plugin for real-time collaborative editing [github]" tar "melpa"])
+  (floobits . [(20131113 1914) ((json (1 2)) (highlight (0))) "Floobits plugin for real-time collaborative editing [github]" tar "melpa"])
   (flycheck-cask . [(20130818 1153) ((flycheck (0 14)) (dash (2 0 0)) (f (0 6 0))) "Cask support in Flycheck [github]" single "melpa"])
   (flycheck-d-unittest . [(20131018 852) ((flycheck (0 14)) (dash (1 4 0))) "Add D unittest support to flycheck [github]" single "melpa"])
   (flycheck-tip . [(20131025 620) ((flycheck (0 13)) (dash (1 2)) (emacs (24 1)) (popup (0 5 0))) "show flycheck's error by popup-tip [github]" single "melpa"])

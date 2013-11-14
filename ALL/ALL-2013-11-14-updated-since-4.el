@@ -214,7 +214,7 @@
   (helm-gtags . [(20131112 1206) ((helm (1 0))) "GNU GLOBAL helm interface [github]" single "melpa"])
   (helm-ls-git . [(20131104 1539) nil "list git files. [github]" single "melpa"])
   (helm-migemo . [(20130820 2040) ((helm (1 5 3)) (migemo (1 9))) "Migemo plug-in for helm [github]" single "melpa"])
-  (helm-open-github . [(20131026 1657) ((helm (1 0)) (gh (1 0))) "Utilities of Opening Github Page [github]" single "melpa"])
+  (helm-open-github . [(20131114 1416) ((helm (1 0)) (gh (1 0))) "Utilities of Opening Github Page [github]" single "melpa"])
   (helm-projectile . [(20131111 2052) ((helm (1 4 0)) (projectile (0 9 2))) "Helm integration for Projectile [github]" single "melpa"])
   (helm-themes . [(20130905 2331) ((helm (1 0))) "Color theme selection with helm interface [github]" single "melpa"])
   (hi2 . [(20130925 1458) nil "indentation module for Haskell Mode [github]" single "melpa"])
