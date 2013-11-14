@@ -1,4 +1,5 @@
 '(
+  (ido-vertical-mode . [(0 1 1) nil "Makes ido-mode display vertically." single "marmalade"])
   (nrepl-discover . [(0 0 1) nil "Client to load commands from nrepl server" single "marmalade"])
   (json-snatcher . [(1 0) nil "Grabs the path to JSON values in a JSON file." single "marmalade"])
   (ac-inf-ruby . [(0 4) ((inf-ruby (2 3 2)) (auto-complete (1 4))) "Enable auto-complete in inf-ruby sessions" single "marmalade"])
