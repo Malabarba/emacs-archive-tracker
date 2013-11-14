@@ -13,7 +13,7 @@
   (ahg . [(20131016 1642) nil "Alberto's Emacs interface for Mercurial (Hg) [hg]" single "melpa"])
   (align-cljlet . [(20131017 1756) ((clojure-mode (1 11 5))) "Space align various Clojure forms [github]" single "melpa"])
   (all-ext . [(20130824 1206) ((all (1 0))) "Extension of M-x all [wiki]" single "melpa"])
-  (ample-theme . [(20131106 1920) nil "Calm Dark Theme for Emacs [github]" single "melpa"])
+  (ample-theme . [(20131114 1352) nil "Calm Dark Theme for Emacs [github]" single "melpa"])
   (anaphora . [(20131022 750) nil "anaphoric macros providing implicit temp variables [github]" single "melpa"])
   (android-mode . [(20131104 1648) nil "Minor mode for Android application development [github]" single "melpa"])
   (ansi . [(20130827 1653) ((s (1 6 1)) (dash (1 5 0))) "Turn string into ansi strings [github]" single "melpa"])
