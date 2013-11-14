@@ -355,7 +355,7 @@
   (pretty-mode . [(20131031 104) nil "Redisplay parts of the buffer as pretty symbols. [github]" tar "melpa"])
   (processing-mode . [(20130912 2236) nil "Major mode for Processing 2.0 [github]" single "melpa"])
   (project-persist . [(20131030 1908) nil "A minor mode to allow loading and saving of project settings. [github]" tar "melpa"])
-  (projectile . [(20131112 1913) ((s (1 6 0)) (dash (1 5 0)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily [github]" single "melpa"])
+  (projectile . [(20131113 2305) ((s (1 6 0)) (dash (1 5 0)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily [github]" single "melpa"])
   (puppet-mode . [(20130819 1946) nil "Major mode for Puppet manifests [github]" single "melpa"])
   (purple-haze-theme . [(20130930 1051) ((emacs (24 0))) "an overtly purple color theme for Emacs24. [github]" single "melpa"])
   (purty-mode . [(20131004 1859) nil "Safely pretty-print greek letters, mathematical symbols, or anything else. [github]" single "melpa"])
