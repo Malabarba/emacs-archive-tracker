@@ -1,4 +1,6 @@
 '(
+  (vagrant . [(20130808 1330) nil "Manage a vagrant box from emacs [github]" single "melpa"])
+  (virtualenvwrapper . [(20131104 1403) ((dash (1 5 0)) (s (1 6 1))) "a modern virtualenv tool for Emacs [github]" single "melpa"])
   (4clojure . [(20131014 1707) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions [github]" single "melpa"])
   (ac-c-headers . [(20131016 1539) nil "auto-complete source for C headers [github]" single "melpa"])
   (ac-emmet . [(20131016 58) ((emmet-mode (1 0 2)) (auto-complete (1 4))) "auto-complete sources for emmet-mode's snippets [github]" single "melpa"])
@@ -243,9 +245,7 @@
   (tronesque-theme . [(20130823 36) nil "Color Theme based on Tron universe. [github]" single "melpa"])
   (tss . [(20131013 329) ((auto-complete (1 4 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide a interface for auto-complete.el/flymake.el on typescript-mode. [github]" tar "melpa"])
   (ucs-cmds . [(20130723 2145) nil "Macro to create commands that insert Unicode chars. [wiki]" single "melpa"])
-  (vagrant . [(20130808 1330) nil "Manage a vagrant box from emacs [github]" single "melpa"])
   (vc-check-status . [(20130814 1422) nil "Warn you when quitting emacs and leaving repo dirty. [github]" tar "melpa"])
-  (virtualenvwrapper . [(20131104 1403) ((dash (1 5 0)) (s (1 6 1))) "a modern virtualenv tool for Emacs [github]" single "melpa"])
   (vkill . [(20091203 1922) nil "view and kill Unix processes from within Emacs [github]" single "melpa"])
   (w32browser-dlgopen . [(20130724 13) nil "Use w32browser with standard Windows Open File box. [wiki]" single "melpa"])
   (wedge-ws . [(20130930 1547) nil "Wedge whitespace between columns in text [github]" single "melpa"])

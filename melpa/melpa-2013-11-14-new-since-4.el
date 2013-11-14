@@ -1,4 +1,6 @@
 '(
+  (vagrant . [(20130808 1330) nil "Manage a vagrant box from emacs [github]" single "melpa"])
+  (virtualenvwrapper . [(20131104 1403) ((dash (1 5 0)) (s (1 6 1))) "a modern virtualenv tool for Emacs [github]" single "melpa"])
   (4clojure . [(20131014 1707) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions [github]" single "melpa"])
   (ac-c-headers . [(20131016 1539) nil "auto-complete source for C headers [github]" single "melpa"])
   (ac-emmet . [(20131016 58) ((emmet-mode (1 0 2)) (auto-complete (1 4))) "auto-complete sources for emmet-mode's snippets [github]" single "melpa"])
@@ -259,9 +261,7 @@
   (tt-mode . [(20130804 1145) nil "Emacs major mode for editing Template Toolkit files. [github]" single "melpa"])
   (ucs-cmds . [(20130723 2145) nil "Macro to create commands that insert Unicode chars. [wiki]" single "melpa"])
   (ujelly-theme . [(20131101 1248) nil "Ujelly theme for GNU Emacs 24 (deftheme) [github]" single "melpa"])
-  (vagrant . [(20130808 1330) nil "Manage a vagrant box from emacs [github]" single "melpa"])
   (vc-check-status . [(20130814 1422) nil "Warn you when quitting emacs and leaving repo dirty. [github]" tar "melpa"])
-  (virtualenvwrapper . [(20131104 1403) ((dash (1 5 0)) (s (1 6 1))) "a modern virtualenv tool for Emacs [github]" single "melpa"])
   (vkill . [(20091203 1922) nil "view and kill Unix processes from within Emacs [github]" single "melpa"])
   (vlf . [(20130826 1229) nil "View Large Files [github]" single "melpa"])
   (w32-browser . [(20130724 12) nil "Run Windows application associated with a file. [wiki]" single "melpa"])
