@@ -1,4 +1,5 @@
 '(
+  (livid-mode . [(0 1 0) ((skewer-mode (20130925)) (s (20130905))) "Live browser eval of JavaScript every time a buffer changes" single "marmalade"])
   (ido-vertical-mode . [(0 1 1) nil "Makes ido-mode display vertically." single "marmalade"])
   (nrepl-discover . [(0 0 1) nil "Client to load commands from nrepl server" single "marmalade"])
   (json-snatcher . [(1 0) nil "Grabs the path to JSON values in a JSON file." single "marmalade"])

@@ -259,6 +259,7 @@
   (window-numbering . [(20130902 1815) nil "Numbered window shortcuts [github]" single "melpa"])
   (wonderland . [(20130912 2219) ((dash (2 0 0)) (dash-functional (1 0 0)) (multi (2 0 0)) (emacs (24))) "declarative configuration for Emacsen [github]" single "melpa"])
   (xcscope . [(20131102 1402) nil "cscope interface for (X)Emacs [github]" single "melpa"])
+  (livid-mode . [(0 1 0) ((skewer-mode (20130925)) (s (20130905))) "Live browser eval of JavaScript every time a buffer changes" single "marmalade"])
   (nrepl-discover . [(0 0 1) nil "Client to load commands from nrepl server" single "marmalade"])
   (immutant-server . [(1 0 0) nil "Run your Immutant server in Emacs" single "marmalade"])
   (lyskom . [(20131008) nil "LysKOM elisp client." single "marmalade"])
