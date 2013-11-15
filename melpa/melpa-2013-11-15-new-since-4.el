@@ -21,7 +21,7 @@
   (calmer-forest-theme . [(20130925 2210) nil "Darkish theme with green/orange tint [github]" single "melpa"])
   (cask . [(20131102 2004) ((s (1 8 0)) (dash (2 2 0)) (f (0 10 0)) (epl (0 0 1))) "Cask: Emacs dependency management made easy [github]" tar "melpa"])
   (cg . [(20131011 802) nil "major mode for editing Constraint Grammar files [svn]" single "melpa"])
-  (cider . [(20131115 1257) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 3))) "Clojure Integrated Development Environment and REPL [github]" tar "melpa"])
+  (cider . [(20131115 1836) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 3))) "Clojure Integrated Development Environment and REPL [github]" tar "melpa"])
   (cider-decompile . [(20131018 1738) ((cider (0 3 0)) (javap-mode (9))) "decompilation extension for cider [github]" single "melpa"])
   (cider-tracing . [(20131018 1738) ((cider (0 3 0)) (clojure-mode (2 1 0))) "Tracing extension for CIDER [github]" single "melpa"])
   (cl-lib-highlight . [(20131019 1051) ((cl-lib (0 3))) "full cl-lib font-lock highlighting [github]" single "melpa"])
