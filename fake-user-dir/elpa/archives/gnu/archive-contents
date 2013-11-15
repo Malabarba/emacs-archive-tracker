@@ -168,7 +168,7 @@
 	    nil "Support for OWL Manchester Notation" single
 	    ((:url . "http://elpa.gnu.org/packages/omn-mode.html"))])
  (org .
-      [(20131112)
+      [(20131115)
        nil "Outline-based notes management and organizer" tar nil])
  (quarter-plane .
 		[(0 1)

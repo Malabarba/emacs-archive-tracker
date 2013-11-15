@@ -95,7 +95,7 @@
   (django-theme . [(20131022 1102) nil "Custom face theme for Emacs [github]" single "melpa"])
   (dna-mode . [(20130821 1105) nil "a major mode for editing dna sequences [github]" tar "melpa"])
   (dpaste_de . [(20131015 1755) ((web (0 3 7))) "Emacs mode to paste to dpaste.de [github]" single "melpa"])
-  (drupal-mode . [(20131112 2127) ((php-mode (1 5 0))) "Advanced minor mode for Drupal development [github]" tar "melpa"])
+  (drupal-mode . [(20131114 2322) ((php-mode (1 5 0))) "Advanced minor mode for Drupal development [github]" tar "melpa"])
   (dummy-h-mode . [(20130824 1159) nil "switch major mode to c-/c++-/objc-mode on .h file [wiki]" single "melpa"])
   (dylan-mode . [(20131020 2253) nil "Major mode for editing Dylan programs. [github]" tar "melpa"])
   (dynamic-fonts . [(20131106 1006) ((font-utils (0 7 0)) (persistent-soft (0 8 8)) (pcache (0 2 3))) "Set faces based on available fonts [github]" single "melpa"])
