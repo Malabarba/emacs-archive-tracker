@@ -279,7 +279,7 @@
   (mallard-snippets . [(20131023 2051) ((yasnippet (0 8 0)) (mallard-mode (0 1 1))) "Yasnippets for Mallard [github]" tar "melpa"])
   (markdown-mode . [(20131005 1155) nil "Emacs Major mode for Markdown-formatted text files [git]" single "melpa"])
   (melpa . [(20130815 2147) nil "special handling for the MELPA repository [github]" single "melpa"])
-  (mew . [(20131107 1711) nil "Messaging in the Emacs World [github]" tar "melpa"])
+  (mew . [(20131115 1013) nil "Messaging in the Emacs World [github]" tar "melpa"])
   (midje-mode . [(20131019 1557) ((cider (0 1 4)) (clojure-mode (1 0))) "Minor mode for running Midje tests in emacs [github]" tar "melpa"])
   (minimal-session-saver . [(20131106 1006) nil "Very lean session saver [github]" single "melpa"])
   (misc-fns . [(20130930 1709) nil "Miscellaneous non-interactive functions. [wiki]" single "melpa"])
