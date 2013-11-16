@@ -1,5 +1,8 @@
 '(
   (find-things-fast . [(20111123 2341) nil "An emacs mode to find things fast and move around in a project quickly [github]" tar "melpa"])
+  (pastehub . [(20130510 30) nil "A client for the PasteHub cloud service [github]" single "melpa"])
+  (pcache . [(20120408 1206) ((eieio (1 3))) "persistent caching for Emacs [github]" single "melpa"])
+  (pcmpl-args . [(20120912 24) nil "Enhanced shell command completion [github]" single "melpa"])
   (abl-mode . [(20131104 1027) nil "Python TDD minor mode [github]" tar "melpa"])
   (ac-dabbrev . [(20130906 518) nil "auto-complete.el source for dabbrev [wiki]" single "melpa"])
   (ac-js2 . [(20131002 1055) ((js2-mode (20090723)) (skewer-mode (1 4))) "Auto-complete source for Js2-mode, with navigation [github]" tar "melpa"])
