@@ -58,7 +58,7 @@
   (elfeed . [(20131010 1038) ((emacs (24 1))) "an Emacs Atom/RSS feed reader [github]" tar "melpa"])
   (elfeed-web . [(20130908 1734) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed [github]" tar "melpa"])
   (elhome . [(20131105 1841) ((initsplit (20120630))) "A framework for a \"home\" Emacs configuration [github]" tar "melpa"])
-  (elisp-sandbox . [(20130810 2131) nil "Evaluate EmacsLisp expressions in a sandbox [github]" single "melpa"])
+  (elisp-sandbox . [(20131116 1342) nil "Evaluate EmacsLisp expressions in a sandbox [github]" single "melpa"])
   (elixir-yasnippets . [(20130908 2230) ((yasnippet (0 8 0))) "Yasnippets for Elixir [github]" tar "melpa"])
   (ensime . [(20131030 2303) ((s (1 3 0)) (dash (1 0 3)) (popup (0 5 0)) (auto-complete (1 4 0)) (scala-mode2 (0 21))) "ENhanced Scala Interaction Mode for Emacs [github]" tar "melpa"])
   (epl . [(20131101 1205) ((cl-lib (0 3))) "Emacs Package Library [github]" single "melpa"])

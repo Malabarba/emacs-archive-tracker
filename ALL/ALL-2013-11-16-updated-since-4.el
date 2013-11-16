@@ -147,7 +147,7 @@
   (fixmee . [(20131106 1006) ((button-lock (1 0 0)) (nav-flash (1 0 0)) (back-button (0 6 0)) (smartrep (0 0 3)) (string-utils (0 3 2)) (tabulated-list (0))) "Quickly navigate to FIXME notices in code [github]" single "melpa"])
   (flx . [(20130728 2028) ((cl-lib (0 3))) "fuzzy matching with good sorting [github]" single "melpa"])
   (flx-ido . [(20131030 1243) ((flx (0 1)) (cl-lib (0 3))) "flx integration for ido [github]" single "melpa"])
-  (flycheck . [(20131115 1440) ((s (1 6 0)) (dash (2 0 0)) (f (0 6 0)) (pkg-info (0 4)) (cl-lib (0 3)) (emacs (24 1))) "On-the-fly syntax checking (Flymake done right) [github]" tar "melpa"])
+  (flycheck . [(20131116 2001) ((s (1 6 0)) (dash (2 0 0)) (f (0 6 0)) (pkg-info (0 4)) (cl-lib (0 3)) (emacs (24 1))) "On-the-fly syntax checking (Flymake done right) [github]" tar "melpa"])
   (flymake-coffee . [(20130828 1126) ((flymake-easy (0 1))) "A flymake handler for coffee script [github]" single "melpa"])
   (flymake-cursor . [(20130822 1032) nil "displays flymake error msg in minibuffer after delay [wiki]" single "melpa"])
   (flymake-easy . [(20130907 931) nil "Helpers for easily building flymake checkers [github]" single "melpa"])

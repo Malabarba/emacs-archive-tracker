@@ -68,6 +68,7 @@
   (inf-ruby . [(2 3 2) nil "Run a Ruby process in a buffer" single "marmalade"])
   (cpputils-cmake . [(0 4 0) nil "Easy real time C++ syntax check and intellisense if you use CMake." tar "marmalade"])
   (simpleclip . [(1 0 0) nil "Simplified access to the system clipboard" single "marmalade"])
+  (chicken-scheme . [(1 1 0) nil "Scheme-mode extensions for Chicken Scheme" single "marmalade"])
   (flycheck . [(0 15) ((s (1 6 0)) (dash (2 0 0)) (f (0 6 0)) (pkg-info (0 4)) (cl-lib (0 3)) (emacs (24 1))) "On-the-fly syntax checking (Flymake done right)" tar "marmalade"])
   (elpy . [(1 2 1) ((auto-complete (1 4)) (find-file-in-project (3 2)) (fuzzy (0 1)) (highlight-indentation (0 5 0)) (idomenu (0 1)) (iedit (0 97)) (nose (0 1 1)) (virtualenv (1 2)) (yasnippet (0 8 0))) "Emacs Python Development Environment" tar "marmalade"])
   (auto-indent-mode . [(0 116) nil "Auto indent Minor mode" single "marmalade"])
