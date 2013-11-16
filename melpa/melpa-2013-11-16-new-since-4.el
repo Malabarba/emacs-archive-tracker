@@ -67,7 +67,7 @@
   (evil-tabs . [(20131011 1233) ((evil (0 0 0)) (elscreen (0 0 0))) "Integrating Vim-style tabs for Evil mode users. [github]" single "melpa"])
   (evil-visualstar . [(20130925 1414) ((evil (0))) "Starts a * or # search from the visual selection [github]" single "melpa"])
   (evm . [(20131024 1029) ((s (1 7 0)) (dash (2 1 0)) (f (0 7 1)) (commander (0 5 0))) "Emacs version manager [github]" single "melpa"])
-  (eyedropper . [(20130723 2304) ((hexrgb (0))) "Pick foreground and background colors at cursor or pointer. [wiki]" single "melpa"])
+  (eyedropper . [(20131116 55) ((hexrgb (0))) "Pick foreground and background colors at cursor or pointer. [wiki]" single "melpa"])
   (ez-query-replace . [(20130925 1814) ((dash (1 2 0))) "A helpful query-replace. [github]" single "melpa"])
   (face-remap+ . [(20130723 2141) nil "Extensions to standard library `face-remap.el'. [wiki]" single "melpa"])
   (facemenu+ . [(20130824 1205) nil "Extensions to `facemenu.el'. [wiki]" single "melpa"])

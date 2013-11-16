@@ -29,7 +29,7 @@
   (auto-auto-indent . [(20131106 1903) ((es-lib (0 1)) (cl-lib (1 0))) "Indents code as you type [github]" single "melpa"])
   (auto-capitalize . [(20131014 505) nil "Automatically capitalize (or upcase) words [wiki]" single "melpa"])
   (auto-compile . [(20131106 1531) ((cl-lib (0 2)) (packed (0 3 4))) "automatically compile Emacs Lisp libraries [github]" single "melpa"])
-  (auto-complete . [(20130724 1750) ((popup (0 5 0))) "Auto Completion for GNU Emacs [github]" tar "melpa"])
+  (auto-complete . [(20131001 1051) ((popup (0 5 0))) "Auto Completion for GNU Emacs [github]" tar "melpa"])
   (auto-indent-mode . [(20131114 2358) nil "Auto indent Minor mode [github]" tar "melpa"])
   (auto-install . [(20130824 1206) nil "Auto install elisp file [wiki]" single "melpa"])
   (autopair . [(20131101 144) nil "Automagically pair braces and quotes like TextMate [github]" single "melpa"])
