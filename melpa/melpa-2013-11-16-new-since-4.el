@@ -92,7 +92,7 @@
   (free-keys . [(20131104 2) ((cl-lib (0 3))) "Show free keybindings for modkeys or prefixes [github]" single "melpa"])
   (geiser . [(20130930 515) nil "GNU Emacs and Scheme talk to each other [github]" tar "melpa"])
   (genrnc . [(20130712 1451) ((deferred (0 3 1)) (log4e (0 2 0)) (yaxception (0 1))) "generate RELAX NG Compact Schema from RELAX NG Schema, XML Schema and DTD. [github]" tar "melpa"])
-  (ggtags . [(20131116 1641) ((emacs (24))) "GNU Global source code tagging system [github]" single "melpa"])
+  (ggtags . [(20131116 1750) ((emacs (24))) "GNU Global source code tagging system [github]" single "melpa"])
   (git . [(20130915 932) ((s (1 7 0)) (dash (2 2 0)) (f (0 10 0))) "An Elisp API for programmatically using Git [github]" single "melpa"])
   (git-annex . [(20130816 1258) nil "Mode for easy editing of git-annex'd files [github]" single "melpa"])
   (git-commit-training-wheels-mode . [(20131106 151) ((git-commit-mode (0 14 0))) "Helps you craft well formed commit messages with git-commit-mode [github]" single "melpa"])

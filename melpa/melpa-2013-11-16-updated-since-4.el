@@ -388,7 +388,7 @@
   (slime . [(20131110 811) nil "Superior Lisp Interaction Mode for Emacs [github]" tar "melpa"])
   (smart-compile . [(20130917 347) nil "an interface to `compile' [wiki]" single "melpa"])
   (smart-mode-line . [(20131115 2103) ((emacs (24 3)) (dash (2 2 0))) "A color coded smart mode-line. [github]" single "melpa"])
-  (smartparens . [(20131113 1435) ((cl-lib (0 1)) (dash (2 3 0))) "Automatic insertion, wrapping and paredit-like navigation with user defined pairs. [github]" tar "melpa"])
+  (smartparens . [(20131116 1323) ((cl-lib (0 1)) (dash (2 3 0))) "Automatic insertion, wrapping and paredit-like navigation with user defined pairs. [github]" tar "melpa"])
   (smotitah . [(20131018 1744) nil "Modular emacs configuration framework [github]" tar "melpa"])
   (solarized-theme . [(20131116 132) nil "The Solarized color theme, ported to Emacs. [github]" tar "melpa"])
   (soothe-theme . [(20130805 1700) ((emacs (24 1))) "a dark colorful theme for Emacs24. [github]" single "melpa"])
