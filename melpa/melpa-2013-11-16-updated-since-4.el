@@ -217,7 +217,7 @@
   (hi2 . [(20130925 1458) nil "indentation module for Haskell Mode [github]" single "melpa"])
   (hide-comnt . [(20130824 1159) nil "Hide/show comments in code. [wiki]" single "melpa"])
   (hide-lines . [(20130824 1207) nil "Commands for hiding lines based on a regexp [wiki]" single "melpa"])
-  (highlight . [(20131115 2254) nil "Highlighting commands. [wiki]" single "melpa"])
+  (highlight . [(20131116 618) nil "Highlighting commands. [wiki]" single "melpa"])
   (highlight-symbol . [(20131103 2233) nil "automatic and manual symbol highlighting [github]" tar "melpa"])
   (hippie-exp-ext . [(20130824 1207) nil "Extension of hippie-expand [wiki]" single "melpa"])
   (hippie-expand-slime . [(20130907 932) nil "Hook slime's completion into hippie-expand [github]" single "melpa"])
