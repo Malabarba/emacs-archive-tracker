@@ -1,4 +1,5 @@
 '(
+  (troncle . [(0 1 1) nil "Emacs convenience functions for tracing clojure code" single "marmalade"])
   (free-keys . [(0 1) ((cl-lib (0 3))) "Show free keybindings for modkeys or prefixes" single "marmalade"])
   (prognth . [(1 0) nil "Extend prog1 to arbitrary index" single "marmalade"])
   (ariadne . [(0 1) ((bert (0 1))) "Ariadne plugin for Emacs" single "marmalade"])
