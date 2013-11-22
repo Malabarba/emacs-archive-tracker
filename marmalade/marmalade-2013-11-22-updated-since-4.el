@@ -1,5 +1,5 @@
 '(
-  (tdd-status-mode-line . [(0 1 0) ((emacs (23 1))) "TDD status on the mode-line" single "marmalade"])
+  (tdd-status-mode-line . [(0 1 1) ((emacs (23 1))) "TDD status on the mode-line" single "marmalade"])
   (troncle . [(0 1 1) ((nrepl (0 2 0))) "Emacs convenience functions for tracing clojure code" single "marmalade"])
   (free-keys . [(0 1) ((cl-lib (0 3))) "Show free keybindings for modkeys or prefixes" single "marmalade"])
   (prognth . [(1 0) nil "Extend prog1 to arbitrary index" single "marmalade"])
