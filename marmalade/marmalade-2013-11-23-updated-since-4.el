@@ -124,6 +124,7 @@
   (hippie-namespace . [(0 5 8) nil "Special treatment for namespace prefixes in hippie-expand" single "marmalade"])
   (persistent-soft . [(0 8 8) ((pcache (0 2 3)) (list-utils (0 4 2))) "Persistent storage, returning nil on failure" single "marmalade"])
   (ruby-test-mode . [(1 7) ((ruby-mode (1 0))) "Minor mode for Behaviour and Test Driven" single "marmalade"])
+  (multi-project . [(0 0 11) nil "Easily work with multiple projects." single "marmalade"])
   (fill-column-indicator . [(1 85) nil "Graphically indicate the fill column" single "marmalade"])
   (nrepl . [(0 2 0) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 1))) "Client for Clojure nREPL" single "marmalade"])
   (writegood-mode . [(20130406 2316) nil "Polish up poor writing on the fly" single "marmalade"])
