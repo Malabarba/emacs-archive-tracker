@@ -109,7 +109,7 @@
   (gore-mode . [(20131028 927) nil "Simple mode for gore, a command-line evaluator for golang." single "melpa"])
   (grass-mode . [(20131102 3) ((cl-lib (0 2))) "Provides Emacs modes for interacting with the GRASS GIS program" single "melpa"])
   (grep+ . [(20130824 1206) nil "Extensions to standard library `grep.el'." single "melpa"])
-  (helm-ag-r . [(20131118 1652) ((helm (1 0))) "Search something by ag and display by helm" single "melpa"])
+  (helm-ag-r . [(20131122 2200) ((helm (1 0))) "Search something by ag and display by helm" single "melpa"])
   (helm-backup . [(20131117 2129) ((helm (1 5 5)) (s (1 8 0))) "Backup each file change using git" single "melpa"])
   (helm-company . [(20131113 104) ((helm (1 0)) (company (0 6 12))) "Helm interface for company-mode" single "melpa"])
   (helm-css-scss . [(20131111 1130) ((helm (1 0)) (emacs (24))) "CSS/SCSS selector with helm interface" single "melpa"])
