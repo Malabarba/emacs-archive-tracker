@@ -239,7 +239,7 @@
   (ruby-additional . [(20131030 2113) ((emacs (24 3)) (ruby-mode (1 2))) "ruby-mode extensions yet to be merged into Emacs" tar "melpa"])
   (ruby-refactor . [(20130808 2227) ((ruby-mode (1 2))) "A minor mode which presents various Ruby refactoring helpers." single "melpa"])
   (runner . [(20131018 1421) nil "Improved \"open with\" suggestions for dired" single "melpa"])
-  (sbt-mode . [(20131122 2211) ((scala-mode2 (0 22))) "Major mode for sbt >= 0.12 with scala >= 2.9" tar "melpa"])
+  (sbt-mode . [(20131123 1129) ((scala-mode2 (0 22))) "Major mode for sbt >= 0.12 with scala >= 2.9" tar "melpa"])
   (second-sel . [(20131016 1506) nil "Secondary selection commands" single "melpa"])
   (sensitive . [(20131015 935) ((emacs (24)) (sequences (0 1 0))) "A dead simple way to load sensitive information" single "melpa"])
   (sequences . [(20130908 1422) ((emacs (24))) "Ports of some Clojure sequence functions." single "melpa"])
