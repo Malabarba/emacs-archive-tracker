@@ -19,7 +19,7 @@
   (proxy-mode . [(0 9) nil "Provides proxy minor mode." single "marmalade"])
   (latest-clojure-libraries . [(0 5) nil "Clojure dependency resolver" single "marmalade"])
   (latex-preview-pane . [(20131020) nil "Makes LaTeX editing less painful by providing a updatable preview pane" tar "marmalade"])
-  (project-explorer . [(0 10) ((cl-lib (0 3)) (es-lib (0 3))) "A project explorer sidebar -*- lexical-binding: t -*-" single "marmalade"])
+  (project-explorer . [(0 10 1) ((cl-lib (0 3)) (es-lib (0 3))) "A project explorer sidebar -*- lexical-binding: t -*-" single "marmalade"])
   (list-register . [(2 2) nil "List register" single "marmalade"])
   (magit-find-file . [(1 0 4) ((magit (1 2 0))) "completing-read over all files in Git" single "marmalade"])
   (epl . [(0 4) ((cl-lib (0 3))) "Emacs Package Library -*- lexical-binding: t; -*-" single "marmalade"])
