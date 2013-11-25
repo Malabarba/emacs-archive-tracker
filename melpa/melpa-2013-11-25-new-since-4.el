@@ -227,7 +227,7 @@
   (pp+ . [(20130723 2353) nil "Extensions to `pp.el'." single "melpa"])
   (pp-c-l . [(20130723 2354) nil "Display Control-l characters in a pretty way" single "melpa"])
   (pretty-lambdada . [(20130723 2216) nil "Show the word `lambda' as the Greek letter." single "melpa"])
-  (pretty-symbols . [(20131013 2047) nil "Draw tokens as Unicode glyphs." single "melpa"])
+  (pretty-symbols . [(20131125 826) nil "Draw tokens as Unicode glyphs." single "melpa"])
   (prognth . [(20130920 1959) nil "Extend prog1 to arbitrary index" single "melpa"])
   (project-explorer . [(20131124 1631) ((cl-lib (0 3)) (es-lib (0 3))) "A project explorer sidebar" single "melpa"])
   (projector . [(20131121 1104) ((alert (1 1))) "Lightweight library for managing project/repository-aware shell and command buffers" single "melpa"])

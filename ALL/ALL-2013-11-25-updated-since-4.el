@@ -1032,7 +1032,7 @@
   (vline . [(20120108 1245) nil "show vertical line (column highlighting) mode." single "melpa"])
   (volatile-highlights . [(20130321 2241) nil "Minor mode for visual feedback on some operations." single "melpa"])
   (w32-browser . [(20130724 12) nil "Run Windows application associated with a file." single "melpa"])
-  (w3m . [(20131119 2351) nil "an Emacs interface to w3m" tar "melpa"])
+  (w3m . [(20131124 2318) nil "an Emacs interface to w3m" tar "melpa"])
   (wacspace . [(20130726 1007) ((dash (1 2 0)) (cl-lib (0 2))) "The WACky WorkSPACE manager for emACS" tar "melpa"])
   (watch-buffer . [(20120331 1344) nil "run a shell command when saving a buffer" single "melpa"])
   (wc-mode . [(20120531 1344) nil "show wc-like information in status bar" single "melpa"])
