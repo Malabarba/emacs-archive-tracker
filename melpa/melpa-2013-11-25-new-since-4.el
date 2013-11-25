@@ -178,7 +178,7 @@
   (menu-bar+ . [(20131118 1615) nil "Extensions to `menu-bar.el'." single "melpa"])
   (minibuffer-complete-cycle . [(20130814 145) nil "Cycle through the *Completions* buffer" single "melpa"])
   (minibuffer-cua . [(20130906 2034) nil "Make CUA mode's S-up/S-down work in minibuffer" single "melpa"])
-  (minitest . [(20131121 1701) ((dash (1 0 0))) "An Emacs mode for ruby minitest files" single "melpa"])
+  (minitest . [(20131124 2147) ((dash (1 0 0))) "An Emacs mode for ruby minitest files" single "melpa"])
   (misc-cmds . [(20131121 1909) nil "Miscellaneous commands (interactive functions)." single "melpa"])
   (morlock . [(20131008 2329) nil "more font-lock keywords for elisp" single "melpa"])
   (mouse3 . [(20130724 1506) nil "Customizable behavior for `mouse-3'." single "melpa"])
