@@ -444,7 +444,7 @@
   (hi2 . [(20130925 1458) nil "indentation module for Haskell Mode" single "melpa"])
   (hide-comnt . [(20130824 1159) nil "Hide/show comments in code." single "melpa"])
   (hide-lines . [(20130824 1207) nil "Commands for hiding lines based on a regexp" single "melpa"])
-  (highlight . [(20131116 700) nil "Highlighting commands." single "melpa"])
+  (highlight . [(20131125 312) nil "Highlighting commands." single "melpa"])
   (highlight-cl . [(20091012 1730) nil "Highlighting `cl' functions." single "melpa"])
   (highlight-escape-sequences . [(20130601 212) nil "Highlight escape sequences" single "melpa"])
   (highlight-indentation . [(20130106 41) nil "Minor modes for highlighting indentation" single "melpa"])
