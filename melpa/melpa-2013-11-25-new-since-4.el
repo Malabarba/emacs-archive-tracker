@@ -259,7 +259,7 @@
   (sparkline . [(20130803 1442) nil "Make sparkline images from a list of numbers" single "melpa"])
   (speechd-el . [(20130828 2109) nil "Client to speech synthesizers and Braille displays." tar "melpa"])
   (strings . [(20130724 5) nil "Miscellaneous string functions." single "melpa"])
-  (sunny-day-theme . [(20131114 2051) nil "Emacs24 theme with a light background." single "melpa"])
+  (sunny-day-theme . [(20131125 1355) nil "Emacs24 theme with a light background." single "melpa"])
   (tdd-status-mode-line . [(20131123 1816) nil "TDD status on the mode-line" single "melpa"])
   (tern . [(20130828 1616) ((json (1 2)) (emacs (24))) "Tern-powered JavaScript integration" single "melpa"])
   (tern-auto-complete . [(20130809 1129) ((tern (0 0 1)) (auto-complete (1 4)) (emacs (24))) "Tern Completion by auto-complete.el" single "melpa"])
