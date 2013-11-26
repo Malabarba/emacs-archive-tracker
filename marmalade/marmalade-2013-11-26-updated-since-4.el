@@ -50,7 +50,7 @@
   (babcore . [(0 0 5) nil "Core Emacs configuration. This should be the minimum in every emacs config." single "marmalade"])
   (framesize . [(0 0 5) ((key-chord (0 5 20080915))) "change the size of frames in Emacs" single "marmalade"])
   (gruber-darker-theme . [(0 6) nil "Gruber Darker color theme for Emacs 24." single "marmalade"])
-  (evil . [(1 0 7) ((undo-tree (0 5 1))) "Extensible Vi layer for Emacs." tar "marmalade"])
+  (evil . [(1 0 8) ((undo-tree (0 6 3)) (goto-last-change (1 2))) "Extensible Vi layer for Emacs." tar "marmalade"])
   (rbenv . [(0 0 3) nil "Emacs integration for rbenv" single "marmalade"])
   (markdown-mode . [(2 0) nil "Emacs Major mode for Markdown-formatted text files" single "marmalade"])
   (creole . [(1 0 3) ((noflet (0 0 3)) (kv (0 0 17))) "A parser for the Creole Wiki language" single "marmalade"])
