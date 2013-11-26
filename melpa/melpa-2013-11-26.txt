@@ -1,0 +1,1370 @@
+  4clojure                     20131014.1707      available  Open and evaluate 4clojure.com questions
+  abc-mode                     20130607.917       available  Major mode for editing abc music files
+  abl-mode                     20131104.1027      available  Python TDD minor mode
+  ac-c-headers                 20131016.1539      available  auto-complete source for C headers
+  ac-dabbrev                   20130906.518       available  auto-complete.el source for dabbrev
+  ac-emmet                     20131016.58        available  auto-complete sources for emmet-mode's snippets
+  ac-etags                     20131125.1346      available  etags/ctags completion source for auto-complete
+  ac-geiser                    20130929.1447      available  Auto-complete backend for geiser
+  ac-helm                      20130412.42        available  Auto Complete with Helm
+  ac-inf-ruby                  20131115.1150      available  Enable auto-complete in inf-ruby sessions
+  ac-ispell                    20131125.1344      available  ispell completion source for auto-complete
+  ac-js2                       20131002.1055      available  Auto-complete source for Js2-mode, with navigation
+  ac-math                      20131003.1604      available  Auto-complete sources for input of mathematical symbols and latex tags
+  ac-nrepl                     20131031.1046      available  auto-complete sources for Clojure using nrepl completions
+  ac-slime                     20131005.1126      available  An auto-complete source using slime completions
+  ace-jump-buffer              20131005.1340      available  fast buffer switching extension to `ace-jump-mode'
+  ace-jump-mode                20130720.1153      available  a quick cursor location minor mode for emacs
+  achievements                 20131112.151       available  Achievements for emacs usage.
+  ack-and-a-half               20130815.1917      available  Yet another front-end for ack
+  ack-menu                     20130312.131       available  A menu-based front-end for ack
+  actionscript-mode            20130328.1110      available  A simple mode for editing Actionscript 3 files
+  adoc-mode                    20130917.700       available  a major-mode for editing AsciiDoc files in Emacs
+  aes                          20130121.413       available  Implementation of AES
+  ag                           20131103.1957      available  A front-end for ag ('the silver searcher'), the C ack replacement.
+  ahg                          20131121.1458      available  Alberto's Emacs interface for Mercurial (Hg)
+  airplay                      20130212.2126      available  Airplay bindings to Emacs
+  alect-themes                 20131022.1107      available  2 color themes (light and dark) for Emacs 24
+  alert                        20130510.912       available  Growl-style notification system for Emacs
+  align-cljlet                 20131017.1756      available  Space align various Clojure forms
+  all-ext                      20130824.1206      available  Extension of M-x all
+  ample-theme                  20131114.1352      available  Calm Dark Theme for Emacs
+  ample-zen-theme              20131003.1054      available  AmpleZen Theme for Emacs 24
+  anaphora                     20131022.750       available  anaphoric macros providing implicit temp variables
+  android-mode                 20131104.1648      available  Minor mode for Android application development
+  angry-police-captain         20120829.1352      available  Show quote from http://theangrypolicecaptain.com in the minibuffer
+  angular-snippets             20131118.1338      available  Yasnippets for AngularJS
+  annoying-arrows-mode         20130515.1534      available  Ring the bell if using arrows too much
+  ansi                         20130827.1653      available  Turn string into ansi strings
+  anti-zenburn-theme           20131124.2324      available  Low-contrast Zenburn-inverted theme
+  anything                     20130606.946       available  open anything / QuickSilver-like candidate-selection framework
+  anything-git-files           20130609.1843      available  anything for git files
+  anything-git-grep            20130609.1111      available  anything for git grep
+  anzu                         20131120.1148      available  Show number of matches in mode-line while searching
+  aok                          20130824.1127      available  various useful ways to do `multi-occur'
+  apache-mode                  20080905.553       available  major mode for editing Apache configuration files
+  apples-mode                  20110121.1318      available  Major mode for editing and executing AppleScript code
+  applescript-mode             20090320.2332      available  major mode for editing AppleScript source
+  apropos-fn+var               20131027.1526      available  Apropos for functions and variables
+  apt-utils                    20130824.1200      available  Emacs interface to APT (Debian package management)
+  apt-utils-ido                20130527.2145      available  Ido commands for apt-utils
+  archive-region               20130824.1207      available  Move region to archive file instead of killing
+  ariadne                      20131117.1911      available  Ariadne plugin for Emacs
+  ascii                        20130824.1200      available  ASCII code display.
+  ascope                       20130824.1158      available  Another cscope interface for emacs
+  async                        20131117.1910      available  Asynchronous processing in Emacs
+  auctex-latexmk               20131108.1949      available  Add LatexMk support to AUCTeX
+  auctex-lua                   20130818.1420      available  Lua editing support for AUCTeX
+  audio-notes-mode             20130909.946       available  Play audio notes synced from somewhere else.
+  auto-async-byte-compile      20130824.1158      available  Automatically byte-compile when saved
+  auto-auto-indent             20131106.1903      available  Indents code as you type
+  auto-capitalize              20131014.505       available  Automatically capitalize (or upcase) words
+  auto-compile                 20131106.1531      available  automatically compile Emacs Lisp libraries
+  auto-complete                20131121.1705      available  Auto Completion for GNU Emacs
+  auto-complete-clang          20120612.2224      available  Auto Completion source for clang for GNU Emacs
+  auto-complete-clang-async    20130526.2314      available  Auto Completion source for clang for GNU Emacs
+  auto-complete-nxml           20130918.1219      available  do completion by auto-complete.el on nXML-mode
+  auto-dictionary              20130628.1153      available  automatic dictionary switcher for flyspell
+  auto-dim-other-buffers       20130429.2026      available  Visually makes non-current buffers less prominent
+  auto-indent-mode             20131120.2308      available  Auto indent Minor mode
+  auto-install                 20130824.1206      available  Auto install elisp file
+  auto-save-buffers-enhanced   20130605.2340      available  Automatically save buffers in a decent way
+  auto-shell-command           20130405.123       available  Run the shell command asynchronously that you specified when you save the file.
+  auto-yasnippet               20131002.1029      available  Quickly create disposable yasnippets
+  autofit-frame                20130824.1207      available  Automatically resize one-window frames to fit
+  automargin                   20131112.1714      available  add margins to windows not-splitted, and center them
+  autopair                     20131101.144       available  Automagically pair braces and quotes like TextMate
+  awk-it                       20130917.1848      available  Run AWK interactively on region!
+  back-button                  20131122.1259      available  Visual navigation through mark rings
+  backtrace-mode               20130223.1354      available  A better way to browse /var/log/messages files
+  backup-each-save             20130704.1432      available  backup each savepoint of a file
+  backup-walker                20130720.2316      available  quickly traverse all backups of a file
+  base16-theme                 20130216.947       available  No description available.
+  bash-completion              20130526.544       available  BASH completion for the shell buffer
+  batch-mode                   20130824.1158      available  major mode for editing ESRI batch scrips
+  bbcode-mode                  20130227.1437      available  Major mode for writing BBCode markup
+  bbdb                         20131116.1130      available  The Insidious Big Brother Database for GNU Emacs
+  bbdb-ext                     20130513.1952      available  Extra commands for BBDB
+  bbdb-vcard                   20130605.1520      available  vCard import/export for BBDB
+  bbdb2erc                     20130607.829       available  make bbdb show if pal is online with ERC, click i to chat
+  bdo                          20130910.1026      available  Do things to a browser page from Emacs. BETA!
+  bert                         20131117.1214      available  BERT serialization library for Emacs
+  better-defaults              20130422.1322      available  Fixing weird quirks and poor defaults
+  bf-mode                      20130403.2255      available  Browse file persistently on dired
+  bibretrieve                  20131013.2132      available  Retrieving BibTeX entries from the web
+  bibslurp                     20130904.1053      available  retrieve BibTeX entries from NASA ADS
+  bind-key                     20131012.1425      available  A simple way to manage personal keybindings
+  birds-of-paradise-plus-theme 20130401.1436      available  A brown/orange light-on-dark theme for Emacs 24 (deftheme).
+  bitlbee                      20130328.1118      available  Help get Bitlbee (http://www.bitlbee.org) up and running.
+  bitly                        20130503.1049      available  Shorten URLs using the bitly.com shortener service
+  blank-mode                   20130824.1159      available  minor mode to visualize TAB, (HARD) SPACE, NEWLINE
+  bm                           20121212.2224      available  Visible bookmarks in buffer.
+  bookmark+                    20131122.705       available  Bookmark+: extensions to standard library `bookmark.el'.
+  boxquote                     20081011.2126      available  Quote text with a semi-box.
+  bpe                          20131101.1444      available  Blog from Org mode to Blogger
+  browse-kill-ring             20131117.1413      available  interactively insert items from kill-ring
+  browse-url-dwim              20131106.1006      available  Context-sensitive external browse URL or Internet search
+  bs-ext                       20130824.1159      available  Extensions to emacs buffer-selection library (bs.el)
+  buffer-move                  20130923.1653      available  Swap buffers without typing C-x b on each window
+  buffer-stack                 20101223.1020      available  Enhanced intelligent switch-to-other-buffer replacement.
+  buffer-utils                 20131106.1006      available  Buffer-manipulation utility functions
+  bufshow                      20130711.1139      available  A simple presentation tool for Emacs.
+  bug-reference-github         20130904.2238      available  Automatically set `bug-reference-url-format' in Github repositories.
+  bundler                      20130316.2242      available  Interact with Bundler from Emacs
+  buster-mode                  20121219.1422      available  Minor mode to speed up development when writing tests with Buster.js
+  buster-snippets              20130714.1440      available  Yasnippets for the Buster javascript testing framework
+  busybee-theme                20130920.1742      available  port of vim's mustang theme
+  butler                       20131014.1953      available  Client for Jenkins
+  button-lock                  20131106.1006      available  Clickable text defined by regular expression
+  c-eldoc                      20130723.1550      available  helpful description of the arguments to C functions
+  cache                        20111019.1600      available  implementation of a hash table whose key-value pairs expire
+  cacoo                        20120319.2027      available  Minor mode for Cacoo : http://cacoo.com
+  calfw                        20131026.1419      available  Calendar view framework on Emacs
+  calfw-gcal                   20120111.1900      available  edit Google calendar for calfw.el.
+  calmer-forest-theme          20130925.2210      available  Darkish theme with green/orange tint
+  caml                         20130904.812       available  No description available.
+  capture                      20130828.2044      available  screencasting with "avconv" or "ffmpeg"
+  cask                         20131120.1358      available  Cask: Emacs dependency management made easy
+  cedit                        20131108.2024      available  paredit-like commands for c-like languages
+  centered-cursor-mode         20131121.1237      available  cursor stays vertically centered
+  cg                           20131011.602       available  major mode for editing Constraint Grammar files
+  change-inner                 20130208.2030      available  Change contents based on semantic units
+  charmap                      20131020.1358      available  Unicode table for Emacs
+  chicken-scheme               20131116.1228      available  Scheme-mode extensions for Chicken Scheme
+  chm-view                     20110616.1719      available  View CHM file.
+  cider                        20131125.1215      available  Clojure Integrated Development Environment and REPL
+  cider-decompile              20131116.2002      available  decompilation extension for cider
+  cider-tracing                20131018.1738      available  Tracing extension for CIDER
+  circe                        20131026.1125      available  Client for IRC in Emacs
+  cl-lib-highlight             20131019.1051      available  full cl-lib font-lock highlighting
+  clippy                       20130612.310       available  Show tooltip with function documentation at point
+  clips-mode                   20131012.1601      available  Major mode for editing CLIPS code and REPL
+  clj-refactor                 20130205.1310      available  A collection of clojure refactoring functions
+  cljsbuild-mode               20130110.1632      available  A minor mode for the ClojureScript 'lein cljsbuild' command
+  clojure-cheatsheet           20131022.1505      available  The Clojure Cheatsheet for Emacs
+  clojure-mode                 20131117.2306      available  Major mode for Clojure code
+  clojure-snippets             20130403.2046      available  Yasnippets for clojure
+  clojure-test-mode            20131106.149       available  Minor mode for Clojure tests
+  closure-lint-mode            20101118.2224      available  minor mode for the Closure Linter
+  cloud-to-butt-erc            20130627.1908      available  Replace 'the cloud' with 'my butt'
+  clues-theme                  20130908.1801      available  an Emacs 24 theme which may well be fully awesome...
+  cmds-menu                    20131102.1536      available  `Recent Commands' submenu for the menu-bar `Tools' menu.
+  cn-outline                   20100322.114       available  No description available.
+  coffee-fof                   20131012.2130      available  A coffee-mode configuration for `ff-find-other-file'.
+  coffee-mode                  20130618.1418      available  Major mode to edit CoffeeScript files in Emacs
+  col-highlight                20130808.1605      available  Highlight the current column.
+  color-moccur                 20120811.2127      available  multi-buffer occur (grep) mode
+  color-theme                  20080305.834       available  install color themes
+  color-theme-approximate      20130329.933       available  Makes Emacs theme works on terminal transparently
+  color-theme-buffer-local     20120703.17        available  Install color-themes by buffer.
+  color-theme-sanityinc-sol... 20131115.1312      available  A version of Ethan Schoonover's Solarized themes
+  color-theme-sanityinc-tom... 20131115.1309      available  A version of Chris Kempson's various Tomorrow themes
+  color-theme-solarized        20130307.1350      available  Solarized themes for Emacs
+  colorsarenice-theme          20131121.1534      available  A color theme.
+  column-marker                20121128.843       available  Highlight certain character columns
+  commander                    20131023.1801      available  Emacs command line parser
+  company                      20131101.302       available  Modular in-buffer completion framework
+  company-go                   20131120.805       available  company-mode backend for Go (using gocode)
+  company-inf-ruby             20130630.2230      available  company-mode completion back-end for inf-ruby
+  company-jedi                 20131124.1552      available  Jedi backend for company-mode
+  concurrent                   20130914.1658      available  Concurrent utility functions for emacs lisp
+  confluence                   20130814.535       available  Emacs mode for interacting with confluence wikis
+  conkeror-minor-mode          20131104.2141      available  Mode for editing conkeror javascript files.
+  connection                   20131005.1021      available  TCP-based client connection
+  control-mode                 20131010.2352      available  A "control" mode, similar to vim's "normal" mode
+  cperl-mode                   20131016.115       available  Perl code editing commands for Emacs
+  crab                         20130609.1058      available  WebSocket server to remotely control a browser
+  crappy-jsp-mode              20121117.1856      available  A pretty crappy major-mode for jsp.
+  creole                       20130802.922       available  A parser for the Creole Wiki language
+  crontab-mode                 20090510.2255      available  Mode for editing crontab files
+  crosshairs                   20130903.2344      available  Highlight the current line and column.
+  cryptol-mode                 20131010.1554      available  Cryptol major mode for Emacs
+  csharp-mode                  20130824.1200      available  C# mode derived mode
+  css-eldoc                    20130902.1635      available  an eldoc-mode plugin for CSS source code
+  csv-nav                      20130407.1820      available  navigate and edit CSV files
+  ctable                       20131119.1912      available  Table component for Emacs Lisp
+  ctags                        20110911.1204      available  Exuberant Ctags utilities for Emacs
+  ctags-update                 20131107.1749      available  (auto) update TAGS in parent directory using exuberant-ctags
+  cucumber-goto-step           20131016.2308      available  Jump to cucumber step definition
+  cursor-chg                   20130723.2244      available  Change cursor dynamically, depending on the context.
+  cursor-test                  20131110.1538      available  testing library for cursor position in emacs.
+  cus-edit+                    20130824.1159      available  Enhancements to `cus-edit.el'.
+  cyberpunk-theme              20131117.1852      available  Cyberpunk Color Theme
+  d-mode                       20130811.22        available  D Programming Language mode for (X)Emacs
+  darcsum                      20131103.1031      available  a pcl-cvs like interface for managing darcs patches
+  dart-mode                    20130902.924       available  Major mode for editing Dart files
+  dash                         20131030.2119      available  A modern list library for Emacs
+  dash-at-point                20131112.1952      available  Search the word at point with Dash
+  dash-functional              20130831.1646      available  Collection of useful combinators for Emacs Lisp
+  datomic-snippets             20130707.2215      available  Yasnippets for Datomic
+  dayone                       20131117.1955      available  Utility script for Day One
+  db                           20130125.1829      available  A database for EmacsLisp
+  dedicated                    20090428.2131      available  A very simple minor mode for dedicated buffers
+  dedukti-mode                 20131114.2116      available  Major mode for Dedukti files
+  deferred                     20130930.1434      available  Simple asynchronous functions for emacs lisp
+  deft                         20130915.253       available  quickly browse, filter, and edit plain text notes
+  delim-kill                   20100517.820       available  Kill text between delimiters.
+  desktop-registry             20130807.2227      available  Keep a central registry of desktop files
+  dic-lookup-w3m               20121101.1033      available  look up dictionaries on the Internet
+  dictionary                   20131005.1021      available  Client for rfc2229 dictionary servers
+  diff-hl                      20131114.1053      available  Highlight uncommitted changes
+  dim-autoload                 20131019.1020      available  dim complete autoload cookie lines
+  diminish                     20091203.1912      available  Diminished modes are minor modes with no modeline display
+  dircmp                       20130806.1457      available  Compare and sync directories.
+  dired+                       20131106.18        available  Extensions to Dired.
+  dired-details                20130824.1158      available  make file details hide-able in dired
+  dired-details+               20130723.2252      available  Enhancements to library `dired-details+.el'.
+  dired-dups                   20130527.2225      available  Find duplicate files and display them in a dired buffer
+  dired-efap                   20131121.1109      available  Edit Filename At Point in a dired buffer
+  dired-single                 20130824.1200      available  Reuse the current dired buffer to visit another directory
+  dired-sort-menu              20130824.1207      available  provide menu/dialogue for dired sort options
+  dired-sort-menu+             20130723.2253      available  Extensions to `dired-sort-menu.el'
+  dired-toggle                 20131023.1610      available  provide a simple way to toggle dired buffer for current directory
+  dired-toggle-sudo            20131021.1528      available  Browse directory with sudo privileges.
+  direx                        20131001.424       available  Simple Directory Explorer
+  disaster                     20130509.1355      available  Disassemble C/C++ code under cursor in Emacs
+  disk                         20081128.1506      available  simplified find-file, revert-file, save-buffer interface
+  dispass                      20130525.1334      available  Emacs wrapper for DisPass
+  dizzee                       20111009.1416      available  A more pleasant way to manage your project's subprocesses in Emacs.
+  django-theme                 20131022.1102      available  Custom face theme for Emacs
+  dkdo                         20131110.1119      available  Do List major mode based on org-mode.
+  dklrt                        20131110.1341      available  Ledger Recurring Transactions.
+  dkmisc                       20131110.1115      available  Miscellaneous functions required by dk* packages.
+  dna-mode                     20130821.1105      available  a major mode for editing dna sequences
+  docbook-snippets             20130717.349       available  Yasnippets for DocBook
+  dockerfile-mode              20131101.2142      available  Major mode for editing Docker's Dockerfiles
+  dollaro                      20130620.2225      available  simple text templates
+  dom                          20091224.1827      available  DOM implementation
+  doremi                       20130723.2300      available  Do Re Mi: Incremental change using arrow keys or mouse wheel.
+  doremi-cmd                   20131028.243       available  Miscellaneous Do Re Mi commands
+  doremi-frm                   20130723.2258      available  Incrementally adjust face attributes and frame parameters.
+  doremi-mac                   20130723.2259      available  A macro for defining Do Re Mi commands.
+  dot-mode                     20100803.1208      available  Minor mode to repeat typing or commands
+  dpaste                       20120823.1129      available  Emacs integration for dpaste.com
+  dpaste_de                    20131015.1755      available  Emacs mode to paste to dpaste.de
+  drag-stuff                   20130412.1112      available  Drag stuff (lines, words, region, etc...) around
+  drill-instructor-AZIK-force  20120908.1017      available  Support AZIK input
+  dropbox                      20130513.1837      available  Emacs backend for dropbox
+  dropdown-list                20120329.1636      available  Drop-down menu interface
+  drupal-mode                  20131124.2306      available  Advanced minor mode for Drupal development
+  drupal-spell                 20130520.1854      available  Aspell extra dictionary for Drupal
+  dsvn                         20130120.1257      available  Subversion interface
+  dummy-h-mode                 20130824.1159      available  switch major mode to c-/c++-/objc-mode on .h file
+  duplicate-thing              20120516.148       available  Duplicate current line & selection
+  dylan-mode                   20131020.2253      available  Major mode for editing Dylan programs.
+  dynamic-fonts                20131106.1006      available  Set faces based on available fonts
+  e2wm                         20130910.1431      available  simple window manager for emacs
+  e2wm-R                       20130506.1408      available  some e2wm plugin and perspective for GNU R
+  e2wm-bookmark                20120812.1550      available  Bookmark plugin for e2wm.el
+  e2wm-svg-clock               20130304.626       available  e2wm plugin for svg-clock
+  easy-after-load              20121224.2049      available  eval-after-load for all files in a directory
+  easy-kill                    20131111.1958      available  kill things easily
+  ebib                         20131015.1929      available  a BibTeX database manager
+  ecb                          20131116.1319      available  a code browser for Emacs
+  ecukes                       20131029.1755      available  Cucumber for Emacs.
+  edbi                         20130809.556       available  Emacs Database Interface
+  edebug-x                     20130616.1455      available  Extensions for Edebug
+  edit-color-stamp             20130529.1833      available  Edit a hex color stamp, using a QT or the internal color picker
+  edit-list                    20100930.1643      available  edit a single list
+  edit-server                  20131108.1612      available  server that responds to edit requests from Chrome
+  edit-server-htmlize          20130327.1537      available  (de)HTMLization hooks for edit-server.el
+  editorconfig                 20131024.1608      available  EditorConfig Emacs extension
+  efire                        20130812.49        available  Use campfire from Emacs
+  egg                          20130702.925       available  Emacs Got Git - Emacs interface to Git
+  egison-mode                  20131119.1026      available  Egison editing mode
+  eimp                         20091025.922       available  Emacs Image Manipulation Package
+  ein                          20130710.2114      available  Emacs IPython Notebook
+  el-autoyas                   20120918.817       available  Automatically create Emacs-Lisp Yasnippets
+  el-mock                      20130806.2248      available  Tiny Mock and Stub framework in Emacs Lisp
+  el-spec                      20121018.304       available  ruby's rspec like syntax test frame work
+  el-spice                     20131106.141       available  Extra spice for emacs lisp programming
+  el-swank-fuzzy               20130824.1157      available  fuzzy symbol completion.
+  el-x                         20131006.923       available  main entry point for el-x package
+  eldoc-eval                   20131108.1512      available  Enable eldoc support when minibuffer is in use.
+  eldoc-extension              20130824.1156      available  Some extension for eldoc
+  electric-case                20130620.1754      available  insert camelCase, snake_case words without "Shift"ing
+  elein                        20120118.1537      available  running leiningen commands from emacs
+  elfeed                       20131124.2359      available  an Emacs Atom/RSS feed reader
+  elfeed-web                   20130908.1734      available  web interface to Elfeed
+  elhome                       20131105.1841      available  A framework for a "home" Emacs configuration
+  elisp-depend                 20120427.123       available  Parse depend libraries of elisp file.
+  elisp-sandbox                20131116.1342      available  Evaluate EmacsLisp expressions in a sandbox
+  elisp-slime-nav              20130612.1246      available  Make M-. and M-, work in elisp like they do in slime
+  elixir-mix                   20131124.1104      available  Emacs integration for Elixir's mix
+  elixir-mode                  20131012.2343      available  Major mode for editing Elixir files
+  elixir-yasnippets            20130908.2230      available  Yasnippets for Elixir
+  elmine                       20130330.2100      available  Redmine API access via elisp.
+  elnode                       20130416.1626      available  The Emacs webserver.
+  elpa-audit                   20130514.1209      available  Handy functions for inspecting and comparing package archives
+  elpy                         20131109.2020      available  Emacs Python Development Environment
+  elscreen                     20120413.1107      available  Emacs window session manager
+  emacs-eclim                  20131016.1458      available  An interface to the Eclipse IDE.
+  emacs-setup                  20120727.926       available  Package for maintaining your emacs configuration. Clean up your .emacs!
+  emacsc                       20131027.1825      available  helper for emacsc(1)
+  emagician-fix-spell-memory   20130415.1244      available  Simple hack into ispell to fix (muscle) memory problems
+  emamux                       20130331.2353      available  Interact with tmux
+  emamux-ruby-test             20130811.1203      available  Ruby test with emamux
+  emmet-mode                   20130916.908       available  Unofficial Emmet's support for emacs
+  emms                         20131016.1232      available  The Emacs Multimedia System
+  emms-mark-ext                20130529.427       available  Extra functions for emms-mark-mode and emms-tag-edit-mode
+  emr                          20130619.2216      available  Emacs refactoring system.
+  enclose                      20121008.1814      available  Enclose cursor within punctuation pairs.
+  enh-ruby-mode                20131115.1627      available  Major mode for editing Ruby files
+  enotify                      20130407.1548      available  A networked notification system for emacs
+  ensime                       20131030.2303      available  ENhanced Scala Interaction Mode for Emacs
+  epc                          20130804.1428      available  A RPC stack for the Emacs Lisp
+  epic                         20130320.1540      available  Evernote Picker
+  epl                          20131101.1205      available  Emacs Package Library
+  eproject                     20130220.1109      available  assign files to projects, programatically
+  erc-hl-nicks                 20130114.1648      available  ERC nick highlighter that ignores uniquifying chars when colorizing
+  erc-image                    20131125.1336      available  Show received image urls in the ERC buffer
+  erc-terminal-notifier        20131028.253       available  OSX notifications via the terminal-notifier gem for Emacs ERC.
+  erc-track-score              20130328.1315      available  Add score support to tracked channel buffers
+  erc-tweet                    20130618.1508      available  shows text of a tweet when an url is posted in erc buffers
+  ercn                         20121230.1313      available  Flexible ERC notifications
+  eredis                       20120808.2007      available  eredis, a Redis client in emacs lisp
+  erefactor                    20130521.1838      available  Emacs-Lisp refactoring utilities
+  ergoemacs-mode               20131125.1018      available  Emacs mode based on common modern software interface and ergonomics.
+  erlang                       20131025.906       available  Erlang major mode
+  ert-expectations             20130824.1200      available  The simplest unit test framework in the world
+  ert-runner                   20131031.2019      available  Opinionated Ert testing workflow
+  es-lib                       20131029.807       available  A collection of emacs utilities
+  escreen                      20091203.1913      available  emacs window session manager
+  esh-buf-stack                20130620.2354      available  Add a buffer stack feature to Eshell
+  esh-help                     20130909.1050      available  Add some help functions and support for Eshell
+  espresso-theme               20130301.1148      available  Espresso Tutti Colori port for Emacs
+  espuds                       20131026.2021      available  Ecukes step definitions
+  ess                          20131121.552       available  No description available.
+  ess-R-data-view              20130509.2058      available  Data viewer for GNU R
+  ess-R-object-popup           20130302.2036      available  popup description of R object
+  esup                         20130607.1650      available  the Emacs StartUp Profiler (ESUP)
+  esxml                        20130512.1747      available  Library for working with xml via esxml and sxml
+  etags-table                  20130824.1157      available  Set tags table(s) based on current file
+  ethan-wspace                 20130518.1144      available  whitespace customizations for emacs
+  evil                         20131023.2315      available  Extensible Vi layer for Emacs.
+  evil-indent-textobject       20130901.19        available  evil textobjects based on indentation
+  evil-leader                  20130921.1354      available  let there be <leader>
+  evil-matchit                 20131111.1529      available  Vim matchit ported into Emacs (requires EVIL)
+  evil-nerd-commenter          20131004.1315      available  Comment/uncomment lines efficiently. Like Nerd Commenter in Vim
+  evil-numbers                 20121109.238       available  increment/decrement numbers like in vim
+  evil-paredit                 20130408.1611      available  Paredit support for evil keybindings
+  evil-tabs                    20131011.1233      available  Integrating Vim-style tabs for Evil mode users.
+  evil-visualstar              20130925.1414      available  Starts a * or # search from the visual selection
+  evm                          20131024.1029      available  Emacs version manager
+  exec-path-from-shell         20131002.1124      available  Get environment variables such as $PATH from the shell
+  expand-region                20131106.1343      available  Increase selected region by semantic units.
+  express                      20131106.1006      available  Alternatives to `message'
+  extend-dnd                   20130328.1234      available  R drag and Drop
+  eyedropper                   20131116.55        available  Pick foreground and background colors at cursor or pointer.
+  ez-query-replace             20130925.1814      available  A helpful query-replace.
+  f                            20131025.2156      available  Modern API for working with files and directories
+  face-remap+                  20130723.2141      available  Extensions to standard library `face-remap.el'.
+  facemenu+                    20130824.1205      available  Extensions to `facemenu.el'.
+  faces+                       20130723.2306      available  Extensions to `faces.el'.
+  factlog                      20130210.240       available  File activity logger
+  fakespace                    20120817.2006      available  fake namespaces with defpackage
+  fakir                        20130711.2122      available  fakeing bits of Emacs
+  fasd                         20130831.1903      available  Emacs integration for the command-line productivity booster `fasd'
+  fasm-mode                    20131029.1411      available  Fasm major mode
+  fastnav                      20120211.1557      available  Fast navigation and editing routines.
+  feature-mode                 20130714.2220      available  Major mode for editing Gherkin (i.e. Cucumber) user stories
+  fic-mode                     20130824.1158      available  Show FIXME/TODO/BUG/KLUDGE in special face only in comments and strings
+  figlet                       20120601.1515      available  Annoy people with big, ascii art text
+  files+                       20131112.516       available  Enhancements of standard library `files.el'.
+  filesets+                    20130723.2151      available  Extensions to `filesets.el'.
+  fill-column-indicator        20130807.919       available  Graphically indicate the fill column
+  find-file-in-project         20120716.1655      available  Find files in a project quickly.
+  find-file-in-repository      20130221.811       available  Quickly find files in a git, mercurial or other repository
+  find-things-fast             20120920.6         available  Find things fast, leveraging the power of git
+  finder+                      20130824.1205      available  Extensions to standard library finder.el
+  findr                        20130824.1207      available  Breadth-first file-finding facility for (X)Emacs
+  fiplr                        20130810.1841      available  Fuzzy Search for Files in Projects
+  fit-frame                    20130723.2311      available  Resize a frame.  In particular, fit a frame to its buffers.
+  fixmee                       20131106.1006      available  Quickly navigate to FIXME notices in code
+  flash-region                 20130923.2017      available  Flash a region
+  flatland-theme               20131122.1209      available  A simple theme for Emacs.
+  flex-autopair                20120809.2118      available  Automatically insert pair braces and quotes, insertion conditions & actions are highly customizable.
+  flex-isearch                 20130508.1703      available  Flex matching (like ido) in isearch.
+  fliptext                     20131114.218       available  Input method for flipping characters upside down
+  floobits                     20131125.1210      available  Floobits plugin for real-time collaborative editing
+  flx                          20130728.2028      available  fuzzy matching with good sorting
+  flx-ido                      20131030.1243      available  flx integration for ido
+  flycheck                     20131125.1904      available  On-the-fly syntax checking (Flymake done right)
+  flycheck-cask                20130818.1153      available  Cask support in Flycheck
+  flycheck-color-mode-line     20130604.2321      available  Change mode line color with Flycheck status
+  flycheck-d-unittest          20131018.852       available  Add D unittest support to flycheck
+  flycheck-tip                 20131025.620       available  show flycheck's error by popup-tip
+  flymake-coffee               20130828.1126      available  A flymake handler for coffee script
+  flymake-css                  20121104.1904      available  Flymake support for css using csslint
+  flymake-cursor               20130822.1032      available  displays flymake error msg in minibuffer after delay
+  flymake-easy                 20130907.931       available  Helpers for easily building flymake checkers
+  flymake-elixir               20130810.1017      available  A flymake handler for elixir-mode .ex files.
+  flymake-gjshint              20130327.2132      available  A flymake handler for javascript using both jshint and gjslint
+  flymake-go                   20130314.1541      available  A flymake handler for go-mode files
+  flymake-haml                 20130324.1051      available  A flymake handler for haml files
+  flymake-haskell-multi        20130620.1222      available  Syntax-check haskell-mode using both ghc and hlint
+  flymake-hlint                20130309.945       available  A flymake handler for haskell-mode files using hlint
+  flymake-jshint               20130610.1057      available  making flymake work with JSHint
+  flymake-jslint               20130613.1002      available  A flymake handler for javascript using jslint
+  flymake-json                 20130424.757       available  A flymake handler for json using jsonlint
+  flymake-lua                  20130329.1110      available  Flymake for Lua
+  flymake-perlcritic           20120328.914       available  Flymake handler for Perl to invoke Perl::Critic
+  flymake-php                  20121104.1902      available  A flymake handler for php-mode files
+  flymake-puppet               20130731.2203      available  An Emacs flymake handler for syntax-checking puppet using puppet-lint
+  flymake-python-pyflakes      20130730.131       available  A flymake handler for python-mode files using pyflakes (or flake8)
+  flymake-ruby                 20121104.1859      available  A flymake handler for ruby-mode files
+  flymake-rust                 20131020.1145      available  A flymake handler for rust-mode files
+  flymake-sass                 20121218.812       available  Flymake handler for sass and scss files
+  flymake-shell                20121104.1900      available  A flymake syntax-checker for shell scripts
+  flymake-yaml                 20130424.48        available  A flymake handler for YAML
+  flyspell-lazy                20131106.1006      available  Improve flyspell responsiveness using idle timers
+  fm                           20130127.118       available  follow mode for compilation/output buffers
+  fold-dwim                    20120926.1236      available  No description available.
+  fold-dwim-org                20131119.840       available  Fold DWIM bound to org key-strokes.
+  fold-this                    20131113.1147      available  Just fold this region please
+  font-lock+                   20130824.1207      available  Enhancements to standard library `font-lock.el'.
+  font-lock-menus              20130723.2316      available  Font-lock menus: enhanced `font-menus.el'
+  font-utils                   20131106.1006      available  Utility functions for working with fonts
+  foreign-regexp               20130618.1921      available  search and replace by foreign regexp.
+  frame-cmds                   20130921.1622      available  Frame and window commands (interactive functions).
+  frame-fns                    20131028.2235      available  Non-interactive frame and window functions.
+  frame-restore                20130922.1635      available  Restore Emacs frame
+  frame-tag                    20120527.1636      available  Minor mode that assigns a unique number to each frame for easy switching
+  framemove                    20130328.1133      available  directional frame selection routines
+  free-keys                    20131104.2         available  Show free keybindings for modkeys or prefixes
+  fringe-helper                20130519.1641      available  helper functions for fringe bitmaps
+  fsharp-mode                  20131108.2122      available  F# mode for Emacs
+  fuel                         20130920.1342      available  Major mode for the Factor programming language.
+  full-ack                     20130423.2204      available  a front-end for ack
+  fullframe                    20131125.1214      available  Generalized automatic execution in a single frame
+  fullscreen-mode              20130524.956       available  fullscreen window support for Emacs
+  furl                         20110112.1707      available  Friendly URL retrieval
+  fuzzy                        20131026.1543      available  Fuzzy Matching
+  fuzzy-format                 20130824.1200      available  select indent-tabs-mode and format code automatically.
+  fuzzy-match                  20130824.1208      available  fuzzy matching
+  fwb-cmds                     20120808.1317      available  misc frame, window and buffer commands
+  fyure                        20130216.2214      available  An interface to fix Japanese hyoki-yure
+  gandalf-theme                20130809.1147      available  Gandalf color theme
+  gap-mode                     20131011.2314      available  Major mode for editing files in the GAP programing language.
+  gather                       20130423.750       available  Gather string in buffer.
+  geben                        20100330.343       available  DBGp protocol frontend, a script debugger
+  gedit-mode                   20131117.55        available  Emulate the look & feel of GEdit in Emacs
+  geiser                       20130930.515       available  GNU Emacs and Scheme talk to each other
+  genrnc                       20130712.1451      available  generate RELAX NG Compact Schema from RELAX NG Schema, XML Schema and DTD.
+  ggo-mode                     20130524.443       available  Gengetopt major mode
+  ggtags                       20131120.2252      available  GNU Global source code tagging system
+  gh                           20131110.1521      available  A GitHub library for Emacs
+  ghc                          20131119.1414      available  Sub mode for Haskell mode
+  ghci-completion              20130310.836       available  Completion for GHCi commands in inferior-haskell buffers
+  gist                         20131109.2155      available  Emacs integration for gist.github.com
+  git                          20130915.932       available  An Elisp API for programmatically using Git
+  git-annex                    20131119.1524      available  Mode for easy editing of git-annex'd files
+  git-auto-commit-mode         20131007.2323      available  Emacs Minor mode to automatically commit and push
+  git-blame                    20110509.1226      available  Minor mode for incremental blame for Git
+  git-commit-mode              20131124.2132      available  Major mode for editing git commit messages
+  git-commit-training-wheel... 20131121.2244      available  Helps you craft well formed commit messages with git-commit-mode
+  git-dwim                     20130130.2150      available  Context-aware git commands such as branch handling
+  git-gutter                   20131002.1856      available  Port of Sublime Text plugin GitGutter
+  git-gutter+                  20130918.1335      available  Manage Git hunks straight from the buffer
+  git-gutter-fringe            20131117.2335      available  Fringe version of git-gutter.el
+  git-gutter-fringe+           20130902.1129      available  Fringe version of git-gutter+.el
+  git-messenger                20130718.659       available  Port of gitmessenger.vim
+  git-rebase-mode              20131005.1730      available  Major mode for editing git rebase files
+  gitattributes-mode           20131123.2334      available  Major mode for editing .gitattributes files
+  gitconfig                    20130718.1135      available  Emacs lisp interface to work with git-config variables
+  gitconfig-mode               20131009.1430      available  Major mode for editing .gitconfig files
+  github-browse-file           20130515.2247      available  View the file you're editing on GitHub
+  gitignore-mode               20130831.828       available  Major mode for editing .gitignore files
+  gitty                        20121014.1642      available  vc-mode extension for fast git interaction
+  glsl-mode                    20130811.2020      available  major mode for Open GLSL shader files
+  gnuplot                      20130207.101       available  drive gnuplot from within emacs
+  gnuplot-mode                 20131121.1735      available  Major mode for editing gnuplot scripts
+  gnus-alias                   20130824.1206      available  an alternative to gnus-posting-styles
+  gnus-spotlight               20130901.1435      available  Search mail with Spotlight
+  go-autocomplete              20130809.1451      available  auto-complete-mode backend for go-mode
+  go-direx                     20130808.2224      available  Tree style source code viewer for Go language
+  go-eldoc                     20131029.1013      available  eldoc for go-mode
+  go-errcheck                  20130308.1757      available  errcheck integration for go-mode
+  go-mode                      20131113.1435      available  Major mode for the Go programming language
+  go-play                      20120914.2148      available  Paste to play.golang.org
+  go-snippets                  20130821.844       available  Yasnippets for go
+  god-mode                     20131028.2207      available  God-like command entering minor mode
+  golden-ratio                 20130921.1044      available  Automatic resizing of Emacs windows to the golden ratio
+  google-c-style               20130412.1415      available  Google's C/C++ style for c-mode
+  google-contacts              20130430.1720      available  Support for Google Contacts in Emacs
+  google-maps                  20130412.1130      available  Access Google Maps from Emacs
+  google-this                  20131031.1015      available  A set of functions and bindings to google under point.
+  google-translate             20131124.2319      available  Emacs interface to Google Translate
+  google-weather               20110930.1055      available  Fetch Google Weather forecasts.
+  gore-mode                    20131028.927       available  Simple mode for gore, a command-line evaluator for golang.
+  goto-chg                     20130824.1157      available  goto last change
+  goto-last-change             20121115.1014      available  Move point through buffer-undo-list positions
+  gplusify                     20121211.1422      available  Add Google Plus markup to a piece of code
+  grandshell-theme             20130909.331       available  Dark color theme for Emacs > 24 with intensive colors.
+  graphene                     20131030.1903      available  A set of defaults targeted at GUI text editor diaspora.
+  graphviz-dot-mode            20120821.1835      available  Mode for the dot-language used by graphviz (att).
+  grapnel                      20131001.1134      available  HTTP request lib with flexible callback dispatch
+  grass-mode                   20131102.3         available  Provides Emacs modes for interacting with the GRASS GIS program
+  grep+                        20130824.1206      available  Extensions to standard library `grep.el'.
+  grep-a-lot                   20131006.1547      available  manages multiple search results buffers for grep.el
+  grin                         20110806.1658      available  run grin and grind (python replacements for grep and find) putting hits in a grep buffer
+  grizzl                       20130810.1902      available  Fuzzy Search Library & Completing Read
+  groovy-mode                  20130506.1025      available  Groovy mode derived mode
+  gruber-darker-theme          20131123.2243      available  Gruber Darker color theme for Emacs 24.
+  guide-key                    20131109.1823      available  Guide the following key bindings automatically and dynamically
+  guru-mode                    20121016.1452      available  Become an Emacs guru
+  hackernews                   20131018.2207      available  Access the hackernews aggregator from Emacs
+  haml-mode                    20131015.1106      available  Major mode for editing Haml files
+  handlebars-mode              20131122.2329      available  A major mode for editing Handlebars files.
+  handlebars-sgml-mode         20130624.1133      available  Add Handlebars contextual indenting support to sgml-mode
+  hardcore-mode                20111205.716       available  Disable arrow keys + optionally backspace and return
+  hardhat                      20131125.1443      available  Protect against clobbering user-writable files
+  haskell-mode                 20131124.1608      available  A Haskell editing mode
+  haste                        20120625.1944      available  Emacs client for hastebin (http://hastebin.com/about.md)
+  haxe-mode                    20131004.1742      available  An Emacs major mode for Haxe
+  header-button                20130110.1751      available  clickable buttons in header lines
+  header2                      20130824.1159      available  Support for creation and update of file headers.
+  helm                         20131125.1618      available  Helm is an Emacs incremental and narrowing framework
+  helm-R                       20120820.914       available  helm-sources and some utilities for GNU R.
+  helm-ack                     20131102.1755      available  Ack command with helm interface
+  helm-ag                      20131027.2011      available  the silver search with helm interface
+  helm-ag-r                    20131123.1031      available  Search something by ag and display by helm
+  helm-anything                20130408.350       available  Bridge between anything and helm
+  helm-backup                  20131125.2227      available  Backup each file change using git
+  helm-c-yasnippet             20120906.28        available  helm source for yasnippet.el
+  helm-cmd-t                   20131030.1541      available  cmd-t style completion
+  helm-company                 20131113.104       available  Helm interface for company-mode
+  helm-css-scss                20131111.1130      available  CSS/SCSS selector with helm interface
+  helm-descbinds               20131102.901       available  Yet Another `describe-bindings' with `helm'.
+  helm-dictionary              20131120.810       available  Helm source for looking up dictionaries
+  helm-dired-recent-dirs       20130630.2239      available  Show recent dirs with helm.el support.
+  helm-emmet                   20131014.1529      available  helm sources for emmet-mode's snippets
+  helm-flymake                 20130717.1444      available  helm interface for flymake
+  helm-gist                    20120820.935       available  helm-sources and some utilities for gist.
+  helm-git                     20120629.1358      available  Helm extension for Git.
+  helm-git-grep                20131118.2137      available  helm for git grep, an incremental git-grep(1)
+  helm-github-stars            20131123.1717      available  Helm integration for your starred repositories on github
+  helm-go-package              20130930.4         available  helm sources for Go programming language's package
+  helm-gtags                   20131126.7         available  GNU GLOBAL helm interface
+  helm-helm-commands           20130902.1848      available  List all helm commands with helm
+  helm-ls-git                  20131121.951       available  list git files.
+  helm-ls-hg                   20131121.952       available  List hg files in hg project.
+  helm-migemo                  20130820.2040      available  Migemo plug-in for helm
+  helm-open-github             20131118.1313      available  Utilities of Opening Github Page
+  helm-orgcard                 20130608.2030      available  browse the orgcard by helm
+  helm-project-persist         20130601.2228      available  Helm integration for project-persist package
+  helm-projectile              20131119.49        available  Helm integration for Projectile
+  helm-pydoc                   20131119.753       available  pydoc with helm interface
+  helm-rails                   20130424.1719      available  Helm extension for Rails projects.
+  helm-rb                      20131123.1139      available  Search Ruby's method by ag and display helm
+  helm-recoll                  20130906.222       available  helm interface for the recoll desktop search tool.
+  helm-rubygems-local          20130711.2039      available  Installed local rubygems find-file for helm
+  helm-sheet                   20130630.2139      available  helm sources for sheet
+  helm-spaces                  20130606.100       available  helm sources for spaces
+  helm-spotify                 20131014.2221      available  Control Spotify with Helm.
+  helm-swoop                   20131111.1056      available  Efficiently hopping squeezed lines powered by helm interface
+  helm-themes                  20130905.2331      available  Color theme selection with helm interface
+  help+                        20130824.1207      available  Extensions to `help.el'.
+  help-fns+                    20130824.1127      available  Extensions to `help-fns.el'.
+  help-mode+                   20130824.1159      available  Extensions to `help-mode.el'
+  hemisu-theme                 20130508.2044      available  Hemisu for Emacs.
+  heroku                       20120629.1113      available  Interface to Heroku apps.
+  heroku-theme                 20130810.43        available  Heroku color theme
+  hexrgb                       20130723.2323      available  Functions to manipulate colors, including RGB hex strings.
+  hi2                          20130925.1458      available  indentation module for Haskell Mode
+  hide-comnt                   20130824.1159      available  Hide/show comments in code.
+  hide-lines                   20130824.1207      available  Commands for hiding lines based on a regexp
+  highlight                    20131125.312       available  Highlighting commands.
+  highlight-chars              20130908.1927      available  Highlight specified sets of characters, including whitespace.
+  highlight-cl                 20091012.1730      available  Highlighting `cl' functions.
+  highlight-current-line       20051013.1756      available  highlight line where the cursor is.
+  highlight-escape-sequences   20130601.212       available  Highlight escape sequences
+  highlight-indentation        20130106.41        available  Minor modes for highlighting indentation
+  highlight-parentheses        20130523.1752      available  highlight surrounding parentheses
+  highlight-symbol             20131103.2233      available  automatic and manual symbol highlighting
+  highlight-unique-symbol      20130612.1442      available  highlight symbols which not appear in the repository
+  hippie-exp-ext               20130824.1207      available  Extension of hippie-expand
+  hippie-expand-slime          20130907.932       available  Hook slime's completion into hippie-expand
+  hippie-namespace             20131106.1006      available  Special treatment for namespace prefixes in hippie-expand
+  hive                         20131030.1355      available  Hive SQL mode extension
+  hl-defined                   20131020.2340      available  Highlight defined or undefined symbols in Emacs-Lisp.
+  hl-line+                     20130723.2210      available  Extensions to hl-line.el.
+  hl-sentence                  20110815.1154      available  highlight a sentence based on customizable face
+  hl-sexp                      20101130.1343      available  highlight the current sexp
+  hl-spotlight                 20130723.2214      available  Extension of hl-line.el to spotlight current few lines.
+  hl-todo                      20130504.359       available  highlight TODO keywords in comments
+  hlinum                       20130616.34        available  Extension for linum.el to highlight current line number
+  ht                           20130822.1906      available  The missing hash table library for Emacs
+  html-script-src              20120403.2015      available  Insert <script src=".."> for popular JavaScript libraries
+  htmlize                      20130207.2102      available  Convert buffer text and decorations to HTML.
+  http-post-simple             20131011.358       available  HTTP POST requests using the url library
+  http-twiddle                 20121117.1436      available  send & twiddle & resend HTTP requests
+  httpcode                     20120918.1347      available  explains the meaning of an HTTP status code
+  hungry-delete                20120128.1856      available  hungry delete minor mode
+  hy-mode                      20131122.2141      available  Major mode for Hy code
+  iasm-mode                    20131004.1944      available  interactive assembly major mode.
+  ibuffer-git                  20110508.231       available  show git status in ibuffer column
+  ibuffer-vc                   20130924.1408      available  Group ibuffer's list by VC project, or show VC status
+  icicles                      20131125.156       available  Minibuffer input completion and cycling.
+  icomplete+                   20130921.1436      available  Extensions to `icomplete.el'.
+  identica-mode                20130204.1653      available  Major mode API client for status.net open microblogging
+  idle-highlight-mode          20120920.1848      available  highlight the word the point is on
+  idle-require                 20090716.3         available  load elisp libraries while Emacs is idle
+  ido-at-point                 20131103.1417      available  ido-style completion-at-point
+  ido-complete-space-or-hyphen 20130228.956       available  Complete SPACE or HYPHEN when type SPACE in ido
+  ido-gnus                     20130726.1810      available  Access gnus groups or servers using ido
+  ido-hacks                    20130411.1859      available  Put more IDO in your IDO
+  ido-load-library             20131106.1006      available  Load-library alternative using ido-completing-read
+  ido-sort-mtime               20131117.1430      available  Sort Ido's file list by modification time
+  ido-ubiquitous               20131009.1047      available  Use ido (nearly) everywhere.
+  ido-vertical-mode            20131113.2047      available  Makes ido-mode display vertically.
+  idomenu                      20111122.1048      available  imenu tag selection a la ido
+  iedit                        20131021.1616      available  Edit multiple regions in the same way simultaneously.
+  iflipb                       20130331.2008      available  interactively flip between recently visited buffers
+  ignoramus                    20131125.1446      available  Ignore backups, build files, et al.
+  igrep                        20130824.1207      available  An improved interface to `grep` and `find`
+  image+                       20130222.120       available  Image manupulation extensions for Emacs
+  image-dired+                 20130605.1509      available  Image-dired extensions
+  imenu+                       20131018.2100      available  Extensions to `imenu.el'.
+  imenu-anywhere               20130509.2231      available  ido/helm imenu tag selection across all buffers with the same mode
+  impatient-mode               20131109.1622      available  Serve buffers live over HTTP
+  import-popwin                20130820.1129      available  popwin buffer near by import statements with popwin
+  indent-guide                 20130918.1331      available  show vertical lines to guide indentation
+  inf-mongo                    20130305.127       available  Run a MongoDB shell process in a buffer
+  inf-php                      20130414.1621      available  Run a php interactive shell in a buffer
+  inf-ruby                     20131113.2130      available  Run a Ruby process in a buffer
+  inflections                  20121016.957       available  convert english words between singular and plural
+  info+                        20131017.1704      available  Extensions to `info.el'.
+  inform7-mode                 20131009.1643      available  Major mode for editing Inform 7 source files
+  init-loader                  20130218.1210      available  Loader for configuration files
+  initsplit                    20120630.1244      available  code to split customizations into different files
+  inkpot-theme                 20120505.908       available  port of vim's inkpot theme
+  inline-crypt                 20130409.507       available  Simple inline encryption via openssl
+  inlineR                      20120520.2332      available  insert Tag for inline image of R graphics
+  insert-shebang               20131112.2352      available  Insert shebang line automatically.
+  insfactor                    20131116.759       available  No description available.
+  instapaper                   20130104.2221      available  add URLs to instapaper from emacs
+  interaction-log              20131107.257       available  exhaustive log of interactions with Emacs
+  interval-tree                20130325.1507      available  Interval tree data structure for 1D range queries
+  iplayer                      20130625.2103      available  Browse and download BBC TV/radio shows
+  ir-black-theme               20130303.255       available  Port of ir-black theme
+  irfc                         20130824.1207      available  Interface for IETF RFC document.
+  isearch+                     20131021.20        available  Extensions to `isearch.el' (incremental search).
+  isearch-prop                 20131009.2008      available  Search text-property or overlay-property contexts.
+  isearch-symbol-at-point      20130728.952       available  Use isearch to search for the symbol at point
+  isend-mode                   20130419.1158      available  Interactively send parts of an Emacs buffer to an interpreter
+  isgd                         20130927.1557      available  Shorten URLs using the isgd.com shortener service
+  itail                        20130102.1159      available  An interactive tail mode
+  ix                           20131027.2159      available  Emacs client for http://ix.io pastebin
+  iy-go-to-char                20130901.729       available  Go to next CHAR which is similar to "f" and "t" in vim
+  j-mode                       20130301.2049      available  Major mode for editing J programs
+  jabber                       20131124.2333      available  A Jabber client for Emacs.
+  jade-mode                    20131018.1839      available  Major mode for editing .jade files
+  japanese-holidays            20130929.149       available  calendar functions for the Japanese calendar
+  japanlaw                     20130812.942       available  Japan law from law.e-gov.go.jp
+  jaunte                       20130328.1141      available  Emacs Hit a Hint
+  javadoc-lookup               20130618.2036      available  Javadoc Emacs integration with Maven
+  javap-mode                   20120223.1408      available  Javap major mode
+  jedi                         20130714.1415      available  Python auto-completion for Emacs
+  jedi-direx                   20130525.1939      available  Tree style source code viewer for Python buffer
+  jenkins-watch                20121004.1726      available  Watch continuous integration build status
+  jinja2-mode                  20120827.1103      available  A major mode for jinja2
+  jira                         20130824.1158      available  Connect to JIRA issue tracking software
+  jknav                        20121006.1325      available  Automatically enable j/k keys for line-based navigation
+  js-comint                    20080530.757       available  Run javascript in an inferior process window.
+  js2-mode                     20131119.116       available  Improved JavaScript editing mode
+  js2-refactor                 20130622.1018      available  A JavaScript refactoring library for emacs.
+  js3-mode                     20130904.1444      available  An improved JavaScript editing mode
+  json-mode                    20131016.1653      available  Major mode for editing JSON files
+  json-snatcher                20131110.1107      available  Grabs the path to JSON values in a JSON file
+  jss                          20130508.1623      available  An emacs interface to webkit and mozilla debuggers
+  jsx-mode                     20130909.224       available  major mode for JSX
+  jtags                        20111208.1922      available  enhanced tags functionality for Java development
+  jumblr                       20131005.1810      available  an anagram game for emacs
+  jump                         20130702.833       available  build functions which contextually jump between files
+  jump-char                    20130530.752       available  navigation by char
+  jump-to-line                 20130123.153       available  Jump to line number at point.
+  kaesar                       20130915.909       available  Another AES algorithm encrypt/decrypt string with password.
+  kaesar-file                  20130912.1812      available  Encrypt/Decrypt file by AES with password.
+  kaesar-mode                  20130911.2345      available  Encrypt/Decrypt buffer by AES with password.
+  kanban                       20131012.1828      available  Parse org-todo headlines to use org-tables as Kanban tables
+  key-chord                    20080915.2156      available  map pairs of simultaneously pressed keys to commands
+  key-combo                    20130806.1814      available  map key sequence to commands
+  keychain-environment         20121026.2146      available  load keychain environment variables
+  keydef                       20090428.2131      available  a simpler way to define keys, with kbd syntax
+  keyfreq                      20131102.2043      available  track command frequencies
+  keymap-utils                 20130427.1926      available  keymap utilities
+  kibit-mode                   20131104.2259      available  No description available.
+  kill-ring-search             20110605.1744      available  incremental search for the kill ring
+  killer                       20120808.1322      available  kill and delete text
+  kite                         20130201.2038      available  WebKit inspector front-end
+  kivy-mode                    20130710.2132      available  Emacs major mode for editing Kivy files
+  kmacro-decision              20130919.1626      available  Add conditional branching to keyboard macros
+  know-your-http-well          20131126.40        available  Look up the meaning of HTTP headers, methods, relations, status codes
+  kv                           20130818.1137      available  key/value data structure functions
+  kwin                         20130207.31        available  communcate with the KWin window manager
+  lacarte                      20130824.1159      available  Execute menu items as commands, with completion.
+  lang-refactor-perl           20131122.1627      available  Simple refactorings, primarily for Perl
+  langdoc                      20130606.831       available  Help to define help document mode for various languages
+  langtool                     20130920.2006      available  Grammar check utility using LanguageTool
+  latest-clojure-libraries     20131023.1343      available  Clojure dependency resolver
+  latex-extra                  20131125.1057      available  Adds several useful functionalities to LaTeX-mode.
+  latex-pretty-symbols         20111011.1446      available  Display many latex symbols as their unicode counterparts
+  launch                       20130619.1804      available  launch files with OS-standard associated applications.
+  lcs                          20121201.1455      available  find out the longest common sequence
+  ledger-mode                  20131112.924       available  Helper code for use with the "ledger" command-line tool
+  legalese                     20100119.2148      available  Add legalese to your program files
+  lein                         20130227.1852      available  Eshell interface to Leiningen
+  lemon-mode                   20130216.2204      available  A major mode for editing lemon grammar files
+  less-css-mode                20131001.1636      available  Major mode for editing LESS CSS files (lesscss.org)
+  letcheck                     20130214.105       available  Check the erroneous assignments in let forms
+  leuven-theme                 20131108.1751      available  Awesome Emacs color theme on white background
+  levenshtein                  20051013.1756      available  Edit distance between two strings.
+  lexbind-mode                 20130328.1131      available  Puts the value of lexical-binding in the mode line
+  lib-requires                 20130723.2338      available  Commands to list Emacs Lisp library dependencies.
+  link                         20131005.1021      available  Hypertext links in text buffers
+  linphone                     20130524.1306      available  Emacs interface to Linphone
+  linum-relative               20130923.1602      available  display relative line number in emacs.
+  lispxmp                      20130824.1207      available  Automagic emacs lisp code annotation
+  lispyscript-mode             20130828.1519      available  Major mode for LispyScript code.
+  list-packages-ext            20130927.1808      available  Extras for list-packages
+  list-processes+              20131117.1935      available  Add process management to `list-processes'
+  list-register                20130824.1200      available  List register
+  list-utils                   20131106.1006      available  List-manipulation utility functions
+  litable                      20131017.1400      available  dynamic evaluation replacement with emacs
+  lively                       20120728.1413      available  Interactively updating text
+  livescript-mode              20130826.1723      available  Major mode for editing LiveScript files
+  livid-mode                   20131116.1340      available  Live browser eval of JavaScript every time a buffer changes
+  load-relative                20130410.549       available  relative file load (within a multi-file Emacs package)
+  load-theme-buffer-local      20120703.17        available  Install emacs24 color themes by buffer.
+  loc-changes                  20130711.309       available  Helps users and programs keep track of positions even after buffer changes.
+  loccur                       20131022.1119      available  Performs an occur-like folding in current buffer.
+  log4e                        20130515.112       available  provide logging framework for elisp
+  log4j-mode                   20101016.1722      available  major mode for viewing log files
+  logalimacs                   20131021.1429      available  Front-end to logaling-command for Ruby gems
+  logito                       20120225.2155      available  logging library for Emacs
+  lolcode-mode                 20111002.1047      available  Major mode for editing LOLCODE
+  look-dired                   20130512.24        available  Extensions to look-mode for dired buffers
+  look-mode                    20130824.1206      available  quick file viewer for image and text file browsing
+  loop                         20130309.1605      available  friendly imperative loop structures
+  lorem-ipsum                  20051013.1756      available  Insert dummy pseudo Latin text.
+  love-minor-mode              20130429.1759      available  Minor mode for working on LÖVE projects
+  lua-mode                     20131019.959       available  a major-mode for editing Lua scripts
+  lui                          20131024.2158      available  Linewise User Interface
+  lusty-explorer               20130407.1256      available  Dynamic filesystem explorer and buffer switcher
+  macro-math                   20130328.1434      available  in-buffer mathematical operations
+  macros+                      20130723.2342      available  Extensions to `macros.el'.
+  macrostep                    20130504.1520      available  interactive macro stepper for Emacs Lisp
+  mag-menu                     20130224.56        available  Intuitive keyboard-centric menu system
+  magit                        20131125.2319      available  control Git from Emacs
+  magit-commit-training-wheels 20130730.1032      available  Advice for magit-log-edit-commit
+  magit-filenotify             20131018.1053      available  Refresh status buffer when git tree changes
+  magit-find-file              20130915.1223      available  completing-read over all files in Git
+  magit-gh-pulls               20130405.1828      available  GitHub pull requests extension for Magit
+  magit-log-edit               20131031.1455      available  major mode for editing Git commit messages
+  magit-push-remote            20130906.135       available  Push remote support for Magit.
+  magit-stgit                  20131121.2246      available  StGit plug-in for Magit
+  magit-svn                    20131117.2059      available  git-svn plug-in for Magit
+  magit-topgit                 20131121.2246      available  topgit plug-in for Magit
+  magit-tramp                  20130812.2216      available  git method for TRAMP
+  main-line                    20130405.1304      available  modeline replacement forked from an early version of powerline.el
+  mallard-mode                 20130824.417       available  Major mode for editing Mallard files
+  mallard-snippets             20131023.2051      available  Yasnippets for Mallard
+  man-commands                 20130627.1653      available  Add interactive commands for every manpages installed in your computer.
+  map-progress                 20120927.1839      available  mapping macros that report progress
+  map-regexp                   20130522.2303      available  map over matches of a regular expression
+  mark-multiple                20121118.1654      available  Sorta lets you mark several regions at once.
+  mark-tools                   20130614.1125      available  Some simple tools to access the mark-ring in Emacs
+  markdown-mode                20131005.1155      available  Emacs Major mode for Markdown-formatted text files
+  markdown-mode+               20120829.710       available  extra functions for markdown-mode
+  markup                       20130207.2209      available  Simple markup generation helpers.
+  markup-faces                 20130117.1146      available  collection of faces for markup language modes
+  math-symbols                 20130910.931       available  Math Symbol Input methods and conversion tools
+  maude-mode                   20130604.725       available  Emacs mode for the programming language Maude
+  maxframe                     20120725.1149      available  maximize the emacs frame based on display size
+  mb-depth+                    20130723.2213      available  Indicate minibuffer-depth in prompt
+  mc-extras                    20130909.1627      available  Extra functions for multiple-cursors mode.
+  mediawiki                    20130223.1441      available  mediawiki frontend
+  melpa                        20130815.2147      available  special handling for the MELPA repository
+  melpa-upstream-visit         20130719.2305      available  A set of kludges to visit a melpa-hosted package's homepage
+  memoize                      20130421.1534      available  Memoization functions
+  mentor                       20130520.40        available  Frontend for the rTorrent bittorrent client
+  menu-bar+                    20131118.1615      available  Extensions to `menu-bar.el'.
+  metaweblog                   20130707.1701      available  An emacs library to access metaweblog based weblogs
+  mew                          20131120.1944      available  Messaging in the Emacs World
+  mic-paren                    20120716.1647      available  advanced highlighting of matching parentheses
+  midje-mode                   20131019.1557      available  Minor mode for running Midje tests in emacs
+  migemo                       20130310.2231      available  Japanese incremental search through dynamic pattern expansion
+  minibuffer-complete-cycle    20130814.145       available  Cycle through the *Completions* buffer
+  minibuffer-cua               20130906.2034      available  Make CUA mode's S-up/S-down work in minibuffer
+  minimal-session-saver        20131106.1006      available  Very lean session saver
+  minitest                     20131124.2147      available  An Emacs mode for ruby minitest files
+  minor-mode-hack              20130212.1228      available  Change priority of minor-mode keymaps
+  misc-cmds                    20131121.1909      available  Miscellaneous commands (interactive functions).
+  misc-fns                     20130930.1709      available  Miscellaneous non-interactive functions.
+  mmm-mako                     20121019.2351      available  MMM submode class for Mako Templates
+  mmm-mode                     20131028.139       available  Allow Multiple Major Modes in a buffer
+  mo-git-blame                 20131002.1223      available  An interactive, iterative 'git blame' mode for Emacs
+  mo-vi-ment-mode              20131029.1203      available  Provide vi-like cursor movement that's easy on the fingers
+  mocker                       20131006.934       available  mocking framework for emacs
+  mode-icons                   20130602.1448      available  Show icons for modes
+  mode-line-debug              20121207.1644      available  show status of `debug-on-error' in the mode-line
+  modeline-posn                20131123.1939      available  Set up `mode-line-position'.
+  modtime-skip-mode            20130724.122       available  Minor mode for disabling modtime and supersession checks on files.
+  moe-theme                    20131105.213       available  A colorful eye-candy theme. Moe, moe, kyun!
+  molokai-theme                20130828.1600      available  molokai theme with Emacs theme engine
+  mongo                        20120826.14        available  MongoDB driver for Emacs Lisp
+  monky                        20130513.1413      available  Control Hg from Emacs.
+  monokai-theme                20131027.1027      available  A fruity color theme for Emacs.
+  morlock                      20131008.2329      available  more font-lock keywords for elisp
+  mote-mode                    20121015.119       available  Mote minor mode
+  motion-mode                  20131105.208       available  major mode for RubyMotion enviroment
+  mouse+                       20130723.2348      available  Extensions to `mouse.el'.
+  mouse-slider-mode            20130609.1723      available  scale numbers dragged under the mouse
+  mouse3                       20130724.1506      available  Customizable behavior for `mouse-3'.
+  move-text                    20130506.1826      available  Move current line or region with M-up or M-down.
+  mu4e-maildirs-extension      20131014.1742      available  Show mu4e maildirs summary in mu4e-main-view
+  multi                        20131013.1244      available  Clojure-style multi-methods for emacs lisp
+  multi-eshell                 20120608.1835      available  Create and manage multiple shells within Emacs
+  multi-term                   20130108.2305      available  Managing multiple terminal buffers in Emacs.
+  multi-web-mode               20130824.54        available  multiple major mode support for web editing
+  multifiles                   20130615.2249      available  View and edit parts of multiple files in one buffer
+  multiple-cursors             20131031.2138      available  Multiple cursors for Emacs.
+  mustache                     20131117.2207      available  a mustache templating library in emacs lisp
+  mustache-mode                20110927.1253      available  A major mode for editing Mustache files.
+  mustang-theme                20130920.1739      available  port of vim's mustang theme
+  muttrc-mode                  20090804.2252      available  Major mode to edit muttrc under Emacs
+  mwe-log-commands             20100703.1441      available  log keyboard commands to buffer
+  mykie                        20131123.1445      available  user keybinding support tool for Emacs
+  mysql2sqlite                 20120514.931       available  Convert mysql databases into sqlite databases.
+  n3-mode                      20130115.2145      available  mode for Notation 3
+  naked                        20130723.2349      available  Provide for naked key descriptions: no angle brackets.
+  namespaces                   20130327.1150      available  An implementation of namespaces for Elisp, with an emphasis on immutabilty.
+  nanowrimo                    20131116.2150      available  Track progress for nanowrimo
+  naquadah-theme               20130901.1123      available  A theme based on Tango color set
+  nav                          20120507.7         available  Emacs mode for filesystem navigation
+  nav-flash                    20131106.1006      available  Briefly highlight the current line
+  navi-mode                    20131001.2025      available  major-mode for easy buffer-navigation
+  ncl-mode                     20130528.745       available  Major Mode for editing NCL scripts and other goodies
+  nclip                        20130617.2212      available  Network (HTTP) Clipboard
+  nemerle                      20130328.1439      available  major mode for editing nemerle programs
+  nginx-mode                   20130531.2048      available  major mode for editing nginx config files
+  nimrod-mode                  20110125.2304      available  A major mode for the Nimrod programming language
+  noctilux-theme               20131018.1101      available  Dark theme inspired by LightTable
+  nodejs-repl                  20130521.42        available  Run Node.js REPL
+  noflet                       20130901.1722      available  locally override functions
+  nose                         20110804.819       available  Easy Python test running in Emacs
+  notmuch                      20131120.1814      available  No description available.
+  novice+                      20130723.2350      available  Extensions to `novice.el'.
+  nrepl-eval-sexp-fu           20131015.1238      available  No description available.
+  nrepl-ritz                   20130516.1339      available  nrepl extensions for ritz
+  nsis-mode                    20130723.1548      available  NSIS-mode
+  number-font-lock-mode        20131027.1713      available  Syntax highlighting of numeric literals
+  nummm-mode                   20131117.1114      available  Display the number of minor modes instead of their names
+  nyan-mode                    20120710.1922      available  Nyan Cat shows position in current buffer in mode-line.
+  nyan-prompt                  20130721.611       available  Nyan Cat on the eshell prompt.
+  o-blog                       20130904.1426      available  Org-blog exporter
+  oauth                        20130127.1751      available  Oauth library.
+  ob-browser                   20130724.1702      available  Translation of text blocks in org-mode.
+  ob-mongo                     20130718.1532      available  Execute mongodb queries within org-mode blocks.
+  ob-sml                       20130829.1143      available  org-babel functions for template evaluation
+  ob-translate                 20130718.1529      available  Translation of text blocks in org-mode.
+  object-registry              20130521.2113      available  OBSOLETE track data items by various instance slots
+  obsidian-theme               20130920.1737      available  port of the eclipse obsidian theme
+  occidental-theme             20130312.2058      available  Custom theme for faces based on Adwaita
+  occur-x                      20130610.1543      available  Extra functionality for occur
+  octomacs                     20130916.2256      available  Octopress interface for Emacs
+  offlineimap                  20130331.1641      available  Run OfflineIMAP from Emacs
+  omnisharp                    20131110.2301      available  Omnicompletion (intellisense) and more for C#
+  on-screen                    20131009.232       available  guide your eyes while scrolling
+  oneonone                     20130723.2352      available  Frame configuration that uses one frame per window.
+  open-junk-file               20130131.720       available  Open a junk (memo) file to try-and-error
+  openstack-cgit-browse-file   20130819.1127      available  Browse the current file in OpenStack cgit
+  openwith                     20120531.1636      available  Open files with external programs
+  org-agenda-property          20131007.1512      available  Display org properties in the agenda buffer.
+  org-bullets                  20131106.1908      available  Show bullets in org-mode as UTF-8 characters
+  org-context                  20130903.2358      available  Contextual capture and agenda commands for Org-mode
+  org-cua-dwim                 20120202.2334      available  Org-mode and Cua mode compatibility layer
+  org-dotemacs                 20130909.156       available  Store your emacs config as an org file, and choose which bits to load.
+  org-elisp-help               20130424.45        available  org links to emacs-lisp documentation
+  org-fstree                   20090723.1719      available  include a filesystem subtree into an org file
+  org-jekyll                   20130508.1139      available  Export jekyll-ready posts form org-mode entries
+  org-jira                     20130427.2116      available  Syncing between Jira and Org-mode.
+  org-journal                  20131111.1548      available  a simple org-mode based journaling mode
+  org-mac-iCal                 20130310.1757      available  Imports events from iCal.app to the Emacs diary
+  org-mac-link                 20131013.2023      available  Grab links and url from various mac
+  org-magit                    20120820.2056      available  basic support for magit links
+  org-mobile-sync              20131118.2016      available  automatically sync org-mobile on changes
+  org-octopress                20130810.954       available  Compose octopress articles using org-mode.
+  org-outlook                  20121212.1658      available  Outlook org
+  org-page                     20130904.1217      available  a static site generator based on org mode
+  org-pandoc                   20130729.2050      available  Export from Org using Pandoc
+  org-pomodoro                 20131117.935       available  Pomodoro implementation for org-mode.
+  org-present                  20130426.2049      available  Minimalist presentation minor-mode for Emacs org-mode.
+  org-protocol-jekyll          20130811.50        available  Jekyll's handler for org-protocol
+  org-readme                   20130508.905       available  Integrates Readme.org and Commentary/Change-logs.
+  org-screenshot               20131103.115       available  screenshots integrated with org attachment dirs
+  org-toodledo                 20130928.1432      available  Toodledo integration for Emacs Org mode
+  org-trello                   20131124.2241      available  Org minor mode to synchronize with trello
+  org2blog                     20130704.908       available  Blog from Org mode to wordpress
+  orglink                      20130609.1709      available  use Org Mode links in other modes
+  orglue                       20130913.1042      available  more functionality to org-mode.
+  osx-browse                   20131106.1006      available  Web browsing helpers for OS X
+  osx-location                 20130907.933       available  Watch and respond to changes in geographical location on OS X
+  osx-plist                    20101130.1348      available  Apple plist file parser
+  osx-pseudo-daemon            20131026.1730      available  Daemon mode that plays nice with OSX.
+  otter-mode                   20121202.1703      available  Major mode for source files of the Otter automated theorem prover
+  outline-magic                20130813.2233      available  outline mode extensions for Emacs
+  outlined-elisp-mode          20131108.2027      available  outline-minor-mode settings for emacs lisp
+  outorg                       20131023.1235      available  Org-style comment editing
+  outshine                     20131008.1933      available  outline with outshine outshines outline
+  ox-reveal                    20131110.2351      available  reveal.js Presentation Back-End for Org Export Engine
+  ox-tiddly                    20131124.1704      available  org TiddlyWiki exporter
+  ox-twiki                     20131125.814       available  org Twiki and Foswiki export
+  p4                           20131014.1844      available  Simple Perforce-Emacs Integration
+  pabbrev                      20130923.2057      available  Predictive abbreviation expansion
+  package+                     20131007.1559      available  Extensions for the package library.
+  package-build                20131125.1652      available  Tools for assembling a package archive
+  packed                       20130907.1644      available  Package manager agnostic Emacs Lisp package utilities
+  page-break-lines             20130917.1604      available  Display ugly ^L page breaks as tidy horizontal lines
+  pager                        20100330.2031      available  windows-scroll commands
+  pager-default-keybindings    20130719.1357      available  Add the default keybindings suggested for pager.el
+  palette                      20130723.2215      available  Color palette useful with RGB, HSV, and color names
+  palimpsest                   20130731.1821      available  Various deletion strategies when editing
+  pallet                       20131117.1325      available  A package management tool for Emacs, using Cask.
+  pandoc-mode                  20131021.1946      available  Minor mode for interacting with Pandoc
+  pangu-spacing                20130525.1903      available  Minor-mode to add space between Chinese and English characters.
+  paredit                      20130722.1324      available  minor mode for editing parentheses
+  paredit-everywhere           20131010.1118      available  Enable some paredit features in non-lisp buffers
+  paredit-menu                 20130923.2054      available  Adds a menu to paredit.el as memory aid
+  parenface                    20091203.1917      available  Provide a face for parens in lisp modes.
+  parse-csv                    20131107.2100      available  Parse strings with CSV fields into s-expressions
+  password-vault               20131105.2003      available  A Password manager for Emacs.
+  paste-kde                    20131116.1417      available  paste text to KDE's pastebin service
+  pastebin                     20101125.1955      available  A simple interface to the www.pastebin.com webservice
+  pastehub                     20130510.30        available  A client for the PasteHub cloud service
+  pastels-on-dark-theme        20120304.1222      available  Pastels on Dark theme for Emacs 24
+  path-headerline-mode         20130913.719       available  Displaying file path on headerline.
+  pcache                       20120408.1206      available  persistent caching for Emacs
+  pcmpl-args                   20120912.24        available  Enhanced shell command completion
+  pcmpl-git                    20130408.840       available  pcomplete for git
+  pcre2el                      20130621.210       available  parse, convert, and font-lock PCRE, Emacs and rx regexps
+  pcsv                         20131111.50        available  Parser of csv
+  peek-mode                    20130620.1446      available  Serve buffers live over HTTP with elnode backend
+  peg                          20130320.158       available  Parsing Expression Grammars in Emacs Lisp
+  perl-completion              20090528.1536      available  No description available.
+  perlbrew                     20130126.2153      available  A perlbrew wrapper for Emacs
+  persistent-soft              20131106.1006      available  Persistent storage, returning nil on failure
+  persp-mode                   20131124.1819      available  "perspectives" + save/load + shared among frames - bugs.
+  perspective                  20131004.1658      available  switch between named "perspectives" of the editor
+  pg                           20130731.1742      available  Emacs Lisp interface to the PostgreSQL RDBMS
+  pgdevenv                     20130527.557       available  Manage your PostgreSQL development envs
+  ph                           20130312.2037      available  A global minor mode for managing multiple projects.
+  phi-rectangle                20131029.1306      available  another rectangle-mark command (rewrite of rect-mark)
+  phi-search                   20131114.1852      available  another incremental search command, compatible with "multiple-cursors"
+  phi-search-mc                20131010.1958      available  multiple-cursors extension for phi-search
+  phoenix-dark-mono-theme      20130306.1515      available  Monochromatic version of the Phoenix theme
+  phoenix-dark-pink-theme      20130905.1241      available  Port of the Sublime Text 2 theme of the same name
+  php+-mode                    20121129.1452      available  A better PHP mode with Zend Framework 1 support.
+  php-auto-yasnippets          20130818.2349      available  Creates snippets for PHP functions
+  php-boris                    20130527.1021      available  Run boris php REPL
+  php-eldoc                    20130328.1526      available  eldoc backend for php
+  php-mode                     20131029.1345      available  Major mode for editing PHP code
+  pianobar                     20120128.1601      available  thin wrapper for Pianobar, a Pandora Radio client
+  pier-mode                    20131021.1531      available  Emacs Major mode for Pier-formatted text files
+  pig-mode                     20130912.2134      available  Major mode for Pig files
+  pig-snippets                 20130912.2126      available  Snippets for pig-mode
+  pivotal-tracker              20130319.2233      available  Interact with Pivotal Tracker through its API
+  pkg-info                     20131101.1208      available  Information about packages
+  pkgbuild-mode                20130816.1020      available  Interface to the ArchLinux package manager
+  plantuml-mode                20131031.2332      available  Major mode for plantuml
+  plenv                        20130707.1516      available  A plenv wrapper for Emacs
+  plsense                      20130920.1112      available  provide interface for PlSense that is a development tool for Perl.
+  point-undo                   20100504.829       available  undo/redo position
+  pointback                    20100210.1652      available  Restore window points when returning to buffers
+  pomodoro                     20130116.1511      available  A timer for the Pomodoro Technique
+  pony-mode                    20130628.300       available  Minor mode for working with Django Projects
+  pophint                      20130914.2353      available  Provide navigation using pop-up tips, like Firefox's Vimperator Hint Mode
+  popup                        20130708.2245      available  Visual Popup User Interface
+  popup-kill-ring              20131018.1106      available  interactively insert item from kill-ring
+  popup-switcher               20131105.1103      available  switch to other buffers and files via popup.
+  popwin                       20130329.2035      available  Popup Window Manager.
+  pos-tip                      20121128.2315      available  Show tooltip at point
+  pov-mode                     20120825.1616      available  Major mode for editing POV-Ray scene files.
+  powerline                    20131014.215       available  Rewrite of Powerline
+  powershell                   20130824.1206      available  run powershell as an inferior shell in emacs
+  powershell-mode              20100203.258       available  Mode for editing Powershell scripts
+  pp+                          20130723.2353      available  Extensions to `pp.el'.
+  pp-c-l                       20130723.2354      available  Display Control-l characters in a pretty way
+  pretty-lambdada              20130723.2216      available  Show the word `lambda' as the Greek letter.
+  pretty-mode                  20131119.4         available  Redisplay parts of the buffer as pretty symbols.
+  pretty-symbols               20131125.826       available  Draw tokens as Unicode glyphs.
+  proc-net                     20130322.12        available  network process tools
+  processing-mode              20130912.2236      available  Major mode for Processing 2.0
+  processing-snippets          20130718.2052      available  Snippets for processing-mode
+  prognth                      20130920.1959      available  Extend prog1 to arbitrary index
+  project-explorer             20131124.1631      available  A project explorer sidebar
+  project-local-variables      20080502.1652      available  Set project-local variables from a file.
+  project-persist              20131030.1908      available  A minor mode to allow loading and saving of project settings.
+  projectile                   20131120.1056      available  Manage and navigate projects in Emacs easily
+  projector                    20131121.1104      available  Lightweight library for managing project/repository-aware shell and command buffers
+  projmake-mode                20130614.1235      available  Project oriented automatic builder and error highlighter, flymake for projects
+  protobuf-mode                20091217.1755      available  major mode for editing protocol buffers.
+  psvn                         20120401.2340      available  Subversion interface for emacs
+  puppet-mode                  20130819.1946      available  Major mode for Puppet manifests
+  puppetfile-mode              20131017.1733      available  Syntax highlighting for Puppetfiles
+  purple-haze-theme            20130930.1051      available  an overtly purple color theme for Emacs24.
+  purty-mode                   20131004.1859      available  Safely pretty-print greek letters, mathematical symbols, or anything else.
+  py-import-check              20130802.1150      available  Finds the unused python imports using importchecker
+  pylint                       20121112.1335      available  minor mode for running `pylint'
+  pyregexp                     20130531.929       available  [deprecated, use visual-regexp/visual-regexp-steroids instead] A Python regexp/replace command for Emacs with interactive visual feedback
+  python-cell                  20131030.16        available  Support for MATLAB-like cells in python mode
+  python-django                20131030.1317      available  A Jazzy package for managing Django projects
+  python-environment           20130624.1239      available  virtualenv API for Emacs Lisp
+  python-info                  20130916.1420      available  Python info manual for Emacs
+  python-magic                 20120505.1355      available  outline mode extension for python mode
+  qml-mode                     20130416.1832      available  Major mode for editing QT Declarative (QML) code.
+  quick-buffer-switch          20130304.129       available  Quick switch to file or dir buffers.
+  quickref                     20130113.1700      available  Display relevant notes-to-self in the echo area
+  quickrun                     20131104.1116      available  Run commands quickly
+  railgun                      20121017.157       available  No description available.
+  rainbow-delimiters           20131015.1304      available  Highlight nested parens, brackets, braces a different color at each depth.
+  rase                         20120928.2345      available  Run At Sun Event daemon
+  rbenv                        20130807.907       available  Emacs integration for rbenv
+  rcirc-notify                 20131101.1505      available  No description available.
+  rdp                          20120928.2154      available  Recursive Descent Parser library
+  realgud                      20131117.1115      available  A modular front-end for interacting with external debuggers
+  rebox2                       20121113.2100      available  Handling of comment boxes in various styles.
+  recentf-ext                  20130130.2150      available  Recentf extensions
+  rect+                        20130812.944       available  Extensions to rect.el
+  recursive-narrow             20111019.1608      available  narrow-to-region that operates recursively
+  redo+                        20131117.1151      available  Redo/undo system for Emacs
+  redshank                     20120510.1230      available  No description available.
+  refheap                      20130815.821       available  A library for pasting to https://refheap.com
+  regex-dsl                    20100124.1228      available  lisp syntax for regexps
+  regex-tool                   20131104.1434      available  A regular expression evaluation tool for programmers
+  region-bindings-mode         20130430.2107      available  Enable custom bindings when mark is active.
+  relax                        20131029.921       available  For browsing and interacting with CouchDB
+  repl-toggle                  20131125.2111      available  Switch to/from repl buffer for current major-mode
+  replace+                     20131013.2330      available  Extensions to `replace.el'.
+  replace-from-region          20130918.308       available  Replace commands whose query is from region
+  request                      20130526.1915      available  Compatible layer for URL request in Emacs
+  requirejs-mode               20130215.1604      available  Improved AMD module management
+  restclient                   20130627.1342      available  An interactive HTTP client for Emacs
+  reverse-theme                20130402.1912      available  Reverse theme for Emacs
+  revive                       20121022.1311      available  Resume Emacs
+  rfringe                      20110405.1520      available  display the relative location of the region, in the fringe.
+  rhtml-mode                   20130421.1008      available  major mode for editing RHTML files
+  rinari                       20131117.1537      available  Rinari Is Not A Rails IDE
+  rings                        20130721.2305      available  Buffer rings. Like tabs, but better.
+  rnc-mode                     20121227.1802      available  A major mode for editing RELAX NG Compact syntax.
+  robe                         20131116.1422      available  Code navigation, documentation lookup and completion for Ruby
+  roy-mode                     20121207.1930      available  Roy major mode
+  rsense                       20100511.1305      available  RSense client for Emacs
+  rspec-mode                   20131123.49        available  Enhance ruby-mode for RSpec
+  rubocop                      20131101.1338      available  An Emacs interface for RuboCop
+  ruby-additional              20131030.2113      available  ruby-mode extensions yet to be merged into Emacs
+  ruby-block                   20130924.21        available  highlight matching block
+  ruby-compilation             20130429.1411      available  run a ruby process in a compilation buffer
+  ruby-dev                     20130811.1051      available  Interactive developement environment for Ruby.
+  ruby-electric                20131027.2245      available  Minor mode for electrically editing ruby code
+  ruby-end                     20131016.937       available  Automatic insertion of end blocks for Ruby
+  ruby-hash-syntax             20131113.1832      available  Toggle ruby hash syntax between classic and 1.9 styles
+  ruby-interpolation           20130214.1149      available  Ruby string interpolation helpers
+  ruby-refactor                20130808.2227      available  A minor mode which presents various Ruby refactoring helpers.
+  ruby-test-mode               20130924.1018      available  Minor mode for Behaviour and Test Driven
+  ruby-tools                   20131121.1505      available  Collection of handy functions for ruby-mode.
+  runner                       20131018.1421      available  Improved "open with" suggestions for dired
+  rust-mode                    20130928.1740      available  A major emacs mode for editing Rust source code
+  rvm                          20130521.902       available  Emacs integration for rvm
+  s                            20130905.558       available  The long lost Emacs string manipulation library.
+  s-buffer                     20130605.2224      available  s operations for buffers
+  sackspace                    20130719.1156      available  A better backspace
+  sass-mode                    20101019.30        available  Major mode for editing Sass files
+  sauron                       20130818.2134      available  Track (erc/org/dbus/...) events and react to them.
+  save-load-path               20130130.2150      available  save load-path and reuse it to test
+  save-sexp                    20130106.1542      available  save variables in files using setter forms like `setq'
+  save-visited-files           20130508.1233      available  save opened files across sessions
+  savekill                     20130130.2151      available  Save kill ring to disk
+  sbt-mode                     20131123.1129      available  Major mode for sbt >= 0.12 with scala >= 2.9
+  scala-mode                   20131018.1110      available  Major mode for editing Scala code.
+  scala-mode2                  20131116.947       available  Major mode for editing Scala >= 2.9
+  scf-mode                     20111202.2307      available  shorten file-names in compilation type buffers
+  scheme-complete              20130220.2103      available  Smart tab completion for Scheme in Emacs
+  scheme-here                  20131105.1938      available  cmuscheme extension for multiple inferior processes
+  scion                        20130315.825       available  Haskell Minor Mode for Interacting with the Scion Library
+  sclang-extensions            20131118.1133      available  Extensions for the SuperCollider Emacs mode.
+  sclang-snippets              20130513.951       available  Snippets for the SuperCollider Emacs mode
+  scpaste                      20110617.1856      available  Paste to the web via scp.
+  scratch                      20120830.1028      available  Mode-specific scratch buffers
+  scratch-log                  20120131.821       available  Utility for *scratch* buffer.
+  scratch-palette              20131108.2029      available  save scratch notes on each file
+  scratch-pop                  20131108.2030      available  popup "scratch"es
+  screenshot                   20120509.1105      available  Take a screenshot in Emacs
+  scss-mode                    20121203.127       available  Major mode for editing SCSS files
+  second-sel                   20131016.1506      available  Secondary selection commands
+  sensitive                    20131015.935       available  A dead simple way to load sensitive information
+  sentence-highlight           20121026.1450      available  highlight the current sentence
+  sequences                    20130908.1422      available  Ports of some Clojure sequence functions.
+  sequential-command           20100504.855       available  Many commands into one command
+  servant                      20131021.1255      available  ELPA server written in Emacs Lisp
+  session                      20120511.0         available  use variables, registers and buffer places across sessions
+  shell-command                20090621.1332      available  enables tab-completion for `shell-command'
+  shell-here                   20120807.1913      available  Open a shell relative to the working directory
+  shell-history                20100504.850       available  integration with shell history
+  shell-pop                    20130921.1855      available  helps you to use shell easily on Emacs. Only one key action to work.
+  shell-switcher               20130711.1833      available  Provide fast switching between shell buffers
+  shift-text                   20130831.1755      available  Move the region in 4 directions, in a way similar to Eclipse's
+  shimbun                      20120719.338       available  interfacing with web newspapers
+  shorten                      20130621.1740      available  component-wise string shortener
+  show-css                     20130605.1824      available  Show the css of the html attribute the cursor is on
+  show-marks                   20130805.1549      available  Navigate and visualize the mark-ring
+  shut-up                      20131102.1449      available  Shut up would you!
+  sicp                         20121014.1314      available  No description available.
+  simp                         20130602.1301      available  Simple project definition, chiefly for file finding, and grepping
+  simple+                      20130724.2         available  Extensions to standard library `simple.el'.
+  simple-call-tree             20130330.940       available  analyze source code based on font-lock text-properties
+  simple-call-tree+            20131009.1412      available  Extensions to simple-call-tree
+  simple-httpd                 20130908.1604      available  pure elisp HTTP server
+  simpleclip                   20131106.1006      available  Simplified access to the system clipboard
+  simplenote                   20130416.2302      available  Interact with simple-note.appspot.com
+  simplezen                    20130421.1052      available  A simple subset of zencoding-mode for Emacs.
+  skewer-less                  20131015.1422      available  Skewer support for live LESS stylesheet updates
+  skewer-mode                  20131117.1108      available  live browser JavaScript, CSS, and HTML interaction
+  slamhound                    20131107.927       available  Rip Clojure namespaces apart and rebuild them.
+  slideview                    20130513.1342      available  File slideshow
+  slim-mode                    20130614.2240      available  Major mode for editing Slim files
+  slime                        20131117.759       available  Superior Lisp Interaction Mode for Emacs
+  slime-ritz                   20130218.1829      available  slime extensions for ritz
+  smart-compile                20130917.347       available  an interface to `compile'
+  smart-forward                20130205.1352      available  Semantic navigatioin
+  smart-mode-line              20131124.2159      available  A color coded smart mode-line.
+  smart-operator               20051013.1756      available  Beautify the operators in codes
+  smart-tab                    20130317.1157      available  Intelligent tab completion and indentation.
+  smart-tabs-mode              20130718.1237      available  Intelligently indent with tabs, align with spaces!
+  smart-window                 20130214.1142      available  vim-like window controlling plugin
+  smartparens                  20131123.2120      available  Automatic insertion, wrapping and paredit-like navigation with user defined pairs.
+  smartrep                     20130312.1839      available  Support sequential operation which omitted prefix keys.
+  smartscan                    20131121.1247      available  Jumps between other symbols found at point
+  smarty-mode                  20100703.1358      available  major mode for editing smarty templates
+  smex                         20130707.1255      available  M-x interface with Ido-style fuzzy matching.
+  smooth-scroll                20130321.2114      available  Minor mode for smooth scrolling and in-place scrolling.
+  smooth-scrolling             20130602.1609      available  Make emacs scroll smoothly
+  smotitah                     20131018.1744      available  Modular emacs configuration framework
+  snippet                      20130210.1815      available  Insert snippets of text into a buffer
+  soft-charcoal-theme          20130924.2006      available  Dark charcoal theme with soft colors
+  soft-morning-theme           20131123.1626      available  Emacs24 theme with a light background.
+  solarized-theme              20131116.132       available  The Solarized color theme, ported to Emacs.
+  soothe-theme                 20130805.1700      available  a dark colorful theme for Emacs24.
+  sourcetalk                   20130908.2057      available  SourceTalk (http://sourcetalk.net) plugin for Emacs
+  spaces                       20130602.1523      available  Create and switch between named window configurations.
+  sparkline                    20130803.1442      available  Make sparkline images from a list of numbers
+  sparql-mode                  20131009.1008      available  Edit and interactively evaluate SPARQL queries.
+  speechd-el                   20130828.2109      available  Client to speech synthesizers and Braille displays.
+  splitter                     20130705.50        available  Manage window splits
+  spotify                      20130520.1152      available  Control the spotify application from emacs
+  sprintly-mode                20121005.2234      available  Major mode for dealing with sprint.ly
+  sql-indent                   20090325.2254      available  indentation of SQL statements
+  sr-speedbar                  20130309.1959      available  Same frame speedbar
+  ssh                          20120904.1342      available  Support for remote logins using ssh.
+  ssh-config-mode              20120513.2233      available  Mode for fontification of ~/.ssh/config
+  stan-mode                    20131007.2252      available  Major mode for editing STAN files
+  starter-kit                  20130610.2222      available  Saner defaults and goodies.
+  starter-kit-bindings         20120101.1955      available  Saner defaults and goodies: bindings
+  starter-kit-eshell           20121001.1714      available  Saner defaults and goodies: eshell tweaks
+  starter-kit-js               20110930.2320      available  Saner defaults and goodies for Javascript
+  starter-kit-lisp             20120504.2007      available  Saner defaults and goodies for lisp languages
+  starter-kit-perl             20120128.1450      available  Some helpful Perl code
+  starter-kit-ruby             20120128.1450      available  Saner defaults and goodies for Ruby
+  stem                         20131102.709       available  Routines for stemming
+  sticky                       20101130.252       available  Sticky key for capital letters
+  string-edit                  20130816.615       available  Avoid escape nightmares by editing string in separate buffer
+  string-utils                 20131106.1006      available  String-manipulation utilities
+  strings                      20130724.5         available  Miscellaneous string functions.
+  stripe-buffer                20131010.2326      available  Use a different background for even and odd lines
+  stumpwm-mode                 20111113.1231      available  special lisp mode for evaluating code into running stumpwm
+  stupid-indent-mode           20130816.1354      available  Plain stupid indentation minor mode
+  stylus-mode                  20120730.1950      available  Major mode for editing .jade files
+  subatomic-theme              20131011.1948      available  Nice looking emacs 24 theme
+  subatomic256-theme           20130621.1210      available  Fork of subatomic-theme for terminals.
+  sublime-themes               20131125.921       available  A collection of themes based on Sublime Text
+  sublimity                    20131112.1611      available  smooth-scrolling and minimap, like sublime editor
+  subshell-proc                20130122.1322      available  Functions for working with comints
+  sudden-death                 20121218.2249      available  Totsuzen-no-Shi
+  sudo-ext                     20130130.2151      available  sudo support
+  summarye                     20130328.1027      available  list up matched strings from a buffer, and display them in summary buffer
+  sunny-day-theme              20131125.1355      available  Emacs24 theme with a light background.
+  suomalainen-kalenteri        20130414.1635      available  Finnish holidays for Emacs calendar.
+  supergenpass                 20130328.2248      available  SuperGenPass for Emacs
+  surround                     20130927.837       available  emulate surround.vim from Vim
+  svg-mode-line-themes         20130922.2030      available  SVG-based themes for mode-line
+  swbuff                       20041012.718       available  Quick switch between Emacs buffers.
+  swbuff-x                     20130607.1014      available  Modifications to David Ponce's swbuff
+  switch-window                20130914.1540      available  A *visual* way to choose a window to switch to
+  sws-mode                     20120730.2122      available  (S)ignificant (W)hite(S)pace mode
+  synonyms                     20130724.6         available  Look up synonyms for a word or phrase in a thesaurus.
+  syntactic-sugar              20131106.1006      available  Effect-free forms such as if/then/else
+  syslog-mode                  20131021.102       available  Major-mode for viewing log files
+  systemtap-mode               20121210.10        available  A mode for SystemTap
+  tabbar                       20131020.1253      available  No description available.
+  tabbar-ruler                 20130701.2353      available  Pretty tabbar, autohide, use both tabbar/ruler
+  tabulated-list               20120406.2251      available  generic major mode for tabulated lists.
+  tagedit                      20130816.1410      available  Some paredit-like features for html-mode
+  tango-2-theme                20120312.1325      available  Tango 2 color theme for GNU Emacs 24
+  tangotango-theme             20130827.1221      available  Tango Palette color theme for Emacs 24.
+  tc                           20131028.1749      available  a Japanese input method with T-Code on Emacs
+  tdd-status-mode-line         20131123.1816      available  TDD status on the mode-line
+  tea-time                     20120307.1523      available  Simple timer package, useful to make perfect tea.
+  tern                         20130828.1616      available  Tern-powered JavaScript integration
+  tern-auto-complete           20130809.1129      available  Tern Completion by auto-complete.el
+  test-case-mode               20121228.1141      available  unit test front-end
+  test-simple                  20130710.1126      available  Simple Unit Test Framework for Emacs Lisp
+  tex-smart-umlauts            20130708.201       available  Smart umlaut conversion for TeX.
+  textile-mode                 20120721.2158      available  Textile markup editing major mode
+  textmate                     20110816.1446      available  TextMate minor mode for Emacs
+  textmate-to-yas              20130509.1054      available  Import Textmate macros into yasnippet syntax
+  tfs                          20120508.1820      available  MS Team Foundation Server commands for Emacs.
+  theme-changer                20130725.2119      available  Sunrise/Sunset Theme Changer for Emacs
+  thesaurus                    20121125.1937      available  replace a word with a synonym looked up in a web service.
+  thing-cmds                   20131108.437       available  Commands that use things, as defined by `thingatpt.el'.
+  thingatpt+                   20130920.2310      available  Extensions to `thingatpt.el'.
+  thingopt                     20120615.1752      available  Thing at Point optional utilities
+  thread-dump                  20130323.2125      available  Java thread dump viewer
+  thrift                       20130910.1212      available  Major mode for Apache Thrift files
+  thumb-frm                    20130807.1642      available  Commands for thumbnail frames.
+  thumb-through                20120118.2134      available  Plain text reader of HTML documents
+  tidy                         20111222.1756      available  Interface to the HTML Tidy program
+  time-ext                     20130130.2151      available  more function for time/date
+  tmmofl                       20121025.1201      available  Calls functions dependant on font lock highlighting at point
+  todochiku                    20120202.2005      available  A mode for interfacing with Growl, Snarl, and the like.
+  todotxt                      20130527.851       available  A major mode for editing todo.txt files
+  tomatinho                    20130824.1343      available  Tomatinho
+  toml                         20130903.2155      available  TOML (Tom's Obvious, Minimal Language) parser
+  toml-mode                    20130302.748       available  Mojor mode for editing TOML files
+  tommyh-theme                 20131004.1018      available  A bright, bold-colored theme for emacs
+  tool-bar+                    20130723.2140      available  Extensions to standard library tool-bar.el
+  top-mode                     20130605.1739      available  run "top" from emacs
+  tox                          20130925.1612      available  Launch current python test with tox
+  toxi-theme                   20130418.2039      available  A dark color theme by toxi
+  tracking                     20130619.1953      available  Buffer modification tracking
+  tracwiki-mode                20131027.100       available  Emacs Major mode for working with Trac
+  tree-mode                    20121207.1538      available  A mode to manage tree widgets
+  trident-mode                 20130726.1207      available  Live Parenscript interaction
+  tronesque-theme              20130823.36        available  Color Theme based on Tron universe.
+  truthy                       20131106.1006      available  Test the content of a value
+  tss                          20131121.206       available  provide a interface for auto-complete.el/flymake.el on typescript-mode.
+  tt-mode                      20130804.1145      available  Emacs major mode for editing Template Toolkit files.
+  ttrss                        20130409.1849      available  Tiny Tiny RSS elisp bindings
+  tuareg                       20131112.447       available  OCaml mode for Emacs.
+  tumble                       20130326.2210      available  an Tumblr mode for Emacs
+  tumblesocks                  20131006.1140      available  An Emacs tumblr client.
+  tup-mode                     20131010.113       available  Major mode for editing files for Tup
+  twilight-anti-bright-theme   20120713.1116      available  A soothing Emacs 24 light-on-dark theme
+  twilight-bright-theme        20130605.943       available  A Emacs 24 faces port of the TextMate theme
+  twilight-theme               20120412.803       available  Twilight theme for GNU Emacs 24 (deftheme)
+  twittering-mode              20130616.1818      available  Major mode for Twitter
+  typing                       20121026.2118      available  The Typing Of Emacs
+  typo                         20130323.1140      available  Minor mode for typographic editing
+  ucs-cmds                     20130723.2145      available  Macro to create commands that insert Unicode chars.
+  ucs-utils                    20131122.1936      available  Utilities for Unicode characters
+  ujelly-theme                 20131101.1248      available  Ujelly theme for GNU Emacs 24 (deftheme)
+  ukrainian-holidays           20130720.1549      available  Ukrainian holidays for Emacs calendar.
+  uncrustify-mode              20130707.1323      available  Minor mode to automatically uncrustify.
+  underwater-theme             20131117.1602      available  A gentle, deep blue color theme
+  undo-tree                    20131119.144       available  Treat undo history as a tree
+  undohist                     20110401.823       available  Persistent Undo History for GNU Emacs
+  unfill                       20131103.1013      available  The inverse of fill-paragraph and fill-region
+  unicode-enbox                20131122.1300      available  Surround a string with box-drawing characters
+  unicode-fonts                20131122.1301      available  Configure Unicode fonts
+  unicode-progress-reporter    20131106.1006      available  Progress-reporter with fancy characters
+  unicode-whitespace           20131122.1301      available  teach whitespace-mode about fancy characters
+  usage-memo                   20110722.1551      available  integration of Emacs help system and memo
+  use-package                  20131105.1032      available  A use-package declaration for simplifying your .emacs
+  uuid                         20120910.951       available  UUID's for EmacsLisp
+  vagrant                      20130808.1330      available  Manage a vagrant box from emacs
+  vc-check-status              20130814.1422      available  Warn you when quitting emacs and leaving repo dirty.
+  vc-darcs                     20090617.1105      available  a VC backend for darcs
+  vcl-mode                     20121129.2114      available  Syntax highlighting for Varnish Command Language
+  vcomp                        20121231.1148      available  compare version strings
+  vector-utils                 20131106.1006      available  Vector-manipulation utility functions
+  vertica                      20130213.1545      available  Vertica SQL mode extension
+  viewer                       20130314.2337      available  View-mode extension
+  vim-region                   20131125.2137      available  Select region as vim
+  vimgolf                      20120228.848       available  VimGolf interface for the One True Editor
+  vimrc-mode                   20130228.1544      available  Major mode for vimrc files
+  virtualenv                   20120930.1034      available  Virtualenv for Python
+  virtualenvwrapper            20131120.1346      available  a modern virtualenv tool for Emacs
+  visible-mark                 20080221.651       available  Make marks visible.
+  visual-regexp                20131113.1008      available  A regexp/replace command for Emacs with interactive visual feedback
+  visual-regexp-steroids       20130411.2323      available  Extends visual-regexp to support other regexp engines
+  vkill                        20091203.1922      available  view and kill Unix processes from within Emacs
+  vlf                          20130826.1229      available  View Large Files
+  vline                        20120108.1245      available  show vertical line (column highlighting) mode.
+  volatile-highlights          20130321.2241      available  Minor mode for visual feedback on some operations.
+  w32-browser                  20130724.12        available  Run Windows application associated with a file.
+  w32browser-dlgopen           20130724.13        available  Use w32browser with standard Windows Open File box.
+  w3m                          20131124.2318      available  an Emacs interface to w3m
+  wacspace                     20130726.1007      available  The WACky WorkSPACE manager for emACS
+  watch-buffer                 20120331.1344      available  run a shell command when saving a buffer
+  wc-mode                      20120531.1344      available  show wc-like information in status bar
+  wcheck-mode                  20130613.1808      available  General interface for text checkers
+  web                          20130827.1312      available  useful HTTP client
+  web-beautify                 20131118.1926      available  Format HTML, CSS and JavaScript/JSON by js-beautify
+  web-mode                     20131125.2343      available  major mode for editing html templates
+  weblogger                    20110926.1218      available  Weblog maintenance via XML-RPC APIs
+  websocket                    20130921.2340      available  Emacs WebSocket client and server
+  wedge-ws                     20130930.1547      available  Wedge whitespace between columns in text
+  weechat                      20131117.1258      available  Chat via WeeChat's relay protocol in Emacs
+  wgrep                        20130723.2134      available  Writable grep buffer and apply the changes to files
+  wgrep-ack                    20121201.2230      available  Writable ack-and-a-half buffer and apply the changes to files
+  wgrep-ag                     20130725.1831      available  Writable ag buffer and apply the changes to files
+  wgrep-helm                   20121201.2230      available  Writable helm-grep-mode buffer and apply the changes to files
+  whitespace-cleanup-mode      20131105.1505      available  Intelligently call whitespace-cleanup on save
+  whole-line-or-region         20110901.930       available  operate on current line if region undefined
+  wid-edit+                    20130724.13        available  Extensions to standard library `wid-edit.el'.
+  wide-column                  20120814.912       available  Calls functions dependant on column position.
+  wide-n                       20130723.2219      available  Cycle among buffer restrictions
+  widget-mvc                   20130430.2357      available  MVC framework for the emacs widgets
+  wiki                         20120807.1458      available  hypertext authoring the WikiWay
+  wiki-nav                     20131106.1006      available  Simple file navigation using [[WikiStrings]]
+  wimpy-del                    20130724.15        available  Require confirmation for large region deletion.
+  win-switch                   20130202.1237      available  fast, dynamic bindings for window-switching/resizing
+  window+                      20130724.15        available  Extensions to `window.el'.
+  window-end-visible           20131106.1006      available  Find the last visible point in a window
+  window-jump                  20130224.114       available  Move left/right/up/down through your windows.
+  window-layout                20130806.1054      available  window layout manager
+  window-number                20100803.1327      available  Select windows by numbers
+  window-numbering             20130902.1815      available  Numbered window shortcuts
+  windsize                     20110728.1636      available  Simple, intuitive window resizing
+  winpoint                     20131023.1913      available  Remember buffer positions per-window, not per buffer
+  wisp-mode                    20130828.1520      available  Major mode for Wisp code.
+  with-namespace               20130407.1922      available  interoperable elisp namespaces
+  wonderland                   20130912.2219      available  declarative configuration for Emacsen
+  workgroups                   20110724.1825      available  workgroups for windows (for Emacs)
+  workgroups2                  20131103.1525      available  New workspaces for Emacs
+  world-time-mode              20130401.229       available  show whole days of world-time diffs
+  wrap-region                  20130529.728       available  Wrap text with punctation or tag
+  writegood-mode               20130406.2316      available  Polish up poor writing on the fly
+  writeroom-mode               20130315.2007      available  Minor mode for distraction-free writing
+  xcscope                      20131102.1402      available  cscope interface for (X)Emacs
+  xml-rpc                      20130423.1656      available  An elisp implementation of clientside XML-RPC
+  xmlgen                       20130219.1019      available  A DSL for generating XML.
+  xterm-frobs                  20091212.55        available  manipulate xterm when running emacs in tty mode
+  yagist                       20131025.1740      available  Yet Another Emacs integration for gist.github.com
+  yalinum                      20130217.1711      available  yet another display line numbers.
+  yaml-mode                    20130311.1301      available  Major mode for editing YAML files
+  yaoddmuse                    20130225.1711      available  Yet another oddmuse for Emacs
+  yard-mode                    20130402.1603      available  Minor mode for Ruby YARD comments
+  yari                         20130727.1639      available  Yet Another RI interface for Emacs
+  yascroll                     20130321.334       available  Yet Another Scroll Bar Mode
+  yasnippet                    20131031.628       available  Yet another snippet extension for Emacs.
+  yaxception                   20130501.727       available  provide framework about exception like Java for elisp
+  zeitgeist                    20120212.140       available  No description available.
+  zen-and-art-theme            20120622.937       available  zen and art color theme for GNU Emacs 24
+  zenburn-theme                20131123.1547      available  A low contrast color theme for Emacs.
+  zencoding-mode               20111231.345       available  Unfold CSS-selector-like expressions to markup
+  zlc                          20130426.1811      available  Provides zsh like completion system to Emacs
+  znc                          20130508.1343      available  ZNC + ERC
+  zoom-frm                     20131028.2103      available  Commands to zoom frame font size.
+  zossima                      20121117.108       available  Ruby from Emacs
+  zotelo                       20130428.2053      available  Manage Zotero collections from emacs
