@@ -225,7 +225,7 @@
   (elein . [(20120118 1537) nil "running leiningen commands from emacs" single "melpa"])
   (elisp-depend . [(20120427 123) nil "Parse depend libraries of elisp file." single "melpa"])
   (elisp-slime-nav . [(20130612 1246) ((cl-lib (0 2))) "Make M-. and M-, work in elisp like they do in slime" single "melpa"])
-  (elixir-mix . [(20131124 1104) nil "Emacs integration for Elixir's mix" single "melpa"])
+  (elixir-mix . [(20131126 904) nil "Emacs integration for Elixir's mix" single "melpa"])
   (elixir-mode . [(20131012 2343) nil "Major mode for editing Elixir files" tar "melpa"])
   (elmine . [(20130330 2100) nil "Redmine API access via elisp." single "melpa"])
   (elnode . [(20130416 1626) ((web (0 1 4)) (creole (0 8 14)) (fakir (0 0 14)) (db (0 0 5)) (kv (0 0 15))) "The Emacs webserver." tar "melpa"])

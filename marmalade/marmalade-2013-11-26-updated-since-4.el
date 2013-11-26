@@ -1,6 +1,5 @@
 '(
   (drupal-mode . [(0 3 1) ((php-mode (1 5 0))) "Advanced minor mode for Drupal development" tar "marmalade"])
-  (elixir-mix . [(0 2 4) nil "Emacs integration for Elixir's mix" single "marmalade"])
   (charmap . [(0 0 1) nil "Unicode table for Emacs" single "marmalade"])
   (dpaste_de . [(0 2) ((web (0 3 7))) "Emacs mode to paste to dpaste.de" single "marmalade"])
   (ruby-end . [(0 3 1) nil "Automatic insertion of end blocks for Ruby" single "marmalade"])
@@ -89,6 +88,7 @@
   (wiki-nav . [(1 0 0) ((button-lock (1 0 0)) (nav-flash (1 0 0))) "Simple file navigation using [[WikiStrings]]" single "marmalade"])
   (button-lock . [(1 0 0) nil "Clickable text defined by regular expression" single "marmalade"])
   (unicode-fonts . [(0 3 8) ((font-utils (0 7 0)) (ucs-utils (0 7 6)) (persistent-soft (0 8 8)) (pcache (0 2 3))) "Configure Unicode fonts" single "marmalade"])
+  (elixir-mix . [(0 3 0) nil "Emacs integration for Elixir's mix" single "marmalade"])
   (lispyscript-mode . [(0 3 0) nil "Major mode for LispyScript code." single "marmalade"])
   (json-mode . [(1 1 0) nil "Major mode for editing JSON files" single "marmalade"])
   (el-x . [(0 2 4) ((cl-lib (0 2))) "Emacs-lisp extensions." tar "marmalade"])

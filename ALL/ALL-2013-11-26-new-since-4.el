@@ -24,7 +24,7 @@
   (bpe . [(20131101 1444) nil "Blog from Org mode to Blogger" single "melpa"])
   (busybee-theme . [(20130920 1742) nil "port of vim's mustang theme" single "melpa"])
   (calmer-forest-theme . [(20130925 2210) nil "Darkish theme with green/orange tint" single "melpa"])
-  (cask . [(20131120 1358) ((s (1 8 0)) (dash (2 2 0)) (f (0 10 0)) (epl (0 0 1))) "Cask: Emacs dependency management made easy" tar "melpa"])
+  (cask . [(20131126 841) ((s (1 8 0)) (dash (2 2 0)) (f (0 10 0)) (epl (0 0 1))) "Cask: Emacs dependency management made easy" tar "melpa"])
   (cedit . [(20131108 2024) nil "paredit-like commands for c-like languages" single "melpa"])
   (cg . [(20131011 602) nil "major mode for editing Constraint Grammar files" single "melpa"])
   (cider . [(20131125 1215) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 3))) "Clojure Integrated Development Environment and REPL" tar "melpa"])
