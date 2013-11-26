@@ -166,7 +166,7 @@
   (magit-stgit . [(20131121 2246) ((cl-lib (0 3)) (magit (1 3 0))) "StGit plug-in for Magit" single "melpa"])
   (magit-svn . [(20131117 2059) ((cl-lib (0 3)) (magit (1 3 0))) "git-svn plug-in for Magit" single "melpa"])
   (magit-topgit . [(20131121 2246) ((cl-lib (0 3)) (magit (1 3 0))) "topgit plug-in for Magit" single "melpa"])
-  (magit-tramp . [(20130812 2216) ((magit (1 2 0))) "git method for TRAMP" single "melpa"])
+  (magit-tramp . [(20131125 2137) ((magit (1 2 0))) "git method for TRAMP" tar "melpa"])
   (math-symbols . [(20130910 931) ((helm (1 0))) "Math Symbol Input methods and conversion tools" tar "melpa"])
   (mb-depth+ . [(20130723 2213) nil "Indicate minibuffer-depth in prompt" single "melpa"])
   (mc-extras . [(20130909 1627) ((multiple-cursors (1 2 1))) "Extra functions for multiple-cursors mode." tar "melpa"])
