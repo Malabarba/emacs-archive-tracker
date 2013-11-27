@@ -235,7 +235,7 @@
   (pretty-symbols . [(20131125 826) nil "Draw tokens as Unicode glyphs." single "melpa"])
   (prognth . [(20130920 1959) nil "Extend prog1 to arbitrary index" single "melpa"])
   (project-explorer . [(20131124 1631) ((cl-lib (0 3)) (es-lib (0 3))) "A project explorer sidebar" single "melpa"])
-  (projectile-rails . [(20131126 2302) ((projectile (1 0 0 -3)) (inflections (1 1)) (inf-ruby (2 2 6))) "Minor mode for Rails projects based on projectile-mode" single "melpa"])
+  (projectile-rails . [(20131127 1356) ((projectile (1 0 0 -3)) (inflections (1 1)) (inf-ruby (2 2 6))) "Minor mode for Rails projects based on projectile-mode" single "melpa"])
   (projector . [(20131121 1104) ((alert (1 1))) "Lightweight library for managing project/repository-aware shell and command buffers" single "melpa"])
   (puppetfile-mode . [(20131017 1733) nil "Syntax highlighting for Puppetfiles" single "melpa"])
   (purple-haze-theme . [(20130930 1051) ((emacs (24 0))) "an overtly purple color theme for Emacs24." single "melpa"])
