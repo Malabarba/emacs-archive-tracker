@@ -42,6 +42,7 @@
   (rubocop . [(0 3) ((dash (1 0 0))) "An Emacs interface for RuboCop" single "marmalade"])
   (flymake-elixir . [(0 5) nil "A flymake handler for elixir-mode .ex files.     " single "marmalade"])
   (ibuffer-vc . [(0 7) ((cl-lib (0 2))) "Group ibuffer's list by VC project, or show VC status" single "marmalade"])
+  (flymake-python-pyflakes . [(0 9) ((flymake-easy (0 8))) "A flymake handler for python-mode files using pyflakes (or flake8)" single "marmalade"])
   (psgml . [(1 4 1) nil "Lennart Staflin's Psgml package, with Elisp syntax and sgml-validate fixed for Emacsen >=24." tar "marmalade"])
   (ruby-hash-syntax . [(0 3) nil "Toggle ruby hash syntax between classic and 1.9 styles" single "marmalade"])
   (smartparens . [(1 6 1) ((cl-lib (0 1)) (dash (2 3 0))) "Automatic insertion, wrapping and paredit-like navigation with user defined pairs." tar "marmalade"])
