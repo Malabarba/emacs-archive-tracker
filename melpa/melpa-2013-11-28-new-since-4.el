@@ -123,7 +123,7 @@
   (helm-dictionary . [(20131120 810) ((helm (1 5 5))) "Helm source for looking up dictionaries" single "melpa"])
   (helm-emmet . [(20131014 1529) ((helm (1 0)) (emmet-mode (1 0 2))) "helm sources for emmet-mode's snippets" single "melpa"])
   (helm-github-stars . [(20131123 1717) ((helm (1 5 5))) "Helm integration for your starred repositories on github" single "melpa"])
-  (helm-hatena-bookmark . [(20131127 111) ((helm (1 5 6))) "Hatena::Bookmark helm.el interface" single "melpa"])
+  (helm-hatena-bookmark . [(20131128 2257) ((helm (1 5 6))) "Hatena::Bookmark helm.el interface" single "melpa"])
   (helm-helm-commands . [(20130902 1848) ((helm (1 5 4))) "List all helm commands with helm" single "melpa"])
   (helm-ls-hg . [(20131121 952) nil "List hg files in hg project." single "melpa"])
   (helm-pydoc . [(20131119 753) ((helm (1 0))) "pydoc with helm interface" tar "melpa"])
