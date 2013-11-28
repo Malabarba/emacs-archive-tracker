@@ -36,7 +36,7 @@
   (clips-mode . [(20131012 1601) nil "Major mode for editing CLIPS code and REPL" tar "melpa"])
   (clojure-cheatsheet . [(20131022 1505) ((helm (1 5 3)) (cider (0 1 8))) "The Clojure Cheatsheet for Emacs" single "melpa"])
   (cmds-menu . [(20131102 1536) nil "`Recent Commands' submenu for the menu-bar `Tools' menu." single "melpa"])
-  (colorsarenice-theme . [(20131121 1534) ((emacs (24))) "A color theme." tar "melpa"])
+  (colorsarenice-theme . [(20131128 2006) ((emacs (24))) "A color theme." tar "melpa"])
   (company-go . [(20131120 805) ((company (0 6 12))) "company-mode backend for Go (using gocode)" single "melpa"])
   (company-jedi . [(20131128 1604) ((company (0 6 12))) "Jedi backend for company-mode" tar "melpa"])
   (conkeror-minor-mode . [(20131104 2141) nil "Mode for editing conkeror javascript files." single "melpa"])
