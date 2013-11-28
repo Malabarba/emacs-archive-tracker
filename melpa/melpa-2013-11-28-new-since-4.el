@@ -283,7 +283,7 @@
   (tss . [(20131121 206) ((auto-complete (1 4 0)) (json-mode (1 1 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide a interface for auto-complete.el/flymake.el on typescript-mode." tar "melpa"])
   (tt-mode . [(20130804 1145) nil "Emacs major mode for editing Template Toolkit files." single "melpa"])
   (ucs-cmds . [(20130723 2145) nil "Macro to create commands that insert Unicode chars." single "melpa"])
-  (ujelly-theme . [(20131101 1248) nil "Ujelly theme for GNU Emacs 24 (deftheme)" single "melpa"])
+  (ujelly-theme . [(20131128 131) nil "Ujelly theme for GNU Emacs 24 (deftheme)" single "melpa"])
   (vagrant . [(20130808 1330) nil "Manage a vagrant box from emacs" single "melpa"])
   (vc-check-status . [(20130814 1422) nil "Warn you when quitting emacs and leaving repo dirty." tar "melpa"])
   (vim-region . [(20131128 107) nil "Select region as vim" single "melpa"])

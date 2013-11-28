@@ -4,5 +4,5 @@
   (temp-buffer-browse . [(1 1) nil "temp buffer browse mode" single ((:url . "http://elpa.gnu.org/packages/temp-buffer-browse.html") (:keywords "convenience")) "gnu"])
   (dismal . [(1 5) ((cl-lib (0))) "Dis Mode Ain't Lotus: Spreadsheet program Emacs" tar ((:url . "http://elpa.gnu.org/packages/dismal.html")) "gnu"])
   (diff-hl . [(1 5 1) ((cl-lib (0 2))) "Highlight uncommitted changes" tar ((:keywords "vc" "diff") (:url . "https://github.com/dgutov/diff-hl")) "gnu"])
-  (adjust-parens . [(1 3) nil "Indent and dedent Lisp code, automatically adjust close parens" tar ((:url . "http://elpa.gnu.org/packages/adjust-parens.html")) "gnu"])
+  (adjust-parens . [(2 0) nil "Indent and dedent Lisp code, automatically adjust close parens" tar ((:url . "http://elpa.gnu.org/packages/adjust-parens.html")) "gnu"])
  )
