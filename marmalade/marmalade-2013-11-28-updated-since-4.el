@@ -55,7 +55,7 @@
   (rbenv . [(0 0 3) nil "Emacs integration for rbenv" single "marmalade"])
   (markdown-mode . [(2 0) nil "Emacs Major mode for Markdown-formatted text files" single "marmalade"])
   (creole . [(1 0 3) ((noflet (0 0 3)) (kv (0 0 17))) "A parser for the Creole Wiki language" single "marmalade"])
-  (robe . [(0 7 6) ((inf-ruby (2 3 0))) "Code navigation, documentation lookup and completion for Ruby" tar "marmalade"])
+  (robe . [(0 7 7) ((inf-ruby (2 3 0))) "Code navigation, documentation lookup and completion for Ruby" tar "marmalade"])
   (evil-nerd-commenter . [(1 2 5) nil "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" tar "marmalade"])
   (inf-ruby . [(2 3 2) nil "Run a Ruby process in a buffer" single "marmalade"])
   (cpputils-cmake . [(0 4 0) nil "Easy real time C++ syntax check and intellisense if you use CMake." tar "marmalade"])
