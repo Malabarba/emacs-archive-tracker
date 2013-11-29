@@ -1,4 +1,5 @@
 '(
+  (zeal-at-point . [(0 0 2) nil "Search the word at point with Zeal" single "marmalade"])
   (drupal-mode . [(0 3 1) ((php-mode (1 5 0))) "Advanced minor mode for Drupal development" tar "marmalade"])
   (charmap . [(0 0 1) nil "Unicode table for Emacs" single "marmalade"])
   (dpaste_de . [(0 2) ((web (0 3 7))) "Emacs mode to paste to dpaste.de" single "marmalade"])

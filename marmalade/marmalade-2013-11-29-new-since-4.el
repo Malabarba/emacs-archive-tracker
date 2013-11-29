@@ -1,4 +1,5 @@
 '(
+  (zeal-at-point . [(0 0 2) nil "Search the word at point with Zeal" single "marmalade"])
   (tdd-status-mode-line . [(0 1 2) nil "TDD status on the mode-line" single "marmalade"])
   (troncle . [(0 1 2) ((nrepl (0 2 0))) "Emacs convenience functions for tracing clojure code" single "marmalade"])
   (free-keys . [(0 1) ((cl-lib (0 3))) "Show free keybindings for modkeys or prefixes" single "marmalade"])

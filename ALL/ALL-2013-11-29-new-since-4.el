@@ -287,6 +287,7 @@
   (window-numbering . [(20130902 1815) nil "Numbered window shortcuts" single "melpa"])
   (wonderland . [(20130912 2219) ((dash (2 0 0)) (dash-functional (1 0 0)) (multi (2 0 0)) (emacs (24))) "declarative configuration for Emacsen" single "melpa"])
   (xcscope . [(20131102 1402) nil "cscope interface for (X)Emacs" single "melpa"])
+  (zeal-at-point . [(20131129 2315) nil "Search the word at point with Zeal" single "melpa"])
   (troncle . [(0 1 2) ((nrepl (0 2 0))) "Emacs convenience functions for tracing clojure code" single "marmalade"])
   (nrepl-discover . [(0 0 1) nil "Client to load commands from nrepl server" single "marmalade"])
   (immutant-server . [(1 0 0) nil "Run your Immutant server in Emacs" single "marmalade"])
