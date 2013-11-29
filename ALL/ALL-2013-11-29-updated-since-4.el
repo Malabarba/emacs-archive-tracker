@@ -1074,7 +1074,7 @@
   (yard-mode . [(20130402 1603) nil "Minor mode for Ruby YARD comments" single "melpa"])
   (yari . [(20130727 1639) nil "Yet Another RI interface for Emacs" single "melpa"])
   (yascroll . [(20130321 334) nil "Yet Another Scroll Bar Mode" single "melpa"])
-  (yasnippet . [(20131127 2134) nil "Yet another snippet extension for Emacs." tar "melpa"])
+  (yasnippet . [(20131128 2335) nil "Yet another snippet extension for Emacs." tar "melpa"])
   (yaxception . [(20130501 727) nil "provide framework about exception like Java for elisp" single "melpa"])
   (zeitgeist . [(20120212 140) nil "No description available." single "melpa"])
   (zen-and-art-theme . [(20120622 937) nil "zen and art color theme for GNU Emacs 24" single "melpa"])
