@@ -140,6 +140,7 @@
   (iasm-mode . [(20131004 1944) nil "interactive assembly major mode." tar "melpa"])
   (ibuffer-git . [(20110508 231) nil "show git status in ibuffer column" single "melpa"])
   (ido-at-point . [(20131103 1417) ((emacs (24))) "ido-style completion-at-point" single "melpa"])
+  (idris-mode . [(20131129 808) nil "Major mode for editing Idris code" tar "melpa"])
   (imenu+ . [(20131018 2100) nil "Extensions to `imenu.el'." single "melpa"])
   (inform7-mode . [(20131009 1643) ((sws-mode (0 1))) "Major mode for editing Inform 7 source files" single "melpa"])
   (insert-shebang . [(20131112 2352) nil "Insert shebang line automatically." tar "melpa"])
