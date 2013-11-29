@@ -127,7 +127,7 @@
   (helm-rb . [(20131123 1139) ((helm (1 0)) (helm-ag-r (20131123))) "Search Ruby's method by ag and display helm" tar "melpa"])
   (helm-recoll . [(20130906 222) ((helm (1 5 4))) "helm interface for the recoll desktop search tool." single "melpa"])
   (helm-spotify . [(20131014 2221) ((helm (0 0 0)) (multi (2 0 0))) "Control Spotify with Helm." single "melpa"])
-  (helm-swoop . [(20131111 1056) ((helm (1 0)) (emacs (24))) "Efficiently hopping squeezed lines powered by helm interface" tar "melpa"])
+  (helm-swoop . [(20131129 47) ((helm (1 0)) (emacs (24))) "Efficiently hopping squeezed lines powered by helm interface" tar "melpa"])
   (help+ . [(20130824 1207) nil "Extensions to `help.el'." single "melpa"])
   (help-fns+ . [(20130824 1127) nil "Extensions to `help-fns.el'." single "melpa"])
   (help-mode+ . [(20130824 1159) nil "Extensions to `help-mode.el'" single "melpa"])
