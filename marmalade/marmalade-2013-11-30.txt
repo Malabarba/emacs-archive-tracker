@@ -1,0 +1,9 @@
+  zeal-at-point                0.0.3              available  Search the word at point with Zeal
+  zeitgeist                    0.1                available  integrates Emacs with Zeitgeist.
+  zen-and-art-theme            1.0.1              available  zen and art color theme for GNU Emacs 24
+  zen-mode                     20120627           available  remove/restore Emacs distractions quickly
+  zenburn-theme                2.1                available  A low contrast color theme for Emacs.
+  zencoding-mode               0.5.1              available  Unfold CSS-selector-like expressions to markup
+  zjl-hl                       20121028.1901      available  Highlight variable and function call and others in c/emacs, make life easy.
+  znc                          0.0.2              available  ZNC + ERC 
+  zone-matrix                  0.0.1              available  Matrix themed Zone mode
