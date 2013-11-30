@@ -1,4 +1,5 @@
 '(
+  (flycheck-hdevtools . [(0 1) ((flycheck (0 15))) "A flycheck checker for Haskell using hdevtools" single "marmalade"])
   (zeal-at-point . [(0 0 3) nil "Search the word at point with Zeal" single "marmalade"])
   (drupal-mode . [(0 3 1) ((php-mode (1 5 0))) "Advanced minor mode for Drupal development" tar "marmalade"])
   (charmap . [(0 0 1) nil "Unicode table for Emacs" single "marmalade"])

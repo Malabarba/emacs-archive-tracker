@@ -1,4 +1,5 @@
 '(
+  (flycheck-hdevtools . [(0 1) ((flycheck (0 15))) "A flycheck checker for Haskell using hdevtools" single "marmalade"])
   (zeal-at-point . [(0 0 3) nil "Search the word at point with Zeal" single "marmalade"])
   (tdd-status-mode-line . [(0 1 2) nil "TDD status on the mode-line" single "marmalade"])
   (troncle . [(0 1 2) ((nrepl (0 2 0))) "Emacs convenience functions for tracing clojure code" single "marmalade"])
