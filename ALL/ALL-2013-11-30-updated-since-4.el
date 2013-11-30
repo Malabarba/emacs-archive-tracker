@@ -282,7 +282,7 @@
   (expand-region . [(20131106 1343) nil "Increase selected region by semantic units." tar "melpa"])
   (express . [(20131106 1006) ((string-utils (0 3 2))) "Alternatives to `message'" single "melpa"])
   (extend-dnd . [(20130328 1234) nil "R drag and Drop" tar "melpa"])
-  (f . [(20131025 2156) ((s (1 7 0)) (dash (2 2 0))) "Modern API for working with files and directories" single "melpa"])
+  (f . [(20131130 1927) ((s (1 7 0)) (dash (2 2 0))) "Modern API for working with files and directories" single "melpa"])
   (factlog . [(20130210 240) ((deferred (0 3 1))) "File activity logger" single "melpa"])
   (fakespace . [(20120817 2006) nil "fake namespaces with defpackage" single "melpa"])
   (fakir . [(20130711 2122) ((noflet (0 0 8)) (dash (1 3 2))) "fakeing bits of Emacs" single "melpa"])
