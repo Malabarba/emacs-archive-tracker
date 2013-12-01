@@ -84,7 +84,7 @@
   (faces+ . [(20130723 2306) nil "Extensions to `faces.el'." single "melpa"])
   (fasd . [(20130831 1903) ((grizzl (0))) "Emacs integration for the command-line productivity booster `fasd'" single "melpa"])
   (fasm-mode . [(20131029 1411) nil "Fasm major mode" single "melpa"])
-  (fetch . [(20131201 1417) nil "Fetch and unpack resources" single "melpa"])
+  (fetch . [(20131201 1530) nil "Fetch and unpack resources" single "melpa"])
   (files+ . [(20131112 516) nil "Enhancements of standard library `files.el'." single "melpa"])
   (filesets+ . [(20130723 2151) nil "Extensions to `filesets.el'." single "melpa"])
   (finder+ . [(20130824 1205) nil "Extensions to standard library finder.el" single "melpa"])
