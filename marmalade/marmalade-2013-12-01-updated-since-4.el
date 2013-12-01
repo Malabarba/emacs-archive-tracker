@@ -131,6 +131,7 @@
   (git-auto-commit-mode . [(4 2 2) nil "Emacs Minor mode to automatically commit and push" single "marmalade"])
   (ujelly-theme . [(1 0 35) nil "Ujelly theme for GNU Emacs 24 (deftheme)" single "marmalade"])
   (ack-and-a-half . [(1 2 0) nil "Yet another front-end for ack" single "marmalade"])
+  (pcache . [(0 2 4) ((eieio (1 3))) "persistent caching for Emacs" single "marmalade"])
   (ido-ubiquitous . [(2 9) ((emacs (24 1))) "Use ido (nearly) everywhere." single "marmalade"])
   (langtool . [(1 2 1) nil "Grammar check utility using LanguageTool" single "marmalade"])
   (yaml-mode . [(0 0 9) nil "Major mode for editing YAML files" single "marmalade"])

@@ -67,7 +67,7 @@
   (el-spice . [(20131106 141) ((thingatpt+ (0))) "Extra spice for emacs lisp programming" tar "melpa"])
   (elfeed . [(20131126 1844) ((emacs (24 1))) "an Emacs Atom/RSS feed reader" tar "melpa"])
   (elfeed-web . [(20130908 1734) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed" tar "melpa"])
-  (elhome . [(20131105 1841) ((initsplit (20120630))) "A framework for a \"home\" Emacs configuration" tar "melpa"])
+  (elhome . [(20131201 1247) ((initsplit (20120630))) "A framework for a \"home\" Emacs configuration" tar "melpa"])
   (elisp-sandbox . [(20131116 1342) nil "Evaluate EmacsLisp expressions in a sandbox" single "melpa"])
   (elixir-yasnippets . [(20130908 2230) ((yasnippet (0 8 0))) "Yasnippets for Elixir" tar "melpa"])
   (elscreen-mew . [(20131201 1736) ((elscreen (20120413 1107))) "ElScreen Add-On for Mew" single "melpa"])
