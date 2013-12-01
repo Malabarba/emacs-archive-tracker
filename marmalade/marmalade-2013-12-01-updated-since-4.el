@@ -1,4 +1,6 @@
 '(
+  (ix . [(0 7) ((grapnel (0 5 3))) "Emacs client for http://ix.io pastebin" single "marmalade"])
+  (flymake-racket . [(0 10) ((flymake-easy (0 1))) "A flymake handler for scheme-mode files" single "marmalade"])
   (flycheck-hdevtools . [(0 2) ((flycheck (0 15))) "A flycheck checker for Haskell using hdevtools" single "marmalade"])
   (zeal-at-point . [(0 0 3) nil "Search the word at point with Zeal" single "marmalade"])
   (drupal-mode . [(0 3 1) ((php-mode (1 5 0))) "Advanced minor mode for Drupal development" tar "marmalade"])
