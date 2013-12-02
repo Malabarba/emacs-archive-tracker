@@ -185,6 +185,7 @@
   (mb-depth+ . [(20130723 2213) nil "Indicate minibuffer-depth in prompt" single "melpa"])
   (mc-extras . [(20130909 1627) ((multiple-cursors (1 2 1))) "Extra functions for multiple-cursors mode." tar "melpa"])
   (menu-bar+ . [(20131118 1615) nil "Extensions to `menu-bar.el'." single "melpa"])
+  (midje-test-mode . [(20131201 1438) ((clojure-mode (1 7)) (cider (0 3 0))) "Minor mode for midje" single "melpa"])
   (minibuffer-complete-cycle . [(20130814 145) nil "Cycle through the *Completions* buffer" single "melpa"])
   (minibuffer-cua . [(20130906 2034) nil "Make CUA mode's S-up/S-down work in minibuffer" single "melpa"])
   (minitest . [(20131129 1150) ((dash (1 0 0))) "An Emacs mode for ruby minitest files" single "melpa"])
