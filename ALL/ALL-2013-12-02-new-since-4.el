@@ -112,7 +112,7 @@
   (gitattributes-mode . [(20131123 2334) nil "Major mode for editing .gitattributes files" single "melpa"])
   (gnus-spotlight . [(20130901 1435) nil "Search mail with Spotlight" single "melpa"])
   (go-direx . [(20130808 2224) ((direx (0 1 -3))) "Tree style source code viewer for Go language" single "melpa"])
-  (god-mode . [(20131028 2207) nil "God-like command entering minor mode" single "melpa"])
+  (god-mode . [(20131202 705) nil "God-like command entering minor mode" single "melpa"])
   (gore-mode . [(20131028 927) nil "Simple mode for gore, a command-line evaluator for golang." single "melpa"])
   (grass-mode . [(20131102 3) ((cl-lib (0 2))) "Provides Emacs modes for interacting with the GRASS GIS program" single "melpa"])
   (grep+ . [(20130824 1206) nil "Extensions to standard library `grep.el'." single "melpa"])
