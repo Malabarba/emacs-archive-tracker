@@ -88,7 +88,7 @@
   (buffer-stack . [(20101223 1020) nil "Enhanced intelligent switch-to-other-buffer replacement." single "melpa"])
   (buffer-utils . [(20131106 1006) nil "Buffer-manipulation utility functions" single "melpa"])
   (bufshow . [(20130711 1139) ((emacs (24 1))) "A simple presentation tool for Emacs." single "melpa"])
-  (bug-reference-github . [(20130904 2238) nil "Automatically set `bug-reference-url-format' in Github repositories." single "melpa"])
+  (bug-reference-github . [(20131202 2203) nil "Automatically set `bug-reference-url-format' in Github repositories." tar "melpa"])
   (bundler . [(20130316 2242) ((inf-ruby (2 1))) "Interact with Bundler from Emacs" single "melpa"])
   (buster-mode . [(20121219 1422) nil "Minor mode to speed up development when writing tests with Buster.js" single "melpa"])
   (buster-snippets . [(20130714 1440) nil "Yasnippets for the Buster javascript testing framework" tar "melpa"])
