@@ -141,6 +141,7 @@
   (highlight-chars . [(20130908 1927) nil "Highlight specified sets of characters, including whitespace." single "melpa"])
   (highlight-current-line . [(20051013 1756) nil "highlight line where the cursor is." single "melpa"])
   (highlight-unique-symbol . [(20130612 1442) ((deferred (0 3 2))) "highlight symbols which not appear in the repository" single "melpa"])
+  (historyf . [(20131203 105) nil "file history library like browser" single "melpa"])
   (hl-defined . [(20131020 2340) nil "Highlight defined or undefined symbols in Emacs-Lisp." single "melpa"])
   (hl-spotlight . [(20130723 2214) nil "Extension of hl-line.el to spotlight current few lines." single "melpa"])
   (html-to-markdown . [(20131202 1603) nil "HTML to Markdown converter written in Emacs-lisp." single "melpa"])
