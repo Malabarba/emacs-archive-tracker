@@ -16,7 +16,6 @@
   (json-snatcher . [(1 0) nil "Grabs the path to JSON values in a JSON file." single "marmalade"])
   (ac-inf-ruby . [(0 4) ((inf-ruby (2 3 2)) (auto-complete (1 4))) "Enable auto-complete in inf-ruby sessions" single "marmalade"])
   (immutant-server . [(1 0 0) nil "Run your Immutant server in Emacs" single "marmalade"])
-  (flatland-theme . [(0 1 2) nil "A simple theme for Emacs." single "marmalade"])
   (relax . [(0 2) ((json (1 2))) "For browsing and interacting with CouchDB" single "marmalade"])
   (cider . [(0 4 0) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 3))) "Clojure Integrated Development Environment and REPL" tar "marmalade"])
   (lyskom . [(20131008) nil "LysKOM elisp client." single "marmalade"])
