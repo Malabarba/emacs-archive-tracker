@@ -1,4 +1,5 @@
 '(
+  (column-enforce-mode . [(1 0 3) nil "Highlight text that extends beyond a  column" single "marmalade"])
   (ix . [(0 7) ((grapnel (0 5 3))) "Emacs client for http://ix.io pastebin" single "marmalade"])
   (flymake-racket . [(0 10) ((flymake-easy (0 1))) "A flymake handler for scheme-mode files" single "marmalade"])
   (flycheck-hdevtools . [(0 2) ((flycheck (0 15))) "A flycheck checker for Haskell using hdevtools" single "marmalade"])
@@ -15,7 +16,6 @@
   (paste-kde . [(0 5 1) ((web (0 3 6))) "paste text to KDE's pastebin service" single "marmalade"])
   (git-gutter+ . [(0 1) ((git-commit-mode (1 0))) "Manage Git hunks straight from the buffer" single "marmalade"])
   (frame-restore . [(0 4) ((dash (1 2)) (f (0 11)) (emacs (24 1))) "Restore Emacs frame -*- lexical-binding: t; -*-" single "marmalade"])
-  (ample-theme . [(0 2 4) nil "Calm Dark Theme for Emacs " single "marmalade"])
   (emmet-mode . [(1 0 5) nil "Unofficial Emmet's support for emacs" single "marmalade"])
   (web-mode . [(7 0 60) nil "major mode for editing html templates" single "marmalade"])
   (processing-mode . [(1 2 1) nil "Major mode for Processing 2.0" single "marmalade"])

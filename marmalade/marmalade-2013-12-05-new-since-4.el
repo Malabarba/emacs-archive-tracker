@@ -1,4 +1,5 @@
 '(
+  (column-enforce-mode . [(1 0 3) nil "Highlight text that extends beyond a  column" single "marmalade"])
   (ix . [(0 7) ((grapnel (0 5 3))) "Emacs client for http://ix.io pastebin" single "marmalade"])
   (flymake-racket . [(0 10) ((flymake-easy (0 1))) "A flymake handler for scheme-mode files" single "marmalade"])
   (flycheck-hdevtools . [(0 2) ((flycheck (0 15))) "A flycheck checker for Haskell using hdevtools" single "marmalade"])
