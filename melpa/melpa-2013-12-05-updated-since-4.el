@@ -590,7 +590,7 @@
   (macro-math . [(20130328 1434) nil "in-buffer mathematical operations" single "melpa"])
   (macrostep . [(20130504 1520) nil "interactive macro stepper for Emacs Lisp" single "melpa"])
   (mag-menu . [(20130224 56) ((splitter (0 1 0))) "Intuitive keyboard-centric menu system" single "melpa"])
-  (magit . [(20131126 621) ((cl-lib (0 3)) (git-commit-mode (0 14 0)) (git-rebase-mode (0 14 0))) "control Git from Emacs" tar "melpa"])
+  (magit . [(20131205 1305) ((cl-lib (0 3)) (git-commit-mode (0 14 0)) (git-rebase-mode (0 14 0))) "control Git from Emacs" tar "melpa"])
   (magit-commit-training-wheels . [(20130730 1121) nil "Advice for magit-log-edit-commit" single "melpa"])
   (magit-filenotify . [(20131018 1053) ((magit (1 3 0))) "Refresh status buffer when git tree changes" single "melpa"])
   (magit-gh-pulls . [(20130405 1828) ((gh (0 4 3)) (magit (1 1 0))) "GitHub pull requests extension for Magit" single "melpa"])
