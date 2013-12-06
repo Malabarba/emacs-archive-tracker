@@ -37,7 +37,7 @@
   (clojure-cheatsheet . [(20131204 1029) ((helm (1 5 3)) (cider (0 1 8))) "The Clojure Cheatsheet for Emacs" single "melpa"])
   (cmds-menu . [(20131102 1536) nil "`Recent Commands' submenu for the menu-bar `Tools' menu." single "melpa"])
   (colorsarenice-theme . [(20131128 2006) ((emacs (24))) "A color theme." tar "melpa"])
-  (column-enforce-mode . [(20131204 2138) nil "Highlight text that extends beyond a  column" single "melpa"])
+  (column-enforce-mode . [(20131206 505) nil "Highlight text that extends beyond a column" single "melpa"])
   (company-go . [(20131120 805) ((company (0 6 12))) "company-mode backend for Go (using gocode)" single "melpa"])
   (company-jedi . [(20131203 1525) ((company (0 6 12))) "Jedi backend for company-mode" tar "melpa"])
   (conkeror-minor-mode . [(20131104 2141) nil "Mode for editing conkeror javascript files." single "melpa"])
