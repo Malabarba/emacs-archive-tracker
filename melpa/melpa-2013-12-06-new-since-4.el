@@ -273,7 +273,7 @@
   (smartscan . [(20131121 1247) nil "Jumps between other symbols found at point" single "melpa"])
   (soft-charcoal-theme . [(20130924 2006) nil "Dark charcoal theme with soft colors" single "melpa"])
   (soft-morning-theme . [(20131123 1626) nil "Emacs24 theme with a light background." single "melpa"])
-  (soft-stone-theme . [(20131205 1559) ((emacs (24))) "Emacs 24 theme with a light background." single "melpa"])
+  (soft-stone-theme . [(20131206 1628) ((emacs (24))) "Emacs 24 theme with a light background." single "melpa"])
   (sparkline . [(20130803 1442) nil "Make sparkline images from a list of numbers" single "melpa"])
   (speechd-el . [(20130828 2109) nil "Client to speech synthesizers and Braille displays." tar "melpa"])
   (strings . [(20130724 5) nil "Miscellaneous string functions." single "melpa"])
