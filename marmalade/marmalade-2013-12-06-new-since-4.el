@@ -1,5 +1,5 @@
 '(
-  (cider . [(0 3 1) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 3))) "Clojure IDE and REPL" tar "marmalade"])
+  (cider . [(0 4 0) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 3))) "Clojure Integrated Development Environment and REPL" tar "marmalade"])
   (column-enforce-mode . [(1 0 3) nil "Highlight text that extends beyond a  column" single "marmalade"])
   (ix . [(0 7) ((grapnel (0 5 3))) "Emacs client for http://ix.io pastebin" single "marmalade"])
   (flymake-racket . [(0 10) ((flymake-easy (0 1))) "A flymake handler for scheme-mode files" single "marmalade"])
