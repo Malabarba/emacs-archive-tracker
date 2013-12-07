@@ -139,4 +139,5 @@
   (yaml-mode . [(0 0 9) nil "Major mode for editing YAML files" single "marmalade"])
   (mocker . [(0 3 0) ((eieio (1 3)) (el-x (0 2 4))) "mocking framework for emacs" single "marmalade"])
   (fold-dwim-org . [(0 5) ((fold-dwim (1 2))) "Fold DWIM bound to org key-strokes." single "marmalade"])
+  (yari . [(0 7) nil "Yet Another RI interface for Emacs" single "marmalade"])
  )
