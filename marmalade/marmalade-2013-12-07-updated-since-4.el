@@ -101,7 +101,7 @@
   (lispyscript-mode . [(0 3 0) nil "Major mode for LispyScript code." single "marmalade"])
   (json-mode . [(1 1 0) nil "Major mode for editing JSON files" single "marmalade"])
   (el-x . [(0 2 4) ((cl-lib (0 2))) "Emacs-lisp extensions." tar "marmalade"])
-  (dash . [(2 3 0) nil "A modern list library for Emacs" single "marmalade"])
+  (dash . [(2 4 0) nil "A modern list library for Emacs" single "marmalade"])
   (cmake-project . [(0 7) nil "Integrates CMake build process with Emacs" single "marmalade"])
   (git-commit-mode . [(0 13) nil "Major mode for editing git commit messages -*- lexical-binding: t; -*-" single "marmalade"])
   (s . [(1 8 0) nil "The long lost Emacs string manipulation library." single "marmalade"])
