@@ -119,7 +119,7 @@
   (grass-mode . [(20131101 2103) ((cl-lib (0 2))) "Provides Emacs modes for interacting with the GRASS GIS program" single "melpa"])
   (grep+ . [(20131205 1830) nil "Extensions to standard library `grep.el'." single "melpa"])
   (ham-mode . [(20131207 918) ((html-to-markdown (1 2)) (markdown-mode (2 0))) "Html As Markdown. Transparently edit an html file using markdown." single "melpa"])
-  (hamlet-mode . [(20131207 140) ((cl-lib (0 3)) (s (1 7 0))) "Hamlet editing mode" single "melpa"])
+  (hamlet-mode . [(20131207 1156) ((cl-lib (0 3)) (dash (2 3 0)) (s (1 7 0))) "Hamlet editing mode" single "melpa"])
   (helm-ag-r . [(20131123 731) ((helm (1 0))) "Search something by ag and display by helm" single "melpa"])
   (helm-backup . [(20131207 319) ((helm (1 5 5)) (s (1 8 0))) "Backup each file change using git" single "melpa"])
   (helm-company . [(20131112 804) ((helm (1 0)) (company (0 6 12))) "Helm interface for company-mode" single "melpa"])
