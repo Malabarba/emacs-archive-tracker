@@ -28,7 +28,6 @@
   (calmer-forest-theme . [(20130925 2210) nil "Darkish theme with green/orange tint" single "melpa"])
   (cask . [(20131125 2341) ((s (1 8 0)) (dash (2 2 0)) (f (0 10 0)) (epl (0 0 1))) "Cask: Emacs dependency management made easy" tar "melpa"])
   (cedit . [(20131108 324) nil "paredit-like commands for c-like languages" single "melpa"])
-  (cfengine . [(20131126 1208) nil "mode for editing Cfengine files" tar "melpa"])
   (cg . [(20131011 602) nil "major mode for editing Constraint Grammar files" single "melpa"])
   (cider . [(20131206 1450) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 3))) "Clojure Integrated Development Environment and REPL" tar "melpa"])
   (cider-decompile . [(20131116 1002) ((cider (0 3 0)) (javap-mode (9))) "decompilation extension for cider" single "melpa"])
