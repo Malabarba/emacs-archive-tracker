@@ -1,4 +1,5 @@
 '(
+  (gvpr-mode . [(0 1 0) nil "A major mode offering basic syntax coloring for gvpr scripts." single "marmalade"])
   (pinboard-api . [(0 1) nil "Rudimentary http://pinboard.in integration" single "marmalade"])
   (cider . [(0 4 0) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 3))) "Clojure Integrated Development Environment and REPL" tar "marmalade"])
   (column-enforce-mode . [(1 0 3) nil "Highlight text that extends beyond a  column" single "marmalade"])
