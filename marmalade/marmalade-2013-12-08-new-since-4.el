@@ -82,6 +82,7 @@
   (py-import-check . [(0 2) nil "Finds the unused python imports using importchecker" single "marmalade"])
   (cubicle-mode . [(0 1) nil "Cubicle major mode for emacs" single "marmalade"])
   (pickup . [(0 0 3) nil "pickup file. " single "marmalade"])
+  (flycheck-ledger . [(0 1) ((flycheck (0 15))) "Flycheck integration for ledger files" single "marmalade"])
   (anzu . [(0 22) nil "Show number of matches in mode-line while searching" single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
   (discord . [(0 5) nil "Discordian dates for calendar" single "marmalade"])
