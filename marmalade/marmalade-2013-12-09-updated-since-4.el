@@ -1,4 +1,6 @@
 '(
+  (org-gnome . [(0 1) ((notify (2010 8 20)) (telepathy (0 1))) "Orgmode integration with the GNOME desktop" single "marmalade"])
+  (telepathy . [(0 1) nil "Access Telepathy from Emacs" single "marmalade"])
   (gvpr-mode . [(0 1 0) nil "A major mode offering basic syntax coloring for gvpr scripts." single "marmalade"])
   (pinboard-api . [(0 1) nil "Rudimentary http://pinboard.in integration" single "marmalade"])
   (cider . [(0 4 0) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 3))) "Clojure Integrated Development Environment and REPL" tar "marmalade"])
@@ -44,6 +46,7 @@
   (sparql-mode . [(0 7 2) nil "Edit and interactively evaluate SPARQL queries." single "marmalade"])
   (flycheck-color-mode-line . [(0 3) ((flycheck (0 15)) (dash (1 2)) (emacs (24 1))) "Change mode line color with Flycheck status -*- lexical-binding: t -*-" single "marmalade"])
   (paredit-everywhere . [(0 3) ((paredit (22))) "Enable some paredit features in non-lisp buffers" single "marmalade"])
+  (helm-projectile . [(0 10 0) ((helm (1 4 0)) (projectile (0 10 0))) "Helm integration for Projectile" single "marmalade"])
   (ag . [(0 32) nil "A front-end for ag ('the silver searcher'), the C ack replacement." single "marmalade"])
   (groovy-mode . [(201203310931) nil "Groovy mode derived mode" single "marmalade"])
   (rubocop . [(0 3) ((dash (1 0 0))) "An Emacs interface for RuboCop" single "marmalade"])
@@ -63,6 +66,7 @@
   (markdown-mode . [(2 0) nil "Emacs Major mode for Markdown-formatted text files" single "marmalade"])
   (creole . [(1 0 3) ((noflet (0 0 3)) (kv (0 0 17))) "A parser for the Creole Wiki language" single "marmalade"])
   (robe . [(0 7 7) ((inf-ruby (2 3 0))) "Code navigation, documentation lookup and completion for Ruby" tar "marmalade"])
+  (projectile . [(0 10 0) ((s (1 6 0)) (dash (1 5 0)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" single "marmalade"])
   (evil-nerd-commenter . [(1 2 5) nil "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" tar "marmalade"])
   (inf-ruby . [(2 3 2) nil "Run a Ruby process in a buffer" single "marmalade"])
   (circe . [(1 3) ((lui (1 3)) (lcs (1 1))) "Client for IRC in Emacs" tar "marmalade"])

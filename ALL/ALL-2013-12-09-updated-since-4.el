@@ -894,7 +894,7 @@
   (slime-ritz . [(20130218 1537) nil "slime extensions for ritz" single "melpa"])
   (smart-compile . [(20130917 347) nil "an interface to `compile'" single "melpa"])
   (smart-forward . [(20130205 452) ((expand-region (0 8 0))) "Semantic navigatioin" single "melpa"])
-  (smart-mode-line . [(20131207 1553) ((emacs (24 3)) (dash (2 2 0))) "A color coded smart mode-line." single "melpa"])
+  (smart-mode-line . [(20131209 355) ((emacs (24 3)) (dash (2 2 0))) "A color coded smart mode-line." single "melpa"])
   (smart-operator . [(20051013 1756) nil "Beautify the operators in codes" single "melpa"])
   (smart-tab . [(20130317 1157) nil "Intelligent tab completion and indentation." single "melpa"])
   (smart-tabs-mode . [(20130718 939) nil "Intelligently indent with tabs, align with spaces!" single "melpa"])
