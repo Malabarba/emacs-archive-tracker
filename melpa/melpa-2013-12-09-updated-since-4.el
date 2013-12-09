@@ -187,7 +187,7 @@
   (drill-instructor-AZIK-force . [(20120907 1817) ((popup (0 5))) "Support AZIK input" tar "melpa"])
   (dropbox . [(20130513 1537) ((json (1 2)) (oauth (1 0 3))) "Emacs backend for dropbox" single "melpa"])
   (dropdown-list . [(20120329 1636) nil "Drop-down menu interface" single "melpa"])
-  (drupal-mode . [(20131127 1446) ((php-mode (1 5 0))) "Advanced minor mode for Drupal development" tar "melpa"])
+  (drupal-mode . [(20131209 3) ((php-mode (1 5 0))) "Advanced minor mode for Drupal development" tar "melpa"])
   (drupal-spell . [(20130520 955) nil "Aspell extra dictionary for Drupal" tar "melpa"])
   (dsvn . [(20130120 1257) nil "Subversion interface" single "melpa"])
   (dummy-h-mode . [(20130824 1159) nil "switch major mode to c-/c++-/objc-mode on .h file" single "melpa"])
