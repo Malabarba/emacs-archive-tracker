@@ -84,6 +84,7 @@
   (string-utils . [(0 3 2) ((list-utils (0 4 2))) "String-manipulation utilities" single "marmalade"])
   (hardhat . [(0 4 2) ((ignoramus (0 7 0))) "Protect against clobbering user-writable files" single "marmalade"])
   (flymake-checkers . [(0 2) nil "Flymake reloaded with useful checkers" single "marmalade"])
+  (geiser . [(0 5) nil "GNU Emacs and Scheme talk to each other" tar "marmalade"])
   (org-ehtml . [(0 20131014) ((elnode (20130416 1626)) (org-plus-contrib (20131007))) "Export Org-mode files as editable web pages" tar "marmalade"])
   (font-utils . [(0 7 0) ((persistent-soft (0 8 8)) (pcache (0 2 3))) "Utility functions for working with fonts" single "marmalade"])
   (list-utils . [(0 4 2) nil "List-manipulation utility functions" single "marmalade"])
