@@ -997,7 +997,7 @@
   (twilight-anti-bright-theme . [(20120713 316) nil "A soothing Emacs 24 light-on-dark theme" single "melpa"])
   (twilight-bright-theme . [(20130605 143) nil "A Emacs 24 faces port of the TextMate theme" single "melpa"])
   (twilight-theme . [(20120412 603) nil "Twilight theme for GNU Emacs 24 (deftheme)" single "melpa"])
-  (twittering-mode . [(20131208 730) nil "Major mode for Twitter" single "melpa"])
+  (twittering-mode . [(20131211 1017) nil "Major mode for Twitter" single "melpa"])
   (typing . [(20121026 2118) nil "The Typing Of Emacs" single "melpa"])
   (typo . [(20130323 340) nil "Minor mode for typographic editing" single "melpa"])
   (ucs-utils . [(20131122 1636) ((persistent-soft (0 8 8)) (pcache (0 2 3)) (list-utils (0 4 2))) "Utilities for Unicode characters" tar "melpa"])
