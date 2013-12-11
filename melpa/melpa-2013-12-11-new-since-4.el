@@ -50,7 +50,7 @@
   (cycbuf . [(20131203 1237) nil "Cycle buffers, inspired by swbuff.el, swbuff-x.el, and bs.el" single "melpa"])
   (dash-functional . [(20130831 1340) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp" single "melpa"])
   (dayone . [(20131117 255) ((uuid (0 0 3)) (mustache (0 22)) (ht (1 5))) "Utility script for Day One" tar "melpa"])
-  (debpaste . [(20131210 1206) ((xml-rpc (1 6 7))) "Interface for getting/posting/deleting pastes from paste.debian.net" single "melpa"])
+  (debpaste . [(20131210 2303) ((xml-rpc (1 6 7))) "Interface for getting/posting/deleting pastes from paste.debian.net" single "melpa"])
   (dedukti-mode . [(20131114 1216) nil "Major mode for Dedukti files" single "melpa"])
   (dictionary . [(20131005 526) ((connection (1 10)) (link (1 10))) "Client for rfc2229 dictionary servers" single "melpa"])
   (dim-autoload . [(20131019 120) nil "dim complete autoload cookie lines" single "melpa"])

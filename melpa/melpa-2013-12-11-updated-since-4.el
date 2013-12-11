@@ -412,7 +412,7 @@
   (haxe-mode . [(20131004 142) nil "An Emacs major mode for Haxe" single "melpa"])
   (header-button . [(20130110 851) nil "clickable buttons in header lines" single "melpa"])
   (header2 . [(20130824 1159) nil "Support for creation and update of file headers." single "melpa"])
-  (helm . [(20131210 1202) nil "Helm is an Emacs incremental and narrowing framework" tar "melpa"])
+  (helm . [(20131210 2301) nil "Helm is an Emacs incremental and narrowing framework" tar "melpa"])
   (helm-R . [(20120819 1714) ((helm (20120517)) (ess (20120509))) "helm-sources and some utilities for GNU R." single "melpa"])
   (helm-ack . [(20131102 155) ((helm (1 0))) "Ack command with helm interface" single "melpa"])
   (helm-ag . [(20131125 1834) ((helm (1 5 6))) "the silver search with helm interface" single "melpa"])
