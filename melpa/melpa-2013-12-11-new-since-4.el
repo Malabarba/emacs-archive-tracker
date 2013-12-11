@@ -113,7 +113,7 @@
   (fullframe . [(20131129 1330) nil "Generalized automatic execution in a single frame" single "melpa"])
   (geiser . [(20131208 1817) nil "GNU Emacs and Scheme talk to each other" tar "melpa"])
   (genrnc . [(20130711 2251) ((deferred (0 3 1)) (log4e (0 2 0)) (yaxception (0 1))) "generate RELAX NG Compact Schema from RELAX NG Schema, XML Schema and DTD." tar "melpa"])
-  (ggtags . [(20131209 2156) ((emacs (24))) "emacs frontend to GNU Global source code tagging system" single "melpa"])
+  (ggtags . [(20131210 1955) ((emacs (24))) "emacs frontend to GNU Global source code tagging system" single "melpa"])
   (git . [(20130915 32) ((s (1 7 0)) (dash (2 2 0)) (f (0 10 0))) "An Elisp API for programmatically using Git" single "melpa"])
   (git-annex . [(20131119 1445) nil "Mode for easy editing of git-annex'd files" single "melpa"])
   (git-commit-training-wheels-mode . [(20131121 544) ((git-commit-mode (0 14 0))) "Helps you craft well formed commit messages with git-commit-mode" single "melpa"])
