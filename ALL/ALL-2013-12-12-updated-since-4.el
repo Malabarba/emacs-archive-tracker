@@ -899,7 +899,7 @@
   (smart-tab . [(20130317 1157) nil "Intelligent tab completion and indentation." single "melpa"])
   (smart-tabs-mode . [(20130718 939) nil "Intelligently indent with tabs, align with spaces!" single "melpa"])
   (smart-window . [(20130214 1142) nil "vim-like window controlling plugin" single "melpa"])
-  (smartparens . [(20131202 955) ((cl-lib (0 1)) (dash (2 3 0))) "Automatic insertion, wrapping and paredit-like navigation with user defined pairs." tar "melpa"])
+  (smartparens . [(20131212 549) ((cl-lib (0 3)) (dash (2 4 0))) "Automatic insertion, wrapping and paredit-like navigation with user defined pairs." tar "melpa"])
   (smartrep . [(20130316 1716) nil "Support sequential operation which omitted prefix keys." single "melpa"])
   (smarty-mode . [(20100703 458) nil "major mode for editing smarty templates" single "melpa"])
   (smex . [(20131210 700) nil "M-x interface with Ido-style fuzzy matching." single "melpa"])
