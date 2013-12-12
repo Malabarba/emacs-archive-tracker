@@ -203,7 +203,7 @@
   (mustang-theme . [(20130920 939) nil "port of vim's mustang theme" single "melpa"])
   (mykie . [(20131129 2058) nil "user keybinding support tool for Emacs" single "melpa"])
   (naked . [(20130723 2349) nil "Provide for naked key descriptions: no angle brackets." single "melpa"])
-  (nanowrimo . [(20131116 2050) nil "Track progress for nanowrimo" single "melpa"])
+  (nanowrimo . [(20131130 2140) nil "Track progress for nanowrimo" single "melpa"])
   (navi-mode . [(20131001 1125) nil "major-mode for easy buffer-navigation" single "melpa"])
   (novice+ . [(20130723 2350) nil "Extensions to `novice.el'." single "melpa"])
   (number-font-lock-mode . [(20131027 913) ((emacs (24))) "Syntax highlighting of numeric literals" single "melpa"])
