@@ -31,7 +31,7 @@
   (cfengine-code-style . [(20131209 411) nil "C code style for CFEngine project." single "melpa"])
   (cg . [(20131210 455) nil "major mode for editing Constraint Grammar files" single "melpa"])
   (chruby . [(20131212 556) nil "Emacs integration for chruby" single "melpa"])
-  (cider . [(20131211 705) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 4))) "Clojure Integrated Development Environment and REPL" tar "melpa"])
+  (cider . [(20131212 641) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 4))) "Clojure Integrated Development Environment and REPL" tar "melpa"])
   (cider-decompile . [(20131116 1002) ((cider (0 3 0)) (javap-mode (9))) "decompilation extension for cider" single "melpa"])
   (cider-tracing . [(20131018 738) ((cider (0 3 0)) (clojure-mode (2 1 0))) "Tracing extension for CIDER" single "melpa"])
   (cl-lib-highlight . [(20131019 751) ((cl-lib (0 3))) "full cl-lib font-lock highlighting" single "melpa"])
