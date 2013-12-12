@@ -300,7 +300,7 @@
   (flex-isearch . [(20130508 1503) nil "Flex matching (like ido) in isearch." single "melpa"])
   (flx . [(20130728 820) ((cl-lib (0 3))) "fuzzy matching with good sorting" single "melpa"])
   (flx-ido . [(20131030 1243) ((flx (0 1)) (cl-lib (0 3))) "flx integration for ido" single "melpa"])
-  (flycheck . [(20131207 959) ((s (1 6 0)) (dash (2 0 0)) (f (0 6 0)) (pkg-info (0 4)) (cl-lib (0 3)) (emacs (24 1))) "On-the-fly syntax checking (Flymake done right)" tar "melpa"])
+  (flycheck . [(20131212 1219) ((s (1 6 0)) (dash (2 0 0)) (f (0 6 0)) (pkg-info (0 4)) (cl-lib (0 3)) (emacs (24 1))) "On-the-fly syntax checking (Flymake done right)" tar "melpa"])
   (flycheck-color-mode-line . [(20131125 2138) ((flycheck (0 15)) (dash (1 2)) (emacs (24 1))) "Change mode line color with Flycheck status" single "melpa"])
   (flymake-coffee . [(20130828 258) ((flymake-easy (0 1))) "A flymake handler for coffee script" single "melpa"])
   (flymake-css . [(20121104 1104) ((flymake-easy (0 1))) "Flymake support for css using csslint" single "melpa"])
