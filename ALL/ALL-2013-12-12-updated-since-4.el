@@ -1027,7 +1027,7 @@
   (visible-mark . [(20080221 651) nil "Make marks visible." single "melpa"])
   (visual-regexp . [(20131204 1046) ((cl-lib (0 2))) "A regexp/replace command for Emacs with interactive visual feedback" single "melpa"])
   (visual-regexp-steroids . [(20131204 1029) ((visual-regexp (0 4))) "Extends visual-regexp to support other regexp engines" tar "melpa"])
-  (vlf . [(20131211 615) nil "View Large Files" single "melpa"])
+  (vlf . [(20131211 1620) nil "View Large Files" single "melpa"])
   (vline . [(20120108 1245) nil "show vertical line (column highlighting) mode." single "melpa"])
   (volatile-highlights . [(20130321 641) nil "Minor mode for visual feedback on some operations." single "melpa"])
   (w32-browser . [(20130724 12) nil "Run Windows application associated with a file." single "melpa"])

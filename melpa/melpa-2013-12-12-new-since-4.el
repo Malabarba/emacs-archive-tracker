@@ -318,7 +318,7 @@
   (vim-region . [(20131204 326) nil "Select region as vim" single "melpa"])
   (virtualenvwrapper . [(20131120 1008) ((dash (1 5 0)) (s (1 6 1))) "a modern virtualenv tool for Emacs" single "melpa"])
   (vkill . [(20091203 1022) nil "view and kill Unix processes from within Emacs" single "melpa"])
-  (vlf . [(20131211 615) nil "View Large Files" single "melpa"])
+  (vlf . [(20131211 1620) nil "View Large Files" single "melpa"])
   (w32-browser . [(20130724 12) nil "Run Windows application associated with a file." single "melpa"])
   (w32browser-dlgopen . [(20130724 13) nil "Use w32browser with standard Windows Open File box." single "melpa"])
   (web-beautify . [(20131118 226) nil "Format HTML, CSS and JavaScript/JSON by js-beautify" single "melpa"])
