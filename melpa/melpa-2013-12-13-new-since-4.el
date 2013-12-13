@@ -121,7 +121,7 @@
   (git-commit-training-wheels-mode . [(20131121 544) ((git-commit-mode (0 14 0))) "Helps you craft well formed commit messages with git-commit-mode" single "melpa"])
   (git-rebase-mode . [(20131013 553) nil "Major mode for editing git rebase files" single "melpa"])
   (gitattributes-mode . [(20131123 641) nil "Major mode for editing .gitattributes files" single "melpa"])
-  (gmail-message-mode . [(20131212 1205) ((ham-mode (1 0))) "A major-mode for editing gmail messages using markdown syntax." single "melpa"])
+  (gmail-message-mode . [(20131213 1156) ((ham-mode (1 0))) "A major-mode for editing gmail messages using markdown syntax." single "melpa"])
   (gnus-spotlight . [(20130901 1435) nil "Search mail with Spotlight" single "melpa"])
   (go-direx . [(20130808 624) ((direx (0 1 -3))) "Tree style source code viewer for Go language" single "melpa"])
   (god-mode . [(20131205 2151) nil "God-like command entering minor mode" single "melpa"])
