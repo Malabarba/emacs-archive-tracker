@@ -35,7 +35,7 @@
   (sequences . [(0 1 0) ((emacs (24))) "Ports of some Clojure sequence functions." single "marmalade"])
   (sensitive . [(1 0 1) ((emacs (24)) (sequences (0 1 0))) "A dead simple way to load sensitive information" single "marmalade"])
   (skewer-less . [(0 2) ((skewer-mode (1 5 3))) "Skewer support for live LESS stylesheet updates" single "marmalade"])
-  (evil-matchit . [(1 0 2) nil "Vim matchit ported into Emacs (requires EVIL)" tar "marmalade"])
+  (evil-matchit . [(1 2 2) nil "Vim matchit ported into Emacs (requires EVIL)" tar "marmalade"])
   (tbemail . [(0 2) nil "Provide syntax highlighting for email editing via" single "marmalade"])
   (timestamper . [(0 1 0) nil "A minor mode for easy timelogging" single "marmalade"])
   (pbcopy . [(0 1 0) nil "OS X clipboard integration for Emacs" single "marmalade"])
