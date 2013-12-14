@@ -311,6 +311,7 @@
   (tronesque-theme . [(20130822 1536) nil "Color Theme based on Tron universe." single "melpa"])
   (tss . [(20131120 906) ((auto-complete (1 4 0)) (json-mode (1 1 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide a interface for auto-complete.el/flymake.el on typescript-mode." tar "melpa"])
   (tt-mode . [(20130804 410) nil "Emacs major mode for editing Template Toolkit files." single "melpa"])
+  (twig-mode . [(20130220 1050) nil "A major mode for twig" single "melpa"])
   (ucs-cmds . [(20130723 2145) nil "Macro to create commands that insert Unicode chars." single "melpa"])
   (ujelly-theme . [(20131211 1552) nil "Ujelly theme for GNU Emacs 24 (deftheme)" single "melpa"])
   (url-shortener . [(20131210 534) nil "shorten long url and expand tinyurl" single "melpa"])

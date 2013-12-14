@@ -294,6 +294,7 @@
   (tracwiki-mode . [(20131026 2205) ((xml-rpc (1 6 8))) "Emacs Major mode for working with Trac" single "melpa"])
   (tronesque-theme . [(20130822 1536) nil "Color Theme based on Tron universe." single "melpa"])
   (tss . [(20131120 906) ((auto-complete (1 4 0)) (json-mode (1 1 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide a interface for auto-complete.el/flymake.el on typescript-mode." tar "melpa"])
+  (twig-mode . [(20130220 1050) nil "A major mode for twig" single "melpa"])
   (ucs-cmds . [(20130723 2145) nil "Macro to create commands that insert Unicode chars." single "melpa"])
   (url-shortener . [(20131210 534) nil "shorten long url and expand tinyurl" single "melpa"])
   (vagrant . [(20130808 618) nil "Manage a vagrant box from emacs" single "melpa"])
