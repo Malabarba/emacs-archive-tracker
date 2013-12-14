@@ -1,4 +1,5 @@
 '(
+  (cider . [(0 4 0) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 3))) "Clojure Integrated Development Environment and REPL" tar "marmalade"])
   (dakrone-theme . [(0 0 2) nil "dakrone's custom dark theme" single "marmalade"])
   (flymake-racket . [(0 40) ((flymake-easy (0 1))) "A flymake handler for scheme-mode files" single "marmalade"])
   (org-gnome . [(0 1) ((notify (2010 8 20)) (telepathy (0 1))) "Orgmode integration with the GNOME desktop" single "marmalade"])
