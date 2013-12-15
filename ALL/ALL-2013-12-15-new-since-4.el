@@ -246,7 +246,7 @@
   (popup-kill-ring . [(20131020 1154) ((popup (0 4)) (pos-tip (0 4))) "interactively insert item from kill-ring" single "melpa"])
   (pp+ . [(20131203 2031) nil "Extensions to `pp.el'." single "melpa"])
   (pretty-symbols . [(20131125 26) nil "Draw tokens as Unicode glyphs." single "melpa"])
-  (prodigy . [(20131215 210) ((s (1 8 0)) (dash (2 4 0)) (ht (1 5)) (f (0 14 0))) "Manage external services from within Emacs" single "melpa"])
+  (prodigy . [(20131215 546) ((s (1 8 0)) (dash (2 4 0)) (ht (1 5)) (f (0 14 0))) "Manage external services from within Emacs" single "melpa"])
   (prognth . [(20130920 1059) nil "Extend prog1 to arbitrary index" single "melpa"])
   (project-explorer . [(20131124 831) ((cl-lib (0 3)) (es-lib (0 3))) "A project explorer sidebar" single "melpa"])
   (projectile-rails . [(20131214 426) ((projectile (1 0 0 -3)) (inflections (1 1)) (inf-ruby (2 2 6))) "Minor mode for Rails projects based on projectile-mode" single "melpa"])
