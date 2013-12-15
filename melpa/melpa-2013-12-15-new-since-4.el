@@ -225,7 +225,7 @@
   (org-gnome . [(20131209 537) ((notify (2010 8 20)) (telepathy (0 1))) "Orgmode integration with the GNOME desktop" single "melpa"])
   (org-mac-link . [(20131208 220) nil "Grab links and url from various mac" single "melpa"])
   (org-mobile-sync . [(20131118 1116) ((emacs (24 3 50)) (org (8 0))) "automatically sync org-mobile on changes" single "melpa"])
-  (org-page . [(20130903 2117) ((ht (1 5)) (mustache (0 22)) (htmlize (1 47)) (org (8 0)) (dash (2 0 0))) "a static site generator based on org mode" tar "melpa"])
+  (org-page . [(20131214 2328) ((ht (1 5)) (mustache (0 22)) (htmlize (1 47)) (org (8 0)) (dash (2 0 0))) "a static site generator based on org mode" tar "melpa"])
   (org-pandoc . [(20130729 1850) nil "Export from Org using Pandoc" tar "melpa"])
   (org-screenshot . [(20131102 1715) ((org (7))) "screenshots integrated with org attachment dirs" single "melpa"])
   (osx-pseudo-daemon . [(20131026 1730) nil "Daemon mode that plays nice with OSX." single "melpa"])
