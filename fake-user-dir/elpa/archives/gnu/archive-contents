@@ -284,7 +284,7 @@
 		  [(0 1)
 		   nil "Unicode confusables table" tar nil])
  (vlf .
-      [(0 9 1)
+      [(1 2)
        nil "View Large Files" single
        ((:url . "https://github.com/m00natic/vlfi")
 	(:keywords "large files" "utilities"))])
