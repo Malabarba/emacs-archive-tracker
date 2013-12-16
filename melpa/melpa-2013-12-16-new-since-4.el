@@ -260,7 +260,7 @@
   (pp-c-l . [(20130723 2354) nil "Display Control-l characters in a pretty way" single "melpa"])
   (pretty-lambdada . [(20130723 2216) nil "Show the word `lambda' as the Greek letter." single "melpa"])
   (pretty-symbols . [(20131125 26) nil "Draw tokens as Unicode glyphs." single "melpa"])
-  (prodigy . [(20131215 546) ((s (1 8 0)) (dash (2 4 0)) (ht (1 5)) (f (0 14 0))) "Manage external services from within Emacs" single "melpa"])
+  (prodigy . [(20131216 1233) ((s (1 8 0)) (dash (2 4 0)) (f (0 14 0))) "Manage external services from within Emacs" single "melpa"])
   (prognth . [(20130920 1059) nil "Extend prog1 to arbitrary index" single "melpa"])
   (project-explorer . [(20131124 831) ((cl-lib (0 3)) (es-lib (0 3))) "A project explorer sidebar" single "melpa"])
   (projectile-rails . [(20131214 426) ((projectile (1 0 0 -3)) (inflections (1 1)) (inf-ruby (2 2 6))) "Minor mode for Rails projects based on projectile-mode" single "melpa"])
