@@ -140,7 +140,7 @@
   (helm-github-stars . [(20131123 817) ((helm (1 5 5))) "Helm integration for your starred repositories on github" single "melpa"])
   (helm-hatena-bookmark . [(20131128 557) ((helm (1 5 6))) "Hatena::Bookmark helm.el interface" single "melpa"])
   (helm-helm-commands . [(20130902 1048) ((helm (1 5 4))) "List all helm commands with helm" single "melpa"])
-  (helm-j-cheatsheet . [(20131209 1031) ((helm (1 5 3)) (j-mode (1 0 0))) "Quick J reference for Emacs" single "melpa"])
+  (helm-j-cheatsheet . [(20131216 359) ((helm (1 5 3)) (j-mode (1 0 0))) "Quick J reference for Emacs" single "melpa"])
   (helm-ls-hg . [(20131121 52) nil "List hg files in hg project." single "melpa"])
   (helm-pydoc . [(20131204 756) ((helm (1 0))) "pydoc with helm interface" tar "melpa"])
   (helm-rb . [(20131123 839) ((helm (1 0)) (helm-ag-r (20131123))) "Search Ruby's method by ag and display helm" tar "melpa"])
