@@ -204,7 +204,7 @@
   (mu4e-maildirs-extension . [(20131014 1101) nil "Show mu4e maildirs summary in mu4e-main-view" single "melpa"])
   (multi . [(20131013 844) ((emacs (24))) "Clojure-style multi-methods for emacs lisp" single "melpa"])
   (mustang-theme . [(20130920 939) nil "port of vim's mustang theme" single "melpa"])
-  (mykie . [(20131215 1921) nil "user keybinding support tool for Emacs" single "melpa"])
+  (mykie . [(20131216 2102) nil "user keybinding support tool for Emacs" single "melpa"])
   (naked . [(20130723 2349) nil "Provide for naked key descriptions: no angle brackets." single "melpa"])
   (nanowrimo . [(20131130 2140) nil "Track progress for nanowrimo" single "melpa"])
   (navi-mode . [(20131001 1125) nil "major-mode for easy buffer-navigation" single "melpa"])
