@@ -19,7 +19,7 @@
   (ariadne . [(0 1) ((bert (0 1))) "Ariadne plugin for Emacs" single "marmalade"])
   (bert . [(0 1) nil "BERT serialization library for Emacs" single "marmalade"])
   (livid-mode . [(0 1 0) ((skewer-mode (1 5 3)) (s (1 8 0))) "Live browser eval of JavaScript every time a buffer changes" single "marmalade"])
-  (minitest . [(0 5) ((dash (1 0 0))) "An Emacs mode for ruby minitest files" single "marmalade"])
+  (minitest . [(0 7) ((dash (1 0 0))) "An Emacs mode for ruby minitest files" single "marmalade"])
   (ido-vertical-mode . [(0 1 1) nil "Makes ido-mode display vertically." single "marmalade"])
   (nrepl-discover . [(0 0 1) nil "Client to load commands from nrepl server" single "marmalade"])
   (json-snatcher . [(1 0) nil "Grabs the path to JSON values in a JSON file." single "marmalade"])
