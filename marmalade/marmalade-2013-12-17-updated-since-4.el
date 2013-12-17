@@ -1,4 +1,5 @@
 '(
+  (ruby-electric . [(2 1 1) nil "Minor mode for electrically editing ruby code" single "marmalade"])
   (desktop-recover . [(0 20090708) nil "custom destktop recover" single "marmalade"])
   (cider . [(0 4 0) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 3))) "Clojure Integrated Development Environment and REPL" tar "marmalade"])
   (dakrone-theme . [(0 0 2) nil "dakrone's custom dark theme" single "marmalade"])
@@ -66,7 +67,7 @@
   (evil . [(1 0 8) ((undo-tree (0 6 3)) (goto-last-change (1 2))) "Extensible Vi layer for Emacs." tar "marmalade"])
   (rbenv . [(0 0 3) nil "Emacs integration for rbenv" single "marmalade"])
   (markdown-mode . [(2 0) nil "Emacs Major mode for Markdown-formatted text files" single "marmalade"])
-  (clj-refactor . [(0 5 0) ((s (1 8 0)) (dash (2 4 0)) (yasnippet (0 6 1)) (paredit (22)) (multiple-cursors (1 2 2))) "A collection of clojure refactoring functions" single "marmalade"])
+  (clj-refactor . [(0 5 1) ((s (1 8 0)) (dash (2 4 0)) (yasnippet (0 6 1)) (paredit (22)) (multiple-cursors (1 2 2))) "A collection of clojure refactoring functions" single "marmalade"])
   (creole . [(1 0 3) ((noflet (0 0 3)) (kv (0 0 17))) "A parser for the Creole Wiki language" single "marmalade"])
   (robe . [(0 7 7) ((inf-ruby (2 3 0))) "Code navigation, documentation lookup and completion for Ruby" tar "marmalade"])
   (projectile . [(0 10 0) ((s (1 6 0)) (dash (1 5 0)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" single "marmalade"])

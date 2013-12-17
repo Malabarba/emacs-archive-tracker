@@ -1,4 +1,5 @@
 '(
+  (ruby-electric . [(2 1 1) nil "Minor mode for electrically editing ruby code" single "marmalade"])
   (desktop-recover . [(0 20090708) nil "custom destktop recover" single "marmalade"])
   (cider . [(0 4 0) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 3))) "Clojure Integrated Development Environment and REPL" tar "marmalade"])
   (dakrone-theme . [(0 0 2) nil "dakrone's custom dark theme" single "marmalade"])
