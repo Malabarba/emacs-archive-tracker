@@ -270,7 +270,7 @@
   (py-import-check . [(20130802 411) nil "Finds the unused python imports using importchecker" single "melpa"])
   (python-cell . [(20131029 1616) nil "Support for MATLAB-like cells in python mode" single "melpa"])
   (python-info . [(20130916 620) nil "Python info manual for Emacs" tar "melpa"])
-  (racket-mode . [(20131216 1405) nil "Racket mode for Emacs" tar "melpa"])
+  (racket-mode . [(20131216 1739) nil "Racket mode for Emacs" tar "melpa"])
   (rcirc-notify . [(20131101 1505) nil "No description available." single "melpa"])
   (refheap . [(20131209 912) ((json (1 2))) "A library for pasting to https://refheap.com" single "melpa"])
   (relax . [(20131029 1434) ((json (1 2))) "For browsing and interacting with CouchDB" single "melpa"])

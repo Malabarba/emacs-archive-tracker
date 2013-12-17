@@ -118,7 +118,7 @@
   (clues-theme . [(20130908 101) ((emacs (24 0))) "an Emacs 24 theme which may well be fully awesome..." single "melpa"])
   (cn-outline . [(20100321 914) nil "No description available." single "melpa"])
   (coffee-fof . [(20131012 530) ((coffee-mode (0 4 1))) "A coffee-mode configuration for `ff-find-other-file'." single "melpa"])
-  (coffee-mode . [(20131215 522) ((emacs (24 1))) "Major mode to edit CoffeeScript files in Emacs" single "melpa"])
+  (coffee-mode . [(20131216 1806) ((emacs (24 1))) "Major mode to edit CoffeeScript files in Emacs" single "melpa"])
   (col-highlight . [(20130808 1605) ((vline (0))) "Highlight the current column." single "melpa"])
   (color-moccur . [(20120811 527) nil "multi-buffer occur (grep) mode" single "melpa"])
   (color-theme . [(20080305 34) nil "install color themes" tar "melpa"])

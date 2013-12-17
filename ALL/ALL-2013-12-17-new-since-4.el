@@ -257,7 +257,7 @@
   (py-import-check . [(20130802 411) nil "Finds the unused python imports using importchecker" single "melpa"])
   (python-cell . [(20131029 1616) nil "Support for MATLAB-like cells in python mode" single "melpa"])
   (python-info . [(20130916 620) nil "Python info manual for Emacs" tar "melpa"])
-  (racket-mode . [(20131216 1405) nil "Racket mode for Emacs" tar "melpa"])
+  (racket-mode . [(20131216 1739) nil "Racket mode for Emacs" tar "melpa"])
   (relax . [(20131029 1434) ((json (1 2))) "For browsing and interacting with CouchDB" single "melpa"])
   (replace+ . [(20131214 301) nil "Extensions to `replace.el'." single "melpa"])
   (ruby-additional . [(20131030 2113) ((emacs (24 3)) (ruby-mode (1 2))) "ruby-mode extensions yet to be merged into Emacs" tar "melpa"])
