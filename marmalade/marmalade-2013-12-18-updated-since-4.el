@@ -70,6 +70,7 @@
   (dash . [(2 4 0) nil "A modern list library for Emacs" single "marmalade"])
   (vector-utils . [(0 1 2) nil "Vector-manipulation utility functions" single "marmalade"])
   (osx-browse . [(0 8 8) ((string-utils (0 3 2)) (browse-url-dwim (0 6 6))) "Web browsing helpers for OS X" single "marmalade"])
+  (cmake-project . [(0 7) nil "Integrates CMake build process with Emacs" single "marmalade"])
   (hardhat . [(0 4 2) ((ignoramus (0 7 0))) "Protect against clobbering user-writable files" single "marmalade"])
   (flymake-checkers . [(0 2) nil "Flymake reloaded with useful checkers" single "marmalade"])
   (git-commit-mode . [(0 13) nil "Major mode for editing git commit messages -*- lexical-binding: t; -*-" single "marmalade"])
