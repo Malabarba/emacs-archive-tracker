@@ -103,7 +103,7 @@
   (flycheck-cask . [(20130818 253) ((flycheck (0 14)) (dash (2 0 0)) (f (0 6 0))) "Cask support in Flycheck" single "melpa"])
   (flycheck-d-unittest . [(20131017 1652) ((flycheck (0 14)) (dash (1 4 0))) "Add D unittest support to flycheck" single "melpa"])
   (flycheck-hdevtools . [(20131130 1105) ((flycheck (0 15))) "A flycheck checker for Haskell using hdevtools" single "melpa"])
-  (flycheck-ledger . [(20131209 248) ((flycheck (0 15))) "Flycheck integration for ledger files" single "melpa"])
+  (flycheck-ledger . [(20131218 324) ((flycheck (0 15))) "Flycheck integration for ledger files" single "melpa"])
   (flycheck-tip . [(20131025 320) ((flycheck (0 13)) (dash (1 2)) (emacs (24 1)) (popup (0 5 0))) "show flycheck's error by popup-tip" single "melpa"])
   (flymake-puppet . [(20130731 2203) ((flymake-easy (0 9))) "An Emacs flymake handler for syntax-checking puppet using puppet-lint" single "melpa"])
   (flymake-racket . [(20131209 2157) ((flymake-easy (0 1))) "A flymake handler for scheme-mode files" single "melpa"])

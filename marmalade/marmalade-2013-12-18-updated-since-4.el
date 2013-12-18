@@ -1,4 +1,5 @@
 '(
+  (puppet-mode . [(0 2) nil "A simple mode for editing puppet manifests" single "marmalade"])
   (geiser . [(0 5) nil "GNU Emacs and Scheme talk to each other" tar "marmalade"])
   (elixir-mix . [(0 3 0) nil "Emacs integration for Elixir's mix" single "marmalade"])
   (charmap . [(0 0 1) nil "Unicode table for Emacs" single "marmalade"])
