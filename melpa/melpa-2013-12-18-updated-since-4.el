@@ -416,7 +416,7 @@
   (helm-R . [(20120819 1714) ((helm (20120517)) (ess (20120509))) "helm-sources and some utilities for GNU R." single "melpa"])
   (helm-ack . [(20131102 155) ((helm (1 0))) "Ack command with helm interface" single "melpa"])
   (helm-ag . [(20131125 1834) ((helm (1 5 6))) "the silver search with helm interface" single "melpa"])
-  (helm-anything . [(20130407 1150) ((helm (20130406)) (anything (20120101))) "Bridge between anything and helm" single "melpa"])
+  (helm-anything . [(20131217 1832) ((helm (20130406)) (anything (20120101))) "Bridge between anything and helm" single "melpa"])
   (helm-c-yasnippet . [(20131126 2333) nil "helm source for yasnippet.el" single "melpa"])
   (helm-cmd-t . [(20131030 1241) nil "cmd-t style completion" tar "melpa"])
   (helm-descbinds . [(20131102 901) ((helm (1 5))) "Yet Another `describe-bindings' with `helm'." single "melpa"])
