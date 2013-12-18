@@ -353,7 +353,7 @@
   (gedit-mode . [(20131117 55) ((tabbar (0)) (sr-speedbar (0)) (shell-pop (0)) (move-text (0)) (whole-line-or-region (0))) "Emulate the look & feel of GEdit in Emacs" single "melpa"])
   (ggo-mode . [(20130524 443) nil "Gengetopt major mode" single "melpa"])
   (gh . [(20131201 1805) ((eieio (1 3)) (pcache (0 2 4)) (logito (0 1))) "A GitHub library for Emacs" tar "melpa"])
-  (ghc . [(20131118 2114) nil "Sub mode for Haskell mode" tar "melpa"])
+  (ghc . [(20131217 2253) nil "Sub mode for Haskell mode" tar "melpa"])
   (ghci-completion . [(20130310 836) ((emacs (24 1))) "Completion for GHCi commands in inferior-haskell buffers" single "melpa"])
   (gist . [(20131109 2155) ((eieio (1 3)) (gh (0 7 2)) (tabulated-list (0))) "Emacs integration for gist.github.com" single "melpa"])
   (git-auto-commit-mode . [(20131007 1423) nil "Emacs Minor mode to automatically commit and push" single "melpa"])
