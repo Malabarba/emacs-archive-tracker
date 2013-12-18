@@ -138,7 +138,7 @@
   (inf-ruby . [(2 3 2) nil "Run a Ruby process in a buffer" single "marmalade"])
   (android-mode . [(0 2 5) nil "Minor mode for Android application development" single "marmalade"])
   (fold-dwim-org . [(0 5) ((fold-dwim (1 2))) "Fold DWIM bound to org key-strokes." single "marmalade"])
-  (auto-indent-mode . [(0 117) nil "Auto indent Minor mode" single "marmalade"])
+  (auto-indent-mode . [(0 119) nil "Auto indent Minor mode" single "marmalade"])
   (yari . [(0 7) nil "Yet Another RI interface for Emacs" single "marmalade"])
   (haml-mode . [(3 1 3) ((ruby-mode (1 0))) "Major mode for editing Haml files" single "marmalade"])
  )
