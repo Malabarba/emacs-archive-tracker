@@ -36,7 +36,8 @@
  (auctex .
 	 [(11 87 2)
 	  nil "Integrated environment for *TeX*" tar
-	  ((:url . "http://www.gnu.org/software/auctex/"))])
+	  ((:keywords quote nil)
+	   (:url . "http://www.gnu.org/software/auctex/"))])
  (cl-lib .
 	 [(0 4)
 	  nil "Properly prefixed CL functions and macros" single
@@ -248,7 +249,7 @@
 	    ((:url . "http://elpa.gnu.org/packages/omn-mode.html")
 	     (:keywords quote nil))])
  (org .
-      [(20140127)
+      [(20140130)
        nil "Outline-based notes management and organizer" tar nil])
  (quarter-plane .
 		[(0 1)
@@ -341,7 +342,9 @@
 			 ("convenience" "files" "undo" "redo" "history" "tree")))])
  (uni-confusables .
 		  [(0 1)
-		   nil "Unicode confusables table" tar nil])
+		   nil "Unicode confusables table" tar
+		   ((:keywords quote nil)
+		    (:url . "http://elpa.gnu.org/packages/uni-confusables.html"))])
  (vlf .
       [(1 2)
        nil "View Large Files" single
