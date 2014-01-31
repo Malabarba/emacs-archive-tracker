@@ -113,6 +113,6 @@
   (immutant-server . [(1 0 1) nil "Run your Immutant server in Emacs" single "marmalade"])
   (initchart . [(0 1 1) ((cl-lib (0 3))) "Emacs' init process performance visualization  -*- lexical-binding: t -*-" single "marmalade"])
   (wisp-mode . [(0 1 5) nil "Tools for wisp: the Whitespace-to-Lisp preprocessor" single "marmalade"])
-  (project-explorer . [(0 12 3) ((cl-lib (0 3)) (es-lib (0 3)) (es-windows (0 1)) (emacs (24))) "A project explorer sidebar -*- lexical-binding: t -*-" single "marmalade"])
+  (project-explorer . [(0 13) ((cl-lib (0 3)) (es-lib (0 3)) (es-windows (0 1)) (emacs (24))) "A project explorer sidebar -*- lexical-binding: t -*-" single "marmalade"])
   (ac-cider-compliment . [(0 1 0) ((cider (0 5 0)) (auto-complete (1 4))) "auto-complete sources for Clojure using" single "marmalade"])
  )
