@@ -123,6 +123,7 @@
   (erc-youtube . [(20140124 1747) ((erc (5 3))) "Show received youtube urls in the ERC buffer" single "melpa"])
   (ert-async . [(20140112 314) nil "Async support for ERT" single "melpa"])
   (ert-modeline . [(20140115 215) ((s (1 3 1)) (dash (1 2 0)) (emacs (24 1)) (projectile (0 9 1))) "displays ert test results in the modeline." single "melpa"])
+  (es-mode . [(20140131 1155) nil "elasticsearch mode" single "melpa"])
   (es-windows . [(20140127 1732) ((cl-lib (0 3)) (emacs (24))) "Window-management utilities" single "melpa"])
   (esqlite . [(20140127 2123) ((pcsv (1 3 3))) "Manipulate sqlite file from Emacs" single "melpa"])
   (esqlite-helm . [(20140121 623) ((esqlite (0 2 0)) (helm (20131207 845))) "Define helm source for sqlite database" single "melpa"])
