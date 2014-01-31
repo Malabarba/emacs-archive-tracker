@@ -227,7 +227,7 @@
   (hideshow-org . [(20120223 1450) nil "Provides org-mode like hide and show for hideshow.el" single "melpa"])
   (highlight-chars . [(20131226 1906) nil "Highlight specified sets of characters, including whitespace." single "melpa"])
   (highlight-current-line . [(20051013 1756) nil "highlight line where the cursor is." single "melpa"])
-  (highlight-tail . [(20140130 2107) nil "draw a colourful \"tail\" while you write" single "melpa"])
+  (highlight-tail . [(20140131 130) nil "draw a colourful \"tail\" while you write" single "melpa"])
   (highlight-unique-symbol . [(20130611 2242) ((deferred (0 3 2))) "highlight symbols which not appear in the repository" single "melpa"])
   (historyf . [(20131203 22) nil "file history library like browser" single "melpa"])
   (hl-defined . [(20131226 1912) nil "Highlight defined or undefined symbols in Emacs-Lisp." single "melpa"])
