@@ -1,4 +1,5 @@
 '(
+  (eshell-fringe-status . [(1 0 0) nil "Show last status in fringe  -*- lexical-binding: t; -*-" single "marmalade"])
   (finalize . [(1 0 0) ((emacs (24 1)) (cl-lib (0 3)) (eieio (1 4))) "finalizers for Emacs Lisp" tar "marmalade"])
   (gecf . [(0 1 0) nil "G\303\266ktu\304\237's Emacs configuration framework." single "marmalade"])
   (elfeed . [(1 1 0) ((emacs (24 1))) "an Emacs Atom/RSS feed reader" tar "marmalade"])

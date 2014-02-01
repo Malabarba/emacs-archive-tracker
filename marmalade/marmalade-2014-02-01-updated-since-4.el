@@ -1,4 +1,5 @@
 '(
+  (eshell-fringe-status . [(1 0 0) nil "Show last status in fringe  -*- lexical-binding: t; -*-" single "marmalade"])
   (flycheck . [(0 17) ((s (1 9 0)) (dash (2 4 0)) (f (0 11 0)) (pkg-info (0 4)) (cl-lib (0 3)) (emacs (24 1))) "On-the-fly syntax checking (Flymake done right)" tar "marmalade"])
   (python-mode . [(6 1 3) nil "An Emacs mode for editing Python code" tar "marmalade"])
   (modtime-skip-mode . [(0 9 2) nil "Minor mode for disabling modtime and supersession checks on files." single "marmalade"])
