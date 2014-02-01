@@ -60,7 +60,7 @@
   (colorsarenice-theme . [(20131128 1106) ((emacs (24))) "A color theme." tar "melpa"])
   (column-enforce-mode . [(20131209 956) nil "Highlight text that extends beyond a  column" single "melpa"])
   (command-log-mode . [(20120329 629) nil "log keyboard commands to buffer" single "melpa"])
-  (company-cider . [(20140130 1450) ((company (0 6 13)) (cider (0 6 0))) "company-mode completion back-end for Cider" single "melpa"])
+  (company-cider . [(20140201 1017) ((company (0 6 13)) (cider (0 6 0))) "company-mode completion back-end for Cider" single "melpa"])
   (company-go . [(20140117 119) ((company (0 6 12))) "company-mode backend for Go (using gocode)" single "melpa"])
   (company-jedi . [(20140128 2127) ((company (0 6 12))) "Jedi backend for company-mode" tar "melpa"])
   (company-tern . [(20140121 2247) ((company (0 6 12)) (tern (0 0 1))) "Tern backend for company-mode" single "melpa"])
