@@ -1,4 +1,5 @@
 '(
+  (flycheck . [(0 17) ((s (1 9 0)) (dash (2 4 0)) (f (0 11 0)) (pkg-info (0 4)) (cl-lib (0 3)) (emacs (24 1))) "On-the-fly syntax checking (Flymake done right)" tar "marmalade"])
   (python-mode . [(6 1 3) nil "An Emacs mode for editing Python code" tar "marmalade"])
   (modtime-skip-mode . [(0 9 2) nil "Minor mode for disabling modtime and supersession checks on files." single "marmalade"])
   (cpputils-cmake . [(0 4 3) nil "Easy real time C++ syntax check and intellisense if you use CMake." tar "marmalade"])
@@ -74,7 +75,6 @@
   (tracking . [(1 4) ((shorten (0 3))) "Buffer modification tracking" single "marmalade"])
   (simpleclip . [(1 0 0) nil "Simplified access to the system clipboard" single "marmalade"])
   (chicken-scheme . [(1 1 0) nil "Scheme-mode extensions for Chicken Scheme" single "marmalade"])
-  (flycheck . [(0 16) ((s (1 9 0)) (dash (2 4 0)) (f (0 11 0)) (pkg-info (0 4)) (cl-lib (0 3)) (emacs (24 1))) "On-the-fly syntax checking (Flymake done right)" tar "marmalade"])
   (elpy . [(1 2 1) ((auto-complete (1 4)) (find-file-in-project (3 2)) (fuzzy (0 1)) (highlight-indentation (0 5 0)) (idomenu (0 1)) (iedit (0 97)) (nose (0 1 1)) (virtualenv (1 2)) (yasnippet (0 8 0))) "Emacs Python Development Environment" tar "marmalade"])
   (page-break-lines . [(0 9) nil "Display ugly ^L page breaks as tidy horizontal lines" single "marmalade"])
   (flymake-python-pyflakes . [(0 9) ((flymake-easy (0 8))) "A flymake handler for python-mode files using pyflakes (or flake8)" single "marmalade"])
