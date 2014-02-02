@@ -346,11 +346,11 @@
 		   ((:keywords quote nil)
 		    (:url . "http://elpa.gnu.org/packages/uni-confusables.html"))])
  (vlf .
-      [(1 2)
-       nil "View Large Files" single
-       ((:url . "https://github.com/m00natic/vlfi")
-	(:keywords quote
-		   ("large files" "utilities")))])
+      [(1 4)
+       nil "View Large Files" tar
+       ((:keywords quote
+		   ("large files" "utilities"))
+	(:url . "https://github.com/m00natic/vlfi"))])
  (w3 .
      [(4 0 49)
       nil "Fully customizable, largely undocumented web browser for Emacs" tar

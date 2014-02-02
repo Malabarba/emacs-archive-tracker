@@ -55,6 +55,7 @@
   (lispyscript-mode . [(0 3 0) nil "Major mode for LispyScript code." single "marmalade"])
   (rubocop . [(0 3) ((dash (1 0 0))) "An Emacs interface for RuboCop" single "marmalade"])
   (flymake-elixir . [(0 5) nil "A flymake handler for elixir-mode .ex files.     " single "marmalade"])
+  (github-browse-file . [(0 3 0) nil "View the file you're editing on GitHub" single "marmalade"])
   (psgml . [(1 4 1) nil "Lennart Staflin's Psgml package, with Elisp syntax and sgml-validate fixed for Emacsen >=24." tar "marmalade"])
   (ruby-hash-syntax . [(0 3) nil "Toggle ruby hash syntax between classic and 1.9 styles" single "marmalade"])
   (smartparens . [(1 6 1) ((cl-lib (0 1)) (dash (2 3 0))) "Automatic insertion, wrapping and paredit-like navigation with user defined pairs." tar "marmalade"])
