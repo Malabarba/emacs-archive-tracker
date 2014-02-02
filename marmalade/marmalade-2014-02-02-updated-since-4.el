@@ -1,5 +1,5 @@
 '(
-  (eshell-fringe-status . [(1 0 0) nil "Show last status in fringe  -*- lexical-binding: t; -*-" single "marmalade"])
+  (web-mode . [(8 0 4) nil "major mode for editing html templates" single "marmalade"])
   (flycheck . [(0 17) ((s (1 9 0)) (dash (2 4 0)) (f (0 11 0)) (pkg-info (0 4)) (cl-lib (0 3)) (emacs (24 1))) "On-the-fly syntax checking (Flymake done right)" tar "marmalade"])
   (python-mode . [(6 1 3) nil "An Emacs mode for editing Python code" tar "marmalade"])
   (modtime-skip-mode . [(0 9 2) nil "Minor mode for disabling modtime and supersession checks on files." single "marmalade"])
@@ -29,7 +29,6 @@
   (awk-it . [(0 77) nil "Run AWK interactively on region!" single "marmalade"])
   (git-gutter+ . [(0 1) ((git-commit-mode (1 0))) "Manage Git hunks straight from the buffer" single "marmalade"])
   (emmet-mode . [(1 0 5) nil "Unofficial Emmet's support for emacs" single "marmalade"])
-  (web-mode . [(8 0 0) nil "major mode for editing html templates" single "marmalade"])
   (processing-mode . [(1 2 1) nil "Major mode for Processing 2.0" single "marmalade"])
   (git-gutter-fringe+ . [(0 0 2) ((git-gutter+ (0 1)) (fringe-helper (20130519 1641))) "Fringe version of git-gutter+.el" single "marmalade"])
   (clues-theme . [(20130908 801) ((emacs (24 0))) "an Emacs 24 theme which may well be fully awesome..." single "marmalade"])
