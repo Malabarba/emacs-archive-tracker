@@ -438,7 +438,7 @@
   (shut-up . [(20140122 1203) ((cl-lib (0 3))) "Shut up would you!" single "melpa"])
   (simple+ . [(20131227 154) ((strings (0))) "Extensions to standard library `simple.el'." single "melpa"])
   (simple-rtm . [(20140105 438) nil "Interactive Emacs mode for Remember The Milk" tar "melpa"])
-  (skeletor . [(20140131 1633) ((s (1 7 0)) (f (0 14 0)) (dash (2 2 0)) (cl-lib (0 3)) (emacs (24 1))) "Provides project skeletons for Emacs" tar "melpa"])
+  (skeletor . [(20140202 2147) ((s (1 7 0)) (f (0 14 0)) (dash (2 2 0)) (cl-lib (0 3)) (emacs (24 1))) "Provides project skeletons for Emacs" tar "melpa"])
   (skewer-less . [(20131015 622) ((skewer-mode (1 5 3))) "Skewer support for live LESS stylesheet updates" single "melpa"])
   (skewer-reload-stylesheets . [(20140121 544) ((skewer-mode (1 5 3))) "live-edit CSS stylesheets." tar "melpa"])
   (skype . [(20131001 2118) nil "skype UI for emacs users.." tar "melpa"])
