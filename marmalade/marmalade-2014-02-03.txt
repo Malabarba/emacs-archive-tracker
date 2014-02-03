@@ -1,0 +1,50 @@
+  web-mode                     8.0.4              available  major mode for editing html templates
+  websocket                    1.0                available  Emacs WebSocket client and server
+  wedge-ws                     0.1.2              available  Wedge whitespace between columns in text
+  weechat                      0.2                available  Chat via WeeChat's relay protocol in Emacs
+  wget                         1.94               available  Emacs-wget is an interface program of GNU wget on Emacs.
+  wgrep                        2.1.3              available  Writable grep buffer and apply the changes to files
+  wgrep-ack                    0.1.1              available  Writable ack-and-a-half buffer and apply the changes to files
+  wgrep-helm                   0.1.0              available  Writable helm-grep-mode buffer and apply the changes to files
+  whitespace-cleanup-mode      0.8                available  Intelligently call whitespace-cleanup on save
+  whole-line-or-region         1.3.1              available  operate on current line if region undefined
+  wiki-nav                     1.0.0              available  Simple file navigation using [[WikiStrings]]
+  wikidoc                      0.8.1              available  use elisp doc strings to make other documentation
+  win-switch                   1.0.8              available  fast, dynamic bindings for window-switching/resizing
+  window-end-visible           0.1.0              available  Find the last visible point in a window
+  window-number                1.0.1              available  Jump to a window by number
+  windsize                     0.1                available  Simple, intuitive window resizing
+  winpoint                     1.4                available  Remember buffer positions per-window, not per buffer
+  winpoint-ignore-dired        1.1                available  Have winpoint ignore dired-mode buffers
+  wisp                         0.1.3              available  Supporting tools for editing wisp: The Whitespace-to-Lisp preprocesor
+  wisp-mode                    0.1.5              available  Tools for wisp: the Whitespace-to-Lisp preprocessor
+  with-namespace               1.1                available  Poor-man's namespaces for elisp
+  wonderland                   0.1.1              available  declarative configuration for Emacsen -*- lexical-binding: t -*-
+  workgroups                   0.2.0              available  workgroups for windows (for Emacs)
+  workspaces                   0.1                available  Workspaces for Emacsen 
+  world-time-mode              0.0.2              available  show whole days of world-time diffs
+  wrap-region                  0.7.1              available  Wrap text with punctation or tag
+  writegood-mode               20130406.2316      available  Polish up poor writing on the fly
+  ws-trim                      1.4                available  Tools and minor mode to trim whitespace on text lines
+  wxwidgets-help               0.0.3              available  Look up wxWidgets API by using local html manual.
+  xkcd                         1.0                available  View xkcd from Emacs
+  xlicense                     1.1                available  Insert pre-defined license text
+  xml-gen                      0.4                available  A DSL for generating XML.
+  xml-rpc                      1.6.8              available  An elisp implementation of clientside XML-RPC
+  yagist                       0.8.6              available  Yet Another Emacs integration for gist.github.com
+  yaml-mode                    0.0.9              available  Major mode for editing YAML files
+  yaoddmuse                    0.1.1              available  Yet another oddmuse for Emacs
+  yari                         0.7                available  Yet Another RI interface for Emacs
+  yas-jit                      0.8.3              available  Loads Yasnippets on demand (makes start up faster)
+  yascroll                     0.2.0              available  Yet Another Scroll Bar Mode
+  yasnippet                    0.6.1              available  Yasnippet template engine
+  yasnippet-bundle             0.6.1              available  Yet another snippet extension (Auto compiled bundle)
+  zeal-at-point                0.0.3              available  Search the word at point with Zeal
+  zeitgeist                    0.1                available  integrates Emacs with Zeitgeist.
+  zen-and-art-theme            1.0.1              available  zen and art color theme for GNU Emacs 24
+  zen-mode                     20120627           available  remove/restore Emacs distractions quickly
+  zenburn-theme                2.1                available  A low contrast color theme for Emacs.
+  zencoding-mode               0.5.1              available  Unfold CSS-selector-like expressions to markup
+  zjl-hl                       20121028.1901      available  Highlight variable and function call and others in c/emacs, make life easy.
+  znc                          0.0.2              available  ZNC + ERC 
+  zone-matrix                  0.0.1              available  Matrix themed Zone mode
