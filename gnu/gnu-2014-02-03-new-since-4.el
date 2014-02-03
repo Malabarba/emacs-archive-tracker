@@ -9,5 +9,5 @@
   (diff-hl . [(1 5 1) ((cl-lib (0 2))) "Highlight uncommitted changes" tar ((:keywords quote ("vc" "diff")) (:url . "https://github.com/dgutov/diff-hl")) "gnu"])
   (ascii-art-to-unicode . [(1 4) nil "a small artist adjunct" single ((:url . "http://elpa.gnu.org/packages/ascii-art-to-unicode.html") (:keywords quote nil)) "gnu"])
   (adjust-parens . [(3 0) nil "Indent and dedent Lisp code, automatically adjust close parens" tar ((:keywords quote nil) (:url . "http://elpa.gnu.org/packages/adjust-parens.html")) "gnu"])
-  (ada-mode . [(5 0) ((wisi (1 0))) "major-mode for editing Ada sources" tar ((:keywords quote nil) (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])
+  (ada-mode . [(5 0 1) ((wisi (1 0))) "major-mode for editing Ada sources" tar ((:keywords quote nil) (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])
  )
