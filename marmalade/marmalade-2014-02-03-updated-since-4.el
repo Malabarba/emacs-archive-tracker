@@ -1,4 +1,5 @@
 '(
+  (sass-mode . [(3 0 14) ((haml-mode (3 0 14))) "Major mode for editing Sass files" single "marmalade"])
   (web-mode . [(8 0 4) nil "major mode for editing html templates" single "marmalade"])
   (flycheck . [(0 17) ((s (1 9 0)) (dash (2 4 0)) (f (0 11 0)) (pkg-info (0 4)) (cl-lib (0 3)) (emacs (24 1))) "On-the-fly syntax checking (Flymake done right)" tar "marmalade"])
   (python-mode . [(6 1 3) nil "An Emacs mode for editing Python code" tar "marmalade"])
