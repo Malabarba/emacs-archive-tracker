@@ -11,7 +11,7 @@
   (weather-metno . [(20140121) ((emacs (24)) (cl-lib (0 3))) "Weather data from met.no in Emacs" tar "marmalade"])
   (json-mode . [(1 2 0) nil "Major mode for editing JSON files" single "marmalade"])
   (desktop-registry . [(1 2 0) nil "Keep a central registry of desktop files -*- lexical-binding: t -*-" single "marmalade"])
-  (org-trello . [(0 3 1 1) ((org (8 0 7)) (dash (2 4 2)) (request (0 2 0)) (cl-lib (0 3 0)) (json (1 2)) (elnode (0 9 9 7 6)) (esxml (0 3 0)) (s (1 7 0)) (kv (0 0 19))) "Org minor mode to synchronize with trello" tar "marmalade"])
+  (org-trello . [(0 3 2) ((org (8 0 7)) (dash (2 4 2)) (request (0 2 0)) (cl-lib (0 3 0)) (json (1 2)) (elnode (0 9 9 7 6)) (esxml (0 3 0)) (s (1 7 0)) (kv (0 0 19))) "Org minor mode to synchronize with trello" tar "marmalade"])
   (fakir . [(0 1 8) ((noflet (0 0 8)) (dash (1 3 2)) (kv (0 0 19))) "fakeing bits of Emacs -*- lexical-binding: t -*-" single "marmalade"])
   (refheap . [(0 0 6) ((json (1 2))) "A library for pasting to https://refheap.com" single "marmalade"])
   (less-css-mode . [(0 18) nil "Major mode for editing LESS CSS files (lesscss.org)" single "marmalade"])
