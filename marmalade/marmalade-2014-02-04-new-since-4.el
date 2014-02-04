@@ -1,4 +1,5 @@
 '(
+  (latex-preview-pane . [(20140204) nil "Makes LaTeX editing less painful by providing a updatable preview pane. Full documentation can be found at: http://www.emacswiki.org/emacs/LaTeXPreviewPane" tar "marmalade"])
   (lxc . [(0 0 1) nil "lxc integration with Emacs" single "marmalade"])
   (flycheck-tcl . [(0 3) ((flycheck (0 17))) "A flycheck checker for Tcl using ActiveState's tclchecker" single "marmalade"])
   (eshell-fringe-status . [(1 0 0) nil "Show last status in fringe  -*- lexical-binding: t; -*-" single "marmalade"])
@@ -11,7 +12,6 @@
   (simple-httpd . [(1 4 5) ((cl-lib (0 3))) "pure elisp HTTP server" single "marmalade"])
   (es-windows . [(0 2) ((cl-lib (0 3)) (emacs (24))) "Window-management utilities -*- lexical-binding: t -*-" single "marmalade"])
   (exercism . [(0 0 1) nil "An Emacs mode for submitting current file to exercism.io" single "marmalade"])
-  (latex-preview-pane . [(20140127) nil "Makes LaTeX editing less painful by providing a updatable preview pane" tar "marmalade"])
   (xkcd . [(1 0) ((json (1 4))) "View xkcd from Emacs" single "marmalade"])
   (cider . [(0 5 0) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 4 1)) (pkg-info (0 4))) "Clojure Integrated Development Environment and REPL" tar "marmalade"])
   (pyvenv . [(1 1) nil "Python virtual environment interface -*- lexical-binding: t -*-" single "marmalade"])
