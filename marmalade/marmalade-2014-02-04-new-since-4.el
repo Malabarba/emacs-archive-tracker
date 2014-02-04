@@ -1,4 +1,6 @@
 '(
+  (lxc . [(0 0 1) nil "lxc integration with Emacs" single "marmalade"])
+  (flycheck-tcl . [(0 3) ((flycheck (0 17))) "A flycheck checker for Tcl using ActiveState's tclchecker" single "marmalade"])
   (eshell-fringe-status . [(1 0 0) nil "Show last status in fringe  -*- lexical-binding: t; -*-" single "marmalade"])
   (finalize . [(1 0 0) ((emacs (24 1)) (cl-lib (0 3)) (eieio (1 4))) "finalizers for Emacs Lisp" tar "marmalade"])
   (gecf . [(0 1 0) nil "G\303\266ktu\304\237's Emacs configuration framework." single "marmalade"])
