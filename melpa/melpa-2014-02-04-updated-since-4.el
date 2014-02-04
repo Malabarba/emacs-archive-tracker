@@ -165,7 +165,7 @@
   (diff-hl . [(20140118 1950) ((cl-lib (0 2))) "Highlight uncommitted changes" tar "melpa"])
   (diminish . [(20091203 1012) nil "Diminished modes are minor modes with no modeline display" single "melpa"])
   (dircmp . [(20130806 1157) nil "Compare and sync directories." tar "melpa"])
-  (dired+ . [(20140202 1838) nil "Extensions to Dired." single "melpa"])
+  (dired+ . [(20140204 626) nil "Extensions to Dired." single "melpa"])
   (dired-details+ . [(20131226 1832) ((dired-details (0))) "Enhancements to library `dired-details+.el'." single "melpa"])
   (dired-details . [(20130824 1158) nil "make file details hide-able in dired" single "melpa"])
   (dired-dups . [(20130527 1425) nil "Find duplicate files and display them in a dired buffer" single "melpa"])
