@@ -895,7 +895,7 @@
   (show-css . [(20130605 1524) nil "Show the css of the html attribute the cursor is on" tar "melpa"])
   (show-marks . [(20130805 749) ((fm (1 0))) "Navigate and visualize the mark-ring" single "melpa"])
   (sicp . [(20121014 1314) nil "No description available." tar "melpa"])
-  (simp . [(20140131 751) nil "Simple project definition, chiefly for file finding, and grepping" tar "melpa"])
+  (simp . [(20140203 1616) nil "Simple project definition, chiefly for file finding, and grepping" tar "melpa"])
   (simple-call-tree+ . [(20131009 1412) nil "Extensions to simple-call-tree" single "melpa"])
   (simple-call-tree . [(20130330 940) nil "analyze source code based on font-lock text-properties" single "melpa"])
   (simple-httpd . [(20140123 1243) ((cl-lib (0 3))) "pure elisp HTTP server" single "melpa"])
