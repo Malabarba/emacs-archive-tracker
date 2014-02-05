@@ -762,7 +762,7 @@
   (pomodoro . [(20130117 1935) nil "A timer for the Pomodoro Technique" single "melpa"])
   (pony-mode . [(20140127 846) nil "Minor mode for working with Django Projects" tar "melpa"])
   (pophint . [(20140107 1045) ((popup (0 5 0)) (log4e (0 2 0)) (yaxception (0 1))) "Provide navigation using pop-up tips, like Firefox's Vimperator Hint Mode" tar "melpa"])
-  (popup . [(20140124 2120) ((cl-lib (0 3))) "Visual Popup User Interface" single "melpa"])
+  (popup . [(20140205 103) ((cl-lib (0 3))) "Visual Popup User Interface" single "melpa"])
   (popup-switcher . [(20131220 514) ((popup (0 5 0))) "switch to other buffers and files via popup." single "melpa"])
   (popwin . [(20130329 435) nil "Popup Window Manager." single "melpa"])
   (pos-tip . [(20121128 615) nil "Show tooltip at point" single "melpa"])
