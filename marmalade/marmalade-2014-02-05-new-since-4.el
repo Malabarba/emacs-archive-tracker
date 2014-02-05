@@ -1,4 +1,5 @@
 '(
+  (epl . [(0 5) ((cl-lib (0 3))) "Emacs Package Library -*- lexical-binding: t; -*-" single "marmalade"])
   (latex-preview-pane . [(20140204) nil "Makes LaTeX editing less painful by providing a updatable preview pane. Full documentation can be found at: http://www.emacswiki.org/emacs/LaTeXPreviewPane" tar "marmalade"])
   (lxc . [(0 0 1) nil "lxc integration with Emacs" single "marmalade"])
   (flycheck-tcl . [(0 3) ((flycheck (0 17))) "A flycheck checker for Tcl using ActiveState's tclchecker" single "marmalade"])
@@ -58,7 +59,6 @@
   (list-register . [(2 2) nil "List register" single "marmalade"])
   (anzu . [(0 22) nil "Show number of matches in mode-line while searching" single "marmalade"])
   (magit-find-file . [(1 0 4) ((magit (1 2 0))) "completing-read over all files in Git" single "marmalade"])
-  (epl . [(0 4) ((cl-lib (0 3))) "Emacs Package Library -*- lexical-binding: t; -*-" single "marmalade"])
   (sequences . [(0 1 0) ((emacs (24))) "Ports of some Clojure sequence functions." single "marmalade"])
   (sensitive . [(1 0 1) ((emacs (24)) (sequences (0 1 0))) "A dead simple way to load sensitive information" single "marmalade"])
   (skewer-less . [(0 2) ((skewer-mode (1 5 3))) "Skewer support for live LESS stylesheet updates" single "marmalade"])

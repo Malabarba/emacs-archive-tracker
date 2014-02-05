@@ -1,4 +1,5 @@
 '(
+  (epl . [(0 5) ((cl-lib (0 3))) "Emacs Package Library -*- lexical-binding: t; -*-" single "marmalade"])
   (latex-preview-pane . [(20140204) nil "Makes LaTeX editing less painful by providing a updatable preview pane. Full documentation can be found at: http://www.emacswiki.org/emacs/LaTeXPreviewPane" tar "marmalade"])
   (lxc . [(0 0 1) nil "lxc integration with Emacs" single "marmalade"])
   (flycheck-tcl . [(0 3) ((flycheck (0 17))) "A flycheck checker for Tcl using ActiveState's tclchecker" single "marmalade"])
