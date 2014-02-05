@@ -166,5 +166,5 @@
   (auto-indent-mode . [(0 123) nil "Auto indent Minor mode" single "marmalade"])
   (guru-mode . [(0 2) nil "Become an Emacs guru   -*- lexical-binding:t -*-" single "marmalade"])
   (yari . [(0 7) nil "Yet Another RI interface for Emacs" single "marmalade"])
-  (haml-mode . [(3 1 3) ((ruby-mode (1 0))) "Major mode for editing Haml files" single "marmalade"])
+  (haml-mode . [(3 1 4) ((ruby-mode (1 0))) "Major mode for editing Haml files" single "marmalade"])
  )
