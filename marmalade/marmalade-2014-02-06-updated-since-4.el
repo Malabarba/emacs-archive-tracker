@@ -1,8 +1,8 @@
 '(
+  (flycheck-tcl . [(0 4) ((flycheck (0 17))) "A flycheck checker for Tcl using ActiveState's tclchecker" single "marmalade"])
   (latex-preview-pane . [(20140204) nil "Makes LaTeX editing less painful by providing a updatable preview pane. Full documentation can be found at: http://www.emacswiki.org/emacs/LaTeXPreviewPane" tar "marmalade"])
   (epl . [(0 5) ((cl-lib (0 3))) "Emacs Package Library -*- lexical-binding: t; -*-" single "marmalade"])
   (lxc . [(0 0 1) nil "lxc integration with Emacs" single "marmalade"])
-  (flycheck-tcl . [(0 3) ((flycheck (0 17))) "A flycheck checker for Tcl using ActiveState's tclchecker" single "marmalade"])
   (sass-mode . [(3 0 16) ((haml-mode (3 0 15))) "Major mode for editing Sass files" single "marmalade"])
   (web-mode . [(8 0 4) nil "major mode for editing html templates" single "marmalade"])
   (flycheck . [(0 17) ((s (1 9 0)) (dash (2 4 0)) (f (0 11 0)) (pkg-info (0 4)) (cl-lib (0 3)) (emacs (24 1))) "On-the-fly syntax checking (Flymake done right)" tar "marmalade"])
@@ -167,5 +167,5 @@
   (auto-indent-mode . [(0 123) nil "Auto indent Minor mode" single "marmalade"])
   (guru-mode . [(0 2) nil "Become an Emacs guru   -*- lexical-binding:t -*-" single "marmalade"])
   (yari . [(0 7) nil "Yet Another RI interface for Emacs" single "marmalade"])
-  (haml-mode . [(3 1 4) ((ruby-mode (1 0))) "Major mode for editing Haml files" single "marmalade"])
+  (haml-mode . [(3 1 5) ((ruby-mode (1 0))) "Major mode for editing Haml files" single "marmalade"])
  )
