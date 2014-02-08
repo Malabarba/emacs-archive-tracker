@@ -637,7 +637,7 @@
   (molokai-theme . [(20130828 0) nil "molokai theme with Emacs theme engine" single "melpa"])
   (mongo . [(20120904 2005) nil "MongoDB driver for Emacs Lisp" tar "melpa"])
   (monky . [(20130513 513) nil "Control Hg from Emacs." tar "melpa"])
-  (monokai-theme . [(20140109 2253) nil "A fruity color theme for Emacs." single "melpa"])
+  (monokai-theme . [(20140208 349) nil "A fruity color theme for Emacs." single "melpa"])
   (mote-mode . [(20121014 2119) ((ruby-mode (1 1))) "Mote minor mode" single "melpa"])
   (motion-mode . [(20131104 908) ((flymake-easy (0 7)) (flymake-cursor (1 0 2))) "major mode for RubyMotion enviroment" tar "melpa"])
   (mouse+ . [(20131227 141) nil "Extensions to `mouse.el'." single "melpa"])
