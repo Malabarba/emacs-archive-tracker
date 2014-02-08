@@ -217,7 +217,7 @@
   (helm-chrome . [(20140116 252) ((helm (1 0)) (cl-lib (0 3)) (emacs (24))) "Helm interface for Chrome bookmarks" single "melpa"])
   (helm-company . [(20140116 1335) ((helm (1 5 9)) (company (0 6 13))) "Helm interface for company-mode" single "melpa"])
   (helm-css-scss . [(20140126 50) ((helm (1 0)) (emacs (24))) "CSS/SCSS/LESS Selectors with helm interface" single "melpa"])
-  (helm-dash . [(20140129 618) ((helm (0 0 0))) "Helm extension to search dash docsets" single "melpa"])
+  (helm-dash . [(20140208 923) ((helm (0 0 0))) "Helm extension to search dash docsets" single "melpa"])
   (helm-dictionary . [(20131212 410) ((helm (1 5 5))) "Helm source for looking up dictionaries" single "melpa"])
   (helm-emmet . [(20131013 2329) ((helm (1 0)) (emmet-mode (1 0 2))) "helm sources for emmet-mode's snippets" single "melpa"])
   (helm-flycheck . [(20140128 127) ((dash (2 4 0)) (flycheck (0 15)) (helm (1 5 7))) "Show flycheck errors with helm" single "melpa"])
