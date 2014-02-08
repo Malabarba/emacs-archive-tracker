@@ -401,7 +401,7 @@
   (goto-chg . [(20131228 1459) nil "goto last change" single "melpa"])
   (goto-last-change . [(20121115 1014) nil "Move point through buffer-undo-list positions" single "melpa"])
   (gplusify . [(20121211 522) nil "Add Google Plus markup to a piece of code" single "melpa"])
-  (grandshell-theme . [(20140126 1208) nil "Dark color theme for Emacs > 24 with intensive colors." tar "melpa"])
+  (grandshell-theme . [(20140208 1342) nil "Dark color theme for Emacs > 24 with intensive colors." tar "melpa"])
   (graphene . [(20131203 1152) ((auto-complete (20131121)) (flycheck (20131129)) (smartparens (20131123)) (web-mode (20131125)) (smex (20130707)) (sr-speedbar (20130309)) (project-persist (20131030)) (exec-path-from-shell (20131002)) (scss-mode (20121203)) (markdown-mode (20131005)) (feature-mode (20130714))) "Friendly Emacs defaults." tar "melpa"])
   (graphviz-dot-mode . [(20120821 1441) nil "Mode for the dot-language used by graphviz (att)." single "melpa"])
   (grapnel . [(20131001 834) nil "HTTP request lib with flexible callback dispatch" single "melpa"])
