@@ -114,7 +114,7 @@
   (elm-mode . [(20140114 2016) nil "Major mode for Elm" tar "melpa"])
   (elscreen-mew . [(20131201 36) ((elscreen (20120413 1107))) "ElScreen Add-On for Mew" single "melpa"])
   (elx . [(20131209 922) ((emacs (24 3 50))) "extract information from Emacs Lisp libraries" single "melpa"])
-  (emacsql . [(20140206 1948) ((emacs (24 3)) (cl-lib (0 3)) (finalize (1 0 0))) "high-level SQL database front-end" tar "melpa"])
+  (emacsql . [(20140207 1838) ((emacs (24 3)) (cl-lib (0 3)) (finalize (1 0 0))) "high-level SQL database front-end" tar "melpa"])
   (emms-info-mediainfo . [(20131223 500) ((emms (0))) "Info-method for EMMS using medianfo" single "melpa"])
   (emms-soundcloud . [(20131221 345) ((emms (20131016)) (json (1 2))) "EMMS source for Soundcloud audio sharing platform" single "melpa"])
   (emoji-display . [(20140117 213) nil "emoji displaying module" single "melpa"])
