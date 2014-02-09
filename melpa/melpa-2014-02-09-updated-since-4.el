@@ -542,7 +542,7 @@
   (keyfreq . [(20131109 926) nil "track command frequencies" single "melpa"])
   (keymap-utils . [(20130427 1026) ((cl-lib (0 2))) "keymap utilities" single "melpa"])
   (kibit-mode . [(20140110 612) nil "No description available." tar "melpa"])
-  (kill-ring-search . [(20110605 844) nil "incremental search for the kill ring" tar "melpa"])
+  (kill-ring-search . [(20110605 736) nil "incremental search for the kill ring" single "melpa"])
   (killer . [(20120808 422) nil "kill and delete text" single "melpa"])
   (kite . [(20130201 1138) ((json (1 2)) (websocket (0 93 1))) "WebKit inspector front-end" tar "melpa"])
   (kivy-mode . [(20130712 546) nil "Emacs major mode for editing Kivy files" single "melpa"])
