@@ -759,7 +759,7 @@
   (peg . [(20130320 158) nil "Parsing Expression Grammars in Emacs Lisp" single "melpa"])
   (perlbrew . [(20130127 324) nil "A perlbrew wrapper for Emacs" single "melpa"])
   (persistent-soft . [(20131106 706) ((pcache (0 2 3)) (list-utils (0 4 2))) "Persistent storage, returning nil on failure" single "melpa"])
-  (persp-mode . [(20140126 702) ((workgroups (0 2 0))) "\"perspectives\" + save/load + shared among frames - bugs." single "melpa"])
+  (persp-mode . [(20140209 248) ((workgroups (0 2 0))) "\"perspectives\" + save/load + shared among frames - bugs." single "melpa"])
   (perspective . [(20131004 1658) nil "switch between named \"perspectives\" of the editor" single "melpa"])
   (pg . [(20130731 1442) nil "Emacs Lisp interface to the PostgreSQL RDBMS" single "melpa"])
   (pgdevenv . [(20130527 257) nil "Manage your PostgreSQL development envs" tar "melpa"])
