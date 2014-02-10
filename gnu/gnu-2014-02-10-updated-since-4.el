@@ -17,7 +17,7 @@
   (rainbow-mode . [(0 9) nil "Colorize color names in buffers" single ((:url . "http://elpa.gnu.org/packages/rainbow-mode.html") (:keywords quote ("faces"))) "gnu"])
   (queue . [(0 1) nil "Queue data structure" single ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords quote ("extensions" "data structures" "queue"))) "gnu"])
   (quarter-plane . [(0 1) nil "Minor mode for quarter-plane style editing" single ((:url . "http://elpa.gnu.org/packages/quarter-plane.html") (:keywords quote ("convenience" "wp"))) "gnu"])
-  (org . [(20140203) nil "Outline-based notes management and organizer" tar nil "gnu"])
+  (org . [(20140210) nil "Outline-based notes management and organizer" tar nil "gnu"])
   (omn-mode . [(1 0) nil "Support for OWL Manchester Notation" single ((:url . "http://elpa.gnu.org/packages/omn-mode.html") (:keywords quote nil)) "gnu"])
   (oauth2 . [(0 10) nil "OAuth 2.0 Authorization Protocol" single ((:url . "http://elpa.gnu.org/packages/oauth2.html") (:keywords quote ("comm"))) "gnu"])
   (num3-mode . [(1 1) nil "highlight groups of digits in long numbers" single ((:url . "http://elpa.gnu.org/packages/num3-mode.html") (:keywords quote nil)) "gnu"])
