@@ -399,7 +399,7 @@
   (req-package . [(20140103 817) ((use-package (1 0))) "A use-package wrapper for package runtime dependencies management" single "melpa"])
   (reveal-in-finder . [(20140205 806) nil "Reveal the file associated with the buffer in the OS X Finder" single "melpa"])
   (review-mode . [(20140102 2133) nil "major mode for ReVIEW" single "melpa"])
-  (roguel-ike . [(20140210 100) ((popup (0 5 0))) "A coffee-break roguelike" tar "melpa"])
+  (roguel-ike . [(20140210 1006) ((popup (0 5 0))) "A coffee-break roguelike" tar "melpa"])
   (rotate . [(20140123 116) nil "Rotate the layout of emacs" single "melpa"])
   (rpm-spec-mode . [(20140120 50) nil "RPM spec file editing commands for Emacs/XEmacs" single "melpa"])
   (ruby-additional . [(20131030 2113) ((emacs (24 3)) (ruby-mode (1 2))) "ruby-mode extensions yet to be merged into Emacs" tar "melpa"])
