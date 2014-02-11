@@ -113,7 +113,7 @@
   (el-spice . [(20140113 816) ((thingatpt+ (0))) "Extra spice for emacs lisp programming" tar "melpa"])
   (el-sprunge . [(20140106 1739) ((web-server (20140105 2246)) (htmlize (20130207 1202)) (emacs (24 3))) "Command line paste server with Emacs highlighting" tar "melpa"])
   (el-spy . [(20131226 1208) nil "Mocking framework for Emacs lisp. It also support spy, proxy." single "melpa"])
-  (elfeed . [(20140204 317) ((emacs (24 1))) "an Emacs Atom/RSS feed reader" tar "melpa"])
+  (elfeed . [(20140210 1658) ((emacs (24 1))) "an Emacs Atom/RSS feed reader" tar "melpa"])
   (elfeed-web . [(20140127 1410) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed" tar "melpa"])
   (elhome . [(20131202 1108) ((initsplit (20120630))) "A framework for a \"home\" Emacs configuration" tar "melpa"])
   (elisp-sandbox . [(20131116 1042) nil "Evaluate EmacsLisp expressions in a sandbox" single "melpa"])
