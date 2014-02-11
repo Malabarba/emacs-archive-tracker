@@ -633,7 +633,7 @@
   (mode-line-debug . [(20121207 744) nil "show status of `debug-on-error' in the mode-line" single "melpa"])
   (modeline-posn . [(20140121 553) nil "Set up `mode-line-position'." single "melpa"])
   (modtime-skip-mode . [(20140128 1401) nil "Minor mode for disabling modtime and supersession checks on files." single "melpa"])
-  (moe-theme . [(20140204 1827) nil "A colorful eye-candy theme. Moe, moe, kyun!" tar "melpa"])
+  (moe-theme . [(20140211 1201) nil "A colorful eye-candy theme. Moe, moe, kyun!" tar "melpa"])
   (molokai-theme . [(20130828 0) nil "molokai theme with Emacs theme engine" single "melpa"])
   (mongo . [(20120904 2005) nil "MongoDB driver for Emacs Lisp" tar "melpa"])
   (monky . [(20130513 513) nil "Control Hg from Emacs." tar "melpa"])
