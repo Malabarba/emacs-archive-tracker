@@ -6,7 +6,7 @@
   (temp-buffer-browse . [(1 1) nil "temp buffer browse mode" single ((:url . "http://elpa.gnu.org/packages/temp-buffer-browse.html") (:keywords quote ("convenience"))) "gnu"])
   (flylisp . [(0 2) nil "Color unbalanced parentheses and parentheses inconsistent with indentation" single ((:url . "http://elpa.gnu.org/packages/flylisp.html") (:keywords quote nil)) "gnu"])
   (dismal . [(1 5) ((cl-lib (0))) "Dis Mode Ain't Lotus: Spreadsheet program Emacs" tar ((:keywords quote nil) (:url . "http://elpa.gnu.org/packages/dismal.html")) "gnu"])
-  (diff-hl . [(1 5 1) ((cl-lib (0 2))) "Highlight uncommitted changes" tar ((:keywords quote ("vc" "diff")) (:url . "https://github.com/dgutov/diff-hl")) "gnu"])
+  (diff-hl . [(1 5 2) ((cl-lib (0 2))) "Highlight uncommitted changes" tar ((:keywords quote ("vc" "diff")) (:url . "https://github.com/dgutov/diff-hl")) "gnu"])
   (ascii-art-to-unicode . [(1 4) nil "a small artist adjunct" single ((:url . "http://elpa.gnu.org/packages/ascii-art-to-unicode.html") (:keywords quote nil)) "gnu"])
   (adjust-parens . [(3 0) nil "Indent and dedent Lisp code, automatically adjust close parens" tar ((:keywords quote nil) (:url . "http://elpa.gnu.org/packages/adjust-parens.html")) "gnu"])
   (ada-mode . [(5 0 1) ((wisi (1 0))) "major-mode for editing Ada sources" tar ((:keywords quote nil) (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])
