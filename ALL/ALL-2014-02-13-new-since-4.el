@@ -241,7 +241,7 @@
   (ibuffer-git . [(20110508 31) nil "show git status in ibuffer column" single "melpa"])
   (ido-at-point . [(20131221 1344) ((emacs (24))) "ido-style completion-at-point" single "melpa"])
   (ido-select-window . [(20131220 1247) ((emacs (24 1))) "Select a window using ido and buffer names" single "melpa"])
-  (idris-mode . [(20140212 1453) ((emacs (24))) "Major mode for editing Idris code" tar "melpa"])
+  (idris-mode . [(20140213 212) ((emacs (24))) "Major mode for editing Idris code" tar "melpa"])
   (imenu+ . [(20131226 1948) nil "Extensions to `imenu.el'." single "melpa"])
   (indicators . [(20130217 1405) nil "Display the buffer relative location of line in the fringe." single "melpa"])
   (inform7-mode . [(20131009 2354) ((sws-mode (0 1))) "Major mode for editing Inform 7 source files" single "melpa"])
