@@ -345,7 +345,7 @@
   (ox-asciidoc . [(20140115 2355) ((org (8 1))) "AsciiDoc Back-End for Org Export Engine" single "melpa"])
   (ox-html5slide . [(20131227 2206) ((org (8 0))) "Export org-mode to HTML5 slide." single "melpa"])
   (ox-pukiwiki . [(20140128 403) ((org (8 1))) "Pukiwiki Back-End for Org Export Engine" single "melpa"])
-  (ox-reveal . [(20140210 2310) ((org (8 0))) "reveal.js Presentation Back-End for Org Export Engine" single "melpa"])
+  (ox-reveal . [(20140212 2104) ((org (8 0))) "reveal.js Presentation Back-End for Org Export Engine" single "melpa"])
   (ox-tiddly . [(20131124 804) ((org (8))) "org TiddlyWiki exporter" single "melpa"])
   (ox-twiki . [(20140120 2239) ((org (8))) "org Twiki and Foswiki export" single "melpa"])
   (package+ . [(20140102 1411) nil "Extensions for the package library." single "melpa"])
