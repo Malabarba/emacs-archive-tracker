@@ -475,7 +475,7 @@
   (wakatime-mode . [(20131223 617) nil "Automatic time tracking extension based on WakaTime" single "melpa"])
   (wand . [(20140201 1859) ((dash (2 5 0))) "Magic wand for Emacs - Selecting and executing" tar "melpa"])
   (web-beautify . [(20131118 226) nil "Format HTML, CSS and JavaScript/JSON by js-beautify" single "melpa"])
-  (web-server . [(20140208 1129) nil "Emacs Web Server" tar "melpa"])
+  (web-server . [(20140212 1624) nil "Emacs Web Server" tar "melpa"])
   (wedge-ws . [(20130930 647) nil "Wedge whitespace between columns in text" single "melpa"])
   (wgrep-ag . [(20131209 659) ((wgrep (2 1 5))) "Writable ag buffer and apply the changes to files" single "melpa"])
   (whitespace-cleanup-mode . [(20131205 1117) nil "Intelligently call whitespace-cleanup on save" single "melpa"])
