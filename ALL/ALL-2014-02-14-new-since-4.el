@@ -493,7 +493,7 @@
   (wwtime . [(20120629 1350) nil "Insert a time of day with appropriate world-wide localization" single "melpa"])
   (x-dict . [(20091203 1023) nil "emacs interface for several online dictionaries" single "melpa"])
   (xcscope . [(20140128 1356) nil "cscope interface for (X)Emacs" single "melpa"])
-  (xkcd . [(20140206 317) ((json (1 3))) "View xkcd from Emacs" single "melpa"])
+  (xkcd . [(20140213 2254) ((json (1 3))) "View xkcd from Emacs" single "melpa"])
   (xmlunicode . [(20140121 623) nil "Unicode support for XML" tar "melpa"])
   (xquery-mode . [(20140121 943) nil "A simple mode for editing xquery programs" tar "melpa"])
   (xterm-color . [(20130904 1826) nil "ANSI & XTERM 256 color support" single "melpa"])
