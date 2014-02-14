@@ -504,7 +504,7 @@
   (vim-region . [(20131214 747) nil "Select region as vim" single "melpa"])
   (virtualenvwrapper . [(20131120 1008) ((dash (1 5 0)) (s (1 6 1))) "a modern virtualenv tool for Emacs" single "melpa"])
   (vkill . [(20091203 1022) nil "view and kill Unix processes from within Emacs" single "melpa"])
-  (vlf . [(20140129 1558) nil "View Large Files" tar "melpa"])
+  (vlf . [(20140213 1649) nil "View Large Files" tar "melpa"])
   (w32-browser . [(20131227 208) nil "Run Windows application associated with a file." single "melpa"])
   (w32browser-dlgopen . [(20131227 209) nil "Use w32browser with standard Windows Open File box." single "melpa"])
   (wakatime-mode . [(20131223 617) nil "Automatic time tracking extension based on WakaTime" single "melpa"])
