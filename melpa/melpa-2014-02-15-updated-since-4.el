@@ -265,7 +265,7 @@
   (esh-buf-stack . [(20140107 218) nil "Add a buffer stack feature to Eshell" single "melpa"])
   (esh-help . [(20140107 222) ((dash (1 4 0))) "Add some help functions and support for Eshell" single "melpa"])
   (espresso-theme . [(20130228 2348) nil "Espresso Tutti Colori port for Emacs" single "melpa"])
-  (espuds . [(20131026 1121) ((s (1 7 0)) (dash (2 2 0)) (noflet (0 0 10)) (f (0 12 1))) "Ecukes step definitions" single "melpa"])
+  (espuds . [(20140215 741) ((s (1 7 0)) (dash (2 2 0)) (noflet (0 0 10)) (f (0 12 1))) "Ecukes step definitions" single "melpa"])
   (ess . [(20140120 43) nil "No description available." tar "melpa"])
   (ess-R-data-view . [(20130509 458) ((ctable (20130313 1743)) (popup (20130324 1305)) (ess (20130225 1754))) "Data viewer for GNU R" single "melpa"])
   (ess-R-object-popup . [(20130302 336) ((popup (20130117 1954)) (ess (20130225 1754))) "popup description of R object" single "melpa"])

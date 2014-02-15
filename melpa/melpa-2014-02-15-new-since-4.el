@@ -340,7 +340,7 @@
   (mykie . [(20140213 618) nil "Command multiplexer: Register multiple functions to a keybind" tar "melpa"])
   (naked . [(20131227 142) nil "Provide for naked key descriptions: no angle brackets." single "melpa"])
   (nanowrimo . [(20131130 2140) nil "Track progress for nanowrimo" single "melpa"])
-  (navi-mode . [(20140213 1151) nil "major-mode for easy buffer-navigation" single "melpa"])
+  (navi-mode . [(20140215 634) nil "major-mode for easy buffer-navigation" single "melpa"])
   (navi2ch . [(20130618 514) nil "Navigator for 2ch for Emacsen" tar "melpa"])
   (never-comment . [(20140104 1407) nil "Never blocks are comment" single "melpa"])
   (newlisp-mode . [(20140109 1038) nil "newLISP editing mode for Emacs" single "melpa"])
