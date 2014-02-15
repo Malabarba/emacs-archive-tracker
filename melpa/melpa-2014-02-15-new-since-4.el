@@ -110,6 +110,7 @@
   (dos . [(20130711 409) nil "Major mode for editing Dos scripts" single "melpa"])
   (downplay-mode . [(20140110 2058) nil "focus attention on a region of the buffer" single "melpa"])
   (dtrt-indent . [(20130301 855) nil "Adapt to foreign indentation offsets" tar "melpa"])
+  (dummyparens . [(20140214 2305) nil "parenthesis auto-pairing and wrapping" single "melpa"])
   (easy-kill . [(20140207 2026) ((emacs (24))) "kill things easily" single "melpa"])
   (efire . [(20130811 1649) ((circe (1 2))) "Use campfire from Emacs" single "melpa"])
   (el-spice . [(20140113 816) ((thingatpt+ (0))) "Extra spice for emacs lisp programming" tar "melpa"])
