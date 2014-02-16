@@ -261,7 +261,7 @@
   (ercn . [(20121230 1013) nil "Flexible ERC notifications" single "melpa"])
   (eredis . [(20120808 2007) nil "eredis, a Redis client in emacs lisp" single "melpa"])
   (erefactor . [(20140119 901) nil "Emacs-Lisp refactoring utilities" single "melpa"])
-  (ergoemacs-mode . [(20140214 1538) nil "Emacs mode based on common modern software interface and ergonomics." tar "melpa"])
+  (ergoemacs-mode . [(20140215 749) nil "Emacs mode based on common modern software interface and ergonomics." tar "melpa"])
   (erlang . [(20131025 6) nil "Erlang major mode" tar "melpa"])
   (ert-expectations . [(20130824 1200) nil "The simplest unit test framework in the world" single "melpa"])
   (ert-runner . [(20140121 1045) ((s (1 6 1)) (dash (1 8 0)) (f (0 10 0)) (commander (0 2 0)) (ansi (0 1 0)) (shut-up (0 1 0))) "Opinionated Ert testing workflow" tar "melpa"])
