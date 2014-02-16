@@ -72,7 +72,7 @@
   (css-eldoc . [(20140128 2337) nil "an eldoc-mode plugin for CSS source code" tar "melpa"])
   (cssh . [(20120823 1241) nil "clusterssh implementation for emacs" single "melpa"])
   (ctl-mode . [(20131229 2316) nil "Major mode for editing GrADS script files" single "melpa"])
-  (ctxmenu . [(20140213 122) ((popup (20140205 103)) (log4e (0 2 0)) (yaxception (0 1))) "Provide a context menu like right-click." tar "melpa"])
+  (ctxmenu . [(20140215 1917) ((popup (20140205 103)) (log4e (0 2 0)) (yaxception (0 1))) "Provide a context menu like right-click." tar "melpa"])
   (cucumber-goto-step . [(20131209 2119) ((pcre2el (1 5))) "Jump to cucumber step definition" single "melpa"])
   (cursor-test . [(20131207 932) ((emacs (24))) "testing library for cursor position in emacs." single "melpa"])
   (cycbuf . [(20131203 1237) nil "Cycle buffers, inspired by swbuff.el, swbuff-x.el, and bs.el" single "melpa"])
