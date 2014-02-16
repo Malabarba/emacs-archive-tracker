@@ -819,7 +819,7 @@
   (rcirc-color . [(20140131 656) nil "color nicks" single "melpa"])
   (rcirc-notify . [(20140131 1507) nil "No description available." single "melpa"])
   (rdp . [(20120928 1854) nil "Recursive Descent Parser library" single "melpa"])
-  (realgud . [(20140216 826) ((load-relative (20130410)) (loc-changes (20130723)) (test-simple (20130710))) "A modular front-end for interacting with external debuggers" tar "melpa"])
+  (realgud . [(20140216 1430) ((load-relative (20130410)) (loc-changes (20130723)) (test-simple (20130710))) "A modular front-end for interacting with external debuggers" tar "melpa"])
   (rebox2 . [(20121113 500) nil "Handling of comment boxes in various styles." single "melpa"])
   (recentf-ext . [(20130130 2150) nil "Recentf extensions" single "melpa"])
   (rect+ . [(20140117 608) nil "Extensions to rect.el" single "melpa"])
