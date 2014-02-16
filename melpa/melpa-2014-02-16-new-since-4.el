@@ -442,6 +442,7 @@
   (roguel-ike . [(20140214 927) ((popup (0 5 0))) "A coffee-break roguelike" tar "melpa"])
   (rotate . [(20140123 116) nil "Rotate the layout of emacs" single "melpa"])
   (rpm-spec-mode . [(20140120 50) nil "RPM spec file editing commands for Emacs/XEmacs" single "melpa"])
+  (rtags . [(20140215 1304) nil "A front-end for rtags" single "melpa"])
   (ruby-additional . [(20131030 2113) ((emacs (24 3)) (ruby-mode (1 2))) "ruby-mode extensions yet to be merged into Emacs" tar "melpa"])
   (ruby-refactor . [(20140104 1354) ((ruby-mode (1 2))) "A minor mode which presents various Ruby refactoring helpers." single "melpa"])
   (runner . [(20140106 758) nil "Improved \"open with\" suggestions for dired" single "melpa"])
