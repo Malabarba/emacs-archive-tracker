@@ -508,7 +508,7 @@
   (inf-ruby . [(20131222 1633) nil "Run a Ruby process in a buffer" single "melpa"])
   (inflections . [(20121016 157) nil "convert english words between singular and plural" single "melpa"])
   (info+ . [(20140120 1748) nil "Extensions to `info.el'." single "melpa"])
-  (init-loader . [(20140216 653) nil "Loader for configuration files" single "melpa"])
+  (init-loader . [(20140216 2240) nil "Loader for configuration files" single "melpa"])
   (initsplit . [(20140203 441) nil "code to split customizations into different files" single "melpa"])
   (inkpot-theme . [(20120505 708) nil "port of vim's inkpot theme" single "melpa"])
   (inline-crypt . [(20130409 507) nil "Simple inline encryption via openssl" tar "melpa"])
