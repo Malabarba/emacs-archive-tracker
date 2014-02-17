@@ -73,7 +73,7 @@
   (better-defaults . [(20130422 1322) nil "Fixing weird quirks and poor defaults" single "melpa"])
   (bf-mode . [(20130403 742) nil "Browse file persistently on dired" single "melpa"])
   (bibretrieve . [(20131013 1132) ((auctex (11 87)) (emacs (24 3))) "Retrieving BibTeX entries from the web" tar "melpa"])
-  (bind-key . [(20140205 819) nil "A simple way to manage personal keybindings" single "melpa"])
+  (bind-key . [(20140216 2104) nil "A simple way to manage personal keybindings" single "melpa"])
   (birds-of-paradise-plus-theme . [(20130419 1429) nil "A brown/orange light-on-dark theme for Emacs 24 (deftheme)." single "melpa"])
   (bitlbee . [(20130328 1018) nil "Help get Bitlbee (http://www.bitlbee.org) up and running." single "melpa"])
   (bitly . [(20130503 149) nil "Shorten URLs using the bitly.com shortener service" single "melpa"])
