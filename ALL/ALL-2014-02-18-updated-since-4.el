@@ -127,7 +127,7 @@
   (color-theme-approximate . [(20130328 1933) nil "Makes Emacs theme works on terminal transparently" single "melpa"])
   (color-theme-buffer-local . [(20120702 1336) nil "Install color-themes by buffer." single "melpa"])
   (color-theme-sanityinc-solarized . [(20140129 458) nil "A version of Ethan Schoonover's Solarized themes" tar "melpa"])
-  (color-theme-sanityinc-tomorrow . [(20140131 923) nil "A version of Chris Kempson's various Tomorrow themes" tar "melpa"])
+  (color-theme-sanityinc-tomorrow . [(20140218 324) nil "A version of Chris Kempson's various Tomorrow themes" tar "melpa"])
   (color-theme-solarized . [(20130307 1350) ((color-theme (6 5 5))) "Solarized themes for Emacs" tar "melpa"])
   (column-marker . [(20121128 843) nil "Highlight certain character columns" single "melpa"])
   (commander . [(20140120 1052) ((s (1 6 0)) (dash (2 0 0)) (cl-lib (0 3)) (f (0 6 1))) "Emacs command line parser" single "melpa"])
