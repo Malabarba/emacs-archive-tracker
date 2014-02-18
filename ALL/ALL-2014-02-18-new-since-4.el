@@ -457,6 +457,7 @@
   (string-inflection . [(20140111 731) nil "underscore -> UPCASE -> CamelCase conversion of names" single "melpa"])
   (strings . [(20131227 158) nil "Miscellaneous string functions." single "melpa"])
   (sunny-day-theme . [(20140128 551) nil "Emacs24 theme with a light background." single "melpa"])
+  (swoop . [(20140218 816) ((ht (2 0)) (pcre2el (1 5)) (async (1 1)) (emacs (24))) "Peculiar buffer navigation for Emacs" tar "melpa"])
   (tab-group . [(20121018 1252) nil "Grouped tabs and their tabbar" single "melpa"])
   (tango-plus-theme . [(20140214 505) nil "A color theme based on the tango palette" single "melpa"])
   (tdd-status-mode-line . [(20131123 916) nil "TDD status on the mode-line" single "melpa"])
