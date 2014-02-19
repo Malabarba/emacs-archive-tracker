@@ -99,7 +99,7 @@
   (font-utils . [(0 7 0) ((persistent-soft (0 8 8)) (pcache (0 2 3))) "Utility functions for working with fonts" single "marmalade"])
   (multiple-cursors . [(1 3 0) nil "Multiple cursors for Emacs." tar "marmalade"])
   (list-utils . [(0 4 2) nil "List-manipulation utility functions" single "marmalade"])
-  (exec-path-from-shell . [(1 6) nil "Get environment variables such as $PATH from the shell" single "marmalade"])
+  (exec-path-from-shell . [(1 7) nil "Get environment variables such as $PATH from the shell" single "marmalade"])
   (anaphora . [(1 0 0) nil "anaphoric macros providing implicit temp variables" single "marmalade"])
   (tumblesocks . [(0 0 7) ((htmlize (1 39)) (oauth (1 0 3)) (markdown-mode (1 8 1))) "An Emacs tumblr client." tar "marmalade"])
   (kv . [(0 0 19) nil "key/value data structure functions" single "marmalade"])
