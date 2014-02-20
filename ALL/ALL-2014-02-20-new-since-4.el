@@ -79,7 +79,7 @@
   (dayone . [(20131117 255) ((uuid (0 0 3)) (mustache (0 22)) (ht (1 5))) "Utility script for Day One" tar "melpa"])
   (debpaste . [(20140208 2) ((xml-rpc (1 6 7))) "Interface for getting/posting/deleting pastes from paste.debian.net" single "melpa"])
   (debug-print . [(20140125 1619) ((emacs (24))) "A nice printf debugging environment by the way Gauche do" single "melpa"])
-  (decl . [(20140219 46) ((dash (2 5 0)) (emacs (24 3))) "Enables you to organize your code in a declarative manner" single "melpa"])
+  (decl . [(20140220 157) ((dash (2 5 0)) (emacs (24 3))) "Enables you to organize your code in a declarative manner" single "melpa"])
   (dedukti-mode . [(20140210 2330) nil "Major mode for Dedukti files" single "melpa"])
   (dictionary . [(20131005 526) ((connection (1 10)) (link (1 10))) "Client for rfc2229 dictionary servers" single "melpa"])
   (dim-autoload . [(20131019 120) nil "dim complete autoload cookie lines" single "melpa"])
