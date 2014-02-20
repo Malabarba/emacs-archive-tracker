@@ -854,7 +854,7 @@
   (ruby-end . [(20131016 37) nil "Automatic insertion of end blocks for Ruby" single "melpa"])
   (ruby-hash-syntax . [(20131113 1032) nil "Toggle ruby hash syntax between classic and 1.9 styles" single "melpa"])
   (ruby-interpolation . [(20131112 852) nil "Ruby string interpolation helpers" single "melpa"])
-  (ruby-test-mode . [(20140121 743) ((ruby-mode (1 0))) "Minor mode for Behaviour and Test Driven" single "melpa"])
+  (ruby-test-mode . [(20140220 1118) ((ruby-mode (1 0))) "Minor mode for Behaviour and Test Driven" single "melpa"])
   (ruby-tools . [(20140113 45) nil "Collection of handy functions for ruby-mode." tar "melpa"])
   (rust-mode . [(20140215 1406) nil "A major emacs mode for editing Rust source code" single "melpa"])
   (rvm . [(20140109 319) nil "Emacs integration for rvm" single "melpa"])
