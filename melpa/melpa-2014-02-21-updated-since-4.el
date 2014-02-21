@@ -428,7 +428,7 @@
   (helm-git . [(20120630 1403) nil "Helm extension for Git." single "melpa"])
   (helm-git-grep . [(20140210 836) ((helm (1 5 9))) "helm for git grep, an incremental git-grep(1)" single "melpa"])
   (helm-go-package . [(20140211 1457) ((helm (1 0)) (go-mode (9)) (deferred (0 3 2))) "helm sources for Go programming language's package" single "melpa"])
-  (helm-gtags . [(20140128 238) ((helm (1 5 6))) "GNU GLOBAL helm interface" single "melpa"])
+  (helm-gtags . [(20140220 1834) ((helm (1 5 6))) "GNU GLOBAL helm interface" single "melpa"])
   (helm-ls-git . [(20140104 657) nil "list git files." single "melpa"])
   (helm-migemo . [(20130820 440) ((helm (1 5 3)) (migemo (1 9))) "Migemo plug-in for helm" single "melpa"])
   (helm-open-github . [(20140107 1905) ((helm (1 0)) (gh (1 0))) "Utilities of Opening Github Page" single "melpa"])
