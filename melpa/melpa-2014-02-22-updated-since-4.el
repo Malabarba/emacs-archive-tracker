@@ -40,7 +40,7 @@
   (ascii . [(20130824 1200) nil "ASCII code display." single "melpa"])
   (ascope . [(20130824 1158) nil "Another cscope interface for emacs" single "melpa"])
   (async . [(20140219 745) nil "Asynchronous processing in Emacs" tar "melpa"])
-  (auctex-latexmk . [(20140107 215) ((auctex (11 87))) "Add LatexMk support to AUCTeX" single "melpa"])
+  (auctex-latexmk . [(20140221 1917) ((auctex (11 87))) "Add LatexMk support to AUCTeX" single "melpa"])
   (audio-notes-mode . [(20140204 1154) nil "Play audio notes synced from somewhere else." single "melpa"])
   (auto-async-byte-compile . [(20140212 2212) nil "No description available." single "melpa"])
   (auto-auto-indent . [(20131106 1103) ((es-lib (0 1)) (cl-lib (1 0))) "Indents code as you type" single "melpa"])
