@@ -110,7 +110,7 @@
   (clippy . [(20131210 258) ((pos-tip (1 0))) "Show tooltip with function documentation at point" single "melpa"])
   (clj-refactor . [(20140221 136) ((s (1 8 0)) (dash (2 4 0)) (yasnippet (0 6 1)) (paredit (22)) (multiple-cursors (1 2 2))) "A collection of clojure refactoring functions" single "melpa"])
   (cljsbuild-mode . [(20130110 732) nil "A minor mode for the ClojureScript 'lein cljsbuild' command" single "melpa"])
-  (clojure-mode . [(20140201 649) nil "Major mode for Clojure code" single "melpa"])
+  (clojure-mode . [(20140222 2238) nil "Major mode for Clojure code" single "melpa"])
   (clojure-snippets . [(20130403 1146) ((yasnippet (0 8 0))) "Yasnippets for clojure" tar "melpa"])
   (clojure-test-mode . [(20131227 805) ((clojure-mode (1 7)) (cider (0 4 0))) "Minor mode for Clojure tests" single "melpa"])
   (closure-lint-mode . [(20101118 1324) nil "minor mode for the Closure Linter" single "melpa"])
