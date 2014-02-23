@@ -436,7 +436,7 @@
   (helm-flymake . [(20130716 2244) ((helm (1 0))) "helm interface for flymake" single "melpa"])
   (helm-gist . [(20120819 1735) ((helm (20120811)) (gist (1 0 1))) "helm-sources and some utilities for gist." single "melpa"])
   (helm-git . [(20120630 1403) nil "Helm extension for Git." single "melpa"])
-  (helm-git-grep . [(20140221 224) ((helm (1 5 9))) "helm for git grep, an incremental git-grep(1)" single "melpa"])
+  (helm-git-grep . [(20140222 1822) ((helm (1 5 9))) "helm for git grep, an incremental git-grep(1)" single "melpa"])
   (helm-go-package . [(20140211 1457) ((helm (1 0)) (go-mode (9)) (deferred (0 3 2))) "helm sources for Go programming language's package" single "melpa"])
   (helm-gtags . [(20140222 48) ((helm (1 5 6))) "GNU GLOBAL helm interface" single "melpa"])
   (helm-ls-git . [(20140104 657) nil "list git files." single "melpa"])
