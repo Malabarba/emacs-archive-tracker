@@ -407,6 +407,7 @@
   (puppetfile-mode . [(20131017 833) nil "Syntax highlighting for Puppetfiles" single "melpa"])
   (pushbullet . [(20140204 2004) ((grapnel (0 5 2)) (json (1 2)) (ht (2 0))) "Emacs client for the PushBullet Android app" single "melpa"])
   (py-import-check . [(20130802 411) nil "Finds the unused python imports using importchecker" single "melpa"])
+  (py-isort . [(20140223 141) nil "Use isort to sort the imports in a Python buffer" single "melpa"])
   (pydoc-info . [(20110301 34) nil "Better Python support for info-lookup-symbol." tar "melpa"])
   (python-cell . [(20131029 1616) nil "Support for MATLAB-like cells in python mode" single "melpa"])
   (python-info . [(20130916 620) nil "Python info manual for Emacs" tar "melpa"])
