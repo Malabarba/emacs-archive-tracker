@@ -239,7 +239,7 @@
   (emamux . [(20140214 536) ((cl-lib (0 3))) "Interact with tmux" single "melpa"])
   (emamux-ruby-test . [(20130812 939) ((emamux (0 1)) (projectile (0 9 1))) "Ruby test with emamux" single "melpa"])
   (emmet-mode . [(20140218 836) nil "Unofficial Emmet's support for emacs" single "melpa"])
-  (emms . [(20131016 932) nil "The Emacs Multimedia System" tar "melpa"])
+  (emms . [(20140222 2027) nil "The Emacs Multimedia System" tar "melpa"])
   (emms-mark-ext . [(20130528 2027) ((emms (3 0))) "Extra functions for emms-mark-mode and emms-tag-edit-mode" single "melpa"])
   (emr . [(20130619 316) ((s (1 3 1)) (dash (1 2 0)) (cl-lib (0 2)) (popup (0 5 0)) (emacs (24 1)) (list-utils (0 3 0)) (redshank (1 0 0)) (paredit (24 0 0)) (projectile (0 9 1))) "Emacs refactoring system." tar "melpa"])
   (enclose . [(20121008 914) nil "Enclose cursor within punctuation pairs." tar "melpa"])

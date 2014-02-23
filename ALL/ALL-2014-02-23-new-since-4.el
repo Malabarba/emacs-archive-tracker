@@ -440,7 +440,7 @@
   (shadow . [(20110507 24) nil "That's not the file. That's shadow." single "melpa"])
   (shampoo . [(20131230 219) nil "A remote Smalltalk development mode" tar "melpa"])
   (shell-current-directory . [(20140101 1554) nil "create new shell based on buffer directory" single "melpa"])
-  (shm . [(20140221 730) nil "Structured Haskell Mode" tar "melpa"])
+  (shm . [(20140222 2032) nil "Structured Haskell Mode" tar "melpa"])
   (shut-up . [(20140211 521) ((cl-lib (0 3))) "Shut up would you!" single "melpa"])
   (simple+ . [(20131227 154) ((strings (0))) "Extensions to standard library `simple.el'." single "melpa"])
   (simple-rtm . [(20140105 438) nil "Interactive Emacs mode for Remember The Milk" tar "melpa"])
