@@ -152,7 +152,7 @@
   (evil-matchit . [(20140216 2113) nil "Vim matchit ported into Emacs (requires EVIL)" tar "melpa"])
   (evil-tabs . [(20131011 433) ((evil (0 0 0)) (elscreen (0 0 0))) "Integrating Vim-style tabs for Evil mode users." single "melpa"])
   (evil-visualstar . [(20130925 1114) ((evil (0))) "Starts a * or # search from the visual selection" single "melpa"])
-  (evm . [(20140222 320) ((dash (2 3 0)) (f (0 13 0))) "Emacs Version Manager" single "melpa"])
+  (evm . [(20140224 316) ((dash (2 3 0)) (f (0 13 0))) "Emacs Version Manager" single "melpa"])
   (eyedropper . [(20131226 1838) ((hexrgb (0))) "Pick foreground and background colors at cursor or pointer." single "melpa"])
   (ez-query-replace . [(20140203 915) ((dash (1 2 0))) "A helpful query-replace." single "melpa"])
   (face-remap+ . [(20131226 1839) nil "Extensions to standard library `face-remap.el'." single "melpa"])

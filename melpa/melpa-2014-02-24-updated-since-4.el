@@ -252,7 +252,7 @@
   (erc-image . [(20140124 1746) ((erc (5 3))) "Show received image urls in the ERC buffer" single "melpa"])
   (erc-terminal-notifier . [(20140115 224) nil "OSX notifications via the terminal-notifier gem for Emacs ERC." single "melpa"])
   (erc-track-score . [(20130328 515) nil "Add score support to tracked channel buffers" single "melpa"])
-  (erc-tweet . [(20130618 1301) ((erc (5 3))) "shows text of a tweet when an url is posted in erc buffers" single "melpa"])
+  (erc-tweet . [(20140224 158) ((erc (5 3))) "shows text of a tweet when an url is posted in erc buffers" single "melpa"])
   (ercn . [(20121230 1013) nil "Flexible ERC notifications" single "melpa"])
   (eredis . [(20120808 2007) nil "eredis, a Redis client in emacs lisp" single "melpa"])
   (erefactor . [(20140119 901) nil "Emacs-Lisp refactoring utilities" single "melpa"])
