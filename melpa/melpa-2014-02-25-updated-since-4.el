@@ -817,7 +817,7 @@
   (rinari . [(20131117 737) ((ruby-mode (1 0)) (inf-ruby (2 2 5)) (ruby-compilation (0 16)) (jump (2 0))) "Rinari Is Not A Rails IDE" single "melpa"])
   (rings . [(20140102 1536) nil "Buffer rings. Like tabs, but better." single "melpa"])
   (rnc-mode . [(20121227 1502) nil "A major mode for editing RELAX NG Compact syntax." single "melpa"])
-  (robe . [(20140205 2011) ((inf-ruby (2 3 0))) "Code navigation, documentation lookup and completion for Ruby" tar "melpa"])
+  (robe . [(20140224 1940) ((inf-ruby (2 3 0))) "Code navigation, documentation lookup and completion for Ruby" tar "melpa"])
   (roy-mode . [(20121208 358) nil "Roy major mode" single "melpa"])
   (rsense . [(20100510 2105) nil "RSense client for Emacs" single "melpa"])
   (rspec-mode . [(20140223 1340) ((ruby-mode (1 0)) (cl-lib (0 4))) "Enhance ruby-mode for RSpec" tar "melpa"])
