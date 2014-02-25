@@ -411,7 +411,7 @@
   (puppetfile-mode . [(20131017 833) nil "Syntax highlighting for Puppetfiles" single "melpa"])
   (pushbullet . [(20140204 2004) ((grapnel (0 5 2)) (json (1 2)) (ht (2 0))) "Emacs client for the PushBullet Android app" single "melpa"])
   (py-autopep8 . [(20140224 1126) nil "Use autopep8 to beautify a Python buffer" single "melpa"])
-  (py-gnitset . [(20140224 715) nil "Run your Python tests any way you'd like" single "melpa"])
+  (py-gnitset . [(20140224 1715) nil "Run your Python tests any way you'd like" single "melpa"])
   (py-import-check . [(20130802 411) nil "Finds the unused python imports using importchecker" single "melpa"])
   (py-isort . [(20140223 912) nil "Use isort to sort the imports in a Python buffer" single "melpa"])
   (pydoc-info . [(20110301 34) nil "Better Python support for info-lookup-symbol." tar "melpa"])
