@@ -293,7 +293,7 @@
   (fakespace . [(20120817 1706) nil "fake namespaces with defpackage" single "melpa"])
   (fakir . [(20140219 1510) ((noflet (0 0 8)) (dash (1 3 2)) (kv (0 0 19))) "fakeing bits of Emacs" single "melpa"])
   (fastnav . [(20120211 657) nil "Fast navigation and editing routines." single "melpa"])
-  (feature-mode . [(20140224 1355) nil "Major mode for editing Gherkin (i.e. Cucumber) user stories" tar "melpa"])
+  (feature-mode . [(20140225 459) nil "Major mode for editing Gherkin (i.e. Cucumber) user stories" tar "melpa"])
   (fic-mode . [(20130824 1158) nil "Show FIXME/TODO/BUG/KLUDGE in special face only in comments and strings" single "melpa"])
   (figlet . [(20120601 1315) nil "Annoy people with big, ascii art text" single "melpa"])
   (fill-column-indicator . [(20130807 619) nil "Graphically indicate the fill column" tar "melpa"])
