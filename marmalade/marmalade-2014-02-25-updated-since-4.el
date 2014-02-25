@@ -1,4 +1,5 @@
 '(
+  (google-translate . [(0 5) nil "Emacs interface to Google Translate" single "marmalade"])
   (maildir . [(0 0 23) ((kv (0 0 17)) (dash (2 3 0)) (s (1 9 0)) (noflet (0 0 8))) "Simple maildir based MUA." tar "marmalade"])
   (sass-mode . [(3 0 16) ((haml-mode (3 0 15))) "Major mode for editing Sass files" single "marmalade"])
   (web-mode . [(8 0 4) nil "major mode for editing html templates" single "marmalade"])
@@ -133,7 +134,6 @@
   (git-auto-commit-mode . [(4 2 2) nil "Emacs Minor mode to automatically commit and push" single "marmalade"])
   (ujelly-theme . [(1 0 35) nil "Ujelly theme for GNU Emacs 24 (deftheme)" single "marmalade"])
   (evil-leader . [(0 4 1) ((evil (0))) "let there be <leader>" single "marmalade"])
-  (google-translate . [(0 5) nil "Emacs interface to Google Translate" single "marmalade"])
   (drupal-mode . [(0 4 0) ((php-mode (1 5 0))) "Advanced minor mode for Drupal development" tar "marmalade"])
   (test-case-mode . [(0 1 9) nil "unit test front-end" single "marmalade"])
   (ack-and-a-half . [(1 2 0) nil "Yet another front-end for ack" single "marmalade"])
