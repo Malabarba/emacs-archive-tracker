@@ -96,7 +96,7 @@
   (dictionary . [(20131005 526) ((connection (1 10)) (link (1 10))) "Client for rfc2229 dictionary servers" single "melpa"])
   (dim-autoload . [(20131019 120) nil "dim complete autoload cookie lines" single "melpa"])
   (dired-avfs . [(20140220 1247) ((dash (2 5 0)) (dired-hacks-utils (0 0 1))) "AVFS support for dired" single "melpa"])
-  (dired-filter . [(20140225 222) ((dash (2 5 0)) (dired-hacks-utils (0 0 1))) "Ibuffer-like filtering for dired" single "melpa"])
+  (dired-filter . [(20140225 614) ((dash (2 5 0)) (dired-hacks-utils (0 0 1))) "Ibuffer-like filtering for dired" single "melpa"])
   (dired-hacks-utils . [(20140220 1247) ((dash (2 5 0))) "Utilities and helpers for dired-hacks collection" single "melpa"])
   (dired-imenu . [(20140109 810) nil "imenu binding for dired mode" single "melpa"])
   (dired-open . [(20140220 1247) ((dash (2 5 0)) (dired-hacks-utils (0 0 1))) "Open files from dired using using custom actions" single "melpa"])
