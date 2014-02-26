@@ -426,7 +426,7 @@
   (helm . [(20140225 1146) nil "Helm is an Emacs incremental and narrowing framework" tar "melpa"])
   (helm-R . [(20120819 1714) ((helm (20120517)) (ess (20120509))) "helm-sources and some utilities for GNU R." single "melpa"])
   (helm-ack . [(20140222 50) ((helm (1 0)) (cl-lib (0 4))) "Ack command with helm interface" single "melpa"])
-  (helm-ag . [(20140225 800) ((helm (1 5 6)) (cl-lib (0 4))) "the silver search with helm interface" single "melpa"])
+  (helm-ag . [(20140225 2054) ((helm (1 5 6)) (cl-lib (0 4))) "the silver search with helm interface" single "melpa"])
   (helm-anything . [(20131217 1832) ((helm (20130406)) (anything (20120101))) "Bridge between anything and helm" single "melpa"])
   (helm-c-moccur . [(20140115 1943) ((helm (20120811)) (color-moccur (2 71))) "helm source for color-moccur.el" single "melpa"])
   (helm-c-yasnippet . [(20140131 226) ((helm (1 5 8)) (yasnippet (0 8 0)) (cl-lib (0 3))) "helm source for yasnippet.el" single "melpa"])
