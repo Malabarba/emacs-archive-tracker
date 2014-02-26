@@ -422,7 +422,7 @@
   (python-info . [(20130916 620) nil "Python info manual for Emacs" tar "melpa"])
   (pyvenv . [(20140224 1119) nil "Python virtual environment interface" single "melpa"])
   (qiita . [(20140118 44) ((helm (1 5 9)) (markdown-mode (2 0))) "Qiita API Library for emacs" single "melpa"])
-  (racket-mode . [(20140224 751) nil "Major mode for Racket language." tar "melpa"])
+  (racket-mode . [(20140225 1958) nil "Major mode for Racket language." tar "melpa"])
   (rcirc-alert . [(20140110 929) nil "Configurable alert messages on top of RCIRC" tar "melpa"])
   (rcirc-controls . [(20140131 656) nil "No description available." single "melpa"])
   (rcirc-groups . [(20131223 404) nil "an emacs buffer in rcirc-groups major mode" single "melpa"])
