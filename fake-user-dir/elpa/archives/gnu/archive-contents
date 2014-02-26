@@ -39,7 +39,7 @@
 	  ((:keywords quote nil)
 	   (:url . "http://www.gnu.org/software/auctex/"))])
  (cl-lib .
-	 [(0 4)
+	 [(0 5)
 	  nil "Properly prefixed CL functions and macros" single
 	  ((:url . "http://elpa.gnu.org/packages/cl-lib.html")
 	   (:keywords quote nil))])

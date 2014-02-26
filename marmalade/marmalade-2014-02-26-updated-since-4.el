@@ -1,4 +1,5 @@
 '(
+  (creds . [(0 0 4) nil "a simple parser credential file lib" tar "marmalade"])
   (google-translate . [(0 5) nil "Emacs interface to Google Translate" single "marmalade"])
   (maildir . [(0 0 23) ((kv (0 0 17)) (dash (2 3 0)) (s (1 9 0)) (noflet (0 0 8))) "Simple maildir based MUA." tar "marmalade"])
   (sass-mode . [(3 0 16) ((haml-mode (3 0 15))) "Major mode for editing Sass files" single "marmalade"])

@@ -49,7 +49,7 @@
   (csv-mode . [(1 2) nil "Major mode for editing comma/char separated values" single ((:url . "http://centaur.maths.qmul.ac.uk/Emacs/") (:keywords quote ("convenience"))) "gnu"])
   (company . [(0 7) nil "Modular in-buffer completion framework" tar ((:keywords quote ("abbrev" "convenience" "matching")) (:url . "http://company-mode.github.io/")) "gnu"])
   (coffee-mode . [(0 4 1 1) nil "Major mode for CoffeeScript files" single ((:url . "http://github.com/defunkt/coffee-mode") (:keywords quote ("coffeescript" "major" "mode"))) "gnu"])
-  (cl-lib . [(0 4) nil "Properly prefixed CL functions and macros" single ((:url . "http://elpa.gnu.org/packages/cl-lib.html") (:keywords quote nil)) "gnu"])
+  (cl-lib . [(0 5) nil "Properly prefixed CL functions and macros" single ((:url . "http://elpa.gnu.org/packages/cl-lib.html") (:keywords quote nil)) "gnu"])
   (auctex . [(11 87 2) nil "Integrated environment for *TeX*" tar ((:keywords quote nil) (:url . "http://www.gnu.org/software/auctex/")) "gnu"])
   (all . [(1 0) nil "Edit all lines matching a given regexp" single ((:url . "http://elpa.gnu.org/packages/all.html") (:keywords quote ("matching"))) "gnu"])
   (adaptive-wrap . [(0 5) nil "Smart line-wrapping with wrap-prefix" single ((:url . "http://elpa.gnu.org/packages/adaptive-wrap.html") (:keywords quote nil)) "gnu"])
