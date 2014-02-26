@@ -135,7 +135,7 @@
   (git-auto-commit-mode . [(4 2 2) nil "Emacs Minor mode to automatically commit and push" single "marmalade"])
   (ujelly-theme . [(1 0 35) nil "Ujelly theme for GNU Emacs 24 (deftheme)" single "marmalade"])
   (evil-leader . [(0 4 1) ((evil (0))) "let there be <leader>" single "marmalade"])
-  (drupal-mode . [(0 4 0) ((php-mode (1 5 0))) "Advanced minor mode for Drupal development" tar "marmalade"])
+  (drupal-mode . [(0 4 1) ((php-mode (1 5 0))) "Advanced minor mode for Drupal development" tar "marmalade"])
   (test-case-mode . [(0 1 9) nil "unit test front-end" single "marmalade"])
   (ack-and-a-half . [(1 2 0) nil "Yet another front-end for ack" single "marmalade"])
   (expand-region . [(0 10 0) nil "Increase selected region by semantic units." tar "marmalade"])
