@@ -1168,7 +1168,7 @@
   (debbugs . [(0 6) nil "SOAP library to access debbugs servers" tar ((:keywords quote ("comm" "hypermedia")) (:url . "http://elpa.gnu.org/packages/debbugs.html")) "gnu"])
   (csv-mode . [(1 2) nil "Major mode for editing comma/char separated values" single ((:url . "http://centaur.maths.qmul.ac.uk/Emacs/") (:keywords quote ("convenience"))) "gnu"])
   (cl-lib . [(0 5) nil "Properly prefixed CL functions and macros" single ((:url . "http://elpa.gnu.org/packages/cl-lib.html") (:keywords quote nil)) "gnu"])
-  (auctex . [(11 87 2) nil "Integrated environment for *TeX*" tar ((:keywords quote nil) (:url . "http://www.gnu.org/software/auctex/")) "gnu"])
+  (auctex . [(11 87 3) nil "Integrated environment for *TeX*" tar ((:keywords quote nil) (:url . "http://www.gnu.org/software/auctex/")) "gnu"])
   (all . [(1 0) nil "Edit all lines matching a given regexp" single ((:url . "http://elpa.gnu.org/packages/all.html") (:keywords quote ("matching"))) "gnu"])
   (adaptive-wrap . [(0 5) nil "Smart line-wrapping with wrap-prefix" single ((:url . "http://elpa.gnu.org/packages/adaptive-wrap.html") (:keywords quote nil)) "gnu"])
   (ack . [(1 3) nil "Interface to ack-like source code search tools" tar ((:keywords quote ("tools" "processes" "convenience")) (:url . "https://github.com/leoliu/ack-el")) "gnu"])
