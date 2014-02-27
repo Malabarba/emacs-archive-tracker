@@ -7,7 +7,7 @@
   (ac-geiser . [(20130928 2347) ((geiser (0 5)) (auto-complete (1 4))) "Auto-complete backend for geiser" tar "melpa"])
   (ac-inf-ruby . [(20131115 350) ((inf-ruby (2 3 2)) (auto-complete (1 4))) "Enable auto-complete in inf-ruby sessions" single "melpa"])
   (ac-ispell . [(20140214 751) ((auto-complete (1 4))) "ispell completion source for auto-complete" single "melpa"])
-  (ac-octave . [(20131228 538) ((auto-complete (1 4 0))) "An auto-complete source for Octave" single "melpa"])
+  (ac-octave . [(20140226 2051) ((auto-complete (1 4 0))) "An auto-complete source for Octave" single "melpa"])
   (achievements . [(20131111 2351) ((keyfreq (0 0 3))) "Achievements for emacs usage." tar "melpa"])
   (afternoon-theme . [(20140104 1059) ((emacs (24 1))) "Dark color theme with a deep blue background" single "melpa"])
   (alect-themes . [(20140218 2259) nil "Configurable color themes (light, dark and black) for Emacs 24" tar "melpa"])

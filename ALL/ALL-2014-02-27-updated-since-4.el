@@ -857,7 +857,7 @@
   (ruby-interpolation . [(20131112 852) nil "Ruby string interpolation helpers" single "melpa"])
   (ruby-test-mode . [(20140220 1118) ((ruby-mode (1 0))) "Minor mode for Behaviour and Test Driven" single "melpa"])
   (ruby-tools . [(20140113 45) nil "Collection of handy functions for ruby-mode." tar "melpa"])
-  (rust-mode . [(20140215 1406) nil "A major emacs mode for editing Rust source code" single "melpa"])
+  (rust-mode . [(20140226 2001) nil "A major emacs mode for editing Rust source code" single "melpa"])
   (rvm . [(20140109 319) nil "Emacs integration for rvm" single "melpa"])
   (s . [(20131223 944) nil "The long lost Emacs string manipulation library." single "melpa"])
   (s-buffer . [(20130605 1424) ((s (1 6 0)) (noflet (0 0 3))) "s operations for buffers" single "melpa"])
