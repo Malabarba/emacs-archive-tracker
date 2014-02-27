@@ -238,7 +238,7 @@
   (elpa-audit . [(20131230 1344) nil "Handy functions for inspecting and comparing package archives" single "melpa"])
   (elpy . [(20140213 1028) ((auto-complete (1 4)) (find-file-in-project (3 2)) (fuzzy (0 1)) (highlight-indentation (0 5 0)) (idomenu (0 1)) (iedit (0 97)) (nose (0 1 1)) (pyvenv (1 0)) (yasnippet (0 8 0))) "Emacs Python Development Environment" tar "melpa"])
   (elscreen . [(20120413 807) nil "Emacs window session manager" single "melpa"])
-  (emacs-eclim . [(20140226 824) ((json (1 2))) "An interface to the Eclipse IDE." tar "melpa"])
+  (emacs-eclim . [(20140226 2328) ((json (1 2))) "An interface to the Eclipse IDE." tar "melpa"])
   (emacs-setup . [(20120727 726) nil "Package for maintaining your emacs configuration. Clean up your .emacs!" tar "melpa"])
   (emacsc . [(20131027 225) nil "helper for emacsc(1)" tar "melpa"])
   (emagician-fix-spell-memory . [(20130415 1244) nil "Simple hack into ispell to fix (muscle) memory problems" single "melpa"])
