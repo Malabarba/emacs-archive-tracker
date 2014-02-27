@@ -143,7 +143,7 @@
   (epl . [(20140211 524) ((cl-lib (0 3))) "Emacs Package Library" single "melpa"])
   (epresent . [(20140212 931) nil "Simple presentation mode for Emacs Org-mode" single "melpa"])
   (erc-crypt . [(20131109 546) nil "Symmetric Encryption for ERC" single "melpa"])
-  (erc-view-log . [(20140127 1031) nil "Major mode for viewing ERC logs" single "melpa"])
+  (erc-view-log . [(20140227 1239) nil "Major mode for viewing ERC logs" single "melpa"])
   (erc-youtube . [(20140225 1556) ((erc (5 3))) "Show received youtube urls in the ERC buffer" single "melpa"])
   (ert-async . [(20140112 314) nil "Async support for ERT" single "melpa"])
   (ert-modeline . [(20140115 215) ((s (1 3 1)) (dash (1 2 0)) (emacs (24 1)) (projectile (0 9 1))) "displays ert test results in the modeline." single "melpa"])
