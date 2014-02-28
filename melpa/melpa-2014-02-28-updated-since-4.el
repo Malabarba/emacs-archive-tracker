@@ -123,7 +123,7 @@
   (col-highlight . [(20131226 1817) ((vline (0))) "Highlight the current column." single "melpa"])
   (color-moccur . [(20120811 527) nil "multi-buffer occur (grep) mode" single "melpa"])
   (color-theme . [(20080305 34) nil "install color themes" tar "melpa"])
-  (color-theme-approximate . [(20140223 857) nil "Makes Emacs theme works on terminal transparently" single "melpa"])
+  (color-theme-approximate . [(20140227 2036) nil "Makes Emacs theme works on terminal transparently" single "melpa"])
   (color-theme-buffer-local . [(20120702 1336) nil "Install color-themes by buffer." single "melpa"])
   (color-theme-sanityinc-solarized . [(20140220 27) nil "A version of Ethan Schoonover's Solarized themes" tar "melpa"])
   (color-theme-sanityinc-tomorrow . [(20140220 26) nil "A version of Chris Kempson's various Tomorrow themes" tar "melpa"])
