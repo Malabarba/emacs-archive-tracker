@@ -15,7 +15,7 @@
   (actionscript-mode . [(20140202 1544) nil "A simple mode for editing Actionscript 3 files" single "melpa"])
   (adoc-mode . [(20130917 0) ((markup-faces (1 0 0))) "a major-mode for editing AsciiDoc files in Emacs" single "melpa"])
   (aes . [(20130120 1913) nil "Implementation of AES" single "melpa"])
-  (ag . [(20140220 1438) nil "A front-end for ag ('the silver searcher'), the C ack replacement." single "melpa"])
+  (ag . [(20140228 717) nil "A front-end for ag ('the silver searcher'), the C ack replacement." single "melpa"])
   (ahg . [(20140214 503) nil "Alberto's Emacs interface for Mercurial (Hg)" single "melpa"])
   (airplay . [(20130212 426) ((request (20130110 2144)) (simple-httpd (1 4 1)) (deferred (0 3 1))) "Airplay bindings to Emacs" tar "melpa"])
   (alert . [(20130510 20) nil "Growl-style notification system for Emacs" single "melpa"])
