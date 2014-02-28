@@ -116,7 +116,7 @@
   (clojure-test-mode . [(20131227 805) ((clojure-mode (1 7)) (cider (0 4 0))) "Minor mode for Clojure tests" single "melpa"])
   (closure-lint-mode . [(20101118 1324) nil "minor mode for the Closure Linter" single "melpa"])
   (cloud-to-butt-erc . [(20130627 1608) nil "Replace 'the cloud' with 'my butt'" single "melpa"])
-  (clues-theme . [(20140226 1717) ((emacs (24 0))) "an Emacs 24 theme which may well be fully awesome..." single "melpa"])
+  (clues-theme . [(20140227 1757) ((emacs (24 0))) "an Emacs 24 theme which may well be fully awesome..." single "melpa"])
   (cm-mode . [(20130306 6) nil "Minor mode for CriticMarkup" single "melpa"])
   (cmake-mode . [(20140217 659) nil "major-mode for editing CMake sources" single "melpa"])
   (cn-outline . [(20100321 914) nil "No description available." single "melpa"])
