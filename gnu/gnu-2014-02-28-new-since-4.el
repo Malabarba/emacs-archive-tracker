@@ -4,7 +4,7 @@
   (websocket . [(1 1) nil "Emacs WebSocket client and server" tar ((:keywords quote ("communication" "websocket" "server")) (:url . "http://elpa.gnu.org/packages/websocket.html")) "gnu"])
   (w3 . [(4 0 49) nil "Fully customizable, largely undocumented web browser for Emacs" tar ((:keywords quote ("faces" "help" "comm" "news" "mail" "processes" "mouse" "hypermedia")) (:url . "http://elpa.gnu.org/packages/w3.html")) "gnu"])
   (temp-buffer-browse . [(1 2) nil "temp buffer browse mode" single ((:url . "http://elpa.gnu.org/packages/temp-buffer-browse.html") (:keywords quote ("convenience"))) "gnu"])
-  (gnugo . [(2 3 0) nil "play GNU Go in a buffer" tar ((:keywords quote nil) (:url . "http://elpa.gnu.org/packages/gnugo.html")) "gnu"])
+  (gnugo . [(2 3 1) nil "play GNU Go in a buffer" tar ((:keywords quote nil) (:url . "http://elpa.gnu.org/packages/gnugo.html")) "gnu"])
   (flylisp . [(0 2) nil "Color unbalanced parentheses and parentheses inconsistent with indentation" single ((:url . "http://elpa.gnu.org/packages/flylisp.html") (:keywords quote nil)) "gnu"])
   (dismal . [(1 5) ((cl-lib (0))) "Dis Mode Ain't Lotus: Spreadsheet program Emacs" tar ((:keywords quote nil) (:url . "http://elpa.gnu.org/packages/dismal.html")) "gnu"])
   (diff-hl . [(1 5 3) ((cl-lib (0 2))) "Highlight uncommitted changes" tar ((:keywords quote ("vc" "diff")) (:url . "https://github.com/dgutov/diff-hl")) "gnu"])

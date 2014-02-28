@@ -148,7 +148,7 @@
 	   (:keywords quote
 		      ("tools" "convenience")))])
  (gnugo .
-	[(2 3 0)
+	[(2 3 1)
 	 nil "play GNU Go in a buffer" tar
 	 ((:keywords quote nil)
 	  (:url . "http://elpa.gnu.org/packages/gnugo.html"))])
