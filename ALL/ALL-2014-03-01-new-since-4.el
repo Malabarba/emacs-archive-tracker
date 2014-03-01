@@ -354,6 +354,7 @@
   (newlisp-mode . [(20140109 1038) nil "newLISP editing mode for Emacs" single "melpa"])
   (nexus . [(20140114 505) nil "REST Client for Nexus Maven Repository servers" tar "melpa"])
   (ninja-mode . [(20140123 829) nil "Major mode for editing .ninja files" single "melpa"])
+  (nnir-est . [(20140301 602) nil "Gnus nnir interface for HyperEstraier" single "melpa"])
   (novice+ . [(20131227 143) nil "Extensions to `novice.el'." single "melpa"])
   (number-font-lock-mode . [(20131027 913) ((emacs (24))) "Syntax highlighting of numeric literals" single "melpa"])
   (nummm-mode . [(20131117 214) nil "Display the number of minor modes instead of their names" single "melpa"])
