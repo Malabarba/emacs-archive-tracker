@@ -119,7 +119,7 @@
   (cm-mode . [(20130306 6) nil "Minor mode for CriticMarkup" single "melpa"])
   (cn-outline . [(20100321 914) nil "No description available." single "melpa"])
   (coffee-fof . [(20131012 530) ((coffee-mode (0 4 1))) "A coffee-mode configuration for `ff-find-other-file'." single "melpa"])
-  (coffee-mode . [(20140228 1608) ((emacs (24 1))) "Major mode to edit CoffeeScript files in Emacs" single "melpa"])
+  (coffee-mode . [(20140301 513) ((emacs (24 1))) "Major mode to edit CoffeeScript files in Emacs" single "melpa"])
   (col-highlight . [(20131226 1817) ((vline (0))) "Highlight the current column." single "melpa"])
   (color-moccur . [(20120811 527) nil "multi-buffer occur (grep) mode" single "melpa"])
   (color-theme . [(20080305 34) nil "install color themes" tar "melpa"])
