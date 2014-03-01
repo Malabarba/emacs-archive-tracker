@@ -65,7 +65,7 @@
   (bash-completion . [(20130526 544) nil "BASH completion for the shell buffer" tar "melpa"])
   (batch-mode . [(20130824 1158) nil "major mode for editing ESRI batch scrips" single "melpa"])
   (bbcode-mode . [(20130227 1137) nil "Major mode for writing BBCode markup" single "melpa"])
-  (bbdb . [(20140217 2005) nil "The Insidious Big Brother Database for GNU Emacs" tar "melpa"])
+  (bbdb . [(20140228 2021) nil "The Insidious Big Brother Database for GNU Emacs" tar "melpa"])
   (bbdb-ext . [(20130513 1152) ((bbdb (2 36))) "Extra commands for BBDB" single "melpa"])
   (bbdb-vcard . [(20130605 1139) ((bbdb (3 0))) "vCard import/export for BBDB" tar "melpa"])
   (bbdb2erc . [(20130606 2329) ((bbdb (3 0))) "make bbdb show if pal is online with ERC, click i to chat" single "melpa"])
