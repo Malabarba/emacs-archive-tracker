@@ -420,7 +420,7 @@
   (prodigy . [(20140202 2335) ((s (1 8 0)) (dash (2 4 0)) (f (0 14 0)) (emacs (24))) "Manage external services from within Emacs" single "melpa"])
   (prognth . [(20130920 1059) nil "Extend prog1 to arbitrary index" single "melpa"])
   (project-explorer . [(20140218 103) ((cl-lib (0 3)) (es-lib (0 3)) (es-windows (0 1)) (emacs (24))) "A project explorer sidebar" single "melpa"])
-  (projectile-rails . [(20140228 120) ((projectile (1 0 0 -3)) (inflections (1 1)) (inf-ruby (2 2 6)) (f (0 13 0))) "Minor mode for Rails projects based on projectile-mode" single "melpa"])
+  (projectile-rails . [(20140301 1644) ((projectile (1 0 0 -3)) (inflections (1 1)) (inf-ruby (2 2 6)) (f (0 13 0))) "Minor mode for Rails projects based on projectile-mode" single "melpa"])
   (projector . [(20131121 804) ((alert (1 1))) "Lightweight library for managing project/repository-aware shell and command buffers" single "melpa"])
   (projekt . [(20140201 302) ((emacs (24))) "some kind of staging for CVS" single "melpa"])
   (prosjekt . [(20140131 944) nil "a software project tool for emacs" tar "melpa"])
