@@ -97,7 +97,7 @@
   (c-eldoc . [(20130821 1146) nil "helpful description of the arguments to C functions" single "melpa"])
   (cache . [(20111019 1600) nil "implementation of a hash table whose key-value pairs expire" single "melpa"])
   (cacoo . [(20120319 1659) ((concurrent (0 3 1))) "Minor mode for Cacoo : http://cacoo.com" tar "melpa"])
-  (calfw . [(20131026 400) nil "Calendar view framework on Emacs" tar "melpa"])
+  (calfw . [(20140301 2051) nil "Calendar view framework on Emacs" tar "melpa"])
   (calfw-gcal . [(20120111 200) nil "edit Google calendar for calfw.el." tar "melpa"])
   (caml . [(20130904 812) nil "No description available." tar "melpa"])
   (capture . [(20130828 944) nil "screencasting with \"avconv\" or \"ffmpeg\"" tar "melpa"])
