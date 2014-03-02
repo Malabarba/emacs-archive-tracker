@@ -742,7 +742,7 @@
   (pager-default-keybindings . [(20130719 1357) ((pager (1 0))) "Add the default keybindings suggested for pager.el" single "melpa"])
   (pallet . [(20131117 525) ((cask (0 5 0))) "A package management tool for Emacs, using Cask." tar "melpa"])
   (pandoc-mode . [(20140219 1235) nil "Minor mode for interacting with Pandoc" tar "melpa"])
-  (pangu-spacing . [(20131228 733) nil "Minor-mode to add space between Chinese and English characters." single "melpa"])
+  (pangu-spacing . [(20140301 2326) nil "Minor-mode to add space between Chinese and English characters." single "melpa"])
   (paredit . [(20140128 1248) nil "minor mode for editing parentheses" single "melpa"])
   (paredit-everywhere . [(20131010 318) ((paredit (22))) "Enable some paredit features in non-lisp buffers" single "melpa"])
   (paredit-menu . [(20130923 1254) nil "Adds a menu to paredit.el as memory aid" single "melpa"])
