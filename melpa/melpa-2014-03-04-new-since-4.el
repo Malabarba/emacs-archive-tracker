@@ -210,7 +210,7 @@
   (fvwm-mode . [(20140210 830) nil "major mode for editing Fvwm configuration files" single "melpa"])
   (geiser . [(20140224 1548) nil "GNU Emacs and Scheme talk to each other" tar "melpa"])
   (genrnc . [(20130711 2251) ((deferred (0 3 1)) (log4e (0 2 0)) (yaxception (0 1))) "generate RELAX NG Compact Schema from RELAX NG Schema, XML Schema and DTD." tar "melpa"])
-  (ggtags . [(20140303 1155) ((emacs (24))) "emacs frontend to GNU Global source code tagging system" single "melpa"])
+  (ggtags . [(20140303 1713) ((emacs (24))) "emacs frontend to GNU Global source code tagging system" single "melpa"])
   (gherkin-mode . [(20140107 804) nil "An emacs major mode for editing gherkin files." single "melpa"])
   (git . [(20140128 241) ((s (1 7 0)) (dash (2 2 0)) (f (0 10 0))) "An Elisp API for programmatically using Git" single "melpa"])
   (git-annex . [(20131119 1445) nil "Mode for easy editing of git-annex'd files" single "melpa"])
