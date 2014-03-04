@@ -184,7 +184,7 @@
   (flycheck-hdevtools . [(20131130 1105) ((flycheck (0 15))) "A flycheck checker for Haskell using hdevtools" single "melpa"])
   (flycheck-ledger . [(20131218 324) ((flycheck (0 15))) "Flycheck integration for ledger files" single "melpa"])
   (flycheck-mercury . [(20140123 312) ((flycheck (0 15)) (s (1 9 0)) (dash (2 4 0))) "Mercury support in Flycheck" single "melpa"])
-  (flycheck-pos-tip . [(20140228 629) ((flycheck (0 18)) (pos-tip (0 4 5))) "Flycheck errors display in tooltip" single "melpa"])
+  (flycheck-pos-tip . [(20140304 333) ((flycheck (0 18)) (pos-tip (0 4 5))) "Flycheck errors display in tooltip" single "melpa"])
   (flycheck-tip . [(20140219 616) ((flycheck (0 13)) (dash (1 2)) (emacs (24 1)) (popup (0 5 0))) "show flycheck's error by popup-tip" tar "melpa"])
   (flymake-cppcheck . [(20140117 1013) ((flymake-easy (0 9))) "Flymake work with Cppcheck for C/C++" single "melpa"])
   (flymake-google-cpplint . [(20140205 525) ((flymake-easy (0 9))) "Help to comply with the Google C++ Style Guide" single "melpa"])
