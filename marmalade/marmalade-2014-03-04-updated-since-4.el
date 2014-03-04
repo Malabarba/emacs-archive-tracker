@@ -153,7 +153,7 @@
   (tuareg . [(2 0 8) ((caml (3 12 0 1))) "OCaml mode for Emacs" tar "marmalade"])
   (ruby-test-mode . [(1 7) ((ruby-mode (1 0))) "Minor mode for Behaviour and Test Driven" single "marmalade"])
   (langtool . [(1 2 1) nil "Grammar check utility using LanguageTool" single "marmalade"])
-  (fill-column-indicator . [(1 85) nil "Graphically indicate the fill column" single "marmalade"])
+  (fill-column-indicator . [(1 86) nil "Graphically indicate the fill column" single "marmalade"])
   (gh . [(0 8 0) ((eieio (1 3)) (pcache (0 2 4)) (logito (0 1))) "A GitHub library for Emacs" tar "marmalade"])
   (wiki-nav . [(1 0 0) ((button-lock (1 0 0)) (nav-flash (1 0 0))) "Simple file navigation using [[WikiStrings]]" single "marmalade"])
   (button-lock . [(1 0 0) nil "Clickable text defined by regular expression" single "marmalade"])
