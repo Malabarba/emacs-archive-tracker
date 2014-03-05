@@ -507,7 +507,7 @@
   (indent-guide . [(20140212 2009) nil "show vertical lines to guide indentation" single "melpa"])
   (inf-mongo . [(20131216 228) nil "Run a MongoDB shell process in a buffer" single "melpa"])
   (inf-php . [(20130414 21) ((php-mode (1 5 0))) "Run a php interactive shell in a buffer" single "melpa"])
-  (inf-ruby . [(20140304 2125) nil "Run a Ruby process in a buffer" single "melpa"])
+  (inf-ruby . [(20140305 716) nil "Run a Ruby process in a buffer" single "melpa"])
   (inflections . [(20121016 157) nil "convert english words between singular and plural" single "melpa"])
   (info+ . [(20140304 1848) nil "Extensions to `info.el'." single "melpa"])
   (init-loader . [(20140216 2240) nil "Loader for configuration files" single "melpa"])
