@@ -155,7 +155,7 @@
   (eval-sexp-fu . [(20131230 1351) ((highlight (0))) "Tiny functionality enhancements for evaluating sexps." single "melpa"])
   (evil-exchange . [(20131224 1857) ((evil (1 0 7)) (cl-lib (0 3))) "Exchange text more easily within Evil" single "melpa"])
   (evil-indent-textobject . [(20130831 1519) ((evil (0))) "evil textobjects based on indentation" single "melpa"])
-  (evil-matchit . [(20140216 2113) nil "Vim matchit ported into Emacs (requires EVIL)" tar "melpa"])
+  (evil-matchit . [(20140304 2021) nil "Vim matchit ported into Emacs (requires EVIL)" tar "melpa"])
   (evil-tabs . [(20131011 433) ((evil (0 0 0)) (elscreen (0 0 0))) "Integrating Vim-style tabs for Evil mode users." single "melpa"])
   (evil-visualstar . [(20130925 1114) ((evil (0))) "Starts a * or # search from the visual selection" single "melpa"])
   (evm . [(20140224 316) ((dash (2 3 0)) (f (0 13 0))) "Emacs Version Manager" single "melpa"])
