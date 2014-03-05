@@ -480,7 +480,7 @@
   (refheap . [(20140112 1302) ((json (1 2))) "A library for pasting to https://refheap.com" single "melpa"])
   (relax . [(20131029 1434) ((json (1 2))) "For browsing and interacting with CouchDB" single "melpa"])
   (replace+ . [(20140130 1702) nil "Extensions to `replace.el'." single "melpa"])
-  (req-package . [(20140302 401) ((use-package (1 0))) "A use-package wrapper for package runtime dependencies management" single "melpa"])
+  (req-package . [(20140305 1256) ((use-package (1 0))) "A use-package wrapper for package runtime dependencies management" single "melpa"])
   (reveal-in-finder . [(20140205 806) nil "Reveal the file associated with the buffer in the OS X Finder" single "melpa"])
   (review-mode . [(20140102 2133) nil "major mode for ReVIEW" single "melpa"])
   (roguel-ike . [(20140227 729) ((popup (0 5 0))) "A coffee-break roguelike" tar "melpa"])
