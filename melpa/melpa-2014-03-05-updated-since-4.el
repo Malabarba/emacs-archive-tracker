@@ -471,7 +471,7 @@
   (hy-mode . [(20140201 2055) nil "Major mode for Hy code" single "melpa"])
   (ibuffer-vc . [(20130924 608) ((cl-lib (0 2))) "Group ibuffer's list by VC project, or show VC status" single "melpa"])
   (icicles . [(20140304 1942) nil "Minibuffer input completion and cycling." tar "melpa"])
-  (icomplete+ . [(20140112 616) nil "Extensions to `icomplete.el'." single "melpa"])
+  (icomplete+ . [(20140305 1858) nil "Extensions to `icomplete.el'." single "melpa"])
   (identica-mode . [(20130204 1453) nil "Major mode API client for status.net open microblogging" tar "melpa"])
   (idle-highlight-mode . [(20120920 948) nil "highlight the word the point is on" single "melpa"])
   (idle-require . [(20090715 1503) nil "load elisp libraries while Emacs is idle" single "melpa"])
