@@ -731,7 +731,7 @@
   (parenface . [(20140303 1740) nil "Provide a face for parens in lispy modes." tar "melpa"])
   (paste-kde . [(20140108 1809) ((web (0 3 6))) "paste text to KDE's pastebin service" single "melpa"])
   (pastebin . [(20101125 1955) nil "A simple interface to the www.pastebin.com webservice" single "melpa"])
-  (pastehub . [(20130509 830) nil "A client for the PasteHub cloud service" single "melpa"])
+  (pastehub . [(20140227 615) nil "A client for the PasteHub cloud service" single "melpa"])
   (pastels-on-dark-theme . [(20120304 1022) nil "Pastels on Dark theme for Emacs 24" single "melpa"])
   (path-headerline-mode . [(20130912 1519) nil "Displaying file path on headerline." single "melpa"])
   (pcache . [(20131201 1159) ((eieio (1 3))) "persistent caching for Emacs" single "melpa"])
