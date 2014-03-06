@@ -226,7 +226,7 @@
   (elisp-depend . [(20120427 123) nil "Parse depend libraries of elisp file." single "melpa"])
   (elisp-slime-nav . [(20140116 405) ((cl-lib (0 2))) "Make M-. and M-, work in elisp like they do in slime" single "melpa"])
   (elixir-mix . [(20131126 4) nil "Emacs integration for Elixir's mix" single "melpa"])
-  (elixir-mode . [(20131126 924) nil "Major mode for editing Elixir files" tar "melpa"])
+  (elixir-mode . [(20140305 2302) nil "Major mode for editing Elixir files" tar "melpa"])
   (elmine . [(20130330 1300) nil "Redmine API access via elisp." single "melpa"])
   (elnode . [(20140203 1506) ((web (0 1 4)) (dash (1 1 0)) (noflet (0 0 7)) (s (1 5 0)) (creole (0 8 14)) (fakir (0 1 6)) (db (0 0 5)) (kv (0 0 17))) "The Emacs webserver." tar "melpa"])
   (elpa-audit . [(20131230 1344) nil "Handy functions for inspecting and comparing package archives" single "melpa"])
