@@ -408,7 +408,7 @@
   (organic-green-theme . [(20140213 447) nil "Low-contrast green color theme." single "melpa"])
   (osx-pseudo-daemon . [(20131026 1730) nil "Daemon mode that plays nice with OSX." single "melpa"])
   (outorg . [(20131023 335) nil "Org-style comment editing" single "melpa"])
-  (outshine . [(20140208 613) nil "outline with outshine outshines outline" single "melpa"])
+  (outshine . [(20140307 1915) nil "outline with outshine outshines outline" single "melpa"])
   (ox-asciidoc . [(20140215 610) ((org (8 1))) "AsciiDoc Back-End for Org Export Engine" single "melpa"])
   (ox-html5slide . [(20131227 2206) ((org (8 0))) "Export org-mode to HTML5 slide." single "melpa"])
   (ox-pukiwiki . [(20140215 609) ((org (8 1))) "Pukiwiki Back-End for Org Export Engine" single "melpa"])
