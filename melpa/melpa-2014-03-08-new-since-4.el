@@ -222,7 +222,7 @@
   (gitattributes-mode . [(20140125 1553) nil "Major mode for editing .gitattributes files" single "melpa"])
   (gmail-message-mode . [(20131213 1156) ((ham-mode (1 0))) "A major-mode for editing gmail messages using markdown syntax." single "melpa"])
   (gnome-calendar . [(20140112 359) nil "Integration with the GNOME Shell calendar" single "melpa"])
-  (gnomenm . [(20140308 557) ((s (1 9 0)) (dash (2 3 0))) "Emacs interface to Gnome nmcli command" single "melpa"])
+  (gnomenm . [(20140308 938) ((s (1 9 0)) (dash (2 3 0)) (kv (0 0 19))) "Emacs interface to Gnome nmcli command" single "melpa"])
   (gntp . [(20140108 133) nil "Growl Notification Protocol for Emacs" single "melpa"])
   (gnu-apl-mode . [(20140214 136) ((emacs (24))) "Integrate GNU APL with Emacs" tar "melpa"])
   (gnus-spotlight . [(20130901 1435) nil "Search mail with Spotlight" single "melpa"])
