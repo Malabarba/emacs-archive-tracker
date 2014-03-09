@@ -207,7 +207,7 @@
   (font-lock-menus . [(20131226 1847) nil "Font-lock menus: enhanced `font-menus.el'" single "melpa"])
   (fountain-mode . [(20140305 12) ((s (1 9 0))) "Major mode for editing Fountain-formatted text files" single "melpa"])
   (framesize . [(20131017 1432) ((key-chord (0 5 20080915))) "change the size of frames in Emacs" single "melpa"])
-  (free-keys . [(20140309 603) ((cl-lib (0 3))) "Show free keybindings for modkeys or prefixes" single "melpa"])
+  (free-keys . [(20140309 1051) ((cl-lib (0 3))) "Show free keybindings for modkeys or prefixes" single "melpa"])
   (fringe-current-line . [(20140110 2011) nil "show current line on the fringe." single "melpa"])
   (fullframe . [(20140306 1107) nil "Generalized automatic execution in a single frame" single "melpa"])
   (fvwm-mode . [(20140210 830) nil "major mode for editing Fvwm configuration files" single "melpa"])

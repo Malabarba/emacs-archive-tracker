@@ -131,7 +131,7 @@
   (grep-o-matic . [(1 0 6) nil "auto grep word under cursor" single "marmalade"])
   (grep-a-lot . [(1 0 7) nil "manages multiple search results buffers for grep.el" single "marmalade"])
   (repository-root . [(1 0 4) nil "deduce the repository root directory for a given file" single "marmalade"])
-  (php-extras . [(2 0 0 20140308) ((php-mode (1 5 0))) "Extra features for `php-mode'" tar "marmalade"])
+  (php-extras . [(2 1 0 20140309) ((php-mode (1 5 0))) "Extra features for `php-mode'" tar "marmalade"])
   (git-auto-commit-mode . [(4 2 2) nil "Emacs Minor mode to automatically commit and push" single "marmalade"])
   (ujelly-theme . [(1 0 35) nil "Ujelly theme for GNU Emacs 24 (deftheme)" single "marmalade"])
   (evil-leader . [(0 4 1) ((evil (0))) "let there be <leader>" single "marmalade"])
