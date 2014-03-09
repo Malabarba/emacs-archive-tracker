@@ -408,7 +408,7 @@
   (handlebars-sgml-mode . [(20130623 1633) nil "Add Handlebars contextual indenting support to sgml-mode" single "melpa"])
   (hardcore-mode . [(20111204 2216) nil "Disable arrow keys + optionally backspace and return" single "melpa"])
   (hardhat . [(20131125 1143) ((ignoramus (0 7 0))) "Protect against clobbering user-writable files" single "melpa"])
-  (haskell-mode . [(20140309 327) nil "A Haskell editing mode" tar "melpa"])
+  (haskell-mode . [(20140309 342) nil "A Haskell editing mode" tar "melpa"])
   (haste . [(20131203 1340) ((json (1 2))) "Emacs client for hastebin (http://hastebin.com/about.md)" single "melpa"])
   (haxe-mode . [(20131004 142) nil "An Emacs major mode for Haxe" single "melpa"])
   (header-button . [(20130110 851) nil "clickable buttons in header lines" single "melpa"])
