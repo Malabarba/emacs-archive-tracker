@@ -171,8 +171,9 @@
         (cond                ;we use cond because case is not built-in
          ((equal type 'tar)    (set tc (1+ (eval tc))))
          ((equal type 'single) (set sc (1+ (eval sc))))
-         (t       (eat/-log "[ERROR] Unexpected symbol: %s"
-                            (quote type))))))
+         (t
+          (eat/-log (message "[ERROR] Unexpected symbol: %s" type))
+          (kill-emacs 1)))))
     ;; Print the counts
     (append-to-file (format "%s %s %s %s %s\n"
                             (format-time-string "%s")

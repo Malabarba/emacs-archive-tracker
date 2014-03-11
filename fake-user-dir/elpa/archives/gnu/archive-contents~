@@ -363,6 +363,14 @@
       ((:keywords quote
 		  ("faces" "help" "comm" "news" "mail" "processes" "mouse" "hypermedia"))
        (:url . "http://elpa.gnu.org/packages/w3.html"))])
+ (web-server .
+	     [(0 1 0)
+	      ((emacs
+		(24 3)))
+	      "Emacs Web Server" tar
+	      ((:keywords quote
+			  ("http" "server" "network"))
+	       (:url . "https://github.com/eschulte/emacs-web-server"))])
  (websocket .
 	    [(1 1)
 	     nil "Emacs WebSocket client and server" tar

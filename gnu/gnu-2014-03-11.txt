@@ -1,0 +1,68 @@
+  ack                          1.3                available  Interface to ack-like source code search tools
+  ada-mode                     5.0.1              available  major-mode for editing Ada sources
+  adaptive-wrap                0.5                available  Smart line-wrapping with wrap-prefix
+  adjust-parens                3.0                available  Indent and dedent Lisp code, automatically adjust close parens
+  all                          1.0                available  Edit all lines matching a given regexp
+  ascii-art-to-unicode         1.4                available  a small artist adjunct
+  auctex                       11.87.3            available  Integrated environment for *TeX*
+  cl-lib                       0.5                available  Properly prefixed CL functions and macros
+  coffee-mode                  0.4.1.1            available  Major mode for CoffeeScript files
+  company                      0.7                available  Modular in-buffer completion framework
+  csv-mode                     1.2                available  Major mode for editing comma/char separated values
+  debbugs                      0.6                available  SOAP library to access debbugs servers
+  dict-tree                    0.12.8             available  Dictionary data structure
+  diff-hl                      1.5.3              available  Highlight uncommitted changes
+  dismal                       1.5                available  Dis Mode Ain't Lotus: Spreadsheet program Emacs
+  djvu                         0.5                available  Edit and view Djvu files via djvused
+  docbook                      0.1                available  Info-like viewer for DocBook
+  ediprolog                    1.0                available  Emacs Does Interactive Prolog
+  eldoc-eval                   0.1                available  Enable eldoc support when minibuffer is in use.
+  enwc                         1.0                available  The Emacs Network Client
+  epoch-view                   0.0.1              available  Minor mode to visualize epoch timestamps
+  f90-interface-browser        1.1                available  Parse and browse f90 interfaces
+  flylisp                      0.2                available  Color unbalanced parentheses and parentheses inconsistent with indentation
+  ggtags                       0.7.12             available  emacs frontend to GNU Global source code tagging system
+  gnugo                        2.3.1              available  play GNU Go in a buffer
+  heap                         0.3                available  Heap (a.k.a. priority queue) data structure
+  ioccur                       2.4                available  Incremental occur
+  jgraph-mode                  1.0                available  Major mode for Jgraph files
+  js2-mode                     20140114           available  Improved JavaScript editing mode
+  jumpc                        3.0                available  jump to previous insertion points
+  lex                          1.1                available  Lexical analyser construction
+  lmc                          1.3                available  Little Man Computer in Elisp
+  load-dir                     0.0.3              available  Load all Emacs Lisp files in a given directory
+  markchars                    0.2.0              available  Mark chars fitting certain characteristics
+  memory-usage                 0.2                available  Analyze the memory usage of Emacs in various ways
+  minimap                      1.1                available  Sidebar showing a "mini-map" of a buffer
+  muse                         3.20               available  Authoring and publishing tool for Emacs
+  nhexl-mode                   0.1                available  Minor mode to edit files via hex-dump format
+  nlinum                       1.2                available  Show line numbers in the margin
+  notes-mode                   1.30               available  Indexing system for on-line note-taking
+  num3-mode                    1.2                available  highlight groups of digits in long numbers
+  oauth2                       0.10               available  OAuth 2.0 Authorization Protocol
+  omn-mode                     1.0                available  Support for OWL Manchester Notation
+  org                          20140310           available  Outline-based notes management and organizer
+  quarter-plane                0.1                available  Minor mode for quarter-plane style editing
+  queue                        0.1                available  Queue data structure
+  rainbow-mode                 0.9                available  Colorize color names in buffers
+  register-list                0.1                available  Interactively list/edit registers
+  shen-mode                    0.1                available  A major mode for editing shen source code
+  sisu-mode                    3.0.3              available  Major mode for SiSU markup text
+  smart-operator               4.0                available  Insert operators with surrounding spaces smartly
+  sml-mode                     6.4                available  Major mode for editing (Standard) ML
+  sokoban                      1.4                available  Implementation of Sokoban for Emacs.
+  svg-clock                    0.5                available  Analog clock using Scalable Vector Graphics
+  tNFA                         0.1.1              available  Tagged non-deterministic finite-state automata
+  temp-buffer-browse           1.2                available  temp buffer browse mode
+  trie                         0.2.6              available  Trie data structure
+  undo-tree                    0.6.5              available  Treat undo history as a tree
+  uni-confusables              0.1                available  Unicode confusables table
+  vlf                          1.5                available  View Large Files
+  w3                           4.0.49             available  Fully customizable, largely undocumented web browser for Emacs
+  web-server                   0.1.0              available  Emacs Web Server
+  websocket                    1.1                available  Emacs WebSocket client and server
+  windresize                   0.1                available  Resize windows interactively
+  wisi                         1.0                available  Utilities for implementing an indentation/navigation engine using a generalized LALR parser
+  wpuzzle                      1.1                available  find as many word in a given time
+  xclip                        1.3                available  use xclip to copy&paste
+  yasnippet                    0.8.0              available  Yet another snippet extension for Emacs.
