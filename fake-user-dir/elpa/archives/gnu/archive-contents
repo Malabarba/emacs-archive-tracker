@@ -210,7 +210,7 @@
 		 (:keywords quote
 			    ("maint")))])
  (minimap .
-	  [(1 1)
+	  [(1 2)
 	   nil "Sidebar showing a \"mini-map\" of a buffer" single
 	   ((:url . "http://elpa.gnu.org/packages/minimap.html")
 	    (:keywords quote nil))])

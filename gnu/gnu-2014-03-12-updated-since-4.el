@@ -25,7 +25,7 @@
   (nlinum . [(1 2) nil "Show line numbers in the margin" single ((:url . "http://elpa.gnu.org/packages/nlinum.html") (:keywords quote ("convenience"))) "gnu"])
   (nhexl-mode . [(0 1) nil "Minor mode to edit files via hex-dump format" single ((:url . "http://elpa.gnu.org/packages/nhexl-mode.html") (:keywords quote ("data"))) "gnu"])
   (muse . [(3 20) nil "Authoring and publishing tool for Emacs" tar ((:keywords quote ("hypermedia")) (:url . "http://mwolson.org/projects/EmacsMuse.html")) "gnu"])
-  (minimap . [(1 1) nil "Sidebar showing a \"mini-map\" of a buffer" single ((:url . "http://elpa.gnu.org/packages/minimap.html") (:keywords quote nil)) "gnu"])
+  (minimap . [(1 2) nil "Sidebar showing a \"mini-map\" of a buffer" single ((:url . "http://elpa.gnu.org/packages/minimap.html") (:keywords quote nil)) "gnu"])
   (memory-usage . [(0 2) nil "Analyze the memory usage of Emacs in various ways" single ((:url . "http://elpa.gnu.org/packages/memory-usage.html") (:keywords quote ("maint"))) "gnu"])
   (markchars . [(0 2 0) nil "Mark chars fitting certain characteristics" single ((:url . "http://elpa.gnu.org/packages/markchars.html") (:keywords quote nil)) "gnu"])
   (load-dir . [(0 0 3) nil "Load all Emacs Lisp files in a given directory" single ((:url . "http://elpa.gnu.org/packages/load-dir.html") (:keywords quote ("lisp" "files" "convenience"))) "gnu"])
