@@ -541,7 +541,7 @@
   (sunny-day-theme . [(20140128 551) nil "Emacs24 theme with a light background." single "melpa"])
   (swoop . [(20140306 155) ((ht (2 0)) (pcre2el (1 5)) (async (1 1)) (emacs (24))) "Peculiar buffer navigation for Emacs" tar "melpa"])
   (tab-group . [(20140306 650) nil "Grouped tabs and their tabbar" single "melpa"])
-  (tango-plus-theme . [(20140214 505) nil "A color theme based on the tango palette" single "melpa"])
+  (tango-plus-theme . [(20140312 610) nil "A color theme based on the tango palette" single "melpa"])
   (tbx2org . [(20140224 759) ((dash (2 5 0)) (s (1 8 0)) (cl-lib (0 4))) "Tinderbox to org-mode conversion" single "melpa"])
   (tdd-status-mode-line . [(20131123 916) nil "TDD status on the mode-line" single "melpa"])
   (telepathy . [(20131209 458) nil "Access Telepathy from Emacs" single "melpa"])
