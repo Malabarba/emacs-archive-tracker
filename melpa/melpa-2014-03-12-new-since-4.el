@@ -552,7 +552,7 @@
   (tern-auto-complete . [(20130809 229) ((tern (0 0 1)) (auto-complete (1 4)) (emacs (24))) "Tern Completion by auto-complete.el" single "melpa"])
   (thing-cmds . [(20131227 159) ((hide-comnt (0))) "Commands that use things, as defined by `thingatpt.el'." single "melpa"])
   (thingatpt+ . [(20131227 200) nil "Extensions to `thingatpt.el'." single "melpa"])
-  (thrift . [(20130910 912) nil "Major mode for Apache Thrift files" single "melpa"])
+  (thrift . [(20140312 1348) nil "Major mode for Apache Thrift files" single "melpa"])
   (thumb-frm . [(20131227 201) ((frame-fns (0)) (frame-cmds (0))) "Commands for thumbnail frames." single "melpa"])
   (tiny . [(20140103 305) nil "Quickly generate linear ranges in Emacs" single "melpa"])
   (toggle-test . [(20140303 342) nil "Toggle between source and test files in various programming languages" single "melpa"])
