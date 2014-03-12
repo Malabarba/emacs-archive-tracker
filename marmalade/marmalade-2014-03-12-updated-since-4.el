@@ -51,7 +51,6 @@
   (noflet . [(0 0 11) nil "locally override functions" single "marmalade"])
   (org-dotemacs . [(0 3) ((org (7 9 3)) (cl-lib (1 0))) "Store your emacs config as an org file, and choose which bits to load." single "marmalade"])
   (butler . [(0 2 0) ((deferred (3 1)) (json (1 2))) "Emacs client for Jenkins" tar "marmalade"])
-  (sparql-mode . [(0 7 2) nil "Edit and interactively evaluate SPARQL queries." single "marmalade"])
   (flycheck-color-mode-line . [(0 3) ((flycheck (0 15)) (dash (1 2)) (emacs (24 1))) "Change mode line color with Flycheck status -*- lexical-binding: t -*-" single "marmalade"])
   (paredit-everywhere . [(0 3) ((paredit (22))) "Enable some paredit features in non-lisp buffers" single "marmalade"])
   (helm-projectile . [(0 10 0) ((helm (1 4 0)) (projectile (0 10 0))) "Helm integration for Projectile" single "marmalade"])
