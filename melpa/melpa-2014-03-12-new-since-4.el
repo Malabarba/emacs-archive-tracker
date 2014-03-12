@@ -86,7 +86,7 @@
   (cypher-mode . [(20140221 422) nil "major mode for editing cypher scripts" single "melpa"])
   (cython-mode . [(20131229 406) nil "Major mode for editing Cython files" single "melpa"])
   (dakrone-theme . [(20140211 2045) nil "dakrone's custom dark theme" single "melpa"])
-  (darkburn-theme . [(20140309 1555) nil "A not-so-low contrast color theme for Emacs." single "melpa"])
+  (darkburn-theme . [(20140311 2152) nil "A not-so-low contrast color theme for Emacs." single "melpa"])
   (dash-functional . [(20130831 1340) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp" single "melpa"])
   (dayone . [(20131117 255) ((uuid (0 0 3)) (mustache (0 22)) (ht (1 5))) "Utility script for Day One" tar "melpa"])
   (db-pg . [(20130131 1102) ((pg (0 12)) (db (0 0 6))) "A PostgreSQL adapter for emacs-db" single "melpa"])
