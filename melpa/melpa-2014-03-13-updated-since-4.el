@@ -491,7 +491,7 @@
   (image-dired+ . [(20130811 1741) nil "Image-dired extensions" single "melpa"])
   (imenu-anywhere . [(20131210 1130) nil "ido/helm imenu tag selection across all buffers with the same mode" single "melpa"])
   (impatient-mode . [(20140203 753) ((cl-lib (0 3)) (simple-httpd (1 4 0)) (htmlize (1 40))) "Serve buffers live over HTTP" tar "melpa"])
-  (import-popwin . [(20140213 2355) ((popwin (0 6)) (cl-lib (0 3))) "popwin buffer near by import statements with popwin" single "melpa"])
+  (import-popwin . [(20140313 45) ((popwin (0 6)) (cl-lib (0 5))) "popwin buffer near by import statements with popwin" single "melpa"])
   (indent-guide . [(20140212 2009) nil "show vertical lines to guide indentation" single "melpa"])
   (inf-mongo . [(20131216 228) nil "Run a MongoDB shell process in a buffer" single "melpa"])
   (inf-php . [(20130414 21) ((php-mode (1 5 0))) "Run a php interactive shell in a buffer" single "melpa"])
