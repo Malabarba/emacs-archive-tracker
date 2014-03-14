@@ -1,4 +1,5 @@
 '(
+  (puppet-mode . [(0 3) ((emacs (24 1)) (cl-lib (0 5)) (pkg-info (0 4))) "Major mode for Puppet manifests  -*- lexical-binding: t; -*-" single "marmalade"])
   (sparql-mode . [(0 8 3) nil "Edit and interactively evaluate SPARQL queries." tar "marmalade"])
   (google-translate . [(0 5) nil "Emacs interface to Google Translate" single "marmalade"])
   (maildir . [(0 0 23) ((kv (0 0 17)) (dash (2 3 0)) (s (1 9 0)) (noflet (0 0 8))) "Simple maildir based MUA." tar "marmalade"])

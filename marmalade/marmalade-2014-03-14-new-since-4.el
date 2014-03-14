@@ -95,7 +95,7 @@
   (openstack-cgit-browse-file . [(0 2) nil "Browse the current file in OpenStack cgit" single "marmalade"])
   (flycheck-cask . [(0 1) ((flycheck (0 14)) (dash (2 0 0)) (f (0 6 0))) "Cask support in Flycheck -*- lexical-binding: t; -*-" single "marmalade"])
   (dash-functional . [(1 0 0) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp  -*- lexical-binding: t -*-" single "marmalade"])
-  (pkg-info . [(0 4) ((dash (1 6 0)) (epl (0 4))) "Information about packages       -*- lexical-binding: t; -*-" single "marmalade"])
+  (pkg-info . [(0 5) ((dash (1 6 0)) (epl (0 4))) "Information about packages       -*- lexical-binding: t; -*-" single "marmalade"])
   (discord . [(0 5) nil "Discordian dates for calendar" single "marmalade"])
   (aok . [(0 1) nil "various useful ways to do `multi-occur'" single "marmalade"])
   (magit-tramp . [(0 1 0) ((magit (1 2 0))) "git method for TRAMP" single "marmalade"])
