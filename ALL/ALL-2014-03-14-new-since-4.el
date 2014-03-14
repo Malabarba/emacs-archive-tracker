@@ -24,7 +24,7 @@
   (ariadne . [(20131117 911) ((bert (0 1))) "Ariadne plugin for Emacs" single "melpa"])
   (asn1-mode . [(20131218 420) ((emacs (24 3))) "ASN.1/GDMO mode for GNU Emacs" single "melpa"])
   (auctex-lua . [(20130818 1120) nil "Lua editing support for AUCTeX" single "melpa"])
-  (aurel . [(20140313 256) nil "Search, get info, vote and download AUR packages" single "melpa"])
+  (aurel . [(20140314 1402) nil "Search, get info, vote and download AUR packages" single "melpa"])
   (auto-complete-auctex . [(20140223 958) ((yasnippet (0 6 1)) (auto-complete (1 4))) "auto-completion for auctex" single "melpa"])
   (auto-complete-c-headers . [(20131215 506) ((auto-complete (1 4))) "An auto-complete source for C/C++ header files" single "melpa"])
   (auto-complete-chunk . [(20140225 146) ((auto-complete (1 4))) "Auto-completion for dot.separated.words." single "melpa"])
