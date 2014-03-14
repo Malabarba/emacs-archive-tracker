@@ -6,9 +6,13 @@
 		   ("tools" "processes" "convenience"))
 	(:url . "https://github.com/leoliu/ack-el"))])
  (ada-mode .
-	   [(5 0 1)
+	   [(5 1 0)
 	    ((wisi
-	      (1 0)))
+	      (1 0 1))
+	     (cl-lib
+	      (0 4))
+	     (emacs
+	      (24 2)))
 	    "major-mode for editing Ada sources" tar
 	    ((:keywords quote nil)
 	     (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html"))])
@@ -384,9 +388,11 @@
 	       (:keywords quote
 			  ("window")))])
  (wisi .
-       [(1 0)
+       [(1 0 1)
 	((cl-lib
-	  (0)))
+	  (0 4))
+	 (emacs
+	  (24 2)))
 	"Utilities for implementing an indentation/navigation engine using a generalized LALR parser" tar
 	((:keywords quote nil)
 	 (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html"))])

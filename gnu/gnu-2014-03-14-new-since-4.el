@@ -1,6 +1,6 @@
 '(
   (wpuzzle . [(1 1) nil "find as many word in a given time" single ((:url . "http://elpa.gnu.org/packages/wpuzzle.html") (:keywords quote nil)) "gnu"])
-  (wisi . [(1 0) ((cl-lib (0))) "Utilities for implementing an indentation/navigation engine using a generalized LALR parser" tar ((:keywords quote nil) (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])
+  (wisi . [(1 0 1) ((cl-lib (0 4)) (emacs (24 2))) "Utilities for implementing an indentation/navigation engine using a generalized LALR parser" tar ((:keywords quote nil) (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])
   (websocket . [(1 1) nil "Emacs WebSocket client and server" tar ((:keywords quote ("communication" "websocket" "server")) (:url . "http://elpa.gnu.org/packages/websocket.html")) "gnu"])
   (web-server . [(0 1 0) ((emacs (24 3))) "Emacs Web Server" tar ((:keywords quote ("http" "server" "network")) (:url . "https://github.com/eschulte/emacs-web-server")) "gnu"])
   (w3 . [(4 0 49) nil "Fully customizable, largely undocumented web browser for Emacs" tar ((:keywords quote ("faces" "help" "comm" "news" "mail" "processes" "mouse" "hypermedia")) (:url . "http://elpa.gnu.org/packages/w3.html")) "gnu"])
@@ -11,5 +11,5 @@
   (diff-hl . [(1 5 3) ((cl-lib (0 2))) "Highlight uncommitted changes" tar ((:keywords quote ("vc" "diff")) (:url . "https://github.com/dgutov/diff-hl")) "gnu"])
   (ascii-art-to-unicode . [(1 4) nil "a small artist adjunct" single ((:url . "http://elpa.gnu.org/packages/ascii-art-to-unicode.html") (:keywords quote nil)) "gnu"])
   (adjust-parens . [(3 0) nil "Indent and dedent Lisp code, automatically adjust close parens" tar ((:keywords quote nil) (:url . "http://elpa.gnu.org/packages/adjust-parens.html")) "gnu"])
-  (ada-mode . [(5 0 1) ((wisi (1 0))) "major-mode for editing Ada sources" tar ((:keywords quote nil) (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])
+  (ada-mode . [(5 1 0) ((wisi (1 0 1)) (cl-lib (0 4)) (emacs (24 2))) "major-mode for editing Ada sources" tar ((:keywords quote nil) (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])
  )
