@@ -468,7 +468,7 @@
   (rotate . [(20140123 116) nil "Rotate the layout of emacs" single "melpa"])
   (rpm-spec-mode . [(20140120 50) nil "RPM spec file editing commands for Emacs/XEmacs" single "melpa"])
   (rtags . [(20140216 1629) nil "A front-end for rtags" single "melpa"])
-  (ruby-additional . [(20131030 2113) ((emacs (24 3)) (ruby-mode (1 2))) "ruby-mode extensions yet to be merged into Emacs" tar "melpa"])
+  (ruby-additional . [(20140313 2129) ((emacs (24 3)) (ruby-mode (1 2))) "ruby-mode extensions yet to be merged into Emacs" tar "melpa"])
   (ruby-refactor . [(20140104 1354) ((ruby-mode (1 2))) "A minor mode which presents various Ruby refactoring helpers." single "melpa"])
   (runner . [(20140106 758) nil "Improved \"open with\" suggestions for dired" single "melpa"])
   (sbt-mode . [(20140128 238) ((scala-mode2 (0 22))) "Major mode for sbt >= 0.12 with scala >= 2.9" tar "melpa"])
