@@ -1,8 +1,8 @@
 '(
   (4clojure . [(20131014 1507) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions" single "melpa"])
   (ac-c-headers . [(20131015 2339) nil "auto-complete source for C headers" single "melpa"])
-  (ac-cake . [(20140315 824) ((cake (1 4 2)) (auto-complete (1 4))) "CakePHP Minor Mode auto-complete.el source" single "melpa"])
-  (ac-cake2 . [(20140315 836) ((cake2 (1 1 2)) (auto-complete (1 4))) "CakePHP 2 Minor Mode auto-complete.el source" single "melpa"])
+  (ac-cake . [(20140315 929) ((cake (1 4 2)) (auto-complete (1 4 0))) "CakePHP Minor Mode auto-complete.el source" single "melpa"])
+  (ac-cake2 . [(20140315 929) ((cake2 (1 1 2)) (auto-complete (1 4 0))) "CakePHP 2 Minor Mode auto-complete.el source" single "melpa"])
   (ac-cider-compliment . [(20140129 1304) ((cider (0 5 0)) (auto-complete (1 4))) "auto-complete sources for Clojure using" single "melpa"])
   (ac-emmet . [(20131015 858) ((emmet-mode (1 0 2)) (auto-complete (1 4))) "auto-complete sources for emmet-mode's snippets" single "melpa"])
   (ac-etags . [(20131127 311) ((auto-complete (1 4))) "etags/ctags completion source for auto-complete" single "melpa"])
