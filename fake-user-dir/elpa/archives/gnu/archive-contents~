@@ -6,9 +6,9 @@
 		   ("tools" "processes" "convenience"))
 	(:url . "https://github.com/leoliu/ack-el"))])
  (ada-mode .
-	   [(5 1 0)
+	   [(5 1 1)
 	    ((wisi
-	      (1 0 1))
+	      (1 0 2))
 	     (cl-lib
 	      (0 4))
 	     (emacs
@@ -388,7 +388,7 @@
 	       (:keywords quote
 			  ("window")))])
  (wisi .
-       [(1 0 1)
+       [(1 0 2)
 	((cl-lib
 	  (0 4))
 	 (emacs
