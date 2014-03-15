@@ -734,7 +734,7 @@
   (otter-mode . [(20121202 903) nil "Major mode for source files of the Otter automated theorem prover" single "melpa"])
   (outline-magic . [(20130813 1333) nil "outline mode extensions for Emacs" single "melpa"])
   (outlined-elisp-mode . [(20131108 327) nil "outline-minor-mode settings for emacs lisp" single "melpa"])
-  (p4 . [(20140315 1153) nil "Simple Perforce-Emacs Integration" single "melpa"])
+  (p4 . [(20140315 1211) nil "Simple Perforce-Emacs Integration" single "melpa"])
   (pabbrev . [(20130923 1257) nil "Predictive abbreviation expansion" single "melpa"])
   (package-build . [(20140221 201) ((cl-lib (0 2))) "Tools for assembling a package archive" tar "melpa"])
   (packed . [(20140311 1357) ((cl-lib (0 2)) (magit (1 1 1))) "Package manager agnostic Emacs Lisp package utilities" tar "melpa"])
