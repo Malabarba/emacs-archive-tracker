@@ -91,7 +91,7 @@
   (cython-mode . [(20131229 406) nil "Major mode for editing Cython files" single "melpa"])
   (dakrone-theme . [(20140211 2045) nil "dakrone's custom dark theme" single "melpa"])
   (dark-souls . [(20140314 428) nil "Prepare to die" single "melpa"])
-  (darkburn-theme . [(20140311 2152) nil "A not-so-low contrast color theme for Emacs." single "melpa"])
+  (darkburn-theme . [(20140316 31) nil "A not-so-low contrast color theme for Emacs." single "melpa"])
   (dash-functional . [(20130831 1340) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp" single "melpa"])
   (dayone . [(20131117 255) ((uuid (0 0 3)) (mustache (0 22)) (ht (1 5))) "Utility script for Day One" tar "melpa"])
   (debpaste . [(20140208 2) ((xml-rpc (1 6 7))) "Interface for getting/posting/deleting pastes from paste.debian.net" single "melpa"])
