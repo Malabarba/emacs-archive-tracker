@@ -485,7 +485,7 @@
   (pyvenv . [(20140314 110) nil "Python virtual environment interface" single "melpa"])
   (qiita . [(20140118 44) ((helm (1 5 9)) (markdown-mode (2 0))) "Qiita API Library for emacs" single "melpa"])
   (r-autoyas . [(20140101 710) ((ess (0)) (yasnippet (0 8 0))) "Provides automatically created yasnippets for R function argument lists." tar "melpa"])
-  (racket-mode . [(20140315 838) nil "Major mode for Racket language." tar "melpa"])
+  (racket-mode . [(20140315 2007) nil "Major mode for Racket language." tar "melpa"])
   (rainbow-blocks . [(20140306 1033) nil "Block syntax highlighting for lisp code" single "melpa"])
   (rcirc-alert . [(20140110 929) nil "Configurable alert messages on top of RCIRC" tar "melpa"])
   (rcirc-color . [(20140131 656) nil "color nicks" single "melpa"])
