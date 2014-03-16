@@ -834,7 +834,7 @@
   (region-bindings-mode . [(20130430 1447) nil "Enable custom bindings when mark is active." single "melpa"])
   (repl-toggle . [(20140208 812) ((fullframe (0 0 5))) "Switch to/from repl buffer for current major-mode" single "melpa"])
   (replace-from-region . [(20130918 308) nil "Replace commands whose query is from region" single "melpa"])
-  (request . [(20140308 2051) nil "Compatible layer for URL request in Emacs" single "melpa"])
+  (request . [(20140316 417) nil "Compatible layer for URL request in Emacs" single "melpa"])
   (request-deferred . [(20130526 1015) ((deferred (0 3 1)) (request (0 2 0))) "Wrap request.el by deferred" single "melpa"])
   (requirejs-mode . [(20130215 1304) nil "Improved AMD module management" single "melpa"])
   (restclient . [(20140115 635) nil "An interactive HTTP client for Emacs" tar "melpa"])

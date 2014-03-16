@@ -1,4 +1,5 @@
 '(
+  (epl . [(0 7) ((cl-lib (0 3))) "Emacs Package Library -*- lexical-binding: t; -*-" single "marmalade"])
   (puppet-mode . [(0 3) ((emacs (24 1)) (cl-lib (0 5)) (pkg-info (0 4))) "Major mode for Puppet manifests  -*- lexical-binding: t; -*-" single "marmalade"])
   (sparql-mode . [(0 8 3) nil "Edit and interactively evaluate SPARQL queries." tar "marmalade"])
   (google-translate . [(0 5) nil "Emacs interface to Google Translate" single "marmalade"])
