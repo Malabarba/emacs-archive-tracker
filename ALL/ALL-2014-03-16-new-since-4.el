@@ -60,7 +60,7 @@
   (cg . [(20140306 620) nil "major mode for editing Constraint Grammar files" single "melpa"])
   (cherry-blossom-theme . [(20140126 1025) ((emacs (24 0))) "a soothing color theme for Emacs24." single "melpa"])
   (chruby . [(20140223 1028) nil "Emacs integration for chruby" single "melpa"])
-  (cider . [(20140315 824) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 4 1)) (pkg-info (0 4))) "Clojure Integrated Development Environment and REPL" tar "melpa"])
+  (cider . [(20140316 1007) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 4 1)) (pkg-info (0 4))) "Clojure Integrated Development Environment and REPL" tar "melpa"])
   (cider-decompile . [(20131116 1002) ((cider (0 3 0)) (javap-mode (9))) "decompilation extension for cider" single "melpa"])
   (cider-tracing . [(20131018 738) ((cider (0 3 0)) (clojure-mode (2 1 0))) "Tracing extension for CIDER" single "melpa"])
   (cl-lib-highlight . [(20140127 1312) ((cl-lib (0 3))) "full cl-lib font-lock highlighting" single "melpa"])
