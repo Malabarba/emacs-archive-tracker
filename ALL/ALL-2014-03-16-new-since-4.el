@@ -39,6 +39,7 @@
   (automargin . [(20131112 14) nil "add margins to windows not-splitted, and center them" single "melpa"])
   (babel . [(20131231 725) nil "interface to web translation services such as Babelfish" single "melpa"])
   (bbdb- . [(20140221 1554) ((bbdb (20140123 1541)) (log4e (0 2 0)) (yaxception (0 1))) "provide interface for more easily search/choice than BBDB." single "melpa"])
+  (benchmark-init . [(20140316 1253) nil "Benchmarks Emacs require and load calls" single "melpa"])
   (bert . [(20131117 214) nil "BERT serialization library for Emacs" single "melpa"])
   (bibslurp . [(20130904 1053) ((s (1 6 0)) (dash (1 5 0))) "retrieve BibTeX entries from NASA ADS" single "melpa"])
   (bpe . [(20131227 2120) nil "Blog from Org mode to Blogger" single "melpa"])
