@@ -346,7 +346,7 @@
   (lice . [(20140116 657) nil "License And Header Template" tar "melpa"])
   (lingr . [(20100807 1031) nil "Lingr Client for GNU Emacs" single "melpa"])
   (link . [(20131005 526) nil "Hypertext links in text buffers" single "melpa"])
-  (lispy . [(20140314 729) ((helm (1 5 3)) (ace-jump-mode (2 0)) (s (1 4 0)) (noflet (0 0 10)) (multiple-cursors (1 3 0)) (iedit (0 97))) "vi-like Paredit" tar "melpa"])
+  (lispy . [(20140317 1130) ((helm (1 5 3)) (ace-jump-mode (2 0)) (s (1 4 0)) (noflet (0 0 10)) (multiple-cursors (1 3 0)) (iedit (0 97))) "vi-like Paredit" tar "melpa"])
   (list-packages-ext . [(20130927 908) ((s (1 6 0)) (ht (1 5 0)) (persistent-soft (0 8 6))) "Extras for list-packages" single "melpa"])
   (list-processes+ . [(20131117 1935) nil "Add process management to `list-processes'" single "melpa"])
   (list-register . [(20130824 1200) nil "List register" single "melpa"])
