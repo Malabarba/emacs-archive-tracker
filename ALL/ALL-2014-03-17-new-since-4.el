@@ -470,7 +470,7 @@
   (rdf-prefix . [(20140213 506) nil "Prefix lookup for RDF" single "melpa"])
   (react-snippets . [(20140120 1034) ((yasnippet (0 7 0))) "Yasnippets for React" tar "melpa"])
   (readline-complete . [(20140215 620) nil "offers completions in shell mode" single "melpa"])
-  (recompile-on-save . [(20140309 1413) ((dash (1 1 0))) "Trigger recompilation on file save." single "melpa"])
+  (recompile-on-save . [(20140317 1333) ((dash (1 1 0))) "Trigger recompilation on file save." single "melpa"])
   (relax . [(20131029 1434) ((json (1 2))) "For browsing and interacting with CouchDB" single "melpa"])
   (replace+ . [(20140130 1702) nil "Extensions to `replace.el'." single "melpa"])
   (req-package . [(20140306 1052) ((use-package (1 0))) "A use-package wrapper for package runtime dependencies management" single "melpa"])
