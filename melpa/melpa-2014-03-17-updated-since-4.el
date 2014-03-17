@@ -355,7 +355,7 @@
   (ggo-mode . [(20130524 443) nil "Gengetopt major mode" single "melpa"])
   (gh . [(20140121 2038) ((eieio (1 3)) (pcache (0 2 4)) (logito (0 1))) "A GitHub library for Emacs" tar "melpa"])
   (ghc . [(20140314 1810) nil "Sub mode for Haskell mode" tar "melpa"])
-  (ghci-completion . [(20130310 836) ((emacs (24 1))) "Completion for GHCi commands in inferior-haskell buffers" single "melpa"])
+  (ghci-completion . [(20140316 2331) ((emacs (24 1))) "Completion for GHCi commands in inferior-haskell buffers" single "melpa"])
   (gist . [(20131109 2155) ((eieio (1 3)) (gh (0 7 2)) (tabulated-list (0))) "Emacs integration for gist.github.com" single "melpa"])
   (git-auto-commit-mode . [(20131007 1423) nil "Emacs Minor mode to automatically commit and push" single "melpa"])
   (git-blame . [(20110509 926) nil "Minor mode for incremental blame for Git" single "melpa"])

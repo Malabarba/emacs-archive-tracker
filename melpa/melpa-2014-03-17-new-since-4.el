@@ -322,7 +322,7 @@
   (jedi-direx . [(20140310 236) ((jedi (0 1 2)) (direx (0 1 -3))) "Tree style source code viewer for Python buffer" single "melpa"])
   (jquery-doc . [(20131223 845) nil "jQuery api documentation interface for emacs" tar "melpa"])
   (js-doc . [(20131215 519) nil "Insert JsDoc style comment easily" single "melpa"])
-  (json-mode . [(20140120 129) nil "Major mode for editing JSON files" single "melpa"])
+  (json-mode . [(20140316 2148) ((json-reformat (20140301 39))) "Major mode for editing JSON files" single "melpa"])
   (json-reformat . [(20140301 39) nil "Reformatting tool for JSON" single "melpa"])
   (json-snatcher . [(20131110 1107) ((emacs (24))) "Grabs the path to JSON values in a JSON file" single "melpa"])
   (jsx-mode . [(20130908 1024) nil "major mode for JSX" single "melpa"])
