@@ -12,7 +12,7 @@
   (ac-octave . [(20140226 2051) ((auto-complete (1 4 0))) "An auto-complete source for Octave" single "melpa"])
   (achievements . [(20131111 2351) ((keyfreq (0 0 3))) "Achievements for emacs usage." tar "melpa"])
   (afternoon-theme . [(20140104 1059) ((emacs (24 1))) "Dark color theme with a deep blue background" single "melpa"])
-  (alect-themes . [(20140310 1255) nil "Configurable color themes (light, dark and black) for Emacs 24" tar "melpa"])
+  (alect-themes . [(20140318 1235) nil "Configurable color themes (light, dark and black) for Emacs 24" tar "melpa"])
   (ample-zen-theme . [(20131129 440) nil "AmpleZen Theme for Emacs 24" single "melpa"])
   (ant . [(20131227 2307) nil "helpers for compiling with ant" single "melpa"])
   (anx-api . [(20140208 714) nil "Interact with the AppNexus API from Emacs." single "melpa"])
