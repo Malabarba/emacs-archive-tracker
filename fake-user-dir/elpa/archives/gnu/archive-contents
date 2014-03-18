@@ -54,7 +54,7 @@
 		(:keywords quote
 			   ("coffeescript" "major" "mode")))])
  (company .
-	  [(0 7)
+	  [(0 7 1)
 	   nil "Modular in-buffer completion framework" tar
 	   ((:keywords quote
 		       ("abbrev" "convenience" "matching"))
