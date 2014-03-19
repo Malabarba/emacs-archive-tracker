@@ -742,7 +742,7 @@
   (page-break-lines . [(20140128 1017) nil "Display ugly ^L page breaks as tidy horizontal lines" single "melpa"])
   (pager . [(20100330 1131) nil "windows-scroll commands" single "melpa"])
   (pager-default-keybindings . [(20130719 1357) ((pager (1 0))) "Add the default keybindings suggested for pager.el" single "melpa"])
-  (pallet . [(20140307 433) ((cask (0 5 0))) "A package management tool for Emacs, using Cask." tar "melpa"])
+  (pallet . [(20140319 1245) ((cask (0 6))) "A package management tool for Emacs, using Cask." tar "melpa"])
   (pandoc-mode . [(20140219 1235) nil "Minor mode for interacting with Pandoc" tar "melpa"])
   (pangu-spacing . [(20140301 2326) nil "Minor-mode to add space between Chinese and English characters." single "melpa"])
   (paredit . [(20140128 1248) nil "minor mode for editing parentheses" single "melpa"])
