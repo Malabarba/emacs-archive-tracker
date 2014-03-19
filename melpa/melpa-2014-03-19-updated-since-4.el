@@ -897,7 +897,7 @@
   (smooth-scrolling . [(20131219 2039) nil "Make emacs scroll smoothly" single "melpa"])
   (smotitah . [(20131127 152) nil "Modular emacs configuration framework" tar "melpa"])
   (snippet . [(20130210 1515) nil "Insert snippets of text into a buffer" single "melpa"])
-  (solarized-theme . [(20140319 434) nil "The Solarized color theme, ported to Emacs." tar "melpa"])
+  (solarized-theme . [(20140319 845) nil "The Solarized color theme, ported to Emacs." tar "melpa"])
   (soothe-theme . [(20130805 0) ((emacs (24 1))) "a dark colorful theme for Emacs24." single "melpa"])
   (sourcetalk . [(20130908 957) ((request (0 2 0))) "SourceTalk (http://sourcetalk.net) plugin for Emacs" single "melpa"])
   (spaces . [(20130610 49) nil "Create and switch between named window configurations." single "melpa"])
