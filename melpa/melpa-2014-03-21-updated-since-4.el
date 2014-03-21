@@ -789,7 +789,7 @@
   (qml-mode . [(20130417 744) nil "Major mode for editing QT Declarative (QML) code." single "melpa"])
   (quick-buffer-switch . [(20140313 340) nil "Quick switch to file or dir buffers." single "melpa"])
   (quickref . [(20130113 1500) ((dash (1 0 3)) (s (1 0 0))) "Display relevant notes-to-self in the echo area" single "melpa"])
-  (quickrun . [(20140227 749) nil "Run commands quickly" single "melpa"])
+  (quickrun . [(20140321 114) nil "Run commands quickly" single "melpa"])
   (railgun . [(20121016 2257) nil "No description available." single "melpa"])
   (rainbow-delimiters . [(20131015 404) nil "Highlight nested parens, brackets, braces a different color at each depth." single "melpa"])
   (rase . [(20120928 1345) nil "Run At Sun Event daemon" single "melpa"])
