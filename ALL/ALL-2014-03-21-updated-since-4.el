@@ -364,7 +364,7 @@
   (gedit-mode . [(20140109 928) ((tabbar (0)) (shell-pop (0)) (move-text (0)) (whole-line-or-region (0))) "Emulate the look & feel of GEdit in Emacs" single "melpa"])
   (geiser . [(20140307 425) nil "GNU Emacs and Scheme talk to each other" tar "melpa"])
   (ggo-mode . [(20130524 443) nil "Gengetopt major mode" single "melpa"])
-  (ggtags . [(20140320 656) ((emacs (24)) (cl-lib (0 5))) "emacs frontend to GNU Global source code tagging system" single "melpa"])
+  (ggtags . [(20140320 2004) ((emacs (24)) (cl-lib (0 5))) "emacs frontend to GNU Global source code tagging system" single "melpa"])
   (gh . [(20140121 2038) ((eieio (1 3)) (pcache (0 2 4)) (logito (0 1))) "A GitHub library for Emacs" tar "melpa"])
   (ghc . [(20140314 1810) nil "Sub mode for Haskell mode" tar "melpa"])
   (ghci-completion . [(20140316 2331) ((emacs (24 1))) "Completion for GHCi commands in inferior-haskell buffers" single "melpa"])
