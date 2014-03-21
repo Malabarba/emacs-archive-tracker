@@ -534,7 +534,7 @@
   (jaunte . [(20130413 219) nil "Emacs Hit a Hint" single "melpa"])
   (javadoc-lookup . [(20130618 1736) nil "Javadoc Emacs integration with Maven" tar "melpa"])
   (javap-mode . [(20120223 1408) nil "Javap major mode" single "melpa"])
-  (jedi . [(20140321 203) ((epc (0 1 0)) (auto-complete (1 4)) (python-environment (0))) "Python auto-completion for Emacs" tar "melpa"])
+  (jedi . [(20140321 1323) ((epc (0 1 0)) (auto-complete (1 4)) (python-environment (0 0 2))) "Python auto-completion for Emacs" tar "melpa"])
   (jenkins-watch . [(20121004 1626) nil "Watch continuous integration build status" single "melpa"])
   (jinja2-mode . [(20120827 203) nil "A major mode for jinja2" single "melpa"])
   (jira . [(20131210 1822) nil "Connect to JIRA issue tracking software" single "melpa"])
