@@ -92,7 +92,7 @@
   (cucumber-goto-step . [(20131209 2119) ((pcre2el (1 5))) "Jump to cucumber step definition" single "melpa"])
   (cursor-test . [(20131207 932) ((emacs (24))) "testing library for cursor position in emacs." single "melpa"])
   (cypher-mode . [(20140221 422) nil "major mode for editing cypher scripts" single "melpa"])
-  (cython-mode . [(20131229 406) nil "Major mode for editing Cython files" single "melpa"])
+  (cython-mode . [(20140322 8) nil "Major mode for editing Cython files" single "melpa"])
   (dakrone-theme . [(20140211 2045) nil "dakrone's custom dark theme" single "melpa"])
   (dark-souls . [(20140314 428) nil "Prepare to die" single "melpa"])
   (darkburn-theme . [(20140316 31) nil "A not-so-low contrast color theme for Emacs." single "melpa"])
