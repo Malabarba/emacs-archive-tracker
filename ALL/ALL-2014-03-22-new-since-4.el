@@ -405,7 +405,7 @@
   (org-repo-todo . [(20140205 641) nil "Simple repository todo management with org-mode" single "melpa"])
   (org-screenshot . [(20140307 320) ((org (7))) "screenshots integrated with org attachment dirs" single "melpa"])
   (organic-green-theme . [(20140213 447) nil "Low-contrast green color theme." single "melpa"])
-  (orgbox . [(20140321 503) ((org (8 0)) (cl-lib (0 5))) "Mailbox-like task scheduling in org agenda" single "melpa"])
+  (orgbox . [(20140322 758) ((org (8 0)) (cl-lib (0 5))) "Mailbox-like task scheduling in org agenda." single "melpa"])
   (osx-pseudo-daemon . [(20131026 1730) nil "Daemon mode that plays nice with OSX." single "melpa"])
   (outorg . [(20140314 530) nil "Org-style comment editing" single "melpa"])
   (outshine . [(20140312 913) nil "outline with outshine outshines outline" single "melpa"])
