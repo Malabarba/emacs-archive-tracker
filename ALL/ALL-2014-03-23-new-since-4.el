@@ -409,7 +409,7 @@
   (osx-pseudo-daemon . [(20131026 1730) nil "Daemon mode that plays nice with OSX." single "melpa"])
   (outorg . [(20140314 530) nil "Org-style comment editing" single "melpa"])
   (outshine . [(20140312 913) nil "outline with outshine outshines outline" single "melpa"])
-  (ov . [(20140320 2115) ((emacs (24 3))) "Overlay library for Emacs Lisp" single "melpa"])
+  (ov . [(20140322 1819) ((emacs (24 3))) "Overlay library for Emacs Lisp" single "melpa"])
   (ox-asciidoc . [(20140215 610) ((org (8 1))) "AsciiDoc Back-End for Org Export Engine" single "melpa"])
   (ox-html5slide . [(20131227 2206) ((org (8 0))) "Export org-mode to HTML5 slide." single "melpa"])
   (ox-pukiwiki . [(20140215 609) ((org (8 1))) "Pukiwiki Back-End for Org Export Engine" single "melpa"])
