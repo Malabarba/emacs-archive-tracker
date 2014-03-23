@@ -138,7 +138,7 @@
   (dummyparens . [(20140214 2305) nil "parenthesis auto-pairing and wrapping" single "melpa"])
   (dvorak-mode . [(20140302 2240) nil "Switch to dvorak layout easily" single "melpa"])
   (easy-kill . [(20140207 2026) ((emacs (24))) "kill things easily" single "melpa"])
-  (ede-compdb . [(20140319 1333) ((ede (1 2)) (semantic (2 2)) (cl-lib (0 4))) "Support for compilation database projects in EDE" single "melpa"])
+  (ede-compdb . [(20140323 826) ((ede (1 2)) (semantic (2 2)) (cl-lib (0 4))) "Support for compilation database projects in EDE" single "melpa"])
   (efire . [(20130811 1649) ((circe (1 2))) "Use campfire from Emacs" single "melpa"])
   (el-spice . [(20140113 816) ((thingatpt+ (0))) "Extra spice for emacs lisp programming" tar "melpa"])
   (el-sprunge . [(20140106 1739) ((web-server (20140105 2246)) (htmlize (20130207 1202)) (emacs (24 3))) "Command line paste server with Emacs highlighting" tar "melpa"])
