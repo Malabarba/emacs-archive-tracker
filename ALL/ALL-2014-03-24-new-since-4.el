@@ -436,7 +436,7 @@
   (pianobar . [(20120128 1301) nil "thin wrapper for Pianobar, a Pandora Radio client" single "melpa"])
   (pig-snippets . [(20130912 2324) ((yasnippet (0 8 0))) "Snippets for pig-mode" tar "melpa"])
   (pillar . [(20140207 612) ((makey (0 3))) "Major mode for editing Pillar files" single "melpa"])
-  (pinboard-api . [(20131207 1124) nil "Rudimentary http://pinboard.in integration" single "melpa"])
+  (pinboard-api . [(20140324 448) nil "Rudimentary http://pinboard.in integration" single "melpa"])
   (pinot . [(20140211 1226) nil "Emacs interface to pinot-search" tar "melpa"])
   (pkg-info . [(20140313 513) ((epl (0 4))) "Information about packages" single "melpa"])
   (planet-theme . [(20140306 829) ((emacs (24))) "A dark theme inspired by Gmail's 'Planets' theme of yore" single "melpa"])
