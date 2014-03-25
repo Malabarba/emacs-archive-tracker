@@ -192,7 +192,7 @@
   (fit-frame . [(20131226 1844) nil "Resize a frame.  In particular, fit a frame to its buffers." single "melpa"])
   (flash-region . [(20130923 1117) nil "Flash a region" single "melpa"])
   (flatland-theme . [(20131204 858) nil "A simple theme for Emacs based on the Flatland theme for Sublime Text" single "melpa"])
-  (flatui-theme . [(20140324 233) nil "A color theme for Emacs based on flatuicolors.com" single "melpa"])
+  (flatui-theme . [(20140324 1915) nil "A color theme for Emacs based on flatuicolors.com" single "melpa"])
   (fliptext . [(20131114 218) nil "Input method for flipping characters upside down" single "melpa"])
   (floobits . [(20140223 1640) ((json (1 2)) (highlight (0))) "Floobits plugin for real-time collaborative editing" tar "melpa"])
   (flycheck-cask . [(20140118 923) ((flycheck (0 14)) (dash (2 4 0)) (f (0 11 0))) "Cask support in Flycheck" single "melpa"])
