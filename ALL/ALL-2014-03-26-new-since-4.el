@@ -268,7 +268,7 @@
   (helm-mode-manager . [(20140224 1504) ((helm (1 5 3))) "Select and toggle major and minor modes with helm" single "melpa"])
   (helm-package . [(20140108 2223) ((helm (1 0)) (cl-lib (0 3))) "Listing ELPA packages with helm interface" single "melpa"])
   (helm-perldoc . [(20140319 353) ((helm (1 0)) (deferred (0 3 1)) (cl-lib (0 5))) "perldoc with helm interface" tar "melpa"])
-  (helm-proc . [(20140326 609) ((helm (1 6 0))) "Helm interface for managing system processes" tar "melpa"])
+  (helm-proc . [(20140326 1027) ((helm (1 6 0))) "Helm interface for managing system processes" tar "melpa"])
   (helm-prosjekt . [(20140128 2317) ((prosjekt (0 3)) (helm (1 5 9))) "Helm integration for prosjekt." single "melpa"])
   (helm-pydoc . [(20140307 1630) ((helm (1 0)) (cl-lib (0 5))) "pydoc with helm interface" tar "melpa"])
   (helm-rb . [(20131123 839) ((helm (1 0)) (helm-ag-r (20131123))) "Search Ruby's method by ag and display helm" tar "melpa"])
