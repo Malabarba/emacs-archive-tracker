@@ -191,7 +191,7 @@
   (face-remap+ . [(20131226 1839) nil "Extensions to standard library `face-remap.el'." single "melpa"])
   (facemenu+ . [(20140218 2155) nil "Extensions to `facemenu.el'." single "melpa"])
   (faces+ . [(20131226 1840) nil "Extensions to `faces.el'." single "melpa"])
-  (fancy-narrow . [(20140326 513) nil "narrow-to-region with more eye candy." single "melpa"])
+  (fancy-narrow . [(20140326 1303) nil "narrow-to-region with more eye candy." single "melpa"])
   (fasd . [(20130831 1003) ((grizzl (0))) "Emacs integration for the command-line productivity booster `fasd'" single "melpa"])
   (fasm-mode . [(20131029 611) nil "Fasm major mode" single "melpa"])
   (fetch . [(20131130 2330) nil "Fetch and unpack resources" single "melpa"])
