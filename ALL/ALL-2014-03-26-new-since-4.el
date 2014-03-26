@@ -194,7 +194,7 @@
   (flatland-theme . [(20131204 858) nil "A simple theme for Emacs based on the Flatland theme for Sublime Text" single "melpa"])
   (flatui-theme . [(20140324 1915) nil "A color theme for Emacs based on flatuicolors.com" single "melpa"])
   (fliptext . [(20131114 218) nil "Input method for flipping characters upside down" single "melpa"])
-  (floobits . [(20140223 1640) ((json (1 2)) (highlight (0))) "Floobits plugin for real-time collaborative editing" tar "melpa"])
+  (floobits . [(20140325 1853) ((json (1 2)) (highlight (0))) "Floobits plugin for real-time collaborative editing" tar "melpa"])
   (flycheck-cask . [(20140118 923) ((flycheck (0 14)) (dash (2 4 0)) (f (0 11 0))) "Cask support in Flycheck" single "melpa"])
   (flycheck-d-unittest . [(20140120 1809) ((flycheck (0 17)) (dash (1 4 0))) "Add D unittest support to flycheck" single "melpa"])
   (flycheck-dmd-dub . [(20140319 1023) nil "Sets flycheck-dmd-include-paths from dub package information" single "melpa"])
