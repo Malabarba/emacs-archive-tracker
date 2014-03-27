@@ -343,7 +343,7 @@
   (lxc . [(20140213 1556) nil "lxc integration with Emacs" single "melpa"])
   (m-buffer . [(20140305 201) ((dash (2 5 0)) (emacs (24 3))) "Buffer Manipulation Functions" single "melpa"])
   (macros+ . [(20131227 136) nil "Extensions to `macros.el'." single "melpa"])
-  (magit-annex . [(20140319 1735) ((magit (1 2 0))) "Use git annex within magit" single "melpa"])
+  (magit-annex . [(20140323 1229) ((cl-lib (0 3)) (magit (1 2 0))) "Use git annex within magit" single "melpa"])
   (magit-find-file . [(20130915 423) ((magit (1 2 0))) "completing-read over all files in Git" single "melpa"])
   (magit-log-edit . [(20140303 700) ((cl-lib (0 3)) (magit (1 3 0))) "[SEMI-OBSOLETE] major mode for editing Git commit messages" single "melpa"])
   (magit-stgit . [(20140129 609) ((cl-lib (0 3)) (magit (1 3 0))) "StGit plug-in for Magit" single "melpa"])
