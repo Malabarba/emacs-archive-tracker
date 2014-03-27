@@ -379,7 +379,7 @@
   (mb-depth+ . [(20131227 137) nil "Indicate minibuffer-depth in prompt" single "melpa"])
   (mc-extras . [(20130909 27) ((multiple-cursors (1 2 1))) "Extra functions for multiple-cursors mode." tar "melpa"])
   (menu-bar+ . [(20131227 137) nil "Extensions to `menu-bar.el'." single "melpa"])
-  (merlin . [(20140325 432) nil "Mode for Merlin, an assistant for OCaml." single "melpa"])
+  (merlin . [(20140327 731) nil "Mode for Merlin, an assistant for OCaml." single "melpa"])
   (midje-test-mode . [(20131208 914) ((clojure-mode (1 7)) (cider (0 3 0))) "Minor mode for midje" single "melpa"])
   (minesweeper . [(20120417 758) nil "play minesweeper in Emacs" single "melpa"])
   (minibuffer-complete-cycle . [(20130813 945) nil "Cycle through the *Completions* buffer" single "melpa"])
