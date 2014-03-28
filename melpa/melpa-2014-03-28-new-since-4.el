@@ -245,7 +245,7 @@
   (gnome-calendar . [(20140112 359) nil "Integration with the GNOME Shell calendar" single "melpa"])
   (gnomenm . [(20140308 938) ((s (1 9 0)) (dash (2 3 0)) (kv (0 0 19))) "Emacs interface to Gnome nmcli command" single "melpa"])
   (gntp . [(20140321 2118) nil "Growl Notification Protocol for Emacs" single "melpa"])
-  (gnu-apl-mode . [(20140214 136) ((emacs (24))) "Integrate GNU APL with Emacs" tar "melpa"])
+  (gnu-apl-mode . [(20140327 1918) ((emacs (24))) "Integrate GNU APL with Emacs" tar "melpa"])
   (gnus-spotlight . [(20130901 1435) nil "Search mail with Spotlight" single "melpa"])
   (gnus-summary-ext . [(20131222 2021) ((macro-utils (1 0))) "Extra limit and process mark commands for the gnus summary buffer" single "melpa"])
   (go-direx . [(20140303 447) ((direx (0 1 -3)) (cl-lib (0 5))) "Tree style source code viewer for Go language" single "melpa"])
