@@ -795,7 +795,7 @@
   (rase . [(20120928 1345) nil "Run At Sun Event daemon" single "melpa"])
   (rbenv . [(20140318 424) nil "Emacs integration for rbenv" single "melpa"])
   (rdp . [(20120928 1854) nil "Recursive Descent Parser library" single "melpa"])
-  (realgud . [(20140325 1747) ((load-relative (20130410)) (loc-changes (20130723)) (test-simple (20130710))) "A modular front-end for interacting with external debuggers" tar "melpa"])
+  (realgud . [(20140328 1940) ((load-relative (20130410)) (loc-changes (20130723)) (test-simple (20130710))) "A modular front-end for interacting with external debuggers" tar "melpa"])
   (rebox2 . [(20121113 500) nil "Handling of comment boxes in various styles." single "melpa"])
   (recentf-ext . [(20130130 2150) nil "Recentf extensions" single "melpa"])
   (rect+ . [(20140117 608) nil "Extensions to rect.el" single "melpa"])
