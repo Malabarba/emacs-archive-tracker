@@ -1,4 +1,5 @@
 '(
+  (2048-game . [(20140329 758) nil "play 2048 in Emacs" single "melpa"])
   (4clojure . [(20131014 1507) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions" single "melpa"])
   (ac-c-headers . [(20131015 2339) nil "auto-complete source for C headers" single "melpa"])
   (ac-cake . [(20140315 929) ((cake (1 4 2)) (auto-complete (1 4 0))) "CakePHP Minor Mode auto-complete.el source" single "melpa"])
@@ -368,6 +369,7 @@
   (minesweeper . [(20120417 758) nil "play minesweeper in Emacs" single "melpa"])
   (minibuffer-complete-cycle . [(20130813 945) nil "Cycle through the *Completions* buffer" single "melpa"])
   (minibuffer-cua . [(20130906 434) nil "Make CUA mode's S-up/S-down work in minibuffer" single "melpa"])
+  (minimal-theme . [(20140329 948) nil "A dark minimalistic Emacs 24 theme." tar "melpa"])
   (minitest . [(20140226 1637) ((dash (1 0 0))) "An Emacs mode for ruby minitest files" single "melpa"])
   (mip-mode . [(20140128 549) ((dash (2 5 0))) "virtual projects for emacs." single "melpa"])
   (misc-cmds . [(20140101 100) nil "Miscellaneous commands (interactive functions)." single "melpa"])

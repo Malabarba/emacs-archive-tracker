@@ -1,4 +1,5 @@
 '(
+  (2048-game . [(20140329 758) nil "play 2048 in Emacs" single "melpa"])
   (4clojure . [(20131014 1507) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions" single "melpa"])
   (abc-mode . [(20140225 944) nil "Major mode for editing abc music files" single "melpa"])
   (abl-mode . [(20140129 2334) nil "Python TDD minor mode" tar "melpa"])
@@ -110,7 +111,7 @@
   (circe . [(20140318 1139) ((lui (0)) (lcs (0))) "Client for IRC in Emacs" tar "melpa"])
   (clippy . [(20131210 258) ((pos-tip (1 0))) "Show tooltip with function documentation at point" single "melpa"])
   (clips-mode . [(20131012 1401) nil "Major mode for editing CLIPS code and REPL" tar "melpa"])
-  (clj-refactor . [(20140323 1400) ((s (1 8 0)) (dash (2 4 0)) (yasnippet (0 6 1)) (paredit (22)) (multiple-cursors (1 2 2))) "A collection of clojure refactoring functions" single "melpa"])
+  (clj-refactor . [(20140329 1449) ((s (1 8 0)) (dash (2 4 0)) (yasnippet (0 6 1)) (paredit (22)) (multiple-cursors (1 2 2))) "A collection of clojure refactoring functions" single "melpa"])
   (cljsbuild-mode . [(20130110 732) nil "A minor mode for the ClojureScript 'lein cljsbuild' command" single "melpa"])
   (clojure-mode . [(20140317 641) nil "Major mode for Clojure code" single "melpa"])
   (clojure-snippets . [(20140325 331) ((yasnippet (0 8 0))) "Yasnippets for clojure" tar "melpa"])
@@ -247,7 +248,7 @@
   (emamux . [(20140307 1700) ((cl-lib (0 5))) "Interact with tmux" single "melpa"])
   (emamux-ruby-test . [(20130812 939) ((emamux (0 1)) (projectile (0 9 1))) "Ruby test with emamux" single "melpa"])
   (emmet-mode . [(20140218 836) nil "Unofficial Emmet's support for emacs" single "melpa"])
-  (emms . [(20140222 2027) nil "The Emacs Multimedia System" tar "melpa"])
+  (emms . [(20140328 2129) nil "The Emacs Multimedia System" tar "melpa"])
   (emms-mark-ext . [(20130528 2027) ((emms (3 0))) "Extra functions for emms-mark-mode and emms-tag-edit-mode" single "melpa"])
   (emr . [(20130619 316) ((s (1 3 1)) (dash (1 2 0)) (cl-lib (0 2)) (popup (0 5 0)) (emacs (24 1)) (list-utils (0 3 0)) (redshank (1 0 0)) (paredit (24 0 0)) (projectile (0 9 1))) "Emacs refactoring system." tar "melpa"])
   (enclose . [(20121008 914) nil "Enclose cursor within punctuation pairs." tar "melpa"])
