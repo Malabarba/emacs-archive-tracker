@@ -880,7 +880,7 @@
   (slamhound . [(20140318 1352) nil "Rip Clojure namespaces apart and rebuild them." single "melpa"])
   (slideview . [(20130512 2142) nil "File slideshow" single "melpa"])
   (slim-mode . [(20131202 2302) nil "Major mode for editing Slim files" single "melpa"])
-  (slime . [(20140328 807) ((cl-lib (0 5))) "Superior Lisp Interaction Mode for Emacs" tar "melpa"])
+  (slime . [(20140329 814) ((cl-lib (0 5))) "Superior Lisp Interaction Mode for Emacs" tar "melpa"])
   (slime-ritz . [(20130218 1537) nil "slime extensions for ritz" single "melpa"])
   (smart-compile . [(20130917 347) nil "an interface to `compile'" single "melpa"])
   (smart-forward . [(20130205 452) ((expand-region (0 8 0))) "Semantic navigatioin" single "melpa"])
