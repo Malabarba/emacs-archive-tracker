@@ -130,7 +130,7 @@
   (discover . [(20140103 1339) ((makey (0 3))) "discover more of Emacs" single "melpa"])
   (discover-js2-refactor . [(20140129 752) ((js2-refactor (20131221 501)) (discover (20140103 1339))) "Adds discover context menu for js2-refactor" single "melpa"])
   (display-theme . [(20140115 756) ((emacs (24))) "display current theme(s) at mode-line" single "melpa"])
-  (distinguished-theme . [(20140329 1543) nil "A dark and elegant theme for emacs." single "melpa"])
+  (distinguished-theme . [(20140330 707) nil "A dark and elegant theme for emacs." single "melpa"])
   (django-mode . [(20140207 1050) nil "Major mode for Django web framework." tar "melpa"])
   (django-snippets . [(20131229 811) ((yasnippet (0 8 0))) "Yasnippets for django" tar "melpa"])
   (dkdo . [(20131110 319) ((dkmisc (0 50)) (emacs (24 1))) "Do List major mode based on org-mode." tar "melpa"])
