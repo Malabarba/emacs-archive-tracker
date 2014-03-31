@@ -413,7 +413,7 @@
   (org-linkany . [(20140314 1108) ((log4e (0 2 0)) (yaxception (0 1))) "Insert link using anything.el/helm.el on org-mode" single "melpa"])
   (org-mac-link . [(20140323 125) nil "Grab links and url from various mac" single "melpa"])
   (org-mobile-sync . [(20131118 1116) ((emacs (24 3 50)) (org (8 0))) "automatically sync org-mobile on changes" single "melpa"])
-  (org-page . [(20140330 13) ((ht (1 5)) (mustache (0 22)) (htmlize (1 47)) (org (8 0)) (dash (2 0 0))) "a static site generator based on org mode" tar "melpa"])
+  (org-page . [(20140330 2032) ((ht (1 5)) (mustache (0 22)) (htmlize (1 47)) (org (8 0)) (dash (2 0 0))) "a static site generator based on org mode" tar "melpa"])
   (org-pandoc . [(20130729 1850) nil "Export from Org using Pandoc" tar "melpa"])
   (org-redmine . [(20140117 10) ((anything (0))) "Redmine tools using Emacs OrgMode" single "melpa"])
   (org-repo-todo . [(20140205 641) nil "Simple repository todo management with org-mode" single "melpa"])
