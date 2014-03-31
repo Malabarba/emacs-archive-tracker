@@ -668,7 +668,7 @@
   (nodejs-repl . [(20130520 842) nil "Run Node.js REPL" single "melpa"])
   (noflet . [(20140202 1451) nil "locally override functions" single "melpa"])
   (nose . [(20140228 650) nil "Easy Python test running in Emacs" single "melpa"])
-  (notmuch . [(20140325 1557) nil "No description available." tar "melpa"])
+  (notmuch . [(20140330 1522) nil "No description available." tar "melpa"])
   (nrepl-eval-sexp-fu . [(20140311 341) ((highlight (0 0 0)) (smartparens (0 0 0)) (thingatpt (0 0 0))) "Tiny functionality enhancements for evaluating sexps." single "melpa"])
   (nrepl-ritz . [(20130516 1039) ((nrepl (0 1 7)) (fringe-helper (0 1 1))) "nrepl extensions for ritz" single "melpa"])
   (nsis-mode . [(20130723 1928) nil "NSIS-mode" tar "melpa"])
