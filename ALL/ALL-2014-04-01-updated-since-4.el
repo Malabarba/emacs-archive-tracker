@@ -134,7 +134,7 @@
   (color-theme-solarized . [(20140330 831) ((color-theme (6 5 5))) "Solarized themes for Emacs" tar "melpa"])
   (column-marker . [(20121128 843) nil "Highlight certain character columns" single "melpa"])
   (commander . [(20140120 1052) ((s (1 6 0)) (dash (2 0 0)) (cl-lib (0 3)) (f (0 6 1))) "Emacs command line parser" single "melpa"])
-  (company . [(20140325 1600) nil "Modular in-buffer completion framework" tar "melpa"])
+  (company . [(20140331 1836) ((emacs (24 1))) "Modular in-buffer completion framework" tar "melpa"])
   (company-inf-ruby . [(20140306 1953) ((company (0 6 10)) (inf-ruby (2 2 7))) "company-mode completion back-end for inf-ruby" single "melpa"])
   (concurrent . [(20140303 1635) ((deferred (0 3 1))) "Concurrent utility functions for emacs lisp" single "melpa"])
   (confluence . [(20130814 535) ((xml-rpc (1 6 4))) "Emacs mode for interacting with confluence wikis" tar "melpa"])
