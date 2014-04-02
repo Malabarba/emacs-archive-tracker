@@ -219,7 +219,7 @@
   (flymake-rust . [(20131020 345) ((flymake-easy (0 1))) "A flymake handler for rust-mode files" single "melpa"])
   (font-lock+ . [(20131226 1846) nil "Enhancements to standard library `font-lock.el'." single "melpa"])
   (font-lock-menus . [(20131226 1847) nil "Font-lock menus: enhanced `font-menus.el'" single "melpa"])
-  (fountain-mode . [(20140325 343) ((s (1 9 0))) "Major mode for screenwriting in Fountain plaintext markup" single "melpa"])
+  (fountain-mode . [(20140329 1935) ((s (1 9 0))) "Major mode for screenwriting in Fountain plaintext markup" single "melpa"])
   (free-keys . [(20140309 1051) ((cl-lib (0 3))) "Show free keybindings for modkeys or prefixes" single "melpa"])
   (fringe-current-line . [(20140110 2011) nil "show current line on the fringe." single "melpa"])
   (fullframe . [(20140306 1107) nil "Generalized automatic execution in a single frame" single "melpa"])
