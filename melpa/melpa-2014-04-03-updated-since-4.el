@@ -471,7 +471,7 @@
   (hungry-delete . [(20120128 1153) nil "hungry delete minor mode" single "melpa"])
   (hy-mode . [(20140201 2055) nil "Major mode for Hy code" single "melpa"])
   (ibuffer-vc . [(20130924 608) ((cl-lib (0 2))) "Group ibuffer's list by VC project, or show VC status" single "melpa"])
-  (icicles . [(20140402 2143) nil "Minibuffer input completion and cycling." tar "melpa"])
+  (icicles . [(20140403 307) nil "Minibuffer input completion and cycling." tar "melpa"])
   (icomplete+ . [(20140310 1731) nil "Extensions to `icomplete.el'." single "melpa"])
   (identica-mode . [(20130204 1453) nil "Major mode API client for status.net open microblogging" tar "melpa"])
   (idle-highlight-mode . [(20120920 948) nil "highlight the word the point is on" single "melpa"])
