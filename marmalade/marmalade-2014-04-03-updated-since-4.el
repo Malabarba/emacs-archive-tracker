@@ -1,9 +1,10 @@
 '(
+  (flycheck-haskell . [(0 2) ((flycheck (0 16)) (haskell-mode (13 7)) (dash (2 4 0)) (f (0 11 0))) "Flycheck: Haskell configuration" tar "marmalade"])
   (hackernews . [(0 2 1) ((json (1 2))) "Access the hackernews aggregator from Emacs" tar "marmalade"])
   (evil-nerd-commenter . [(1 2 9) nil "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" tar "marmalade"])
   (puppet-mode . [(0 3) ((emacs (24 1)) (cl-lib (0 5)) (pkg-info (0 4))) "Major mode for Puppet manifests  -*- lexical-binding: t; -*-" single "marmalade"])
   (sparql-mode . [(0 8 3) nil "Edit and interactively evaluate SPARQL queries." tar "marmalade"])
-  (google-translate . [(0 5) nil "Emacs interface to Google Translate" single "marmalade"])
+  (google-translate . [(0 7 0) nil "Emacs interface to Google Translate." tar "marmalade"])
   (maildir . [(0 0 23) ((kv (0 0 17)) (dash (2 3 0)) (s (1 9 0)) (noflet (0 0 8))) "Simple maildir based MUA." tar "marmalade"])
   (sass-mode . [(3 0 16) ((haml-mode (3 0 15))) "Major mode for editing Sass files" single "marmalade"])
   (web-mode . [(8 0 4) nil "major mode for editing html templates" single "marmalade"])

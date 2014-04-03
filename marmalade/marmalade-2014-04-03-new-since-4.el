@@ -1,4 +1,5 @@
 '(
+  (flycheck-haskell . [(0 2) ((flycheck (0 16)) (haskell-mode (13 7)) (dash (2 4 0)) (f (0 11 0))) "Flycheck: Haskell configuration" tar "marmalade"])
   (epl . [(0 7) ((cl-lib (0 3))) "Emacs Package Library -*- lexical-binding: t; -*-" single "marmalade"])
   (creds . [(0 0 4) nil "a simple parser credential file lib" tar "marmalade"])
   (flycheck-tcl . [(0 4) ((flycheck (0 17))) "A flycheck checker for Tcl using ActiveState's tclchecker" single "marmalade"])
@@ -18,7 +19,6 @@
   (cider . [(0 5 0) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 4 1)) (pkg-info (0 4))) "Clojure Integrated Development Environment and REPL" tar "marmalade"])
   (pyvenv . [(1 1) nil "Python virtual environment interface -*- lexical-binding: t -*-" single "marmalade"])
   (toggle-test . [(1 0 1) nil "Toggle between source and test files. It is language agnostic and creates source/test files if they don't exist." single "marmalade"])
-  (flycheck-haskell . [(0 1) ((flycheck (0 16)) (haskell-mode (13 7)) (dash (2 4 0)) (f (0 11 0))) "Flycheck: Haskell configuration" tar "marmalade"])
   (jam-mode . [(0 3) nil "Font-lock support for Jam files" single "marmalade"])
   (nose-mode . [(0 1) ((nose (0 1 1))) "Minor mode for running nose tests." tar "marmalade"])
   (downplay-mode . [(0 1) nil "focus attention on a region of the buffer" single "marmalade"])
