@@ -162,7 +162,7 @@
   (deft . [(20131027 757) nil "quickly browse, filter, and edit plain text notes" single ((:url . "http://jblevins.org/projects/deft/") (:keywords "plain text" "notes" "simplenote" "notational velocity")) "melpa"])
   (delim-kill . [(20100516 2320) nil "Kill text between delimiters." single ((:url . "http://github.com/thomas11/delim-kill/tree/master") (:keywords "convenience" "languages")) "melpa"])
   (desktop-registry . [(20140119 1343) nil "Keep a central registry of desktop files" single ((:url . "http://projects.ryuslash.org/desktop-registry/") (:keywords "convenience")) "melpa"])
-  (dic-lookup-w3m . [(20140330 1413) ((w3m (20120723 324)) (stem (20120826))) "look up dictionaries on the Internet" tar ((:keywords "emacs-w3m" "w3m" "dictionary")) "melpa"])
+  (dic-lookup-w3m . [(20140404 1154) ((w3m (20120723 324)) (stem (20120826))) "look up dictionaries on the Internet" tar ((:keywords "emacs-w3m" "w3m" "dictionary")) "melpa"])
   (diff-hl . [(20140212 438) ((cl-lib (0 2))) "Highlight uncommitted changes" tar ((:url . "https://github.com/dgutov/diff-hl") (:keywords "vc" "diff")) "melpa"])
   (diminish . [(20091203 1012) nil "Diminished modes are minor modes with no modeline display" single ((:url . "http://www.eskimo.com/~seldon") (:keywords "extensions" "diminish" "minor" "codeprose")) "melpa"])
   (dircmp . [(20130806 1157) nil "Compare and sync directories." tar ((:url . "https://github.com/matthewlmcclure/dircmp-mode") (:keywords "unix" "tools")) "melpa"])
