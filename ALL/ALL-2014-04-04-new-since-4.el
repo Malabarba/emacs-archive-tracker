@@ -11,7 +11,7 @@
   (ac-inf-ruby . [(20131115 350) ((inf-ruby (2 3 2)) (auto-complete (1 4))) "Enable auto-complete in inf-ruby sessions" single ((:keywords "languages" "tools")) "melpa"])
   (ac-ispell . [(20140214 751) ((auto-complete (1 4))) "ispell completion source for auto-complete" single ((:url . "https://github.com/syohex/emacs-ac-ispell")) "melpa"])
   (ac-octave . [(20140226 2051) ((auto-complete (1 4 0))) "An auto-complete source for Octave" single ((:url . "http://www.emacswiki.org/cgi-bin/wiki/download/ac-octave.el") (:keywords "octave" "auto-complete" "completion")) "melpa"])
-  (ace-link . [(20140403 100) ((ace-jump-mode (2 0)) (noflet (0 0 10))) "Quickly follow links using `ace-jump-mode'" single ((:url . "https://github.com/abo-abo/ace-link") (:keywords "convenience" "links")) "melpa"])
+  (ace-link . [(20140403 2258) ((ace-jump-mode (2 0)) (noflet (0 0 10))) "Quickly follow links using `ace-jump-mode'" single ((:url . "https://github.com/abo-abo/ace-link") (:keywords "convenience" "links")) "melpa"])
   (ace-window . [(20140402 20) ((ace-jump-mode (2 0))) "Quickly switch windows using `ace-jump-mode'." single ((:url . "https://github.com/abo-abo/ace-window") (:keywords "cursor" "window" "location")) "melpa"])
   (achievements . [(20131111 2351) ((keyfreq (0 0 3))) "Achievements for emacs usage." tar "melpa"])
   (afternoon-theme . [(20140104 1059) ((emacs (24 1))) "Dark color theme with a deep blue background" single ((:url . "http://github.com/osener/emacs-afternoon-theme") (:keywords "themes")) "melpa"])

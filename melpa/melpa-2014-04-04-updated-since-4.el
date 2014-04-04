@@ -400,7 +400,7 @@
   (grin . [(20110805 2358) nil "run grin and grind (python replacements for grep and find) putting hits in a grep buffer" single ((:url . "http://bitbucket.org/dariusp686/emacs-grin") (:keywords "python" "grin" "grind" "grep" "find")) "melpa"])
   (grizzl . [(20130810 202) ((cl-lib (0 1))) "Fuzzy Search Library & Completing Read" tar "melpa"])
   (groovy-mode . [(20131129 409) nil "Groovy mode derived mode" tar nil "melpa"])
-  (gruber-darker-theme . [(20140302 512) nil "Gruber Darker color theme for Emacs 24." single ((:url . "http://github.com/rexim/gruber-darker-theme")) "melpa"])
+  (gruber-darker-theme . [(20140403 2129) nil "Gruber Darker color theme for Emacs 24." single ((:url . "http://github.com/rexim/gruber-darker-theme")) "melpa"])
   (guide-key . [(20140319 5) ((popwin (0 3 0))) "Guide the following key bindings automatically and dynamically" single ((:url . "https://github.com/kbkbkbkb1/guide-key") (:keywords "help" "convenience")) "melpa"])
   (guru-mode . [(20140103 1545) nil "Become an Emacs guru" single ((:url . "https://github.com/bbatsov/guru-mode") (:keywords "convenience")) "melpa"])
   (hackernews . [(20140328 805) ((json (1 2))) "Access the hackernews aggregator from Emacs" tar "melpa"])
