@@ -222,7 +222,7 @@
   (flycheck-ledger . [(20131218 324) ((flycheck (0 15))) "Flycheck integration for ledger files" single ((:keywords "convenience" "languages" "tools")) "melpa"])
   (flycheck-mercury . [(20140123 312) ((flycheck (0 15)) (s (1 9 0)) (dash (2 4 0))) "Mercury support in Flycheck" single ((:url . "https://github.com/flycheck/flycheck-mercury") (:keywords "convenience" "languages" "tools")) "melpa"])
   (flycheck-pos-tip . [(20140304 333) ((flycheck (0 18)) (pos-tip (0 4 5))) "Flycheck errors display in tooltip" single ((:url . "https://github.com/flycheck/flycheck-pos-tip") (:keywords "tools" "convenience")) "melpa"])
-  (flycheck-tip . [(20140219 616) ((flycheck (0 13)) (dash (1 2)) (emacs (24 1)) (popup (0 5 0))) "show flycheck's error by popup-tip" tar ((:url . "https://github.com/yuutayamada/flycheck-tip") (:keywords "flycheck")) "melpa"])
+  (flycheck-tip . [(20140405 1034) ((flycheck (0 13)) (dash (1 2)) (emacs (24 1)) (popup (0 5 0))) "show flycheck's error by popup-tip" tar ((:url . "https://github.com/yuutayamada/flycheck-tip") (:keywords "flycheck")) "melpa"])
   (flymake-cppcheck . [(20140117 1013) ((flymake-easy (0 9))) "Flymake work with Cppcheck for C/C++" single ((:url . "https://github.com/senda-akiha/flymake-cppcheck/") (:keywords "flymake" "cppcheck" "c" "c++")) "melpa"])
   (flymake-google-cpplint . [(20140205 525) ((flymake-easy (0 9))) "Help to comply with the Google C++ Style Guide" single ((:url . "https://github.com/senda-akiha/flymake-google-cpplint/") (:keywords "flymake" "c" "c++")) "melpa"])
   (flymake-phpcs . [(20140111 1932) ((flymake-easy (0 9))) "making flymake work with PHP CodeSniffer" single ((:url . "https://github.com/senda-akiha/flymake-phpcs/") (:keywords "flymake" "phpcs" "php")) "melpa"])
