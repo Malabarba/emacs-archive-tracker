@@ -7,6 +7,7 @@
   (temp-buffer-browse . [(1 2) nil "temp buffer browse mode" single ((:url . "http://elpa.gnu.org/packages/temp-buffer-browse.html") (:keywords "convenience")) "gnu"])
   (gnugo . [(2 3 1) nil "play GNU Go in a buffer" tar ((:url . "http://elpa.gnu.org/packages/gnugo.html")) "gnu"])
   (flylisp . [(0 2) nil "Color unbalanced parentheses and parentheses inconsistent with indentation" single ((:url . "http://elpa.gnu.org/packages/flylisp.html") (:keywords)) "gnu"])
+  (easy-kill . [(0 9 1) ((emacs (24)) (cl-lib (0 5))) "kill & mark things easily" single ((:url . "https://github.com/leoliu/easy-kill") (:keywords "killing" "convenience")) "gnu"])
   (dismal . [(1 5) ((cl-lib (0))) "Dis Mode Ain't Lotus: Spreadsheet program Emacs" tar ((:url . "http://elpa.gnu.org/packages/dismal.html")) "gnu"])
   (diff-hl . [(1 5 3) ((cl-lib (0 2))) "Highlight uncommitted changes" tar ((:keywords "vc" "diff") (:url . "https://github.com/dgutov/diff-hl")) "gnu"])
   (ascii-art-to-unicode . [(1 5) nil "a small artist adjunct" single ((:url . "http://elpa.gnu.org/packages/ascii-art-to-unicode.html") (:keywords)) "gnu"])

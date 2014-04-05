@@ -1,5 +1,5 @@
 '(
-  (flycheck-haskell . [(0 2) ((flycheck (0 16)) (haskell-mode (13 7)) (dash (2 4 0)) (f (0 11 0))) "Flycheck: Haskell configuration" tar "marmalade"])
+  (php-extras . [(2 2 0 20140405) ((php-mode (1 5 0))) "Extra features for `php-mode'" tar "marmalade"])
   (hackernews . [(0 2 1) ((json (1 2))) "Access the hackernews aggregator from Emacs" tar "marmalade"])
   (evil-nerd-commenter . [(1 2 9) nil "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" tar "marmalade"])
   (puppet-mode . [(0 3) ((emacs (24 1)) (cl-lib (0 5)) (pkg-info (0 4))) "Major mode for Puppet manifests  -*- lexical-binding: t; -*-" single "marmalade"])
@@ -133,7 +133,6 @@
   (grep-o-matic . [(1 0 6) nil "auto grep word under cursor" single "marmalade"])
   (grep-a-lot . [(1 0 7) nil "manages multiple search results buffers for grep.el" single "marmalade"])
   (repository-root . [(1 0 4) nil "deduce the repository root directory for a given file" single "marmalade"])
-  (php-extras . [(2 1 1 20140312) ((php-mode (1 5 0))) "Extra features for `php-mode'" tar "marmalade"])
   (git-auto-commit-mode . [(4 2 2) nil "Emacs Minor mode to automatically commit and push" single "marmalade"])
   (ujelly-theme . [(1 0 35) nil "Ujelly theme for GNU Emacs 24 (deftheme)" single "marmalade"])
   (evil-leader . [(0 4 1) ((evil (0))) "let there be <leader>" single "marmalade"])

@@ -781,7 +781,7 @@
   (projmake-mode . [(20130614 335) nil "Project oriented automatic builder and error highlighter, flymake for projects" tar "melpa"])
   (protobuf-mode . [(20091217 1755) nil "major mode for editing protocol buffers." single ((:keywords "google" "protobuf" "languages")) "melpa"])
   (psvn . [(20120401 1440) nil "Subversion interface for emacs" single nil "melpa"])
-  (puppet-mode . [(20140328 2359) ((emacs (24 1)) (pkg-info (0 4))) "Major mode for Puppet manifests" single ((:url . "https://github.com/lunaryorn/puppet-mode") (:keywords "languages")) "melpa"])
+  (puppet-mode . [(20140404 604) ((emacs (24 1)) (pkg-info (0 4))) "Major mode for Puppet manifests" single ((:url . "https://github.com/lunaryorn/puppet-mode") (:keywords "languages")) "melpa"])
   (purty-mode . [(20131004 1559) nil "Safely pretty-print greek letters, mathematical symbols, or anything else." single nil "melpa"])
   (pylint . [(20121112 435) nil "minor mode for running `pylint'" single ((:keywords "languages" "python")) "melpa"])
   (python-django . [(20131214 1841) nil "A Jazzy package for managing Django projects" single ((:url . "https://github.com/fgallina/python-django.el") (:keywords "languages")) "melpa"])
