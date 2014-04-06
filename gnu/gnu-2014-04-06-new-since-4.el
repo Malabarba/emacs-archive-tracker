@@ -5,7 +5,7 @@
   (web-server . [(0 1 0) ((emacs (24 3))) "Emacs Web Server" tar ((:keywords "http" "server" "network") (:url . "https://github.com/eschulte/emacs-web-server")) "gnu"])
   (w3 . [(4 0 49) nil "Fully customizable, largely undocumented web browser for Emacs" tar ((:keywords "faces" "help" "comm" "news" "mail" "processes" "mouse" "hypermedia") (:url . "http://elpa.gnu.org/packages/w3.html")) "gnu"])
   (temp-buffer-browse . [(1 2) nil "temp buffer browse mode" single ((:url . "http://elpa.gnu.org/packages/temp-buffer-browse.html") (:keywords "convenience")) "gnu"])
-  (gnugo . [(2 3 1) nil "play GNU Go in a buffer" tar ((:url . "http://elpa.gnu.org/packages/gnugo.html")) "gnu"])
+  (gnugo . [(2 3 1) ((ascii-art-to-unicode (1 5))) "play GNU Go in a buffer" tar ((:url . "http://elpa.gnu.org/packages/gnugo.html")) "gnu"])
   (flylisp . [(0 2) nil "Color unbalanced parentheses and parentheses inconsistent with indentation" single ((:url . "http://elpa.gnu.org/packages/flylisp.html") (:keywords)) "gnu"])
   (easy-kill . [(0 9 1) ((emacs (24)) (cl-lib (0 5))) "kill & mark things easily" single ((:url . "https://github.com/leoliu/easy-kill") (:keywords "killing" "convenience")) "gnu"])
   (dismal . [(1 5) ((cl-lib (0))) "Dis Mode Ain't Lotus: Spreadsheet program Emacs" tar ((:url . "http://elpa.gnu.org/packages/dismal.html")) "gnu"])
