@@ -376,7 +376,7 @@
   (lxc . [(20140213 1556) nil "lxc integration with Emacs" single ((:url . "https://github.com/nicferrier/emacs-lxc") (:keywords "processes")) "melpa"])
   (m-buffer . [(20140305 201) ((dash (2 5 0)) (emacs (24 3))) "Buffer Manipulation Functions" single nil "melpa"])
   (macros+ . [(20131227 136) nil "Extensions to `macros.el'." single ((:url . "http://www.emacswiki.org/macros+.el") (:keywords "abbrev" "local")) "melpa"])
-  (magit-annex . [(20140326 2219) ((cl-lib (0 3)) (magit (1 2 0))) "Use git annex within magit" single ((:url . "https://github.com/kyleam/magit-annex") (:keywords "magit" "git-annex")) "melpa"])
+  (magit-annex . [(20140406 817) ((cl-lib (0 3)) (magit (1 2 0))) "Use git annex within magit" single ((:url . "https://github.com/kyleam/magit-annex") (:keywords "magit" "git-annex")) "melpa"])
   (magit-find-file . [(20130915 423) ((magit (1 2 0))) "completing-read over all files in Git" single ((:url . "https://github.com/bradleywright/magit-find-file.el") (:keywords "git")) "melpa"])
   (magit-log-edit . [(20140303 700) ((cl-lib (0 3)) (magit (1 3 0))) "[SEMI-OBSOLETE] major mode for editing Git commit messages" single ((:keywords "vc" "tools")) "melpa"])
   (magit-stgit . [(20140129 609) ((cl-lib (0 3)) (magit (1 3 0))) "StGit plug-in for Magit" single ((:keywords "vc" "tools")) "melpa"])
