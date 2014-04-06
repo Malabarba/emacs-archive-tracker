@@ -157,7 +157,7 @@
   (cyberpunk-theme . [(20140319 1853) nil "Cyberpunk Color Theme" single ((:keywords "color" "theme" "cyberpunk")) "melpa"])
   (cycbuf . [(20131203 1237) nil "Cycle buffers, inspired by swbuff.el, swbuff-x.el, and bs.el" single ((:url . "https://github.com/martinp26/cycbuf") (:keywords "files" "convenience" "buffer switching")) "melpa"])
   (d-mode . [(20140206 1054) nil "D Programming Language mode for (X)Emacs" single ((:keywords "d" "programming" "language" "emacs" "cc-mode")) "melpa"])
-  (darcsum . [(20140110 1133) nil "a pcl-cvs like interface for managing darcs patches" tar "melpa"])
+  (darcsum . [(20140315 2110) nil "a pcl-cvs like interface for managing darcs patches" tar ((:keywords "completion" "convenience" "tools" "vc")) "melpa"])
   (dart-mode . [(20130906 1244) nil "Major mode for editing Dart files" single ((:url . "http://code.google.com/p/dart-mode") (:keywords "language")) "melpa"])
   (dash . [(20140327 116) nil "A modern list library for Emacs" single ((:keywords "lists")) "melpa"])
   (dash-at-point . [(20140103 921) nil "Search the word at point with Dash" single ((:url . "https://github.com/stanaka/dash-at-point")) "melpa"])
@@ -802,7 +802,8 @@
   (project-local-variables . [(20080502 1652) nil "Set project-local variables from a file." single ((:url . "http://www.emacswiki.org/cgi-bin/wiki/ProjectLocalVariables") (:keywords "project" "convenience")) "melpa"])
   (project-persist . [(20131030 1208) nil "A minor mode to allow loading and saving of project settings." tar nil "melpa"])
   (projectile . [(20140402 534) ((s (1 6 0)) (dash (1 5 0)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" single ((:url . "https://github.com/bbatsov/projectile") (:keywords "project" "convenience")) "melpa"])
-  (projmake-mode . [(20130614 335) nil "Project oriented automatic builder and error highlighter, flymake for projects" tar "melpa"])
+  (projmake-mode . [(20140401 1811) nil "Project oriented automatic builder and error
+highlighter, flymake for projects" tar nil "melpa"])
   (protobuf-mode . [(20091217 1755) nil "major mode for editing protocol buffers." single ((:keywords "google" "protobuf" "languages")) "melpa"])
   (psvn . [(20120401 1440) nil "Subversion interface for emacs" single nil "melpa"])
   (puppet-mode . [(20140404 604) ((emacs (24 1)) (pkg-info (0 4))) "Major mode for Puppet manifests" single ((:url . "https://github.com/lunaryorn/puppet-mode") (:keywords "languages")) "melpa"])
