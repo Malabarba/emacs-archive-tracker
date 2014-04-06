@@ -682,7 +682,7 @@
   (nemerle . [(20130328 746) nil "major mode for editing nemerle programs" single ((:keywords "nemerle" "mode" "languages")) "melpa"])
   (nginx-mode . [(20140321 2028) nil "major mode for editing nginx config files" single ((:keywords "nginx")) "melpa"])
   (nimrod-mode . [(20110125 1504) nil "A major mode for the Nimrod programming language" single ((:keywords "nimrod")) "melpa"])
-  (noctilux-theme . [(20140312 2145) nil "Dark theme inspired by LightTable" tar nil "melpa"])
+  (noctilux-theme . [(20140406 2) nil "Dark theme inspired by LightTable" tar nil "melpa"])
   (nodejs-repl . [(20130520 842) nil "Run Node.js REPL" single nil "melpa"])
   (noflet . [(20140202 1451) nil "locally override functions" single ((:url . "https://github.com/nicferrier/emacs-noflet") (:keywords "lisp")) "melpa"])
   (nose . [(20140228 650) nil "Easy Python test running in Emacs" single ((:keywords "nose" "python" "testing")) "melpa"])
