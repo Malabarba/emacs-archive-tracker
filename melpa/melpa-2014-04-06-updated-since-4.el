@@ -527,7 +527,7 @@
   (jira . [(20131210 1822) nil "Connect to JIRA issue tracking software" single nil "melpa"])
   (jknav . [(20121006 1325) nil "Automatically enable j/k keys for line-based navigation" single ((:keywords "keyboard" "navigation")) "melpa"])
   (js-comint . [(20080530 757) nil "Run javascript in an inferior process window." single ((:keywords "javascript" "inferior-mode" "convenience")) "melpa"])
-  (js2-mode . [(20140326 420) ((emacs (24 1))) "Improved JavaScript editing mode" tar ((:url . "https://github.com/mooz/js2-mode/") (:keywords "languages" "javascript")) "melpa"])
+  (js2-mode . [(20140405 2057) ((emacs (24 1))) "Improved JavaScript editing mode" tar ((:url . "https://github.com/mooz/js2-mode/") (:keywords "languages" "javascript")) "melpa"])
   (js2-refactor . [(20140320 2) ((js2-mode (20101228)) (multiple-cursors (1 0 0)) (dash (1 0 0)) (s (1 0 0)) (yasnippet (20130218))) "A JavaScript refactoring library for emacs." tar nil "melpa"])
   (js3-mode . [(20130904 1444) nil "An improved JavaScript editing mode" tar ((:keywords "javascript" "languages")) "melpa"])
   (jss . [(20130508 723) ((emacs (24 1)) (websocket (0)) (js2-mode (0))) "An emacs interface to webkit and mozilla debuggers" tar ((:keywords "languages")) "melpa"])
