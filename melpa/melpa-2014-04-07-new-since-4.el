@@ -265,7 +265,7 @@
   (grep+ . [(20131226 1851) nil "Extensions to standard library `grep.el'." single ((:url . "http://www.emacswiki.org/grep+.el") (:keywords "tools" "processes" "compile")) "melpa"])
   (gruvbox-theme . [(20131229 1458) nil "A retro-groove colour theme for Emacs" single ((:url . "http://github.com/Greduan/emacs-theme-gruvbox")) "melpa"])
   (gs-mode . [(20131229 2316) nil "Major mode for editing GrADS script files" single ((:keywords "grads" "script" "major-mode")) "melpa"])
-  (guide-key-tip . [(20140406 1426) ((guide-key (1 2 3)) (pos-tip (0 4 5))) "Show guide-key.el hints using pos-tip.el" single ((:url . "https://github.com/aki2o/guide-key-tip") (:keywords "help" "convenience" "tooltip")) "melpa"])
+  (guide-key-tip . [(20140406 1820) ((guide-key (1 2 3)) (pos-tip (0 4 5))) "Show guide-key.el hints using pos-tip.el" single ((:url . "https://github.com/aki2o/guide-key-tip") (:keywords "help" "convenience" "tooltip")) "melpa"])
   (gvpr-mode . [(20131208 918) nil "A major mode offering basic syntax coloring for gvpr scripts." single ((:url . "https://raw.github.com/rodw/gvpr-lib/master/extra/gvpr-mode.el") (:keywords "graphviz" "gv" "dot" "gvpr" "graph")) "melpa"])
   (ham-mode . [(20131209 656) ((html-to-markdown (1 2)) (markdown-mode (2 0))) "Html As Markdown. Transparently edit an html file using markdown." single ((:url . "http://github.com/Bruce-Connor/ham-mode") (:keywords "convenience" "emulation" "wp")) "melpa"])
   (hamlet-mode . [(20131207 2324) ((cl-lib (0 3)) (dash (2 3 0)) (s (1 7 0))) "Hamlet editing mode" single ((:url . "https://github.com/lightquake/hamlet-mode") (:keywords "wp" "languages" "comm")) "melpa"])
