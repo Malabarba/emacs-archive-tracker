@@ -131,7 +131,7 @@
   (color-theme-buffer-local . [(20120702 1336) nil "Install color-themes by buffer." single ((:url . "http://github.com/vic/color-theme-buffer-local") (:keywords "faces")) "melpa"])
   (color-theme-sanityinc-solarized . [(20140318 528) nil "A version of Ethan Schoonover's Solarized themes" tar nil "melpa"])
   (color-theme-sanityinc-tomorrow . [(20140318 527) nil "A version of Chris Kempson's various Tomorrow themes" tar nil "melpa"])
-  (color-theme-solarized . [(20140407 1534) ((color-theme (6 5 5))) "Solarized themes for Emacs" tar nil "melpa"])
+  (color-theme-solarized . [(20140407 1823) ((color-theme (6 5 5))) "Solarized themes for Emacs" tar nil "melpa"])
   (column-marker . [(20121128 843) nil "Highlight certain character columns" single ((:keywords "tools" "convenience" "highlight")) "melpa"])
   (commander . [(20140120 1052) ((s (1 6 0)) (dash (2 0 0)) (cl-lib (0 3)) (f (0 6 1))) "Emacs command line parser" single ((:url . "http://github.com/rejeep/commander.el") (:keywords "cli" "argv")) "melpa"])
   (company . [(20140407 1040) ((emacs (24 1))) "Modular text completion framework" tar ((:url . "http://company-mode.github.io/") (:keywords "abbrev" "convenience" "matching")) "melpa"])
