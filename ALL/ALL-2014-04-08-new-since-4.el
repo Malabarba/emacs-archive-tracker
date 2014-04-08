@@ -491,7 +491,7 @@
   (pyvenv . [(20140314 110) nil "Python virtual environment interface" single ((:url . "http://github.com/jorgenschaefer/pyvenv")) "melpa"])
   (qiita . [(20140118 44) ((helm (1 5 9)) (markdown-mode (2 0))) "Qiita API Library for emacs" single ((:url . "https://github.com/gongo/qiita-el") (:keywords "qiita")) "melpa"])
   (racket-mode . [(20140401 949) nil "Major mode for Racket language." tar ((:url . "https://github.com/greghendershott/racket-mode")) "melpa"])
-  (rails-log-mode . [(20130122 146) nil "Major mode for viewing Rails log files" single ((:keywords "rails" "log")) "melpa"])
+  (rails-log-mode . [(20140407 2125) nil "Major mode for viewing Rails log files" single ((:keywords "rails" "log")) "melpa"])
   (rainbow-blocks . [(20140306 1033) nil "Block syntax highlighting for lisp code" single ((:url . "https://github.com/istib/rainbow-blocks")) "melpa"])
   (rainbow-identifiers . [(20140406 1115) ((emacs (24))) "Highlight identifiers according to their names" single ((:url . "https://github.com/Fanael/rainbow-identifiers")) "melpa"])
   (rcirc-alert . [(20140110 929) nil "Configurable alert messages on top of RCIRC" tar ((:keywords "lisp" "rcirc" "irc" "alert" "awesome")) "melpa"])
