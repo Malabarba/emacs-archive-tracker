@@ -125,7 +125,7 @@
   (dired-rainbow . [(20140222 1042) ((dash (2 5 0)) (dired-hacks-utils (0 0 1))) "Extended file highlighting according to its type" single ((:keywords "files")) "melpa"])
   (dired-sort-menu+ . [(20131226 1833) ((dired-sort-menu (0))) "Extensions to `dired-sort-menu.el'" single ((:url . "http://www.emacswiki.org/dired-sort-menu+.el") (:keywords "directories" "diredp" "dired")) "melpa"])
   (dired-sort-menu . [(20130824 1207) nil "provide menu/dialogue for dired sort options" single ((:url . "http://centaur.maths.qmw.ac.uk/Emacs/") (:keywords "dired" "sort" "menu" "dialogue")) "melpa"])
-  (dired-subtree . [(20140401 1220) ((dash (2 5 0)) (dired-hacks-utils (0 0 1))) "Insert subdirectories in a tree-like fashion" single ((:keywords "files")) "melpa"])
+  (dired-subtree . [(20140408 1154) ((dash (2 5 0)) (dired-hacks-utils (0 0 1))) "Insert subdirectories in a tree-like fashion" single ((:keywords "files")) "melpa"])
   (dired-toggle . [(20131023 110) nil "provide a simple way to toggle dired buffer for current directory" single ((:url . "https://github.com/fasheng/dired-toggle") (:keywords "dired" "toggle")) "melpa"])
   (dired-toggle-sudo . [(20131022 626) nil "Browse directory with sudo privileges." single ((:keywords "emacs" "dired")) "melpa"])
   (dirtree . [(20140129 832) ((tree-mode (1 1 1 1)) (windata (0))) "Directory tree views" single nil "melpa"])
