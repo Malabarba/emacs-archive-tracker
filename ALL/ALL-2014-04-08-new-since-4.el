@@ -85,7 +85,7 @@
   (company-cider . [(20140201 1017) ((company (0 6 13)) (cider (0 6 0))) "company-mode completion back-end for Cider" single ((:url . "https://github.com/clojure-emacs/company-cider") (:keywords "company-mode" "completion" "backend" "cider" "clojure")) "melpa"])
   (company-go . [(20140221 607) ((company (0 6 12))) "company-mode backend for Go (using gocode)" single ((:keywords "languages")) "melpa"])
   (company-inf-python . [(20140406 2159) ((company (0 6 12))) "Inferior python backend for company-mode" single ((:url . "https://github.com/proofit404/company-inf-python")) "melpa"])
-  (company-tern . [(20140404 1126) ((company (0 8 0)) (tern (0 0 1))) "Tern backend for company-mode" single ((:url . "https://github.com/proofit404/company-tern")) "melpa"])
+  (company-tern . [(20140408 24) ((company (0 8 0)) (tern (0 0 1))) "Tern backend for company-mode" single ((:url . "https://github.com/proofit404/company-tern")) "melpa"])
   (conkeror-minor-mode . [(20131218 334) nil "Mode for editing conkeror javascript files." single ((:url . "http://github.com/BruceConnor/conkeror-minor-mode") (:keywords "programming" "tools")) "melpa"])
   (connection . [(20131005 526) nil "TCP-based client connection" single ((:keywords "network")) "melpa"])
   (control-mode . [(20140218 607) nil "A \"control\" mode, similar to vim's \"normal\" mode" single ((:url . "https://github.com/stephendavidmarsh/control-mode") (:keywords "convenience" "emulations")) "melpa"])
