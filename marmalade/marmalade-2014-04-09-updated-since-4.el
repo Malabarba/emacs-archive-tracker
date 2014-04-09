@@ -1,4 +1,5 @@
 '(
+  (suomalainen-kalenteri . [(2013 4 17) nil "Finnish national and Christian holidays for calendar" tar "marmalade"])
   (php-extras . [(2 2 0 20140405) ((php-mode (1 5 0))) "Extra features for `php-mode'" tar "marmalade"])
   (hackernews . [(0 2 1) ((json (1 2))) "Access the hackernews aggregator from Emacs" tar "marmalade"])
   (evil-nerd-commenter . [(1 2 9) nil "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" tar "marmalade"])

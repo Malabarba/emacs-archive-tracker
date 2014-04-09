@@ -458,7 +458,7 @@
   (ox-asciidoc . [(20140215 610) ((org (8 1))) "AsciiDoc Back-End for Org Export Engine" single ((:url . "https://github.com/yashi/org-asciidoc") (:keywords "org" "asciidoc")) "melpa"])
   (ox-html5slide . [(20131227 2206) ((org (8 0))) "Export org-mode to HTML5 slide." single ((:url . "http://github.com/coldnew/org-html5slide") (:keywords "html" "presentation")) "melpa"])
   (ox-pukiwiki . [(20140215 609) ((org (8 1))) "Pukiwiki Back-End for Org Export Engine" single ((:url . "https://github.com/yashi/org-pukiwiki") (:keywords "org" "pukiwiki")) "melpa"])
-  (ox-reveal . [(20140330 350) ((org (8 0))) "reveal.js Presentation Back-End for Org Export Engine" single ((:keywords "outlines" "hypermedia" "slideshow" "presentation")) "melpa"])
+  (ox-reveal . [(20140409 929) ((org (8 0))) "reveal.js Presentation Back-End for Org Export Engine" single ((:keywords "outlines" "hypermedia" "slideshow" "presentation")) "melpa"])
   (ox-textile . [(20140215 607) ((org (8 1))) "Textile Back-End for Org Export Engine" single ((:url . "https://github.com/yashi/org-textile") (:keywords "org" "textile")) "melpa"])
   (ox-tiddly . [(20131124 804) ((org (8))) "org TiddlyWiki exporter" single ((:url . "https://github.com/dfeich/org8-wikiexporters") (:keywords "org")) "melpa"])
   (ox-twiki . [(20140120 2239) ((org (8))) "org Twiki and Foswiki export" single ((:url . "https://github.com/dfeich/org8-wikiexporters") (:keywords "org")) "melpa"])
