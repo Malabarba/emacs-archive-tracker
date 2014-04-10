@@ -162,7 +162,7 @@
   (deft . [(20131027 757) nil "quickly browse, filter, and edit plain text notes" single ((:url . "http://jblevins.org/projects/deft/") (:keywords "plain text" "notes" "simplenote" "notational velocity")) "melpa"])
   (delim-kill . [(20100516 2320) nil "Kill text between delimiters." single ((:url . "http://github.com/thomas11/delim-kill/tree/master") (:keywords "convenience" "languages")) "melpa"])
   (desktop-registry . [(20140119 1343) nil "Keep a central registry of desktop files" single ((:url . "http://projects.ryuslash.org/desktop-registry/") (:keywords "convenience")) "melpa"])
-  (dic-lookup-w3m . [(20140409 1650) ((w3m (20120723 324)) (stem (20120826))) "look up dictionaries on the Internet" tar ((:keywords "emacs-w3m" "w3m" "dictionary")) "melpa"])
+  (dic-lookup-w3m . [(20140410 819) ((w3m (20120723 324)) (stem (20120826))) "look up dictionaries on the Internet" tar ((:keywords "emacs-w3m" "w3m" "dictionary")) "melpa"])
   (diff-hl . [(20140212 438) ((cl-lib (0 2))) "Highlight uncommitted changes" tar ((:url . "https://github.com/dgutov/diff-hl") (:keywords "vc" "diff")) "melpa"])
   (diminish . [(20091203 1012) nil "Diminished modes are minor modes with no modeline display" single ((:url . "http://www.eskimo.com/~seldon") (:keywords "extensions" "diminish" "minor" "codeprose")) "melpa"])
   (dircmp . [(20130806 1157) nil "Compare and sync directories." tar ((:url . "https://github.com/matthewlmcclure/dircmp-mode") (:keywords "unix" "tools")) "melpa"])
@@ -777,7 +777,7 @@
   (processing-snippets . [(20130718 1152) ((yasnippet (0 8 0))) "Snippets for processing-mode" tar nil "melpa"])
   (project-local-variables . [(20080502 1652) nil "Set project-local variables from a file." single ((:url . "http://www.emacswiki.org/cgi-bin/wiki/ProjectLocalVariables") (:keywords "project" "convenience")) "melpa"])
   (project-persist . [(20131030 1208) nil "A minor mode to allow loading and saving of project settings." tar nil "melpa"])
-  (projectile . [(20140402 534) ((s (1 6 0)) (dash (1 5 0)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" single ((:url . "https://github.com/bbatsov/projectile") (:keywords "project" "convenience")) "melpa"])
+  (projectile . [(20140410 743) ((s (1 6 0)) (dash (1 5 0)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" single ((:url . "https://github.com/bbatsov/projectile") (:keywords "project" "convenience")) "melpa"])
   (projmake-mode . [(20140401 1811) nil "Project oriented automatic builder and error
 highlighter, flymake for projects" tar nil "melpa"])
   (protobuf-mode . [(20091217 1755) nil "major mode for editing protocol buffers." single ((:keywords "google" "protobuf" "languages")) "melpa"])
