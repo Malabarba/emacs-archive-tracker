@@ -576,7 +576,7 @@
   (smart-newline . [(20131207 1940) nil "Provide smart newline for one keybind." single nil "melpa"])
   (smartscan . [(20131230 739) nil "Jumps between other symbols found at point" single ((:keywords "extensions")) "melpa"])
   (soft-charcoal-theme . [(20130924 1206) nil "Dark charcoal theme with soft colors" single ((:url . "http://github.com/mswift42/soft-charcoal-theme")) "melpa"])
-  (soft-morning-theme . [(20131211 1342) nil "Emacs24 theme with a light background." single ((:url . "http://github.com/mswift42/soft-morning-theme")) "melpa"])
+  (soft-morning-theme . [(20140410 1134) nil "Emacs24 theme with a light background." single ((:url . "http://github.com/mswift42/soft-morning-theme")) "melpa"])
   (soft-stone-theme . [(20140108 456) ((emacs (24))) "Emacs 24 theme with a light background." single ((:url . "http://github.com/mswift42/soft-stone-theme")) "melpa"])
   (sos . [(20140320 1422) ((org (7))) "StackOverflow Search" single ((:url . "https://github.com/omouse/emacs-sos") (:keywords "tools" "search" "questions")) "melpa"])
   (soundcloud . [(20131210 1103) ((emms (20131016)) (json (1 2)) (deferred (0 3 1)) (string-utils (0 3 2))) "a SoundCloud client for Emacs" single ((:keywords "soundcloud" "music" "audio")) "melpa"])
