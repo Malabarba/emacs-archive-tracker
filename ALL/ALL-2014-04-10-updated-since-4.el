@@ -118,7 +118,7 @@
   (clojure-test-mode . [(20131227 805) ((clojure-mode (1 7)) (cider (0 4 0))) "Minor mode for Clojure tests" single ((:url . "http://emacswiki.org/cgi-bin/wiki/ClojureTestMode") (:keywords "languages" "lisp" "test")) "melpa"])
   (closure-lint-mode . [(20101118 1324) nil "minor mode for the Closure Linter" single ((:url . "https://github.com/r0man/closure-lint-mode") (:keywords "tools" "closure" "javascript" "lint" "flymake")) "melpa"])
   (cloud-to-butt-erc . [(20130627 1608) nil "Replace 'the cloud' with 'my butt'" single ((:url . "http://www.github.com/leathekd/cloud-to-butt-erc")) "melpa"])
-  (clues-theme . [(20140227 1757) ((emacs (24 0))) "an Emacs 24 theme which may well be fully awesome..." single ((:url . "https://github.com/jasonm23/emacs-clues-theme")) "melpa"])
+  (clues-theme . [(20140409 1959) ((emacs (24 0))) "an Emacs 24 theme which may well be fully awesome..." single ((:url . "https://github.com/jasonm23/emacs-clues-theme")) "melpa"])
   (cm-mode . [(20140317 1811) nil "Minor mode for CriticMarkup" single ((:keywords "text" "markdown")) "melpa"])
   (cmake-mode . [(20140217 659) nil "major-mode for editing CMake sources" single nil "melpa"])
   (cn-outline . [(20100321 914) nil "No description available." single nil "melpa"])
