@@ -502,7 +502,7 @@
   (pretty-symbols . [(20131125 26) nil "Draw tokens as Unicode glyphs." single ((:url . "http://github.com/drothlis/pretty-symbols") (:keywords "faces")) "melpa"])
   (prodigy . [(20140202 2335) ((s (1 8 0)) (dash (2 4 0)) (f (0 14 0)) (emacs (24))) "Manage external services from within Emacs" single ((:url . "http://github.com/rejeep/prodigy.el")) "melpa"])
   (prognth . [(20130920 1059) nil "Extend prog1 to arbitrary index" single ((:keywords "lisp")) "melpa"])
-  (project-explorer . [(20140218 103) ((cl-lib (0 3)) (es-lib (0 3)) (es-windows (0 1)) (emacs (24))) "A project explorer sidebar" single ((:url . "https://github.com/sabof/project-explorer")) "melpa"])
+  (project-explorer . [(20140411 605) ((cl-lib (0 3)) (es-lib (0 3)) (es-windows (0 1)) (emacs (24))) "A project explorer sidebar" single ((:url . "https://github.com/sabof/project-explorer")) "melpa"])
   (projectile-rails . [(20140403 1301) ((projectile (1 0 0 -3)) (inflections (1 1)) (inf-ruby (2 2 6)) (f (0 13 0))) "Minor mode for Rails projects based on projectile-mode" single ((:url . "https://github.com/asok/projectile-rails") (:keywords "rails" "projectile")) "melpa"])
   (projector . [(20131121 804) ((alert (1 1))) "Lightweight library for managing project/repository-aware shell and command buffers" single ((:url . "https://github.com/waymondo/projector")) "melpa"])
   (projekt . [(20140201 302) ((emacs (24))) "some kind of staging for CVS" single nil "melpa"])
