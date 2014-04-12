@@ -775,7 +775,7 @@
   (php-boris . [(20130527 121) nil "Run boris php REPL" single ((:keywords "php" "commint" "repl" "boris")) "melpa"])
   (php-eldoc . [(20140202 1141) nil "eldoc backend for php" tar ((:url . "https://github.com/sabof/php-eldoc")) "melpa"])
   (php-mode . [(20140402 920) nil "Major mode for editing PHP code" single ((:url . "https://github.com/ejmr/php-mode")) "melpa"])
-  (pig-mode . [(20140113 1321) nil "Major mode for Pig files" single nil "melpa"])
+  (pig-mode . [(20140411 2235) nil "Major mode for Pig files" single nil "melpa"])
   (pivotal-tracker . [(20140213 506) nil "Interact with Pivotal Tracker through its API" single ((:url . "http://github.com/jxa/pivotal-tracker")) "melpa"])
   (pkgbuild-mode . [(20140331 946) nil "Interface to the ArchLinux package manager" single nil "melpa"])
   (plantuml-mode . [(20131031 1632) ((auto-complete (1 4))) "Major mode for plantuml" single ((:url . "https://github.com/wildsoul/plantuml-mode") (:keywords "uml" "ascii")) "melpa"])
