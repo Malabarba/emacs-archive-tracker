@@ -711,7 +711,7 @@
   (org-context . [(20130903 1458) ((org (7))) "Contextual capture and agenda commands for Org-mode" single ((:url . "https://github.com/thisirs/org-context") (:keywords "org" "capture" "agenda" "convenience")) "melpa"])
   (org-cua-dwim . [(20120202 2134) nil "Org-mode and Cua mode compatibility layer" single ((:keywords "org-mode" "cua-mode")) "melpa"])
   (org-dotemacs . [(20130908 1756) ((org (7 9 3)) (cl-lib (1 0))) "Store your emacs config as an org file, and choose which bits to load." single ((:url . "https://github.com/vapniks/org-dotemacs") (:keywords "local")) "melpa"])
-  (org-ehtml . [(20140323 647) ((web-server (20140109 2200)) (emacs (24 3))) "Export Org-mode files as editable web pages" tar nil "melpa"])
+  (org-ehtml . [(20140411 1835) ((web-server (20140109 2200)) (emacs (24 3))) "Export Org-mode files as editable web pages" tar nil "melpa"])
   (org-elisp-help . [(20130423 1545) ((cl-lib (0 2)) (org (8 0))) "org links to emacs-lisp documentation" single ((:url . "https://github.com/tarsius/org-elisp-help") (:keywords "org" "remember" "lisp")) "melpa"])
   (org-fstree . [(20090723 819) nil "include a filesystem subtree into an org file" single ((:url . "http://www.burtzlaff.de/org-fstree/org-fstree.el") (:keywords "org-mode" "filesystem" "tree")) "melpa"])
   (org-jekyll . [(20130508 239) ((org (8 0))) "Export jekyll-ready posts form org-mode entries" single ((:url . "http://juanreyero.com/open/org-jekyll/") (:keywords "hypermedia")) "melpa"])
