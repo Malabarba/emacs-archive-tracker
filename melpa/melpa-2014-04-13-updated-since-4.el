@@ -66,7 +66,7 @@
   (bash-completion . [(20130526 544) nil "BASH completion for the shell buffer" tar nil "melpa"])
   (batch-mode . [(20130824 1158) nil "major mode for editing ESRI batch scrips" single nil "melpa"])
   (bbcode-mode . [(20130227 1137) nil "Major mode for writing BBCode markup" single ((:url . "https://github.com/ejmr/bbcode-mode")) "melpa"])
-  (bbdb . [(20140311 1517) nil "The Insidious Big Brother Database for GNU Emacs" tar nil "melpa"])
+  (bbdb . [(20140412 1949) nil "The Insidious Big Brother Database for GNU Emacs" tar nil "melpa"])
   (bbdb-ext . [(20130513 1152) ((bbdb (2 36))) "Extra commands for BBDB" single ((:url . "https://github.com/vapniks/bbdb-ext") (:keywords "extensions")) "melpa"])
   (bbdb-vcard . [(20130605 1139) ((bbdb (3 0))) "vCard import/export for BBDB" tar ((:url . "http://github.com/trebb/bbdb-vcard") (:keywords "data" "calendar" "mail" "news")) "melpa"])
   (bbdb2erc . [(20130606 2329) ((bbdb (3 0))) "make bbdb show if pal is online with ERC, click i to chat" single ((:keywords "irc" "contacts" "chat" "client" "internet")) "melpa"])
@@ -777,7 +777,7 @@
   (processing-snippets . [(20130718 1152) ((yasnippet (0 8 0))) "Snippets for processing-mode" tar nil "melpa"])
   (project-local-variables . [(20080502 1652) nil "Set project-local variables from a file." single ((:url . "http://www.emacswiki.org/cgi-bin/wiki/ProjectLocalVariables") (:keywords "project" "convenience")) "melpa"])
   (project-persist . [(20131030 1208) nil "A minor mode to allow loading and saving of project settings." tar nil "melpa"])
-  (projectile . [(20140411 450) ((s (1 6 0)) (dash (1 5 0)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" single ((:url . "https://github.com/bbatsov/projectile") (:keywords "project" "convenience")) "melpa"])
+  (projectile . [(20140412 2146) ((s (1 6 0)) (dash (1 5 0)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" single ((:url . "https://github.com/bbatsov/projectile") (:keywords "project" "convenience")) "melpa"])
   (projmake-mode . [(20140401 1811) nil "Project oriented automatic builder and error
 highlighter, flymake for projects" tar nil "melpa"])
   (protobuf-mode . [(20091217 1755) nil "major mode for editing protocol buffers." single ((:keywords "google" "protobuf" "languages")) "melpa"])
