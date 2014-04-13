@@ -686,7 +686,7 @@
   (nodejs-repl . [(20130520 842) nil "Run Node.js REPL" single nil "melpa"])
   (noflet . [(20140202 1451) nil "locally override functions" single ((:url . "https://github.com/nicferrier/emacs-noflet") (:keywords "lisp")) "melpa"])
   (nose . [(20140228 650) nil "Easy Python test running in Emacs" single ((:keywords "nose" "python" "testing")) "melpa"])
-  (notmuch . [(20140411 627) nil "No description available." tar nil "melpa"])
+  (notmuch . [(20140412 1837) nil "No description available." tar nil "melpa"])
   (notmuch-labeler . [(20131230 919) ((notmuch (0))) "Improve notmuch way of displaying labels" tar ((:url . "https://github.com/DamienCassou/notmuch-labeler") (:keywords "emacs" "package" "elisp" "notmuch" "emails")) "melpa"])
   (nrepl-eval-sexp-fu . [(20140311 341) ((highlight (0 0 0)) (smartparens (0 0 0)) (thingatpt (0 0 0))) "Tiny functionality enhancements for evaluating sexps." single ((:keywords "lisp" "highlight" "convenience")) "melpa"])
   (nrepl-ritz . [(20130516 1039) ((nrepl (0 1 7)) (fringe-helper (0 1 1))) "nrepl extensions for ritz" single ((:url . "https://github.com/pallet/ritz") (:keywords "languages" "lisp" "nrepl")) "melpa"])
