@@ -154,7 +154,7 @@
   (ducpel . [(20140408 2319) ((cl-lib (0 5))) "Logic game with sokoban elements" tar ((:url . "https://github.com/alezost/ducpel") (:keywords "games")) "melpa"])
   (dummyparens . [(20140214 2305) nil "parenthesis auto-pairing and wrapping" single ((:url . "https://github.com/snosov1/dummyparens") (:keywords "dummyparens" "auto-pair" "wrapping")) "melpa"])
   (dvorak-mode . [(20140302 2240) nil "Switch to dvorak layout easily" single ((:url . "https://github.com/proofit404/dvorak-mode")) "melpa"])
-  (easy-kill . [(20140412 331) ((emacs (24)) (cl-lib (0 5))) "kill & mark things easily" single ((:url . "https://github.com/leoliu/easy-kill") (:keywords "killing" "convenience")) "melpa"])
+  (easy-kill . [(20140412 1908) ((emacs (24)) (cl-lib (0 5))) "kill & mark things easily" single ((:url . "https://github.com/leoliu/easy-kill") (:keywords "killing" "convenience")) "melpa"])
   (ede-compdb . [(20140406 1433) ((ede (1 2)) (semantic (2 2)) (cl-lib (0 4))) "Support for compilation database projects in EDE" single ((:keywords "development" "ninja" "build" "cedet" "ede")) "melpa"])
   (efire . [(20130811 1649) ((circe (1 2))) "Use campfire from Emacs" single ((:url . "https://github.com/capitaomorte/efire") (:keywords "convenience" "tools")) "melpa"])
   (el-get . [(20140411 2016) nil "Manage the external elisp bits and pieces you depend upon" tar ((:url . "http://www.emacswiki.org/emacs/el-get") (:keywords "emacs" "package" "elisp" "install" "elpa" "git" "git-svn" "bzr" "cvs" "svn" "darcs" "hg" "apt-get" "fink" "pacman" "http" "http-tar" "emacswiki")) "melpa"])
