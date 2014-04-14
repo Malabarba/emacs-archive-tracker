@@ -17,7 +17,7 @@
   (adoc-mode . [(20130917 0) ((markup-faces (1 0 0))) "a major-mode for editing AsciiDoc files in Emacs" single ((:url . "https://github.com/sensorflo/adoc-mode/wiki") (:keywords "wp" "asciidoc")) "melpa"])
   (aes . [(20130120 1913) nil "Implementation of AES" single ((:keywords "data" "tools")) "melpa"])
   (ag . [(20140322 948) nil "A front-end for ag ('the silver searcher'), the C ack replacement." single nil "melpa"])
-  (ahg . [(20140214 503) nil "Alberto's Emacs interface for Mercurial (Hg)" single ((:url . "https://bitbucket.org/agriggio/ahg")) "melpa"])
+  (ahg . [(20140414 304) nil "Alberto's Emacs interface for Mercurial (Hg)" single ((:url . "https://bitbucket.org/agriggio/ahg")) "melpa"])
   (airplay . [(20130212 426) ((request (20130110 2144)) (simple-httpd (1 4 1)) (deferred (0 3 1))) "Airplay bindings to Emacs" tar ((:url . "https://github.com/gongo/airplay-el") (:keywords "appletv" "airplay")) "melpa"])
   (alert . [(20140406 1353) ((gntp (0 1))) "Growl-style notification system for Emacs" single ((:url . "https://github.com/jwiegley/alert") (:keywords "notification" "emacs" "message")) "melpa"])
   (align-cljlet . [(20131016 2356) ((clojure-mode (1 11 5))) "Space align various Clojure forms" single ((:url . "https://github.com/gstamp/align-cljlet")) "melpa"])

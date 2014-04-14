@@ -1,5 +1,5 @@
 '(
-  (flycheck-haskell . [(0 2) ((flycheck (0 16)) (haskell-mode (13 7)) (dash (2 4 0)) (f (0 11 0))) "Flycheck: Haskell configuration" tar "marmalade"])
+  (flycheck-haskell . [(0 3) ((flycheck (0 16)) (haskell-mode (13 7)) (dash (2 4 0)) (f (0 11 0))) "Flycheck: Haskell configuration" tar "marmalade"])
   (epl . [(0 7) ((cl-lib (0 3))) "Emacs Package Library -*- lexical-binding: t; -*-" single "marmalade"])
   (creds . [(0 0 4) nil "a simple parser credential file lib" tar "marmalade"])
   (flycheck-tcl . [(0 4) ((flycheck (0 17))) "A flycheck checker for Tcl using ActiveState's tclchecker" single "marmalade"])
