@@ -738,7 +738,7 @@
   (pcache . [(20131201 1159) ((eieio (1 3))) "persistent caching for Emacs" single nil "melpa"])
   (pcmpl-args . [(20120911 2224) nil "Enhanced shell command completion" single ((:url . "https://github.com/JonWaltman/pcmpl-args.el") (:keywords "abbrev" "completion" "convenience" "processes" "terminals" "unix")) "melpa"])
   (pcmpl-git . [(20140218 1804) nil "pcomplete for git" tar ((:keywords "tools")) "melpa"])
-  (pcre2el . [(20140331 1546) ((cl-lib (0 3))) "parse, convert, and font-lock PCRE, Emacs and rx regexps" single ((:url . "https://github.com/joddie/pcre2el")) "melpa"])
+  (pcre2el . [(20140414 2029) ((cl-lib (0 3))) "parse, convert, and font-lock PCRE, Emacs and rx regexps" single ((:url . "https://github.com/joddie/pcre2el")) "melpa"])
   (peg . [(20130320 158) nil "Parsing Expression Grammars in Emacs Lisp" single nil "melpa"])
   (perlbrew . [(20130127 324) nil "A perlbrew wrapper for Emacs" single ((:keywords "emacs" "perl")) "melpa"])
   (persistent-soft . [(20131106 706) ((pcache (0 2 3)) (list-utils (0 4 2))) "Persistent storage, returning nil on failure" single ((:url . "http://github.com/rolandwalker/persistent-soft") (:keywords "data" "extensions")) "melpa"])

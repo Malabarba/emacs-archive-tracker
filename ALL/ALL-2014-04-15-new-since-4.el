@@ -226,7 +226,7 @@
   (flymake-rust . [(20131020 345) ((flymake-easy (0 1))) "A flymake handler for rust-mode files" single ((:url . "https://github.com/joaoxsouls/flymake-rust")) "melpa"])
   (font-lock+ . [(20131226 1846) nil "Enhancements to standard library `font-lock.el'." single ((:url . "http://www.emacswiki.org/font-lock+.el") (:keywords "languages" "faces" "highlighting")) "melpa"])
   (font-lock-menus . [(20131226 1847) nil "Font-lock menus: enhanced `font-menus.el'" single ((:url . "http://www.emacswiki.org/font-lock-menus.el") (:keywords "font" "highlighting" "syntax" "decoration")) "melpa"])
-  (fountain-mode . [(20140414 307) ((s (1 9 0))) "Major mode for screenwriting in Fountain markup" single ((:url . "http://github.com/rnkn/fountain-mode/") (:keywords "wp")) "melpa"])
+  (fountain-mode . [(20140414 2032) ((s (1 9 0))) "Major mode for screenwriting in Fountain markup" single ((:url . "http://github.com/rnkn/fountain-mode/") (:keywords "wp")) "melpa"])
   (free-keys . [(20140309 1051) ((cl-lib (0 3))) "Show free keybindings for modkeys or prefixes" single ((:url . "https://github.com/Fuco1/free-keys") (:keywords "convenience")) "melpa"])
   (fringe-current-line . [(20140110 2011) nil "show current line on the fringe." single ((:url . "http://github.com/kyanagi/fringe-current-line/raw/master/fringe-current-line.el")) "melpa"])
   (fullframe . [(20140306 1107) nil "Generalized automatic execution in a single frame" single ((:keywords "fullscreen")) "melpa"])
