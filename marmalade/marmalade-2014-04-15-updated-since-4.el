@@ -1,4 +1,5 @@
 '(
+  (flycheck-haskell . [(0 4) ((flycheck (0 16)) (haskell-mode (13 7)) (dash (2 4 0)) (f (0 11 0))) "Flycheck: Cabal projects and sandboxes" tar "marmalade"])
   (iregister . [(0 2 1) nil "Interactive register commands for Emacs." single "marmalade"])
   (suomalainen-kalenteri . [(2013 4 17) nil "Finnish national and Christian holidays for calendar" tar "marmalade"])
   (php-extras . [(2 2 0 20140405) ((php-mode (1 5 0))) "Extra features for `php-mode'" tar "marmalade"])
