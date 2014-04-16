@@ -14,7 +14,7 @@
   (ace-link . [(20140404 2310) ((ace-jump-mode (2 0)) (noflet (0 0 10))) "Quickly follow links using `ace-jump-mode'" single ((:url . "https://github.com/abo-abo/ace-link") (:keywords "convenience" "links")) "melpa"])
   (ace-window . [(20140414 353) ((ace-jump-mode (2 0))) "Quickly switch windows using `ace-jump-mode'." single ((:url . "https://github.com/abo-abo/ace-window") (:keywords "cursor" "window" "location")) "melpa"])
   (achievements . [(20131111 2351) ((keyfreq (0 0 3))) "Achievements for emacs usage." tar nil "melpa"])
-  (addressbook-bookmark . [(20140412 958) ((emacs (24))) "An adress book based on Standard Emacs bookmarks." single ((:url . "https://github.com/thierryvolpiatto/addressbook-bookmark")) "melpa"])
+  (addressbook-bookmark . [(20140415 2231) ((emacs (24))) "An adress book based on Standard Emacs bookmarks." single ((:url . "https://github.com/thierryvolpiatto/addressbook-bookmark")) "melpa"])
   (afternoon-theme . [(20140104 1059) ((emacs (24 1))) "Dark color theme with a deep blue background" single ((:url . "http://github.com/osener/emacs-afternoon-theme") (:keywords "themes")) "melpa"])
   (alect-themes . [(20140320 213) nil "Configurable color themes (light, dark and black) for Emacs 24" tar nil "melpa"])
   (ample-zen-theme . [(20131129 440) nil "AmpleZen Theme for Emacs 24" single ((:url . "https://github.com/mjwall/ample-zen") (:keywords "theme" "dark" "emacs 24")) "melpa"])
