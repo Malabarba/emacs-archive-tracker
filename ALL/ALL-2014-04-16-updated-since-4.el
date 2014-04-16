@@ -666,7 +666,7 @@
   (multi-term . [(20140323 753) nil "Managing multiple terminal buffers in Emacs." single ((:url . "http://www.emacswiki.org/emacs/download/multi-term.el") (:keywords "term" "terminal" "multiple buffer")) "melpa"])
   (multi-web-mode . [(20130823 2054) nil "multiple major mode support for web editing" tar ((:url . "https://github.com/fgallina/multi-web-mode") (:keywords "convenience" "languages" "wp")) "melpa"])
   (multifiles . [(20130615 1433) nil "View and edit parts of multiple files in one buffer" single ((:keywords "multiple" "files")) "melpa"])
-  (multiple-cursors . [(20140105 259) nil "Multiple cursors for Emacs." tar nil "melpa"])
+  (multiple-cursors . [(20140416 1107) nil "Multiple cursors for Emacs." tar nil "melpa"])
   (mustache . [(20131117 1407) ((ht (0 9)) (s (1 3 0)) (dash (1 2 0))) "a mustache templating library in emacs lisp" tar nil "melpa"])
   (mustache-mode . [(20111003 1103) nil "A major mode for editing Mustache files." single nil "melpa"])
   (muttrc-mode . [(20090804 2252) nil "Major mode to edit muttrc under Emacs" single nil "melpa"])
@@ -801,7 +801,7 @@
   (processing-snippets . [(20130718 1152) ((yasnippet (0 8 0))) "Snippets for processing-mode" tar nil "melpa"])
   (project-local-variables . [(20080502 1652) nil "Set project-local variables from a file." single ((:url . "http://www.emacswiki.org/cgi-bin/wiki/ProjectLocalVariables") (:keywords "project" "convenience")) "melpa"])
   (project-persist . [(20131030 1208) nil "A minor mode to allow loading and saving of project settings." tar nil "melpa"])
-  (projectile . [(20140416 855) ((s (1 6 0)) (dash (1 5 0)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" single ((:url . "https://github.com/bbatsov/projectile") (:keywords "project" "convenience")) "melpa"])
+  (projectile . [(20140416 1040) ((s (1 6 0)) (dash (1 5 0)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" single ((:url . "https://github.com/bbatsov/projectile") (:keywords "project" "convenience")) "melpa"])
   (projmake-mode . [(20140401 1811) nil "Project oriented automatic builder and error
 highlighter, flymake for projects" tar nil "melpa"])
   (protobuf-mode . [(20091217 1755) nil "major mode for editing protocol buffers." single ((:keywords "google" "protobuf" "languages")) "melpa"])
