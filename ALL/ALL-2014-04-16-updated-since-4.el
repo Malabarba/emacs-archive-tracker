@@ -375,7 +375,7 @@
   (git-commit-mode . [(20140313 1504) nil "Major mode for editing git commit messages" single ((:url . "https://github.com/magit/git-modes") (:keywords "convenience" "vc" "git")) "melpa"])
   (git-dwim . [(20130130 2150) nil "Context-aware git commands such as branch handling" single ((:url . "http://www.emacswiki.org/cgi-bin/wiki/download/git-dwim.el") (:keywords "git" "tools" "convenience")) "melpa"])
   (git-gutter+ . [(20140205 802) ((git-commit-mode (0 14))) "Manage Git hunks straight from the buffer" single ((:url . "https://github.com/nonsequitur/git-gutter-plus")) "melpa"])
-  (git-gutter . [(20140322 812) nil "Port of Sublime Text plugin GitGutter" single ((:url . "https://github.com/syohex/emacs-git-gutter")) "melpa"])
+  (git-gutter . [(20140415 1816) ((cl-lib (0 5))) "Port of Sublime Text plugin GitGutter" single ((:url . "https://github.com/syohex/emacs-git-gutter")) "melpa"])
   (git-gutter-fringe+ . [(20140131 1030) ((git-gutter+ (0 1)) (fringe-helper (1 0 1))) "Fringe version of git-gutter+.el" single ((:url . "https://github.com/nonsequitur/git-gutter-fringe-plus")) "melpa"])
   (git-gutter-fringe . [(20131117 635) ((git-gutter (0 42)) (fringe-helper (0 1 1))) "Fringe version of git-gutter.el" single ((:url . "https://github.com/syohex/emacs-git-gutter-fringe")) "melpa"])
   (git-messenger . [(20140402 758) ((popup (0 5 0))) "Pop up last commit information of current line" single ((:url . "https://github.com/syohex/emacs-git-messenger")) "melpa"])
