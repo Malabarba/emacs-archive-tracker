@@ -1,4 +1,5 @@
 '(
+  (elpa-mirror . [(1 1 2) nil "ELPA mirror from locally installed packages is easy" tar "marmalade"])
   (flycheck-haskell . [(0 4) ((flycheck (0 16)) (haskell-mode (13 7)) (dash (2 4 0)) (f (0 11 0))) "Flycheck: Cabal projects and sandboxes" tar "marmalade"])
   (iregister . [(0 2 1) nil "Interactive register commands for Emacs." single "marmalade"])
   (suomalainen-kalenteri . [(2013 4 17) nil "Finnish national and Christian holidays for calendar" tar "marmalade"])
