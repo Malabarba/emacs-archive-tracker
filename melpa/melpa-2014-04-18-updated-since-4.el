@@ -435,7 +435,7 @@
   (helm-open-github . [(20140307 1623) ((helm (1 0)) (gh (1 0)) (cl-lib (0 5))) "Utilities of Opening Github Page" single ((:url . "https://github.com/syohex/emacs-helm-open-github")) "melpa"])
   (helm-orgcard . [(20130608 430) ((helm (1 5 2))) "browse the orgcard by helm" single ((:url . "https://github.com/emacs-helm/helm-orgcard") (:keywords "convenience" "helm" "org")) "melpa"])
   (helm-project-persist . [(20130601 1328) ((helm (1 5 2)) (project-persist (0 1 4))) "Helm integration for project-persist package" single ((:keywords "project-persist" "project" "helm")) "melpa"])
-  (helm-projectile . [(20140410 2226) ((helm (1 4 0)) (projectile (0 10 0)) (cl-lib (0 3))) "Helm integration for Projectile" single ((:url . "https://github.com/bbatsov/projectile") (:keywords "project" "convenience")) "melpa"])
+  (helm-projectile . [(20140418 331) ((helm (1 4 0)) (projectile (0 10 0)) (cl-lib (0 3))) "Helm integration for Projectile" single ((:url . "https://github.com/bbatsov/projectile") (:keywords "project" "convenience")) "melpa"])
   (helm-rails . [(20130424 819) ((helm (1 5 1)) (inflections (1 1))) "Helm extension for Rails projects." single ((:url . "https://github.com/asok/helm-rails") (:keywords "helm" "rails" "git")) "melpa"])
   (helm-rubygems-local . [(20130711 1811) ((helm (1 5 3))) "Installed local rubygems find-file for helm" single ((:url . "https://github.com/f-kubotar/helm-rubygems-local")) "melpa"])
   (helm-sheet . [(20130630 539) ((helm (1 0))) "helm sources for sheet" single ((:url . "https://github.com/yasuyk/helm-sheet") (:keywords "helm" "sheet")) "melpa"])
