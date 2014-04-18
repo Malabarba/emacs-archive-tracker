@@ -60,7 +60,7 @@
   (busybee-theme . [(20130920 942) nil "port of vim's mustang theme" single ((:url . "http://github.com/mswift42/busybee-theme")) "melpa"])
   (cake . [(20140313 1710) ((cake-inflector (1 1 0)) (historyf (0 0 8)) (anything (1 3 9))) "CakePHP Minor Mode" tar ((:url . "https://github.com/k1LoW/emacs-cake")) "melpa"])
   (cake-inflector . [(20140415 158) ((s (1 9 0))) "Lazy porting CakePHP infrector.php to el" single ((:url . "https://github.com/k1LoW/emacs-cake-inflector")) "melpa"])
-  (cake2 . [(20140416 1729) ((dash (2 6 0)) (s (1 9 0)) (f (0 16 2)) (ht (2 0)) (json (1 2)) (cake-inflector (1 1 0)) (historyf (0 0 8)) (anything (1 3 9))) "CakePHP2 Minor Mode" tar ((:url . "http://code.101000lab.org")) "melpa"])
+  (cake2 . [(20140417 1949) ((dash (2 6 0)) (s (1 9 0)) (f (0 16 2)) (ht (2 0)) (json (1 2)) (cake-inflector (1 1 0)) (historyf (0 0 8)) (anything (1 3 9))) "CakePHP2 Minor Mode" tar ((:url . "http://code.101000lab.org")) "melpa"])
   (calmer-forest-theme . [(20130925 2210) nil "Darkish theme with green/orange tint" single ((:url . "https://github.com/caldwell/calmer-forest-theme")) "melpa"])
   (cask . [(20140324 15) ((s (1 8 0)) (dash (2 2 0)) (f (0 16 0)) (epl (0 5)) (shut-up (0 1 0)) (cl-lib (0 3)) (package-build (0 1))) "Cask: Project management for Emacs package development" tar ((:url . "http://github.com/cask/cask") (:keywords "speed" "convenience")) "melpa"])
   (caskxy . [(20140317 1341) ((log4e (0 2 0)) (yaxception (0 1))) "Control Cask in Emacs" single ((:url . "https://github.com/aki2o/caskxy") (:keywords "convenience")) "melpa"])
