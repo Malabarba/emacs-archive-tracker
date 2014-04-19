@@ -315,7 +315,7 @@
   (ibuffer-tramp . [(20140301 1006) nil "Group ibuffer's list by TRAMP connection" single ((:url . "http://github.com/svend/ibuffer-tramp") (:keywords "themes")) "melpa"])
   (ido-at-point . [(20140416 656) ((emacs (24))) "ido-style completion-at-point" single ((:url . "https://github.com/katspaugh/ido-at-point") (:keywords "convenience" "abbrev")) "melpa"])
   (ido-select-window . [(20131220 1247) ((emacs (24 1))) "Select a window using ido and buffer names" single ((:url . "https://github.com/pjones/ido-select-window")) "melpa"])
-  (idris-mode . [(20140416 1105) ((emacs (24))) "Major mode for editing Idris code" tar ((:url . "https://github.com/idris-hackers/idris-mode") (:keywords "languages")) "melpa"])
+  (idris-mode . [(20140419 519) ((emacs (24))) "Major mode for editing Idris code" tar ((:url . "https://github.com/idris-hackers/idris-mode") (:keywords "languages")) "melpa"])
   (ids-edit . [(20140329 2054) ((emacs (24 3))) "IDS (Ideographic Description Sequence) editing tool" tar ((:url . "http://github.com/kawabata/ids-edit") (:keywords "text")) "melpa"])
   (imenu+ . [(20131226 1948) nil "Extensions to `imenu.el'." single ((:url . "http://www.emacswiki.org/imenu+.el") (:keywords "tools" "menus")) "melpa"])
   (immutant-server . [(20140311 1508) nil "Run your Immutant server in Emacs" single ((:url . "http://www.github.com/leathekd/immutant-server.el")) "melpa"])
