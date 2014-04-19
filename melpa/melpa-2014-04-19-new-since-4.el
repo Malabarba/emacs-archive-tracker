@@ -153,7 +153,7 @@
   (download-region . [(20140224 653) ((cl-lib (0 3))) "Simple in-buffer download manager" single ((:url . "http://hins11.yu-yake.com/")) "melpa"])
   (downplay-mode . [(20140110 2058) nil "focus attention on a region of the buffer" single ((:url . "https://github.com/tobias/downplay-mode/")) "melpa"])
   (dtrt-indent . [(20140325 1330) nil "Adapt to foreign indentation offsets" tar ((:keywords "convenience" "files" "languages" "c")) "melpa"])
-  (ducpel . [(20140408 2319) ((cl-lib (0 5))) "Logic game with sokoban elements" tar ((:url . "https://github.com/alezost/ducpel") (:keywords "games")) "melpa"])
+  (ducpel . [(20140418 2216) ((cl-lib (0 5))) "Logic game with sokoban elements" tar ((:url . "https://github.com/alezost/ducpel") (:keywords "games")) "melpa"])
   (dummyparens . [(20140214 2305) nil "parenthesis auto-pairing and wrapping" single ((:url . "https://github.com/snosov1/dummyparens") (:keywords "dummyparens" "auto-pair" "wrapping")) "melpa"])
   (dvorak-mode . [(20140302 2240) nil "Switch to dvorak layout easily" single ((:url . "https://github.com/proofit404/dvorak-mode")) "melpa"])
   (easy-kill . [(20140416 1116) ((emacs (24)) (cl-lib (0 5))) "kill & mark things easily" single ((:url . "https://github.com/leoliu/easy-kill") (:keywords "killing" "convenience")) "melpa"])
