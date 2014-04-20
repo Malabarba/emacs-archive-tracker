@@ -159,7 +159,7 @@
   (easy-kill . [(20140419 1854) ((emacs (24)) (cl-lib (0 5))) "kill & mark things easily" single ((:url . "https://github.com/leoliu/easy-kill") (:keywords "killing" "convenience")) "melpa"])
   (ede-compdb . [(20140406 1433) ((ede (1 2)) (semantic (2 2)) (cl-lib (0 4))) "Support for compilation database projects in EDE" single ((:keywords "development" "ninja" "build" "cedet" "ede")) "melpa"])
   (efire . [(20130811 1649) ((circe (1 2))) "Use campfire from Emacs" single ((:url . "https://github.com/capitaomorte/efire") (:keywords "convenience" "tools")) "melpa"])
-  (el-get . [(20140418 927) nil "Manage the external elisp bits and pieces you depend upon" tar ((:url . "http://www.emacswiki.org/emacs/el-get") (:keywords "emacs" "package" "elisp" "install" "elpa" "git" "git-svn" "bzr" "cvs" "svn" "darcs" "hg" "apt-get" "fink" "pacman" "http" "http-tar" "emacswiki")) "melpa"])
+  (el-get . [(20140420 641) nil "Manage the external elisp bits and pieces you depend upon" tar ((:url . "http://www.emacswiki.org/emacs/el-get") (:keywords "emacs" "package" "elisp" "install" "elpa" "git" "git-svn" "bzr" "cvs" "svn" "darcs" "hg" "apt-get" "fink" "pacman" "http" "http-tar" "emacswiki")) "melpa"])
   (el-spice . [(20140113 816) ((thingatpt+ (0))) "Extra spice for emacs lisp programming" tar ((:url . "https://github.com/vedang/el-spice") (:keywords "languages" "extensions")) "melpa"])
   (el-sprunge . [(20140106 1739) ((web-server (20140105 2246)) (htmlize (20130207 1202)) (emacs (24 3))) "Command line paste server with Emacs highlighting" tar nil "melpa"])
   (el-spy . [(20131226 1208) nil "Mocking framework for Emacs lisp. It also support spy, proxy." single ((:url . "https://github.com/uk-ar/el-spy") (:keywords "test")) "melpa"])
