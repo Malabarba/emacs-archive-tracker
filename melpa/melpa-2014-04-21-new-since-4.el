@@ -631,7 +631,7 @@
   (traad-autocomplete . [(20140130 711) ((traad (0 1)) (auto-complete (1 4 0))) "auto-complete sources for traad" single ((:url . "https://github.com/abingham/traad")) "melpa"])
   (tracwiki-mode . [(20140108 853) ((xml-rpc (1 6 8))) "Emacs Major mode for working with Trac" single ((:keywords "trac" "wiki" "tickets")) "melpa"])
   (tronesque-theme . [(20140407 657) nil "Color Theme based on Tron universe." single ((:url . "https://github.com/aurelienbottazini/tronesque")) "melpa"])
-  (tss . [(20140221 1555) ((auto-complete (1 4 0)) (json-mode (1 1 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide a interface for auto-complete.el/flymake.el on typescript-mode." tar ((:url . "https://github.com/aki2o/emacs-tss") (:keywords "typescript" "completion")) "melpa"])
+  (tss . [(20140326 1300) ((auto-complete (1 4 0)) (json-mode (1 1 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide a interface for auto-complete.el/flymake.el on typescript-mode." tar ((:url . "https://github.com/aki2o/emacs-tss") (:keywords "typescript" "completion")) "melpa"])
   (tt-mode . [(20130804 410) nil "Emacs major mode for editing Template Toolkit files." single nil "melpa"])
   (turnip . [(20140406 1124) ((dash (2 6 0)) (s (1 9 0))) "Interacting with tmux from Emacs" single ((:keywords "terminals" "tools")) "melpa"])
   (twig-mode . [(20130220 1050) nil "A major mode for twig" single nil "melpa"])
