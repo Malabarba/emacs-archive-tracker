@@ -51,7 +51,7 @@
   (auto-complete-clang . [(20140409 52) ((auto-complete (1 3 1))) "Auto Completion source for clang for GNU Emacs" single ((:url . "https://github.com/brianjcj/auto-complete-clang") (:keywords "completion" "convenience")) "melpa"])
   (auto-complete-clang-async . [(20130526 814) nil "Auto Completion source for clang for GNU Emacs" single ((:keywords "completion" "convenience")) "melpa"])
   (auto-dictionary . [(20130628 253) nil "automatic dictionary switcher for flyspell" single ((:url . "http://nschum.de/src/emacs/auto-dictionary/") (:keywords "wp")) "melpa"])
-  (auto-dim-other-buffers . [(20140420 318) nil "Makes non-current buffers less prominent" single ((:url . "https://github.com/mina86/auto-dim-other-buffers.el")) "melpa"])
+  (auto-dim-other-buffers . [(20140421 1237) nil "Makes non-current buffers less prominent" single ((:url . "https://github.com/mina86/auto-dim-other-buffers.el")) "melpa"])
   (auto-indent-mode . [(20131220 1220) nil "Auto indent Minor mode" tar ((:url . "https://github.com/mlf176f2/auto-indent-mode.el/") (:keywords "auto" "indentation")) "melpa"])
   (auto-install . [(20130824 1206) nil "Auto install elisp file" single ((:url . "http://www.emacswiki.org/emacs/download/auto-install.el") (:keywords "auto-install")) "melpa"])
   (auto-save-buffers-enhanced . [(20130607 1949) nil "Automatically save buffers in a decent way" single nil "melpa"])
