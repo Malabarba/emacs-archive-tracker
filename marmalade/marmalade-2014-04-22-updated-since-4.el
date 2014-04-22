@@ -139,6 +139,7 @@
   (repository-root . [(1 0 4) nil "deduce the repository root directory for a given file" single "marmalade"])
   (git-auto-commit-mode . [(4 2 2) nil "Emacs Minor mode to automatically commit and push" single "marmalade"])
   (ujelly-theme . [(1 0 35) nil "Ujelly theme for GNU Emacs 24 (deftheme)" single "marmalade"])
+  (monokai-theme . [(0 0 11) nil "REQUIRES EMACS 24: Monokai Color Theme for Emacs." single "marmalade"])
   (evil-leader . [(0 4 1) ((evil (0))) "let there be <leader>" single "marmalade"])
   (drupal-mode . [(0 5 0) ((php-mode (1 5 0))) "Advanced minor mode for Drupal development" tar "marmalade"])
   (test-case-mode . [(0 1 9) nil "unit test front-end" single "marmalade"])
