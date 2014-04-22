@@ -762,7 +762,7 @@
   (pointback . [(20100210 752) nil "Restore window points when returning to buffers" single ((:keywords "convenience")) "melpa"])
   (pomodoro . [(20140318 1049) nil "A timer for the Pomodoro Technique" single nil "melpa"])
   (pony-mode . [(20140127 846) nil "Minor mode for working with Django Projects" tar nil "melpa"])
-  (pophint . [(20140323 806) ((popup (0 5 0)) (log4e (0 2 0)) (yaxception (0 1))) "Provide navigation using pop-up tips, like Firefox's Vimperator Hint Mode" tar ((:url . "https://github.com/aki2o/emacs-pophint") (:keywords "popup")) "melpa"])
+  (pophint . [(20140422 309) ((popup (0 5 0)) (log4e (0 2 0)) (yaxception (0 1))) "Provide navigation using pop-up tips, like Firefox's Vimperator Hint Mode" tar ((:url . "https://github.com/aki2o/emacs-pophint") (:keywords "popup")) "melpa"])
   (popup . [(20140207 1702) ((cl-lib (0 3))) "Visual Popup User Interface" single ((:keywords "lisp")) "melpa"])
   (popup-switcher . [(20131220 514) ((popup (0 5 0))) "switch to other buffers and files via popup." single ((:url . "https://github.com/kostafey/popup-switcher") (:keywords "popup" "switch" "buffers" "functions")) "melpa"])
   (popwin . [(20140418 2058) nil "Popup Window Manager." single ((:keywords "convenience")) "melpa"])
