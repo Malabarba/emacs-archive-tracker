@@ -480,7 +480,7 @@
   (paradox . [(20140415 1413) ((emacs (24 1)) (tabulated-list (1 0)) (package (1 0)) (dash (2 6 0)) (cl-lib (1 0))) "Display Package Ratings on the *Packages* buffer." tar ((:url . "http://github.com/Bruce-Connor/paradox") (:keywords "package" "packages" "mode-line")) "melpa"])
   (paren-face . [(20140309 1759) nil "a face for parentheses in lisp modes" single ((:url . "http://github.com/tarsius/paren-face")) "melpa"])
   (parse-csv . [(20140203 116) nil "Parse strings with CSV fields into s-expressions" single ((:url . "https://github.com/mrc/el-csv") (:keywords "csv")) "melpa"])
-  (password-store . [(20140420 1818) ((f (0 11 0)) (s (1 9 0))) "Password store (pass) support" single ((:keywords "pass")) "melpa"])
+  (password-store . [(20140421 2000) ((f (0 11 0)) (s (1 9 0))) "Password store (pass) support" single ((:keywords "pass")) "melpa"])
   (password-vault . [(20131105 1703) ((cl-lib (0 2)) (emacs (24))) "A Password manager for Emacs." single ((:url . "http://github.com/PuercoPop/password-vault.el") (:keywords "password" "productivity")) "melpa"])
   (pcomplete-extension . [(20140412 2155) ((emacs (24)) (cl-lib (0 5))) "additional completion for pcomplete" single ((:url . "https://github.com/thierryvolpiatto/pcomplete-extension")) "melpa"])
   (pcsv . [(20131110 750) nil "Parser of csv" single ((:url . "https://github.com/mhayashi1120/Emacs-pcsv/raw/master/pcsv.el") (:keywords "data")) "melpa"])
