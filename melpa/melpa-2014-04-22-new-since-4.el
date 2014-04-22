@@ -549,6 +549,7 @@
   (recompile-on-save . [(20140317 1333) ((dash (1 1 0))) "Trigger recompilation on file save." single ((:url . "https://github.com/maio/recompile-on-save.el") (:keywords "convenience" "files" "processes" "tools")) "melpa"])
   (rectangle-utils . [(20140422 519) ((emacs (24)) (cl-lib (0 5))) "Some useful rectangle functions." single ((:url . "https://github.com/thierryvolpiatto/rectangle-utils")) "melpa"])
   (refheap . [(20140413 1642) ((json (1 2))) "A library for pasting to https://refheap.com" single ((:url . "https://github.com/Raynes/refheap.el")) "melpa"])
+  (relative-line-numbers . [(20140422 1226) ((emacs (24))) "Display relative line numbers on the margin" single ((:url . "https://github.com/Fanael/relative-line-numbers")) "melpa"])
   (relax . [(20131029 1434) ((json (1 2))) "For browsing and interacting with CouchDB" single ((:url . "http://github.com/technomancy/relax.el") (:keywords "database" "http")) "melpa"])
   (replace+ . [(20140416 1604) nil "Extensions to `replace.el'." single ((:url . "http://www.emacswiki.org/replace%2b.el") (:keywords "matching" "help" "internal" "tools" "local")) "melpa"])
   (req-package . [(20140419 1124) ((use-package (1 0))) "A use-package wrapper for package runtime dependencies management" single ((:url . "https://github.com/edvorg/req-package") (:keywords "dotemacs" "startup" "speed" "config" "package")) "melpa"])
