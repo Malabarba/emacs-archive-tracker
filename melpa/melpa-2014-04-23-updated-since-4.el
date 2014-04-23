@@ -201,7 +201,7 @@
   (e2wm-bookmark . [(20120811 2350) ((e2wm (1 2))) "Bookmark plugin for e2wm.el" single ((:keywords "convenience")) "melpa"])
   (e2wm-svg-clock . [(20130303 1326) ((e2wm (20130225 1602)) (svg-clock (0 4))) "e2wm plugin for svg-clock" single ((:url . "https://github.com/myuhe/e2wm-svg-clock.el") (:keywords "convenience" "e2wm")) "melpa"])
   (easy-after-load . [(20121224 1849) nil "eval-after-load for all files in a directory" single ((:url . "https://github.com/pd/easy-after-load")) "melpa"])
-  (ebib . [(20140314 431) nil "a BibTeX database manager" tar ((:keywords "text" "bibtex")) "melpa"])
+  (ebib . [(20140423 1321) nil "a BibTeX database manager" tar ((:keywords "text" "bibtex")) "melpa"])
   (ecb . [(20140215 114) nil "a code browser for Emacs" tar ((:keywords "browser" "code" "programming" "tools")) "melpa"])
   (ecukes . [(20140403 2248) ((commander (0 6 1)) (espuds (0 2 2)) (ansi (0 3 0)) (dash (2 2 0)) (s (1 8 0)) (f (0 11 0))) "Cucumber for Emacs." tar nil "melpa"])
   (edbi . [(20130809 556) ((concurrent (0 3 1)) (ctable (0 1 2)) (epc (0 1 1))) "Emacs Database Interface" tar nil "melpa"])
