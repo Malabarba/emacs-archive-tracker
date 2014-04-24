@@ -554,7 +554,7 @@
   (slime-annot . [(20131230 1908) ((slime (0))) "cl-annot support for SLIME" single ((:url . "https://github.com/arielnetworks/cl-annot")) "melpa"])
   (slime-company . [(20140226 228) ((slime (2 3 2)) (company (0 7))) "slime completion backend for company mode" single ((:keywords "convenience" "lisp" "abbrev")) "melpa"])
   (slime-volleyball . [(20130930 821) nil "A slime volleyball clone" tar ((:keywords "games")) "melpa"])
-  (smart-cursor-color-mode . [(20140423 1123) nil "Change cursor color dynamically." single ((:url . "https://github.com/7696122/smart-cursor-color-mode") (:keywords "cursor" "color" "face")) "melpa"])
+  (smart-cursor-color-mode . [(20140423 1906) nil "Change cursor color dynamically." single ((:url . "https://github.com/7696122/smart-cursor-color-mode") (:keywords "cursor" "color" "face")) "melpa"])
   (smart-newline . [(20131207 1940) nil "Provide smart newline for one keybind." single nil "melpa"])
   (smartscan . [(20131230 739) nil "Jumps between other symbols found at point" single ((:keywords "extensions")) "melpa"])
   (soft-charcoal-theme . [(20140420 943) nil "Dark charcoal theme with soft colors" single ((:url . "http://github.com/mswift42/soft-charcoal-theme")) "melpa"])
