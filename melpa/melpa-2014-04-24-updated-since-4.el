@@ -430,7 +430,7 @@
   (helm-git-grep . [(20140222 1822) ((helm (1 5 9))) "helm for git grep, an incremental git-grep(1)" single ((:url . "https://github.com/yasuyk/helm-git-grep") (:keywords "helm" "git")) "melpa"])
   (helm-go-package . [(20140211 1457) ((helm (1 0)) (go-mode (9)) (deferred (0 3 2))) "helm sources for Go programming language's package" single ((:url . "https://github.com/yasuyk/helm-go-package") (:keywords "helm" "go")) "melpa"])
   (helm-gtags . [(20140328 332) ((helm (1 5 6)) (cl-lib (0 5))) "GNU GLOBAL helm interface" single ((:url . "https://github.com/syohex/emacs-helm-gtags")) "melpa"])
-  (helm-ls-git . [(20140420 347) nil "list git files." single nil "melpa"])
+  (helm-ls-git . [(20140423 2155) nil "list git files." single nil "melpa"])
   (helm-migemo . [(20130820 440) ((helm (1 5 3)) (migemo (1 9))) "Migemo plug-in for helm" single ((:url . "https://github.com/emacs-helm/helm-migemo") (:keywords "matching" "convenience" "tools" "i18n")) "melpa"])
   (helm-open-github . [(20140307 1623) ((helm (1 0)) (gh (1 0)) (cl-lib (0 5))) "Utilities of Opening Github Page" single ((:url . "https://github.com/syohex/emacs-helm-open-github")) "melpa"])
   (helm-orgcard . [(20130608 430) ((helm (1 5 2))) "browse the orgcard by helm" single ((:url . "https://github.com/emacs-helm/helm-orgcard") (:keywords "convenience" "helm" "org")) "melpa"])
