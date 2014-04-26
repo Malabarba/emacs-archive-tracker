@@ -1,6 +1,6 @@
 '(
   (navigate . [(0 1 5) nil "Seamlessly navigate between Emacs and tmux" single "marmalade"])
-  (org2nikola . [(0 0 4) nil "export html and meta data used by static blog like nikola from org file" tar "marmalade"])
+  (org2nikola . [(0 0 6) nil "export html and meta data used by static blog like nikola from org file" tar "marmalade"])
   (elpa-mirror . [(1 1 2) nil "ELPA mirror from locally installed packages is easy" tar "marmalade"])
   (flycheck-haskell . [(0 4) ((flycheck (0 16)) (haskell-mode (13 7)) (dash (2 4 0)) (f (0 11 0))) "Flycheck: Cabal projects and sandboxes" tar "marmalade"])
   (iregister . [(0 2 1) nil "Interactive register commands for Emacs." single "marmalade"])
@@ -72,6 +72,7 @@
   (smartparens . [(1 6 1) ((cl-lib (0 1)) (dash (2 3 0))) "Automatic insertion, wrapping and paredit-like navigation with user defined pairs." tar "marmalade"])
   (grapnel . [(0 5 3) nil "HTTP request lib with flexible callback dispatch" single "marmalade"])
   (ht . [(1 5) nil "The missing hash table library for Emacs" single "marmalade"])
+  (cryptol-mode . [(0 1 0) nil "Cryptol major mode for Emacs" single "marmalade"])
   (babcore . [(0 0 5) nil "Core Emacs configuration. This should be the minimum in every emacs config." single "marmalade"])
   (framesize . [(0 0 5) ((key-chord (0 5 20080915))) "change the size of frames in Emacs" single "marmalade"])
   (gruber-darker-theme . [(0 6) nil "Gruber Darker color theme for Emacs 24." single "marmalade"])
