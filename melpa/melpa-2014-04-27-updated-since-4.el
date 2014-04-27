@@ -640,7 +640,7 @@
   (monky . [(20130513 513) nil "Control Hg from Emacs." tar nil "melpa"])
   (monokai-theme . [(20140310 1330) nil "A fruity color theme for Emacs." single ((:url . "http://github.com/oneKelvinSmith/monokai-emacs")) "melpa"])
   (mote-mode . [(20121014 2119) ((ruby-mode (1 1))) "Mote minor mode" single ((:url . "http://inkel.github.com/mote-mode/")) "melpa"])
-  (motion-mode . [(20140322 932) ((flymake-easy (0 7)) (flymake-cursor (1 0 2))) "major mode for RubyMotion enviroment" tar ((:url . "https://github.com/ainame/motion-mode")) "melpa"])
+  (motion-mode . [(20140426 2032) ((flymake-easy (0 7)) (flymake-cursor (1 0 2))) "major mode for RubyMotion enviroment" tar ((:url . "https://github.com/ainame/motion-mode")) "melpa"])
   (mouse+ . [(20131227 141) nil "Extensions to `mouse.el'." single ((:url . "http://www.emacswiki.org/mouse+.el") (:keywords "mouse")) "melpa"])
   (mouse-slider-mode . [(20130609 826) nil "scale numbers dragged under the mouse" single ((:url . "https://github.com/skeeto/mouse-slider-mode")) "melpa"])
   (move-text . [(20140307 1644) nil "Move current line or region with M-up or M-down." single ((:keywords "edit")) "melpa"])

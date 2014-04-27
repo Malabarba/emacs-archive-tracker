@@ -97,7 +97,7 @@
   (conkeror-minor-mode . [(20131218 334) nil "Mode for editing conkeror javascript files." single ((:url . "http://github.com/BruceConnor/conkeror-minor-mode") (:keywords "programming" "tools")) "melpa"])
   (connection . [(20131005 526) nil "TCP-based client connection" single ((:keywords "network")) "melpa"])
   (control-mode . [(20140218 607) nil "A \"control\" mode, similar to vim's \"normal\" mode" single ((:url . "https://github.com/stephendavidmarsh/control-mode") (:keywords "convenience" "emulations")) "melpa"])
-  (cpputils-cmake . [(20140305 326) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar nil "melpa"])
+  (cpputils-cmake . [(20140426 2101) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar nil "melpa"])
   (creole-mode . [(20130721 1750) nil "a markup mode for creole" single ((:url . "https://github.com/nicferrier/creole-mode") (:keywords "hypermedia" "wp")) "melpa"])
   (css-eldoc . [(20140128 2337) nil "an eldoc-mode plugin for CSS source code" tar nil "melpa"])
   (cssh . [(20120823 1241) nil "clusterssh implementation for emacs" single ((:url . "http://tapoueh.org/emacs/cssh.html") (:keywords "clusterssh" "ssh" "cssh")) "melpa"])
