@@ -22,7 +22,7 @@
   (oauth2 . [(0 10) nil "OAuth 2.0 Authorization Protocol" single ((:url . "http://elpa.gnu.org/packages/oauth2.html") (:keywords "comm")) "gnu"])
   (num3-mode . [(1 2) nil "highlight groups of digits in long numbers" single ((:url . "http://elpa.gnu.org/packages/num3-mode.html") (:keywords "faces" "minor-mode")) "gnu"])
   (notes-mode . [(1 30) nil "Indexing system for on-line note-taking" tar ((:url . "http://elpa.gnu.org/packages/notes-mode.html")) "gnu"])
-  (nlinum . [(1 2) nil "Show line numbers in the margin" single ((:url . "http://elpa.gnu.org/packages/nlinum.html") (:keywords "convenience")) "gnu"])
+  (nlinum . [(1 3) nil "Show line numbers in the margin" single ((:url . "http://elpa.gnu.org/packages/nlinum.html") (:keywords "convenience")) "gnu"])
   (nhexl-mode . [(0 1) nil "Minor mode to edit files via hex-dump format" single ((:url . "http://elpa.gnu.org/packages/nhexl-mode.html") (:keywords "data")) "gnu"])
   (muse . [(3 20) nil "Authoring and publishing tool for Emacs" tar ((:keywords "hypermedia") (:url . "http://mwolson.org/projects/EmacsMuse.html")) "gnu"])
   (minimap . [(1 2) nil "Sidebar showing a \"mini-map\" of a buffer" single ((:url . "http://elpa.gnu.org/packages/minimap.html") (:keywords)) "gnu"])
