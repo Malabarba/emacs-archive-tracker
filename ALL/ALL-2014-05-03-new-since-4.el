@@ -534,7 +534,7 @@
   (relax . [(20131029 1434) ((json (1 2))) "For browsing and interacting with CouchDB" single ((:url . "http://github.com/technomancy/relax.el") (:keywords "database" "http")) "melpa"])
   (replace+ . [(20140416 1604) nil "Extensions to `replace.el'." single ((:url . "http://www.emacswiki.org/replace%2b.el") (:keywords "matching" "help" "internal" "tools" "local")) "melpa"])
   (req-package . [(20140419 1124) ((use-package (1 0))) "A use-package wrapper for package runtime dependencies management" single ((:url . "https://github.com/edvorg/req-package") (:keywords "dotemacs" "startup" "speed" "config" "package")) "melpa"])
-  (reveal-in-finder . [(20140403 1834) nil "Reveal the file associated with the buffer in the OS X Finder" single ((:url . "https://github.com/kaz-yos/elisp") (:keywords "os x" "finder")) "melpa"])
+  (reveal-in-finder . [(20140502 1745) nil "Reveal file associated with buffer in OS X Finder" single ((:url . "https://github.com/kaz-yos/elisp") (:keywords "os x" "finder")) "melpa"])
   (review-mode . [(20140329 2026) nil "major mode for ReVIEW" single ((:url . "https://github.com/kmuto/review-el")) "melpa"])
   (roguel-ike . [(20140227 729) ((popup (0 5 0))) "A coffee-break roguelike" tar nil "melpa"])
   (rotate . [(20140123 116) nil "Rotate the layout of emacs" single ((:url . "https://github.com/daic-h/emacs-rotate") (:keywords "window" "layout")) "melpa"])
