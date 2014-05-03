@@ -17,7 +17,7 @@
   (flycheck . [(0 18) ((s (1 9 0)) (dash (2 4 0)) (f (0 11 0)) (pkg-info (0 4)) (cl-lib (0 3)) (emacs (24 1))) "On-the-fly syntax checking (Flymake done right)" tar "marmalade"])
   (python-mode . [(6 1 3) nil "An Emacs mode for editing Python code" tar "marmalade"])
   (modtime-skip-mode . [(0 9 2) nil "Minor mode for disabling modtime and supersession checks on files." single "marmalade"])
-  (cpputils-cmake . [(0 4 7) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar "marmalade"])
+  (cpputils-cmake . [(0 4 8) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar "marmalade"])
   (wacspace . [(0 4 2) ((dash (1 2 0)) (cl-lib (0 2))) "The WACky WorkSPACE manager for emACS" tar "marmalade"])
   (scpaste . [(0 6 1) ((htmlize (1 39))) "Paste to the web via scp." single "marmalade"])
   (package . [(1 0 1) ((tabulated-list (1 0))) "Simple package system for Emacs  -*- lexical-binding:t -*-" single "marmalade"])
