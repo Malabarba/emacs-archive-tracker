@@ -283,7 +283,7 @@
   (esxml . [(20140320 1321) ((kv (0 0 5))) "Library for working with xml via esxml and sxml" single ((:keywords "tools" "lisp" "comm")) "melpa"])
   (etags-table . [(20130824 1157) nil "Set tags table(s) based on current file" single ((:keywords "etags" "tags" "tag")) "melpa"])
   (ethan-wspace . [(20130518 708) nil "whitespace customizations for emacs" single ((:keywords "whitespace" "tab" "newline" "trailing" "clean")) "melpa"])
-  (evil . [(20140502 338) ((undo-tree (0 6 3)) (goto-chg (1 6))) "Extensible Vi layer for Emacs." tar nil "melpa"])
+  (evil . [(20140502 414) ((undo-tree (0 6 3)) (goto-chg (1 6))) "Extensible Vi layer for Emacs." tar nil "melpa"])
   (evil-leader . [(20140307 1304) ((evil (0))) "let there be <leader>" single ((:url . "http://github.com/cofi/evil-leader") (:keywords "evil" "vim-emulation" "leader")) "melpa"])
   (evil-nerd-commenter . [(20140501 1600) nil "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" tar nil "melpa"])
   (evil-numbers . [(20121108 1738) nil "increment/decrement numbers like in vim" single ((:url . "http://github.com/cofi/evil-numbers") (:keywords "numbers" "increment" "decrement" "octal" "hex" "binary")) "melpa"])
