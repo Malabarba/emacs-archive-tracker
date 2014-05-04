@@ -1,7 +1,7 @@
 '(
   (evil-matchit . [(1 2 9) nil "Vim matchit ported into Emacs (requires EVIL)" tar "marmalade"])
   (navigate . [(0 1 5) nil "Seamlessly navigate between Emacs and tmux" single "marmalade"])
-  (org2nikola . [(0 0 7) nil "export html and meta data used by static blog like nikola from org file" tar "marmalade"])
+  (org2nikola . [(0 0 8) nil "export html and meta data used by static blog like nikola from org file" tar "marmalade"])
   (elpa-mirror . [(1 1 2) nil "ELPA mirror from locally installed packages is easy" tar "marmalade"])
   (flycheck-haskell . [(0 4) ((flycheck (0 16)) (haskell-mode (13 7)) (dash (2 4 0)) (f (0 11 0))) "Flycheck: Cabal projects and sandboxes" tar "marmalade"])
   (iregister . [(0 2 1) nil "Interactive register commands for Emacs." single "marmalade"])
