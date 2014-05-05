@@ -172,7 +172,7 @@
   (clojure-test-mode . [(3 0 0) ((clojure-mode (1 7)) (cider (0 4 0))) "Minor mode for Clojure tests" single "marmalade"])
   (android-mode . [(0 2 5) nil "Minor mode for Android application development" single "marmalade"])
   (fold-dwim-org . [(0 5) ((fold-dwim (1 2))) "Fold DWIM bound to org key-strokes." single "marmalade"])
-  (auto-indent-mode . [(0 123) nil "Auto indent Minor mode" single "marmalade"])
+  (auto-indent-mode . [(0 126) nil "Auto indent Minor mode" single "marmalade"])
   (guru-mode . [(0 2) nil "Become an Emacs guru   -*- lexical-binding:t -*-" single "marmalade"])
   (yari . [(0 7) nil "Yet Another RI interface for Emacs" single "marmalade"])
   (web . [(0 4 1) nil "useful HTTP client -*- lexical-binding: t -*-" single "marmalade"])
