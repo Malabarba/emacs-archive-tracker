@@ -89,7 +89,7 @@
   (column-enforce-mode . [(20131209 956) nil "Highlight text that extends beyond a  column" single ((:url . "www.github.com/jordonbiondo/column-enforce-mode")) "melpa"])
   (command-log-mode . [(20120329 629) nil "log keyboard commands to buffer" single ((:url . "https://github.com/lewang/command-log-mode") (:keywords "help")) "melpa"])
   (company-cider . [(20140201 1017) ((company (0 6 13)) (cider (0 6 0))) "company-mode completion back-end for Cider" single ((:url . "https://github.com/clojure-emacs/company-cider") (:keywords "company-mode" "completion" "backend" "cider" "clojure")) "melpa"])
-  (company-go . [(20140429 2147) ((company (0 6 12))) "company-mode backend for Go (using gocode)" single ((:keywords "languages")) "melpa"])
+  (company-go . [(20140505 1312) ((company (0 8 0))) "company-mode backend for Go (using gocode)" single ((:keywords "languages")) "melpa"])
   (company-inf-python . [(20140428 2315) ((company (0 6 12))) "Inferior python backend for company-mode" single ((:url . "https://github.com/proofit404/company-inf-python")) "melpa"])
   (company-tern . [(20140413 304) ((company (0 8 0)) (tern (0 0 1))) "Tern backend for company-mode" single ((:url . "https://github.com/proofit404/company-tern")) "melpa"])
   (conkeror-minor-mode . [(20131218 334) nil "Mode for editing conkeror javascript files." single ((:url . "http://github.com/BruceConnor/conkeror-minor-mode") (:keywords "programming" "tools")) "melpa"])
