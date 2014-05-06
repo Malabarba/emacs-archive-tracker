@@ -36,7 +36,7 @@
   (jgraph-mode . [(1 0) nil "Major mode for Jgraph files" single ((:url . "http://elpa.gnu.org/packages/jgraph-mode.html") (:keywords "tex" "wp")) "gnu"])
   (ioccur . [(2 4) nil "Incremental occur" single ((:url . "http://elpa.gnu.org/packages/ioccur.html") (:keywords)) "gnu"])
   (heap . [(0 3) nil "Heap (a.k.a. priority queue) data structure" single ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "extensions" "data structures" "heap" "priority queue")) "gnu"])
-  (ggtags . [(0 8 3) ((emacs (24)) (cl-lib (0 5))) "emacs frontend to GNU Global source code tagging system" single ((:url . "https://github.com/leoliu/ggtags") (:keywords "tools" "convenience")) "gnu"])
+  (ggtags . [(0 8 4) ((emacs (24)) (cl-lib (0 5))) "emacs frontend to GNU Global source code tagging system" single ((:url . "https://github.com/leoliu/ggtags") (:keywords "tools" "convenience")) "gnu"])
   (f90-interface-browser . [(1 1) nil "Parse and browse f90 interfaces" single ((:url . "http://github.com/wence-/f90-iface/") (:keywords)) "gnu"])
   (epoch-view . [(0 0 1) nil "Minor mode to visualize epoch timestamps" single ((:url . "http://elpa.gnu.org/packages/epoch-view.html") (:keywords "data" "timestamp" "epoch" "unix")) "gnu"])
   (enwc . [(1 0) nil "The Emacs Network Client" tar ((:keywords "enwc" "network" "wicd" "manager" "nm") (:url . "http://elpa.gnu.org/packages/enwc.html")) "gnu"])
