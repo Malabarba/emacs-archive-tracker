@@ -338,9 +338,9 @@
       ((:keywords "faces" "help" "comm" "news" "mail" "processes" "mouse" "hypermedia")
        (:url . "http://elpa.gnu.org/packages/w3.html"))])
  (web-server .
-	     [(0 1 0)
+	     [(0 1 1)
 	      ((emacs
-		(24 3)))
+		(24 4)))
 	      "Emacs Web Server" tar
 	      ((:keywords "http" "server" "network")
 	       (:url . "https://github.com/eschulte/emacs-web-server"))])

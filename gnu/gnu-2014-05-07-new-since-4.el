@@ -2,7 +2,7 @@
   (wpuzzle . [(1 1) nil "find as many word in a given time" single ((:url . "http://elpa.gnu.org/packages/wpuzzle.html") (:keywords)) "gnu"])
   (wisi . [(1 0 4) ((cl-lib (0 4)) (emacs (24 2))) "Utilities for implementing an indentation/navigation engine using a generalized LALR parser" tar ((:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])
   (websocket . [(1 1) nil "Emacs WebSocket client and server" tar ((:keywords "communication" "websocket" "server") (:url . "http://elpa.gnu.org/packages/websocket.html")) "gnu"])
-  (web-server . [(0 1 0) ((emacs (24 3))) "Emacs Web Server" tar ((:keywords "http" "server" "network") (:url . "https://github.com/eschulte/emacs-web-server")) "gnu"])
+  (web-server . [(0 1 1) ((emacs (24 4))) "Emacs Web Server" tar ((:keywords "http" "server" "network") (:url . "https://github.com/eschulte/emacs-web-server")) "gnu"])
   (w3 . [(4 0 49) nil "Fully customizable, largely undocumented web browser for Emacs" tar ((:keywords "faces" "help" "comm" "news" "mail" "processes" "mouse" "hypermedia") (:url . "http://elpa.gnu.org/packages/w3.html")) "gnu"])
   (temp-buffer-browse . [(1 2) nil "temp buffer browse mode" single ((:url . "http://elpa.gnu.org/packages/temp-buffer-browse.html") (:keywords "convenience")) "gnu"])
   (gnugo . [(2 3 1) ((ascii-art-to-unicode (1 5))) "play GNU Go in a buffer" tar ((:url . "http://elpa.gnu.org/packages/gnugo.html")) "gnu"])
