@@ -1,5 +1,5 @@
 '(
-  (eprime-mode . [(1 0 1) nil "An E-prime checking mode for Emacs" single "marmalade"])
+  (eprime-mode . [(1 0 3) nil "An E-prime checking mode for Emacs" single "marmalade"])
   (creds . [(0 0 6) ((s (1 9 0)) (dash (2 5 0))) "a simple parser credentials file lib" tar "marmalade"])
   (evil-matchit . [(1 2 9) nil "Vim matchit ported into Emacs (requires EVIL)" tar "marmalade"])
   (navigate . [(0 1 5) nil "Seamlessly navigate between Emacs and tmux" single "marmalade"])
