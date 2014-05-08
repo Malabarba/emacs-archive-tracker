@@ -1,5 +1,5 @@
 '(
-  (eprime-mode . [(1 0 3) nil "An E-prime checking mode for Emacs" single "marmalade"])
+  (eprime-mode . [(1 1 1) nil "An E-prime checking mode for Emacs" single "marmalade"])
   (creds . [(0 0 6) ((s (1 9 0)) (dash (2 5 0))) "a simple parser credentials file lib" tar "marmalade"])
   (evil-matchit . [(1 2 9) nil "Vim matchit ported into Emacs (requires EVIL)" tar "marmalade"])
   (navigate . [(0 1 5) nil "Seamlessly navigate between Emacs and tmux" single "marmalade"])
@@ -120,7 +120,7 @@
   (browse-url-dwim . [(0 6 6) ((string-utils (0 3 2))) "Context-sensitive external browse URL or Internet search" single "marmalade"])
   (buffer-utils . [(0 1 0) nil "Buffer-manipulation utility functions" single "marmalade"])
   (flyspell-lazy . [(0 6 6) nil "Improve flyspell responsiveness using idle timers" single "marmalade"])
-  (ignoramus . [(0 7 0) nil "Ignore backups, build files, et al." single "marmalade"])
+  (ignoramus . [(0 7 2) nil "Ignore backups, build files, et al." single "marmalade"])
   (unicode-whitespace . [(0 2 4) ((ucs-utils (0 7 6)) (persistent-soft (0 8 8)) (pcache (0 2 3))) "teach whitespace-mode about fancy characters" single "marmalade"])
   (ac-nrepl . [(0 21) ((cider (0 1)) (auto-complete (1 4))) "auto-complete sources for Clojure using nrepl completions" single "marmalade"])
   (ido-load-library . [(0 2 0) ((persistent-soft (0 8 8)) (pcache (0 2 3))) "Load-library alternative using ido-completing-read" single "marmalade"])
