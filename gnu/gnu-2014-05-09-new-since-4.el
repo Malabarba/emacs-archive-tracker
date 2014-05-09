@@ -10,7 +10,7 @@
   (easy-kill . [(0 9 3) ((emacs (24)) (cl-lib (0 5))) "kill & mark things easily" tar ((:keywords "killing" "convenience") (:url . "https://github.com/leoliu/easy-kill")) "gnu"])
   (dismal . [(1 5) ((cl-lib (0))) "Dis Mode Ain't Lotus: Spreadsheet program Emacs" tar ((:url . "http://elpa.gnu.org/packages/dismal.html")) "gnu"])
   (diff-hl . [(1 5 3) ((cl-lib (0 2))) "Highlight uncommitted changes" tar ((:keywords "vc" "diff") (:url . "https://github.com/dgutov/diff-hl")) "gnu"])
-  (ascii-art-to-unicode . [(1 5) nil "a small artist adjunct" single ((:url . "http://elpa.gnu.org/packages/ascii-art-to-unicode.html") (:keywords)) "gnu"])
+  (ascii-art-to-unicode . [(1 6) nil "a small artist adjunct" single ((:url . "http://elpa.gnu.org/packages/ascii-art-to-unicode.html") (:keywords)) "gnu"])
   (adjust-parens . [(3 0) nil "Indent and dedent Lisp code, automatically adjust close parens" tar ((:url . "http://elpa.gnu.org/packages/adjust-parens.html")) "gnu"])
   (ada-mode . [(5 1 3) ((wisi (1 0 4)) (cl-lib (0 4)) (emacs (24 2))) "major-mode for editing Ada sources" tar ((:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])
  )
