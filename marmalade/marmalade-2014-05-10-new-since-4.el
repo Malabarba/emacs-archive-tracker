@@ -6,7 +6,7 @@
   (org2nikola . [(0 0 8) nil "export html and meta data used by static blog like nikola from org file" tar "marmalade"])
   (elpa-mirror . [(1 1 2) nil "ELPA mirror from locally installed packages is easy" tar "marmalade"])
   (flycheck-haskell . [(0 4) ((flycheck (0 16)) (haskell-mode (13 7)) (dash (2 4 0)) (f (0 11 0))) "Flycheck: Cabal projects and sandboxes" tar "marmalade"])
-  (iregister . [(0 4 1) nil "Interactive register commands for Emacs." tar "marmalade"])
+  (iregister . [(0 5 0) nil "Interactive register commands for Emacs." tar "marmalade"])
   (epl . [(0 7) ((cl-lib (0 3))) "Emacs Package Library -*- lexical-binding: t; -*-" single "marmalade"])
   (flycheck-tcl . [(0 4) ((flycheck (0 17))) "A flycheck checker for Tcl using ActiveState's tclchecker" single "marmalade"])
   (latex-preview-pane . [(20140204) nil "Makes LaTeX editing less painful by providing a updatable preview pane. Full documentation can be found at: http://www.emacswiki.org/emacs/LaTeXPreviewPane" tar "marmalade"])
