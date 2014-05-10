@@ -1,4 +1,5 @@
 '(
+  (creds . [(0 0 6 1) ((s (1 9 0)) (dash (2 5 0))) "A parser credentials file library (not limited to credentials entries)" tar "marmalade"])
   (hardhat . [(0 4 4) ((ignoramus (0 7 0))) "Protect against clobbering user-writable files" single "marmalade"])
   (ucs-utils . [(0 7 10) ((persistent-soft (0 8 8)) (pcache (0 2 3)) (list-utils (0 4 2))) "Utilities for Unicode characters" single "marmalade"])
   (php-extras . [(2 2 0 20140405) ((php-mode (1 5 0))) "Extra features for `php-mode'" tar "marmalade"])

@@ -1,6 +1,6 @@
 '(
+  (creds . [(0 0 6 1) ((s (1 9 0)) (dash (2 5 0))) "A parser credentials file library (not limited to credentials entries)" tar "marmalade"])
   (eprime-mode . [(1 1 1) nil "An E-prime checking mode for Emacs" single "marmalade"])
-  (creds . [(0 0 6) ((s (1 9 0)) (dash (2 5 0))) "a simple parser credentials file lib" tar "marmalade"])
   (evil-matchit . [(1 2 9) nil "Vim matchit ported into Emacs (requires EVIL)" tar "marmalade"])
   (navigate . [(0 1 5) nil "Seamlessly navigate between Emacs and tmux" single "marmalade"])
   (org2nikola . [(0 0 8) nil "export html and meta data used by static blog like nikola from org file" tar "marmalade"])
