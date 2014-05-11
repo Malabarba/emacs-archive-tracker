@@ -64,7 +64,7 @@
   (cake-inflector . [(20140415 158) ((s (1 9 0))) "Lazy porting CakePHP infrector.php to el" single ((:url . "https://github.com/k1LoW/emacs-cake-inflector")) "melpa"])
   (cake2 . [(20140423 343) ((dash (2 6 0)) (s (1 9 0)) (f (0 16 2)) (ht (2 0)) (json (1 2)) (cake-inflector (1 1 0)) (historyf (0 0 8)) (anything (1 3 9))) "CakePHP2 Minor Mode" tar ((:url . "http://code.101000lab.org")) "melpa"])
   (calmer-forest-theme . [(20130925 2210) nil "Darkish theme with green/orange tint" single ((:url . "https://github.com/caldwell/calmer-forest-theme")) "melpa"])
-  (cask . [(20140324 15) ((s (1 8 0)) (dash (2 2 0)) (f (0 16 0)) (epl (0 5)) (shut-up (0 1 0)) (cl-lib (0 3)) (package-build (0 1))) "Cask: Project management for Emacs package development" tar ((:url . "http://github.com/cask/cask") (:keywords "speed" "convenience")) "melpa"])
+  (cask . [(20140511 43) ((s (1 8 0)) (dash (2 2 0)) (f (0 16 0)) (epl (0 5)) (shut-up (0 1 0)) (cl-lib (0 3)) (package-build (0 1))) "Cask: Project management for Emacs package development" tar ((:url . "http://github.com/cask/cask") (:keywords "speed" "convenience")) "melpa"])
   (caskxy . [(20140422 107) ((log4e (0 2 0)) (yaxception (0 1))) "Control Cask in Emacs" single ((:url . "https://github.com/aki2o/caskxy") (:keywords "convenience")) "melpa"])
   (cdnjs . [(20140217 1312) ((cl-lib (0 3)) (dash (2 5 0)) (deferred (0 3 2)) (f (0 16 0)) (pkg-info (0 4))) "A front end for http://cdnjs.com" single ((:url . "https://github.com/yasuyk/cdnjs.el") (:keywords "tools")) "melpa"])
   (cedit . [(20131224 1929) nil "paredit-like commands for c-like languages" single ((:url . "http://hins11.yu-yake.com/")) "melpa"])
