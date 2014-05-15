@@ -428,7 +428,7 @@
   (nanowrimo . [(20131130 2140) nil "Track progress for nanowrimo" single ((:url . "https://bitbucket.org/gvol/nanowrimo-mode")) "melpa"])
   (navi-mode . [(20140408 404) nil "major-mode for easy buffer-navigation" single ((:url . "https://github.com/tj64/outshine")) "melpa"])
   (navi2ch . [(20130618 514) nil "Navigator for 2ch for Emacsen" tar ((:keywords "network" "2ch")) "melpa"])
-  (navorski . [(20140513 1638) ((dash (1 5 0)) (multi-term (0 8 14))) "Helping you live in the terminal, like Viktor did." single ((:keywords "terminal")) "melpa"])
+  (navorski . [(20140514 1649) ((dash (1 5 0)) (multi-term (0 8 14))) "Helping you live in the terminal, like Viktor did." single ((:keywords "terminal")) "melpa"])
   (never-comment . [(20140104 1407) nil "Never blocks are comment" single ((:url . "http://stackoverflow.com/a/4554658/89376")) "melpa"])
   (newlisp-mode . [(20140109 1038) nil "newLISP editing mode for Emacs" single ((:url . "https://github.com/kosh04/newlisp-mode") (:keywords "language" "lisp" "newlisp")) "melpa"])
   (nexus . [(20140114 505) nil "REST Client for Nexus Maven Repository servers" tar ((:keywords "comm")) "melpa"])
