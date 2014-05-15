@@ -15,7 +15,7 @@
   (shen-mode . [(0 1) nil "A major mode for editing shen source code" tar ((:keywords "languages" "shen") (:url . "http://elpa.gnu.org/packages/shen-mode.html")) "gnu"])
   (register-list . [(0 1) nil "Interactively list/edit registers" single ((:url . "http://elpa.gnu.org/packages/register-list.html") (:keywords "register")) "gnu"])
   (rainbow-mode . [(0 9) nil "Colorize color names in buffers" single ((:url . "http://elpa.gnu.org/packages/rainbow-mode.html") (:keywords "faces")) "gnu"])
-  (queue . [(0 1) nil "Queue data structure" single ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "extensions" "data structures" "queue")) "gnu"])
+  (queue . [(0 1 1) nil "Queue data structure" single ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "extensions" "data structures" "queue")) "gnu"])
   (quarter-plane . [(0 1) nil "Minor mode for quarter-plane style editing" single ((:url . "http://elpa.gnu.org/packages/quarter-plane.html") (:keywords "convenience" "wp")) "gnu"])
   (org . [(20140512) nil "Outline-based notes management and organizer" tar nil "gnu"])
   (omn-mode . [(1 0) nil "Support for OWL Manchester Notation" single ((:url . "http://elpa.gnu.org/packages/omn-mode.html") (:keywords)) "gnu"])
