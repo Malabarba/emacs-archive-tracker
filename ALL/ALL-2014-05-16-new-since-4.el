@@ -492,7 +492,7 @@
   (phi-autopair . [(20140224 654) ((paredit (20))) "another simple-minded autopair implementation" single ((:url . "http://hins11.yu-yake.com/")) "melpa"])
   (phi-rectangle . [(20140216 2248) nil "another rectangle-mark command (rewrite of rect-mark)" single ((:url . "http://hins11.yu-yake.com/")) "melpa"])
   (phi-search-mc . [(20131010 358) ((phi-search (2 0 0)) (multiple-cursors (1 2 1))) "multiple-cursors extension for phi-search" single ((:url . "https://github.com/knu/phi-search-mc.el") (:keywords "search" "cursors")) "melpa"])
-  (php-auto-yasnippets . [(20140508 2217) ((php-mode (1 11)) (yasnippet (0 8 0))) "Creates snippets for PHP functions" tar ((:url . "https://github.com/ejmr/php-auto-yasnippets")) "melpa"])
+  (php-auto-yasnippets . [(20140515 2052) ((php-mode (1 11)) (yasnippet (0 8 0))) "Creates snippets for PHP functions" tar ((:url . "https://github.com/ejmr/php-auto-yasnippets")) "melpa"])
   (php-boris-minor-mode . [(20140209 1035) ((php-boris (0 0 1)) (highlight (0))) "a minor mode to evaluate PHP code in the Boris repl" single ((:url . "https://github.com/steckerhalter/php-boris-minor-mode") (:keywords "php" "repl" "eval")) "melpa"])
   (phpunit . [(20140505 352) ((s (1 9 0)) (f (0 16 0)) (pkg-info (0 5))) "Launch PHP unit tests using phpunit" single ((:url . "https://github.com/nlamirault/phpunit.el") (:keywords "php" "tests" "phpunit")) "melpa"])
   (pianobar . [(20120128 1301) nil "thin wrapper for Pianobar, a Pandora Radio client" single ((:url . "http://github.com/agrif/pianobar.el")) "melpa"])
