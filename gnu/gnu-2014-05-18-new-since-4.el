@@ -1,4 +1,5 @@
 '(
+  (xpm . [(1 0 0) nil "edit XPM images" tar ((:url . "http://elpa.gnu.org/packages/xpm.html")) "gnu"])
   (wpuzzle . [(1 1) nil "find as many word in a given time" single ((:url . "http://elpa.gnu.org/packages/wpuzzle.html") (:keywords)) "gnu"])
   (wisi . [(1 0 4) ((cl-lib (0 4)) (emacs (24 2))) "Utilities for implementing an indentation/navigation engine using a generalized LALR parser" tar ((:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])
   (websocket . [(1 1) nil "Emacs WebSocket client and server" tar ((:keywords "communication" "websocket" "server") (:url . "http://elpa.gnu.org/packages/websocket.html")) "gnu"])
@@ -6,6 +7,7 @@
   (w3 . [(4 0 49) nil "Fully customizable, largely undocumented web browser for Emacs" tar ((:keywords "faces" "help" "comm" "news" "mail" "processes" "mouse" "hypermedia") (:url . "http://elpa.gnu.org/packages/w3.html")) "gnu"])
   (temp-buffer-browse . [(1 2) nil "temp buffer browse mode" single ((:url . "http://elpa.gnu.org/packages/temp-buffer-browse.html") (:keywords "convenience")) "gnu"])
   (rudel . [(0 3) nil "A collaborative editing framework for Emacs" tar ((:keywords "rudel" "collaboration") (:url . "http://rudel.sourceforge.net/")) "gnu"])
+  (poker . [(0 1) nil "Texas hold'em poker" single ((:url . "http://elpa.gnu.org/packages/poker.html") (:keywords "games")) "gnu"])
   (gnugo . [(2 3 1) ((ascii-art-to-unicode (1 5))) "play GNU Go in a buffer" tar ((:url . "http://elpa.gnu.org/packages/gnugo.html")) "gnu"])
   (flylisp . [(0 2) nil "Color unbalanced parentheses and parentheses inconsistent with indentation" single ((:url . "http://elpa.gnu.org/packages/flylisp.html") (:keywords)) "gnu"])
   (easy-kill . [(0 9 3) ((emacs (24)) (cl-lib (0 5))) "kill & mark things easily" tar ((:keywords "killing" "convenience") (:url . "https://github.com/leoliu/easy-kill")) "gnu"])
