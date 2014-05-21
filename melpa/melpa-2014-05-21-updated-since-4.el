@@ -775,7 +775,7 @@
   (processing-snippets . [(20140426 728) ((yasnippet (0 8 0))) "Snippets for processing-mode" tar nil "melpa"])
   (project-local-variables . [(20080502 1652) nil "Set project-local variables from a file." single ((:url . "http://www.emacswiki.org/cgi-bin/wiki/ProjectLocalVariables") (:keywords "project" "convenience")) "melpa"])
   (project-persist . [(20131030 1208) nil "A minor mode to allow loading and saving of project settings." tar nil "melpa"])
-  (projectile . [(20140520 1327) ((s (1 6 0)) (dash (1 5 0)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" single ((:url . "https://github.com/bbatsov/projectile") (:keywords "project" "convenience")) "melpa"])
+  (projectile . [(20140521 500) ((s (1 6 0)) (dash (1 5 0)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" single ((:url . "https://github.com/bbatsov/projectile") (:keywords "project" "convenience")) "melpa"])
   (projmake-mode . [(20140401 1811) nil "Project oriented automatic builder and error
 highlighter, flymake for projects" tar nil "melpa"])
   (protobuf-mode . [(20091217 1755) nil "major mode for editing protocol buffers." single ((:keywords "google" "protobuf" "languages")) "melpa"])
