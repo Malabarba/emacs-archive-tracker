@@ -29,9 +29,9 @@
        ((:url . "http://elpa.gnu.org/packages/all.html")
 	(:keywords "matching"))])
  (ascii-art-to-unicode .
-		       [(1 8)
+		       [(1 9)
 			nil "a small artist adjunct" single
-			((:url . "http://elpa.gnu.org/packages/ascii-art-to-unicode.html")
+			((:url . "http://www.gnuvola.org/software/aa2u/")
 			 (:keywords "ascii" "unicode" "box-drawing"))])
  (auctex .
 	 [(11 87 5)
