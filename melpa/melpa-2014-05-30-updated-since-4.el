@@ -111,7 +111,7 @@
   (clippy . [(20140417 414) ((pos-tip (1 0))) "Show tooltip with function documentation at point" single ((:url . "https://github.com/Fuco1/clippy.el") (:keywords "docs")) "melpa"])
   (clj-refactor . [(20140508 133) ((s (1 8 0)) (dash (2 4 0)) (yasnippet (0 6 1)) (paredit (22)) (multiple-cursors (1 2 2))) "A collection of clojure refactoring functions" single ((:keywords "convenience")) "melpa"])
   (cljsbuild-mode . [(20140516 123) nil "A minor mode for the ClojureScript 'lein cljsbuild' command" single ((:url . "http://github.com/kototama/cljsbuild-mode") (:keywords "clojure" "clojurescript" "leiningen" "compilation")) "melpa"])
-  (clojure-mode . [(20140530 628) nil "Major mode for Clojure code" single ((:url . "http://github.com/clojure-emacs/clojure-mode") (:keywords "languages" "lisp")) "melpa"])
+  (clojure-mode . [(20140530 903) nil "Major mode for Clojure code" single ((:url . "http://github.com/clojure-emacs/clojure-mode") (:keywords "languages" "lisp")) "melpa"])
   (clojure-snippets . [(20140325 331) ((yasnippet (0 8 0))) "Yasnippets for clojure" tar nil "melpa"])
   (clojure-test-mode . [(20140530 514) ((clojure-mode (1 7)) (cider (0 4 0))) "Minor mode for Clojure tests" single ((:url . "http://emacswiki.org/cgi-bin/wiki/ClojureTestMode") (:keywords "languages" "lisp" "test")) "melpa"])
   (closure-lint-mode . [(20101118 1324) nil "minor mode for the Closure Linter" single ((:url . "https://github.com/r0man/closure-lint-mode") (:keywords "tools" "closure" "javascript" "lint" "flymake")) "melpa"])
