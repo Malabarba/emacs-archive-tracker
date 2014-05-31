@@ -263,7 +263,7 @@
   (fullframe . [(20140501 546) nil "Generalized automatic execution in a single frame" single ((:keywords "fullscreen")) "melpa"])
   (function-args . [(20140403 407) nil "C++ completion for GNU Emacs" single ((:url . "https://github.com/abo-abo/function-args")) "melpa"])
   (fvwm-mode . [(20140329 350) nil "major mode for editing Fvwm configuration files" single ((:keywords "files")) "melpa"])
-  (geiser . [(20140326 951) nil "GNU Emacs and Scheme talk to each other" tar nil "melpa"])
+  (geiser . [(20140530 2037) nil "GNU Emacs and Scheme talk to each other" tar nil "melpa"])
   (genrnc . [(20130711 2251) ((deferred (0 3 1)) (log4e (0 2 0)) (yaxception (0 1))) "generate RELAX NG Compact Schema from RELAX NG Schema, XML Schema and DTD." tar ((:url . "https://github.com/aki2o/emacs-genrnc") (:keywords "xml")) "melpa"])
   (gerrit-download . [(20140505 2259) ((emacs (24 0)) (magit (20130828 1540))) "Show gerrit reviews in a diff buffer." single ((:url . "https://github.com/chmouel/gerrit-download.el") (:keywords "tools" "gerrit" "git")) "melpa"])
   (ggtags . [(20140521 346) ((emacs (24)) (cl-lib (0 5))) "emacs frontend to GNU Global source code tagging system" single ((:url . "https://github.com/leoliu/ggtags") (:keywords "tools" "convenience")) "melpa"])

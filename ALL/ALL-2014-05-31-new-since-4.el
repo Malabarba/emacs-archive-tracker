@@ -764,7 +764,7 @@
   (winpoint-ignore-dired . [(1 1) ((winpoint (1 0))) "Have winpoint ignore dired-mode buffers" single "marmalade"])
   (wisp . [(0 1 4) nil "Tools for wisp: the Whitespace-to-Lisp preprocessor" single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
-  (xpm . [(1 0 1) nil "edit XPM images" tar ((:keywords "multimedia" "xpm") (:url . "http://elpa.gnu.org/packages/xpm.html")) "gnu"])
+  (xpm . [(1 0 2) nil "edit XPM images" tar ((:keywords "multimedia" "xpm") (:url . "http://www.gnuvola.org/software/xpm/")) "gnu"])
   (wpuzzle . [(1 1) nil "find as many word in a given time" single ((:url . "http://elpa.gnu.org/packages/wpuzzle.html") (:keywords)) "gnu"])
   (wisi . [(1 0 4) ((cl-lib (0 4)) (emacs (24 2))) "Utilities for implementing an indentation/navigation engine using a generalized LALR parser" tar ((:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])
   (w3 . [(4 0 49) nil "Fully customizable, largely undocumented web browser for Emacs" tar ((:keywords "faces" "help" "comm" "news" "mail" "processes" "mouse" "hypermedia") (:url . "http://elpa.gnu.org/packages/w3.html")) "gnu"])
