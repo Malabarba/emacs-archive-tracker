@@ -74,7 +74,7 @@
   (better-defaults . [(20130422 1322) nil "Fixing weird quirks and poor defaults" single ((:url . "https://github.com/technomancy/better-defaults") (:keywords "convenience")) "melpa"])
   (bf-mode . [(20130403 742) nil "Browse file persistently on dired" single ((:url . "https://github.com/emacs-jp/bf-mode") (:keywords "convenience")) "melpa"])
   (bibretrieve . [(20131013 1132) ((auctex (11 87)) (emacs (24 3))) "Retrieving BibTeX entries from the web" tar ((:keywords "bibtex" "latex" "mathscinet" "arxiv" "zbmath")) "melpa"])
-  (bind-key . [(20140525 1009) nil "A simple way to manage personal keybindings" single ((:url . "https://github.com/jwiegley/use-package") (:keywords "keys" "keybinding" "config" "dotemacs")) "melpa"])
+  (bind-key . [(20140531 1242) nil "A simple way to manage personal keybindings" single ((:url . "https://github.com/jwiegley/use-package") (:keywords "keys" "keybinding" "config" "dotemacs")) "melpa"])
   (birds-of-paradise-plus-theme . [(20130419 1429) nil "A brown/orange light-on-dark theme for Emacs 24 (deftheme)." single ((:url . "https://github.com/jimeh/birds-of-paradise-plus-theme.el") (:keywords "themes")) "melpa"])
   (bitlbee . [(20130328 1018) nil "Help get Bitlbee (http://www.bitlbee.org) up and running." single nil "melpa"])
   (bitly . [(20130503 149) nil "Shorten URLs using the bitly.com shortener service" single ((:url . "https://github.com/jorgenschaefer/bitly-el")) "melpa"])
