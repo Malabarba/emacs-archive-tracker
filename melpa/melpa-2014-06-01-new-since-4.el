@@ -167,6 +167,7 @@
   (dummyparens . [(20140214 2305) nil "parenthesis auto-pairing and wrapping" single ((:url . "https://github.com/snosov1/dummyparens") (:keywords "dummyparens" "auto-pair" "wrapping")) "melpa"])
   (dvorak-mode . [(20140423 1105) nil "Switch to dvorak layout easily" single ((:url . "https://github.com/proofit404/dvorak-mode")) "melpa"])
   (e2wm-direx . [(20140523 1723) ((e2wm (1 2)) (direx (0 1 -3))) "Plugin of e2wm.el for direx.el" single ((:url . "https://github.com/aki2o/e2wm-direx") (:keywords "tools" "window manager" "convenience")) "melpa"])
+  (e2wm-pkgex4pl . [(20140525 347) ((e2wm (1 2)) (plsense-direx (0 2 0))) "Plugin of e2wm.el for package explorer of Perl" single ((:url . "https://github.com/aki2o/e2wm-pkgex4pl") (:keywords "tools" "window manager" "perl")) "melpa"])
   (e2wm-sww . [(20140524 158) ((e2wm (1 2))) "Plugin of e2wm.el to switch plugin quickly" single ((:url . "https://github.com/aki2o/e2wm-sww") (:keywords "tools" "window manager")) "melpa"])
   (easy-kill . [(20140505 343) ((emacs (24)) (cl-lib (0 5))) "kill & mark things easily" tar ((:url . "https://github.com/leoliu/easy-kill") (:keywords "killing" "convenience")) "melpa"])
   (ede-compdb . [(20140406 1433) ((ede (1 2)) (semantic (2 2)) (cl-lib (0 4))) "Support for compilation database projects in EDE" single ((:keywords "development" "ninja" "build" "cedet" "ede")) "melpa"])
