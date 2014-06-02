@@ -678,7 +678,7 @@
   (tommyh-theme . [(20131004 1630) nil "A bright, bold-colored theme for emacs" single nil "melpa"])
   (tool-bar+ . [(20131227 203) nil "Extensions to standard library tool-bar.el" single ((:url . "http://www.emacswiki.org/tool-bar%2b.el") (:keywords "tool-bar" "convenience" "mouse" "button" "frame")) "melpa"])
   (tox . [(20140424 602) nil "Launch current python test with tox" single ((:url . "https://github.com/chmouel/tox.el") (:keywords "convenience" "tox" "python" "tests")) "melpa"])
-  (traad . [(20140515 203) ((deferred (0 3 2)) (popup (0 5 0)) (request (0 2 0))) "emacs interface to the traad refactoring server." single ((:url . "https://github.com/abingham/traad")) "melpa"])
+  (traad . [(20140601 2236) ((deferred (0 3 2)) (popup (0 5 0)) (request (0 2 0))) "emacs interface to the traad refactoring server." single ((:url . "https://github.com/abingham/traad")) "melpa"])
   (traad-autocomplete . [(20140130 711) ((traad (0 1)) (auto-complete (1 4 0))) "auto-complete sources for traad" single ((:url . "https://github.com/abingham/traad")) "melpa"])
   (tracwiki-mode . [(20140108 853) ((xml-rpc (1 6 8))) "Emacs Major mode for working with Trac" single ((:keywords "trac" "wiki" "tickets")) "melpa"])
   (tronesque-theme . [(20140407 657) nil "Color Theme based on Tron universe." single ((:url . "https://github.com/aurelienbottazini/tronesque")) "melpa"])
