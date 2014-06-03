@@ -1,0 +1,3 @@
+'(
+  (lxc . [(0 0 2) nil "lxc integration with Emacs" single "marmalade"])
+ )
