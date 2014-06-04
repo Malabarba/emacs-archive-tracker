@@ -176,4 +176,5 @@
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
   (marmalade-upload . [(0 0 2) ((web (0 4 1)) (kv (0 0 19))) "upload client for marmalade from emacs" single "marmalade"])
   (operate-on-number . [(1 1 0) nil "Operate on number at point with arithmetic functions" single "marmalade"])
+  (emacs-cl . [(0 5) nil "Emacs Common Lisp" tar "marmalade"])
  )

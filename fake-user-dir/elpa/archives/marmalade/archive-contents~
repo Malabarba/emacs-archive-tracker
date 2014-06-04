@@ -1,4 +1,7 @@
 (1
+ (emacs-cl .
+	   [(0 5)
+	    nil "Emacs Common Lisp" tar])
  (operate-on-number .
 		    [(1 1 0)
 		     nil "Operate on number at point with arithmetic functions" single])
