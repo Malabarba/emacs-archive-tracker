@@ -2767,8 +2767,8 @@
 		    (0 1)))
 		  "A flymake handler for coffee script" single])
  (flymake-checkers .
-		   [(0 3)
-		    nil "Flymake reloaded with useful checkers" single])
+		   [(0 5)
+		    nil "Transition package to Flycheck" single])
  (flymake .
 	  [(0 4 16)
 	   nil "a universal on-the-fly syntax checker" single])

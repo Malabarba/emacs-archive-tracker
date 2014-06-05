@@ -67,6 +67,7 @@
   (flex-autopair . [(0 1) nil "Automatically insert pair braces and quotes, insertion condition & action are highly customizable." single "marmalade"])
   (flycheck . [(0 18) ((s (1 9 0)) (dash (2 4 0)) (f (0 11 0)) (pkg-info (0 4)) (cl-lib (0 3)) (emacs (24 1))) "On-the-fly syntax checking (Flymake done right)" tar "marmalade"])
   (flycheck-color-mode-line . [(0 3) ((flycheck (0 15)) (dash (1 2)) (emacs (24 1))) "Change mode line color with Flycheck status" single "marmalade"])
+  (flymake-checkers . [(0 5) nil "Transition package to Flycheck" single "marmalade"])
   (flymake-coffee . [(0 12) ((flymake-easy (0 1))) "A flymake handler for coffee script" single "marmalade"])
   (flymake-elixir . [(0 5) nil "A flymake handler for elixir-mode .ex files." single "marmalade"])
   (flymake-haskell-multi . [(0 3) ((flymake-easy (0 1))) "Syntax-check haskell-mode using both ghc and hlint" single "marmalade"])
