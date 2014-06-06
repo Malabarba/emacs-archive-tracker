@@ -1292,7 +1292,7 @@
      [(0 12)
       nil "Emacs Lisp interface to the PostgreSQL RDBMS" single])
  (perspective .
-	      [(1 9)
+	      [(1 10)
 	       nil "switch between named \"perspectives\" of the editor" single])
  (persistent-soft .
 		  [(0 8 8)
