@@ -2953,7 +2953,7 @@
 		  (1)))
 		"Paredit support for evil keybindings" single])
  (evil-numbers .
-	       [(0 3)
+	       [(0 4)
 		nil "increment/decrement numbers like in vim" single])
  (evil-nerd-commenter .
 		      [(1 3 1)
@@ -2962,7 +2962,7 @@
 	       [(1 3 0)
 		nil "Vim matchit ported into Emacs (requires EVIL)" tar])
  (evil-leader .
-	      [(0 4 1)
+	      [(0 4 3)
 	       ((evil
 		 (0)))
 	       "let there be <leader>" single])
