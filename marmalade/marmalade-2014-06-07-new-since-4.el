@@ -26,7 +26,7 @@
   (creds . [(0 0 6 1) ((s (1 9 0)) (dash (2 5 0))) "A parser credentials file library (not limited to credentials entries)" tar "marmalade"])
   (ctags . [(1 1 1) nil "Exuberant Ctags utilities for Emacs" single "marmalade"])
   (cubicle-mode . [(0 1) nil "Cubicle major mode for emacs" single "marmalade"])
-  (dash-functional . [(1 0 0) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp" single "marmalade"])
+  (dash-functional . [(1 1 0) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp" single "marmalade"])
   (discord . [(0 5) nil "Discordian dates for calendar" single "marmalade"])
   (downplay-mode . [(0 1) nil "focus attention on a region of the buffer" single "marmalade"])
   (dummy-package . [(0 0 3) ((timeclock (2 6 1))) "a fake package for the marmalade test suite" single "marmalade"])

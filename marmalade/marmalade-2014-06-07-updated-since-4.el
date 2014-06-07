@@ -38,7 +38,7 @@
   (creole . [(1 0 3) ((noflet (0 0 3)) (kv (0 0 17))) "A parser for the Creole Wiki language" single "marmalade"])
   (cryptol-mode . [(0 1 0) nil "Cryptol major mode for Emacs" single "marmalade"])
   (ctags-update . [(0 1 2) nil "auto update TAGS in parent directory using exuberant-ctags" single "marmalade"])
-  (dash . [(2 5 0) nil "A modern list library for Emacs" single "marmalade"])
+  (dash . [(2 7 0) nil "A modern list library for Emacs" single "marmalade"])
   (db . [(0 0 6) ((kv (0 0 11))) "A database for EmacsLisp" single "marmalade"])
   (desktop-registry . [(1 2 0) nil "Keep a central registry of desktop files" single "marmalade"])
   (dired-single . [(1 7) nil "reuse the current dired buffer to visit another directory" single "marmalade"])

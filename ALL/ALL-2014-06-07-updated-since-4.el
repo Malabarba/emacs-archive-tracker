@@ -159,7 +159,7 @@
   (d-mode . [(20140206 1054) nil "D Programming Language mode for (X)Emacs" single ((:keywords "d" "programming" "language" "emacs" "cc-mode")) "melpa"])
   (darcsum . [(20140315 2110) nil "a pcl-cvs like interface for managing darcs patches" tar ((:keywords "completion" "convenience" "tools" "vc")) "melpa"])
   (dart-mode . [(20140411 1313) nil "Major mode for editing Dart files" single ((:url . "http://code.google.com/p/dart-mode") (:keywords "language")) "melpa"])
-  (dash . [(20140604 905) nil "A modern list library for Emacs" single ((:keywords "lists")) "melpa"])
+  (dash . [(20140607 33) nil "A modern list library for Emacs" single ((:keywords "lists")) "melpa"])
   (dash-at-point . [(20140515 1839) nil "Search the word at point with Dash" single ((:url . "https://github.com/stanaka/dash-at-point")) "melpa"])
   (datomic-snippets . [(20130707 1315) ((s (1 4 0)) (dash (1 2 0)) (yasnippet (0 6 1))) "Yasnippets for Datomic" tar nil "melpa"])
   (db . [(20140421 1411) ((kv (0 0 11))) "A database for EmacsLisp" single ((:keywords "data" "lisp")) "melpa"])
@@ -798,7 +798,7 @@
   (processing-snippets . [(20140426 728) ((yasnippet (0 8 0))) "Snippets for processing-mode" tar nil "melpa"])
   (project-local-variables . [(20080502 1652) nil "Set project-local variables from a file." single ((:url . "http://www.emacswiki.org/cgi-bin/wiki/ProjectLocalVariables") (:keywords "project" "convenience")) "melpa"])
   (project-persist . [(20131030 1208) nil "A minor mode to allow loading and saving of project settings." tar nil "melpa"])
-  (projectile . [(20140603 48) ((s (1 6 0)) (dash (1 5 0)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" single ((:url . "https://github.com/bbatsov/projectile") (:keywords "project" "convenience")) "melpa"])
+  (projectile . [(20140607 108) ((s (1 6 0)) (dash (1 5 0)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" single ((:url . "https://github.com/bbatsov/projectile") (:keywords "project" "convenience")) "melpa"])
   (projmake-mode . [(20140401 1811) nil "Project oriented automatic builder and error
 highlighter, flymake for projects" tar nil "melpa"])
   (protobuf-mode . [(20091217 1755) nil "major mode for editing protocol buffers." single ((:keywords "google" "protobuf" "languages")) "melpa"])

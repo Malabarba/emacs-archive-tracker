@@ -3394,14 +3394,14 @@
 	(0 0 11)))
       "A database for EmacsLisp" single])
  (dash-functional .
-		  [(1 0 0)
+		  [(1 1 0)
 		   ((dash
 		     (2 0 0))
 		    (emacs
 		     (24)))
 		   "Collection of useful combinators for Emacs Lisp" single])
  (dash .
-       [(2 5 0)
+       [(2 7 0)
 	nil "A modern list library for Emacs" single])
  (dart-mode .
 	    [(0 9)
