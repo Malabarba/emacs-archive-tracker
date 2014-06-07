@@ -3088,7 +3088,7 @@
 	   [(1 4 6)
 	    nil "Screen for Emacsen" single])
  (elpy .
-       [(1 2 1)
+       [(1 4 1)
 	((auto-complete
 	  (1 4))
 	 (find-file-in-project
@@ -3103,8 +3103,8 @@
 	  (0 97))
 	 (nose
 	  (0 1 1))
-	 (virtualenv
-	  (1 2))
+	 (pyvenv
+	  (1 0))
 	 (yasnippet
 	  (0 8 0)))
 	"Emacs Python Development Environment" tar])
