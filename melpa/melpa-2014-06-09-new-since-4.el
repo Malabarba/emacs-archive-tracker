@@ -644,7 +644,7 @@
   (slime-volleyball . [(20130930 821) nil "A slime volleyball clone" tar ((:keywords "games")) "melpa"])
   (smart-cursor-color . [(20140523 945) nil "Change cursor color dynamically" single ((:url . "https://github.com/7696122/smart-cursor-color/") (:keywords "cursor" "color" "face")) "melpa"])
   (smart-newline . [(20131207 1940) nil "Provide smart newline for one keybind." single nil "melpa"])
-  (smart-shift . [(20140607 841) nil "Smart shift text left/right." single ((:url . "https://github.com/hbin/smart-shift") (:keywords "convenience" "tools")) "melpa"])
+  (smart-shift . [(20140608 1945) nil "Smart shift text left/right." single ((:url . "https://github.com/hbin/smart-shift") (:keywords "convenience" "tools")) "melpa"])
   (smartscan . [(20131230 739) nil "Jumps between other symbols found at point" single ((:keywords "extensions")) "melpa"])
   (soft-charcoal-theme . [(20140420 943) nil "Dark charcoal theme with soft colors" single ((:url . "http://github.com/mswift42/soft-charcoal-theme")) "melpa"])
   (soft-morning-theme . [(20140410 1134) nil "Emacs24 theme with a light background." single ((:url . "http://github.com/mswift42/soft-morning-theme")) "melpa"])
