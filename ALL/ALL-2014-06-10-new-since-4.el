@@ -1,5 +1,5 @@
 '(
-  (2048-game . [(20140609 5) nil "play 2048 in Emacs" single ((:url . "https://bitbucket.org/zck/2048.el")) "melpa"])
+  (2048-game . [(20140609 1648) nil "play 2048 in Emacs" single ((:url . "https://bitbucket.org/zck/2048.el")) "melpa"])
   (4clojure . [(20131014 1507) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions" single ((:keywords "languages" "data")) "melpa"])
   (ac-c-headers . [(20131015 2339) nil "auto-complete source for C headers" single ((:url . "http://hins11.yu-yake.com/")) "melpa"])
   (ac-cake . [(20140315 929) ((cake (1 4 2)) (auto-complete (1 4 0))) "CakePHP Minor Mode auto-complete.el source" single ((:url . "http://code.101000lab.org")) "melpa"])
@@ -167,7 +167,7 @@
   (ede-compdb . [(20140406 1433) ((ede (1 2)) (semantic (2 2)) (cl-lib (0 4))) "Support for compilation database projects in EDE" single ((:keywords "development" "ninja" "build" "cedet" "ede")) "melpa"])
   (efire . [(20130811 1649) ((circe (1 2))) "Use campfire from Emacs" single ((:url . "https://github.com/capitaomorte/efire") (:keywords "convenience" "tools")) "melpa"])
   (eide . [(20140602 200) nil "IDE interface" tar nil "melpa"])
-  (el-get . [(20140608 329) nil "Manage the external elisp bits and pieces you depend upon" tar ((:url . "http://www.emacswiki.org/emacs/el-get") (:keywords "emacs" "package" "elisp" "install" "elpa" "git" "git-svn" "bzr" "cvs" "svn" "darcs" "hg" "apt-get" "fink" "pacman" "http" "http-tar" "emacswiki")) "melpa"])
+  (el-get . [(20140609 1626) nil "Manage the external elisp bits and pieces you depend upon" tar ((:url . "http://www.emacswiki.org/emacs/el-get") (:keywords "emacs" "package" "elisp" "install" "elpa" "git" "git-svn" "bzr" "cvs" "svn" "darcs" "hg" "apt-get" "fink" "pacman" "http" "http-tar" "emacswiki")) "melpa"])
   (el-spice . [(20140113 816) ((thingatpt+ (0))) "Extra spice for emacs lisp programming" tar ((:url . "https://github.com/vedang/el-spice") (:keywords "languages" "extensions")) "melpa"])
   (el-sprunge . [(20140106 1739) ((web-server (20140105 2246)) (htmlize (20130207 1202)) (emacs (24 3))) "Command line paste server with Emacs highlighting" tar nil "melpa"])
   (el-spy . [(20131226 1208) nil "Mocking framework for Emacs lisp. It also support spy, proxy." single ((:url . "https://github.com/uk-ar/el-spy") (:keywords "test")) "melpa"])
