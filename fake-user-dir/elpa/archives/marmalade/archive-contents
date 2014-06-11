@@ -1,4 +1,13 @@
 (1
+ (markdown-toc .
+	       [(0 0 4)
+		((markdown-mode
+		  (2 0))
+		 (dash
+		  (2 5 0))
+		 (s
+		  (1 7 0)))
+		"A simple TOC generator for markdown file" single])
  (emacs-cl .
 	   [(0 5)
 	    nil "Emacs Common Lisp" tar])
@@ -1445,7 +1454,7 @@
 	      (1 6 8)))
 	    "Blog from Org mode to wordpress" tar])
  (org-trello .
-	     [(0 4 4)
+	     [(0 4 8)
 	      ((db
 		(0 0 6))
 	       (s

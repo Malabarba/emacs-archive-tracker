@@ -142,7 +142,7 @@
   (org-email . [(1 0) nil "use org for an email database" single "marmalade"])
   (org-journal . [(1 4 8) nil "a simple org-mode based journaling mode" single "marmalade"])
   (org-table-comment . [(0 2) nil "Org table comment modes." single "marmalade"])
-  (org-trello . [(0 4 4) ((db (0 0 6)) (s (1 7 0)) (esxml (0 3 0)) (elnode (0 9 9 7 6)) (request (0 2 0)) (dash (2 5 0))) "Minor mode to synchronize org-mode buffer and trello board" tar "marmalade"])
+  (org-trello . [(0 4 8) ((db (0 0 6)) (s (1 7 0)) (esxml (0 3 0)) (elnode (0 9 9 7 6)) (request (0 2 0)) (dash (2 5 0))) "Minor mode to synchronize org-mode buffer and trello board" tar "marmalade"])
   (osx-browse . [(0 8 8) ((string-utils (0 3 2)) (browse-url-dwim (0 6 6))) "Web browsing helpers for OS X" single "marmalade"])
   (package . [(1 0 1) ((tabulated-list (1 0))) "Simple package system for Emacs" single "marmalade"])
   (page-break-lines . [(0 9) nil "Display ugly ^L page breaks as tidy horizontal lines" single "marmalade"])
