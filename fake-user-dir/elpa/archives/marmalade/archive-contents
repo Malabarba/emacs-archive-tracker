@@ -1,13 +1,13 @@
 (1
  (markdown-toc .
-	       [(0 0 4)
-		((markdown-mode
-		  (2 0))
+	       [(0 0 5)
+		((s
+		  (1 7 0))
 		 (dash
 		  (2 5 0))
-		 (s
-		  (1 7 0)))
-		"A simple TOC generator for markdown file" single])
+		 (markdown-mode
+		  (2 0)))
+		"A simple TOC generator for markdown file" tar])
  (emacs-cl .
 	   [(0 5)
 	    nil "Emacs Common Lisp" tar])
@@ -15,9 +15,9 @@
 		    [(1 1 0)
 		     nil "Operate on number at point with arithmetic functions" single])
  (marmalade-upload .
-		   [(0 0 3)
+		   [(0 0 4)
 		    ((web
-		      (0 4 1))
+		      (0 4 2))
 		     (kv
 		      (0 0 19)))
 		    "upload client for marmalade from emacs" single])
