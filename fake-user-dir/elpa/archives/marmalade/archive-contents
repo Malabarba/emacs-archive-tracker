@@ -15,7 +15,7 @@
 		    [(1 1 0)
 		     nil "Operate on number at point with arithmetic functions" single])
  (marmalade-upload .
-		   [(0 0 2)
+		   [(0 0 3)
 		    ((web
 		      (0 4 1))
 		     (kv
@@ -207,8 +207,10 @@
 	   [(8 0 4)
 	    nil "major mode for editing html templates" single])
  (web .
-      [(0 4 1)
-       nil "useful HTTP client" single])
+      [(0 4 2)
+       ((dash
+	 (2 3 0)))
+       "useful HTTP client" single])
  (weather-metno .
 		[(20140121)
 		 ((emacs
@@ -2826,7 +2828,7 @@
 		   (0 6 0)))
 		 "Cask support in Flycheck" single])
  (flycheck .
-	   [(0 18)
+	   [(0 19)
 	    ((s
 	      (1 9 0))
 	     (dash
@@ -2839,7 +2841,7 @@
 	      (0 3))
 	     (emacs
 	      (24 1)))
-	    "On-the-fly syntax checking (Flymake done right)" tar])
+	    "Modern on-the-fly syntax checking for GNU Emacs" tar])
  (flx-ido .
 	  [(0 2)
 	   ((flx

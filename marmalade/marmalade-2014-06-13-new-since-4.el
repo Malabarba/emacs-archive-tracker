@@ -174,7 +174,7 @@
   (xkcd . [(1 0) ((json (1 4))) "View xkcd from Emacs" single "marmalade"])
   (zeal-at-point . [(0 0 3) nil "Search the word at point with Zeal" single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
-  (marmalade-upload . [(0 0 2) ((web (0 4 1)) (kv (0 0 19))) "upload client for marmalade from emacs" single "marmalade"])
+  (marmalade-upload . [(0 0 3) ((web (0 4 1)) (kv (0 0 19))) "upload client for marmalade from emacs" single "marmalade"])
   (operate-on-number . [(1 1 0) nil "Operate on number at point with arithmetic functions" single "marmalade"])
   (emacs-cl . [(0 5) nil "Emacs Common Lisp" tar "marmalade"])
   (markdown-toc . [(0 0 4) ((markdown-mode (2 0)) (dash (2 5 0)) (s (1 7 0))) "A simple TOC generator for markdown file" single "marmalade"])
