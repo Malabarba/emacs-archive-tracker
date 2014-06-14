@@ -8,19 +8,6 @@
 		 (markdown-mode
 		  (2 0)))
 		"A simple TOC generator for markdown file" tar])
- (emacs-cl .
-	   [(0 5)
-	    nil "Emacs Common Lisp" tar])
- (operate-on-number .
-		    [(1 1 0)
-		     nil "Operate on number at point with arithmetic functions" single])
- (marmalade-upload .
-		   [(0 0 4)
-		    ((web
-		      (0 4 2))
-		     (kv
-		      (0 0 19)))
-		    "upload client for marmalade from emacs" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -1542,6 +1529,9 @@
  (org-blog .
 	   [(1 18 1 1)
 	    nil "create and publish a blog with org-mode" single])
+ (operate-on-number .
+		    [(1 1 0)
+		     nil "Operate on number at point with arithmetic functions" single])
  (openwith .
 	   [(20120531)
 	    nil "Open files with external programs" single])
@@ -1774,6 +1764,13 @@
  (master-mode .
 	      [(0 1)
 	       nil "Become an Emacs master" single])
+ (marmalade-upload .
+		   [(0 0 4)
+		    ((web
+		      (0 4 2))
+		     (kv
+		      (0 0 19)))
+		    "upload client for marmalade from emacs" single])
  (marmalade-test .
 		 [(0 0 1)
 		  nil "A test tarball package." tar])
@@ -3095,6 +3092,9 @@
  (emacs-droid .
 	      [(0 0 0)
 	       nil "Android application development tools for Emacs" single])
+ (emacs-cl .
+	   [(0 5)
+	    nil "Emacs Common Lisp" tar])
  (elscreen .
 	   [(1 4 6)
 	    nil "Screen for Emacsen" single])
@@ -3120,11 +3120,11 @@
 	  (0 8 0)))
 	"Emacs Python Development Environment" tar])
  (elpakit .
-	  [(1 0 7)
+	  [(1 1 1)
 	   ((anaphora
 	     (0 0 6))
 	    (dash
-	     (1 0 3)))
+	     (2 3 0)))
 	   "package archive builder" single])
  (elpa-mirror .
 	      [(1 1 2)
