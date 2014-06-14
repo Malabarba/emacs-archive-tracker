@@ -178,4 +178,5 @@
   (zeal-at-point . [(0 0 3) nil "Search the word at point with Zeal" single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
   (markdown-toc . [(0 0 5) ((s (1 7 0)) (dash (2 5 0)) (markdown-mode (2 0))) "A simple TOC generator for markdown file" tar "marmalade"])
+  (tdd . [(1 0) nil "recompile on save and indicate success in the mode line" single "marmalade"])
  )

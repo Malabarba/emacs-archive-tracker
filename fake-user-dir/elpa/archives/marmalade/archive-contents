@@ -1,4 +1,7 @@
 (1
+ (tdd .
+      [(1 0)
+       nil "recompile on save and indicate success in the mode line" single])
  (markdown-toc .
 	       [(0 0 5)
 		((s
@@ -975,10 +978,8 @@
 	     (1 0 0)))
 	   "An Emacs interface for RuboCop" single])
  (rspec-mode .
-	     [(1 7)
-	      ((ruby-mode
-		(1 0)))
-	      "Enhance ruby-mode for RSpec" single])
+	     [(1 9)
+	      nil "Enhance ruby-mode for RSpec" tar])
  (roy-mode .
 	   [(0 1 0)
 	    nil "Roy major mode" single])
@@ -3133,7 +3134,7 @@
 	     [(0 4)
 	      nil "Handy functions for inspecting and comparing package archives" single])
  (elnode .
-	 [(0 9 9 7 7)
+	 [(0 9 9 7 8)
 	  ((web
 	    (0 1 4))
 	   (dash
