@@ -1,5 +1,5 @@
 '(
-  (xpm . [(1 0 2) nil "edit XPM images" tar ((:keywords "multimedia" "xpm") (:url . "http://www.gnuvola.org/software/xpm/")) "gnu"])
+  (xpm . [(1 0 3) nil "edit XPM images" tar ((:keywords "multimedia" "xpm") (:url . "http://www.gnuvola.org/software/xpm/")) "gnu"])
   (wpuzzle . [(1 1) nil "find as many word in a given time" single ((:url . "http://elpa.gnu.org/packages/wpuzzle.html") (:keywords)) "gnu"])
   (wisi . [(1 0 4) ((cl-lib (0 4)) (emacs (24 2))) "Utilities for implementing an indentation/navigation engine using a generalized LALR parser" tar ((:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])
   (websocket . [(1 1) nil "Emacs WebSocket client and server" tar ((:keywords "communication" "websocket" "server") (:url . "http://elpa.gnu.org/packages/websocket.html")) "gnu"])

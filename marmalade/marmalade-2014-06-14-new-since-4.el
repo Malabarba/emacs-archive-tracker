@@ -103,7 +103,7 @@
   (magit-find-file . [(1 0 4) ((magit (1 2 0))) "completing-read over all files in Git" single "marmalade"])
   (magit-tramp . [(0 1 0) ((magit (1 2 0))) "git method for TRAMP" single "marmalade"])
   (mark . [(0 3) ((fm (1 0))) "Navigate and visualize the mark-ring" single "marmalade"])
-  (marmalade-demo . [(0 0 3) nil "a demonstration elpa package" single "marmalade"])
+  (marmalade-demo . [(0 0 5) nil "a demonstration elpa package" single "marmalade"])
   (marmalade-upload . [(0 0 4) ((web (0 4 2)) (kv (0 0 19))) "upload client for marmalade from emacs" single "marmalade"])
   (master-mode . [(0 1) nil "Become an Emacs master" single "marmalade"])
   (mc-jump . [(1 0 0) nil "like \"jump-char\", but \"multiple-cursors\" friendly" single "marmalade"])

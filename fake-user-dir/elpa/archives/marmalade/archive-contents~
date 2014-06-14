@@ -1784,7 +1784,7 @@
 		       (0 9 9 6 10)))
 		     "The Marmalade package store service." tar])
  (marmalade-demo .
-		 [(0 0 3)
+		 [(0 0 5)
 		  nil "a demonstration elpa package" single])
  (marmalade .
 	    [(0 0 4)
