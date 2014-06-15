@@ -1,4 +1,7 @@
 (1
+ (highlight-sexp .
+		 [(1 0)
+		  nil "highlight current zone according to its context" single])
  (tdd .
       [(1 0)
        nil "recompile on save and indicate success in the mode line" single])
@@ -978,7 +981,7 @@
 	     (1 0 0)))
 	   "An Emacs interface for RuboCop" single])
  (rspec-mode .
-	     [(1 9)
+	     [(1 10)
 	      nil "Enhance ruby-mode for RSpec" tar])
  (roy-mode .
 	   [(0 1 0)
