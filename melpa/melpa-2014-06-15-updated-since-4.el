@@ -47,7 +47,7 @@
   (auto-auto-indent . [(20131106 1103) ((es-lib (0 1)) (cl-lib (1 0))) "Indents code as you type" single ((:url . "https://github.com/sabof/auto-auto-indent")) "melpa"])
   (auto-capitalize . [(20131014 505) nil "Automatically capitalize (or upcase) words" single ((:keywords "text" "wp" "convenience rcs $id: auto-capitalize.el" "v 2.20 2005/05/25 18:47:22 kevinr exp $")) "melpa"])
   (auto-compile . [(20140521 723) ((cl-lib (0 2)) (packed (0 3 4))) "automatically compile Emacs Lisp libraries" single ((:url . "http://tarsius.github.com/auto-compile") (:keywords "compile" "convenience" "lisp")) "melpa"])
-  (auto-complete . [(20140605 1908) ((popup (0 5 0))) "Auto Completion for GNU Emacs" tar nil "melpa"])
+  (auto-complete . [(20140615 811) ((popup (0 5 0))) "Auto Completion for GNU Emacs" tar nil "melpa"])
   (auto-complete-clang . [(20140409 52) ((auto-complete (1 3 1))) "Auto Completion source for clang for GNU Emacs" single ((:url . "https://github.com/brianjcj/auto-complete-clang") (:keywords "completion" "convenience")) "melpa"])
   (auto-complete-clang-async . [(20130526 814) nil "Auto Completion source for clang for GNU Emacs" single ((:keywords "completion" "convenience")) "melpa"])
   (auto-dictionary . [(20130628 253) nil "automatic dictionary switcher for flyspell" single ((:url . "http://nschum.de/src/emacs/auto-dictionary/") (:keywords "wp")) "melpa"])
