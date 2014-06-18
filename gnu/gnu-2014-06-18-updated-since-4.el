@@ -9,7 +9,7 @@
   (tNFA . [(0 1 1) ((queue (0 1))) "Tagged non-deterministic finite-state automata" single ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "extensions" "matching" "data structures tnfa" "nfa" "dfa" "finite state automata" "automata" "regexp")) "gnu"])
   (svg-clock . [(0 5) nil "Analog clock using Scalable Vector Graphics" single ((:url . "http://elpa.gnu.org/packages/svg-clock.html") (:keywords "demo" "svg" "clock")) "gnu"])
   (sokoban . [(1 4) nil "Implementation of Sokoban for Emacs." tar ((:keywords "games") (:url . "http://elpa.gnu.org/packages/sokoban.html")) "gnu"])
-  (sml-mode . [(6 4) nil "Major mode for editing (Standard) ML" single ((:url . "http://elpa.gnu.org/packages/sml-mode.html") (:keywords "sml")) "gnu"])
+  (sml-mode . [(6 5) nil "Major mode for editing (Standard) ML" single ((:url . "http://elpa.gnu.org/packages/sml-mode.html") (:keywords "sml")) "gnu"])
   (smart-operator . [(4 0) nil "Insert operators with surrounding spaces smartly" single ((:url . "http://xwl.appspot.com/ref/smart-operator.el") (:keywords)) "gnu"])
   (sisu-mode . [(3 0 3) nil "Major mode for SiSU markup text" single ((:url . "http://elpa.gnu.org/packages/sisu-mode.html") (:keywords "text" "processes" "tools")) "gnu"])
   (shen-mode . [(0 1) nil "A major mode for editing shen source code" tar ((:keywords "languages" "shen") (:url . "http://elpa.gnu.org/packages/shen-mode.html")) "gnu"])

@@ -38,7 +38,7 @@
 	  nil "Integrated environment for *TeX*" tar
 	  ((:url . "http://www.gnu.org/software/auctex/"))])
  (chess .
-	[(2 0 1)
+	[(2 0 2)
 	 ((cl-lib
 	   (0 5)))
 	 "Play chess in GNU Emacs" tar
@@ -310,7 +310,7 @@
 		  ((:url . "http://xwl.appspot.com/ref/smart-operator.el")
 		   (:keywords))])
  (sml-mode .
-	   [(6 4)
+	   [(6 5)
 	    nil "Major mode for editing (Standard) ML" single
 	    ((:url . "http://elpa.gnu.org/packages/sml-mode.html")
 	     (:keywords "sml"))])
