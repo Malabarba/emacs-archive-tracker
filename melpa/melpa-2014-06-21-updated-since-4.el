@@ -432,7 +432,7 @@
   (helm-gtags . [(20140608 734) ((helm (1 5 6)) (cl-lib (0 5))) "GNU GLOBAL helm interface" single ((:url . "https://github.com/syohex/emacs-helm-gtags")) "melpa"])
   (helm-ls-git . [(20140527 133) nil "list git files." single nil "melpa"])
   (helm-migemo . [(20130820 440) ((helm (1 5 3)) (migemo (1 9))) "Migemo plug-in for helm" single ((:url . "https://github.com/emacs-helm/helm-migemo") (:keywords "matching" "convenience" "tools" "i18n")) "melpa"])
-  (helm-open-github . [(20140307 1623) ((helm (1 0)) (gh (1 0)) (cl-lib (0 5))) "Utilities of Opening Github Page" single ((:url . "https://github.com/syohex/emacs-helm-open-github")) "melpa"])
+  (helm-open-github . [(20140621 646) ((helm (1 0)) (gh (1 0)) (cl-lib (0 5))) "Utilities of Opening Github Page" single ((:url . "https://github.com/syohex/emacs-helm-open-github")) "melpa"])
   (helm-orgcard . [(20130608 430) ((helm (1 5 2))) "browse the orgcard by helm" single ((:url . "https://github.com/emacs-helm/helm-orgcard") (:keywords "convenience" "helm" "org")) "melpa"])
   (helm-project-persist . [(20130601 1328) ((helm (1 5 2)) (project-persist (0 1 4))) "Helm integration for project-persist package" single ((:keywords "project-persist" "project" "helm")) "melpa"])
   (helm-projectile . [(20140603 48) ((helm (1 4 0)) (projectile (0 11 0)) (cl-lib (0 3))) "Helm integration for Projectile" single ((:url . "https://github.com/bbatsov/projectile") (:keywords "project" "convenience")) "melpa"])
