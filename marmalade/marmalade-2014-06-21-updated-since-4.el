@@ -218,7 +218,7 @@
   (virtualenv . [(1 2) nil "Virtualenv for Python" single "marmalade"])
   (wacspace . [(0 4 2) ((dash (1 2 0)) (cl-lib (0 2))) "The WACky WorkSPACE manager for emACS" tar "marmalade"])
   (wc-mode . [(1 3) nil "Running word count with goals (minor mode)" single "marmalade"])
-  (wcheck-mode . [(2014 5 17) nil "General interface for text checkers" tar "marmalade"])
+  (wcheck-mode . [(2014 6 21) nil "General interface for text checkers" tar "marmalade"])
   (weather-metno . [(20140121) ((emacs (24)) (cl-lib (0 3))) "Weather data from met.no in Emacs" tar "marmalade"])
   (web . [(0 4 2) ((dash (2 3 0))) "useful HTTP client" single "marmalade"])
   (web-mode . [(8 0 4) nil "major mode for editing html templates" single "marmalade"])
