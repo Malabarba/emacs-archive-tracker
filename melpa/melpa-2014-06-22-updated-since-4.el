@@ -588,7 +588,7 @@
   (lorem-ipsum . [(20051013 1756) nil "Insert dummy pseudo Latin text." single nil "melpa"])
   (love-minor-mode . [(20130429 1459) ((lua-mode (20130419))) "Minor mode for working on L\303\226VE projects" single ((:url . "https://github.com/ejmr/love-minor-mode")) "melpa"])
   (lua-mode . [(20140525 251) nil "a major-mode for editing Lua scripts" single ((:url . "http://immerrr.github.com/lua-mode") (:keywords "languages" "processes" "tools")) "melpa"])
-  (lui . [(20131201 620) ((tracking (0))) "Linewise User Interface" tar nil "melpa"])
+  (lui . [(20140622 1200) ((tracking (0))) "Linewise User Interface" tar nil "melpa"])
   (lusty-explorer . [(20130407 1056) nil "Dynamic filesystem explorer and buffer switcher" single ((:keywords "convenience" "files" "matching")) "melpa"])
   (macro-math . [(20130328 904) nil "in-buffer mathematical operations" single ((:url . "http://nschum.de/src/emacs/macro-math/") (:keywords "convenience")) "melpa"])
   (macrostep . [(20140529 1746) nil "interactive macro stepper for Emacs Lisp" single ((:url . "https://github.com/joddie/macrostep") (:keywords "lisp" "languages" "macro" "debugging")) "melpa"])
