@@ -16,7 +16,7 @@
   (bert . [(0 1) nil "BERT serialization library for Emacs" single "marmalade"])
   (bubbleberry-theme . [(0 1 2) ((emacs (24 1))) "A theme based on LightTable for Emacs24" single "marmalade"])
   (cedit . [(0 0 0) nil "paredit-like commands for c-like languages" single "marmalade"])
-  (cider . [(0 5 0) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 4 1)) (pkg-info (0 4))) "Clojure Integrated Development Environment and REPL" tar "marmalade"])
+  (cider . [(0 6 0) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 4 1)) (pkg-info (0 4))) "Clojure Integrated Development Environment and REPL" tar "marmalade"])
   (cl-lib-highlight . [(1 0 0) ((cl-lib (0 3))) "full cl-lib font-lock highlighting" single "marmalade"])
   (clojure-project . [(1 0) ((project-mode (1 0))) "Extends project-mode for Clojure projects" single "marmalade"])
   (cmuclojure . [(0 2) nil "Clojure process in a buffer" single "marmalade"])
