@@ -9,6 +9,7 @@
   (rudel . [(0 3) nil "A collaborative editing framework for Emacs" tar ((:keywords "rudel" "collaboration") (:url . "http://rudel.sourceforge.net/")) "gnu"])
   (poker . [(0 1) nil "Texas hold'em poker" single ((:url . "http://elpa.gnu.org/packages/poker.html") (:keywords "games")) "gnu"])
   (osc . [(0 1) nil "Open Sound Control protocol library" single ((:url . "http://elpa.gnu.org/packages/osc.html") (:keywords "comm" "processes" "multimedia")) "gnu"])
+  (metar . [(0 1) ((cl-lib (0 5))) "Retrieve and decode METAR weather information" single ((:url . "http://elpa.gnu.org/packages/metar.html") (:keywords "comm")) "gnu"])
   (gnugo . [(2 3 1) ((ascii-art-to-unicode (1 5)) (xpm (1 0 1)) (cl-lib (0 5))) "play GNU Go in a buffer" tar ((:keywords "games" "processes") (:url . "http://elpa.gnu.org/packages/gnugo.html")) "gnu"])
   (flylisp . [(0 2) nil "Color unbalanced parentheses and parentheses inconsistent with indentation" single ((:url . "http://elpa.gnu.org/packages/flylisp.html") (:keywords)) "gnu"])
   (easy-kill . [(0 9 3) ((emacs (24)) (cl-lib (0 5))) "kill & mark things easily" tar ((:keywords "killing" "convenience") (:url . "https://github.com/leoliu/easy-kill")) "gnu"])
