@@ -35,7 +35,7 @@
   (color-theme-ir-black . [(1 0 1) ((color-theme (6 6 1))) "pastel color theme" single "marmalade"])
   (combinators . [(0 0 1) nil "" single "marmalade"])
   (cpputils-cmake . [(0 4 8) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar "marmalade"])
-  (creole . [(1 0 3) ((noflet (0 0 3)) (kv (0 0 17))) "A parser for the Creole Wiki language" single "marmalade"])
+  (creole . [(1 0 4) ((noflet (0 0 3)) (kv (0 0 17))) "A parser for the Creole Wiki language" single "marmalade"])
   (cryptol-mode . [(0 1 0) nil "Cryptol major mode for Emacs" single "marmalade"])
   (ctags-update . [(0 1 2) nil "auto update TAGS in parent directory using exuberant-ctags" single "marmalade"])
   (dash . [(2 7 0) nil "A modern list library for Emacs" single "marmalade"])
