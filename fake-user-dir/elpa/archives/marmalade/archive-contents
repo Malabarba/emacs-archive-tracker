@@ -102,7 +102,7 @@
 	      [(0 7 1)
 	       nil "Wrap text with punctation or tag" single])
  (world-time-mode .
-		  [(0 0 2)
+		  [(0 0 6)
 		   nil "show whole days of world-time diffs" single])
  (workspaces .
 	     [(0 1)
