@@ -106,7 +106,7 @@
   (company-anaconda . [(20140621 1056) ((company (0 8 0)) (anaconda-mode (0 1 0)) (cl-lib (0 5 0))) "Anaconda backend for company-mode" single ((:url . "https://github.com/anaconda-mode/company-anaconda")) "melpa"])
   (company-c-headers . [(20140531 934) ((emacs (24 1)) (company (0 8))) "Company mode backend for C/C++ header files" single ((:keywords "development" "company")) "melpa"])
   (company-cider . [(20140201 1017) ((company (0 6 13)) (cider (0 6 0))) "company-mode completion back-end for Cider" single ((:url . "https://github.com/clojure-emacs/company-cider") (:keywords "company-mode" "completion" "backend" "cider" "clojure")) "melpa"])
-  (company-ghc . [(20140625 806) ((cl-lib (0 5)) (company (0 8 0)) (ghc (4 1 1)) (emacs (24))) "company-mode ghc-mod backend" single ((:url . "http://github.com/iquiw/company-ghc") (:keywords "haskell" "completion")) "melpa"])
+  (company-ghc . [(20140628 234) ((cl-lib (0 5)) (company (0 8 0)) (ghc (4 1 1)) (emacs (24))) "company-mode ghc-mod backend" single ((:url . "http://github.com/iquiw/company-ghc") (:keywords "haskell" "completion")) "melpa"])
   (company-go . [(20140505 1312) ((company (0 8 0))) "company-mode backend for Go (using gocode)" single ((:keywords "languages")) "melpa"])
   (company-inf-python . [(20140530 1238) ((company (0 6 12)) (cl-lib (0 5 0))) "Inferior python backend for company-mode" single ((:url . "https://github.com/proofit404/company-inf-python")) "melpa"])
   (company-irony . [(20140625 423) ((emacs (24 1)) (company (0 8 0)) (irony (0 1 0)) (cl-lib (0 5))) "company-mode completion back-end for irony-mode" single ((:url . "https://github.com/Sarcasm/company-irony/") (:keywords "convenience")) "melpa"])
