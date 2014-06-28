@@ -628,7 +628,7 @@
   (shadow . [(20110507 24) nil "That's not the file. That's shadow." single ((:keywords "shadow.vim" "files" "processes")) "melpa"])
   (shampoo . [(20131230 219) nil "A remote Smalltalk development mode" tar nil "melpa"])
   (shell-current-directory . [(20140101 1554) nil "create new shell based on buffer directory" single ((:keywords "shell" "comint")) "melpa"])
-  (shm . [(20140627 1537) nil "Structured Haskell Mode" tar ((:keywords "development" "haskell" "structured")) "melpa"])
+  (shm . [(20140627 1626) nil "Structured Haskell Mode" tar ((:keywords "development" "haskell" "structured")) "melpa"])
   (shoulda . [(20140616 1133) ((cl-lib (0 5))) "Shoulda test support for ruby" single ((:keywords "ruby" "tests" "shoulda")) "melpa"])
   (shut-up . [(20140610 729) ((cl-lib (0 3)) (emacs (24))) "Shut up would you!" single ((:url . "http://github.com/rejeep/shut-up.el")) "melpa"])
   (simple+ . [(20131227 154) ((strings (0))) "Extensions to standard library `simple.el'." single ((:url . "http://www.emacswiki.org/simple%2b.el") (:keywords "internal" "lisp" "extensions" "abbrev")) "melpa"])
