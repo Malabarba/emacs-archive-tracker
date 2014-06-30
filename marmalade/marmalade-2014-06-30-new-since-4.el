@@ -177,7 +177,7 @@
   (xkcd . [(1 0) ((json (1 4))) "View xkcd from Emacs" single "marmalade"])
   (zeal-at-point . [(0 0 3) nil "Search the word at point with Zeal" single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
-  (markdown-toc . [(0 0 5) ((s (1 7 0)) (dash (2 5 0)) (markdown-mode (2 0))) "A simple TOC generator for markdown file" tar "marmalade"])
+  (markdown-toc . [(0 0 6) ((markdown-mode (2 0)) (dash (2 5 0)) (s (1 7 0))) "A simple TOC generator for markdown file" single "marmalade"])
   (tdd . [(1 0) nil "recompile on save and indicate success in the mode line" single "marmalade"])
   (highlight-sexp . [(1 0) nil "highlight current zone according to its context" single "marmalade"])
   (eldoro . [(0 1 0) nil "A pomodoro timer/tracker that works with org-mode." tar "marmalade"])

@@ -176,7 +176,7 @@
   (e2wm-pkgex4pl . [(20140525 347) ((e2wm (1 2)) (plsense-direx (0 2 0))) "Plugin of e2wm.el for package explorer of Perl" single ((:url . "https://github.com/aki2o/e2wm-pkgex4pl") (:keywords "tools" "window manager" "perl")) "melpa"])
   (e2wm-sww . [(20140524 158) ((e2wm (1 2))) "Plugin of e2wm.el to switch plugin quickly" single ((:url . "https://github.com/aki2o/e2wm-sww") (:keywords "tools" "window manager")) "melpa"])
   (easy-kill . [(20140505 343) ((emacs (24)) (cl-lib (0 5))) "kill & mark things easily" tar ((:url . "https://github.com/leoliu/easy-kill") (:keywords "killing" "convenience")) "melpa"])
-  (edbi-django . [(20140626 1351) ((emacs (24)) (edbi (0 1 3)) (f (0 16 2))) "Run edbi with django settings" tar ((:url . "https://github.com/proofit404/edbi-django")) "melpa"])
+  (edbi-django . [(20140630 253) ((emacs (24)) (edbi (0 1 3)) (f (0 16 2))) "Run edbi with django settings" tar ((:url . "https://github.com/proofit404/edbi-django")) "melpa"])
   (ede-compdb . [(20140406 1433) ((ede (1 2)) (semantic (2 2)) (cl-lib (0 4))) "Support for compilation database projects in EDE" single ((:keywords "development" "ninja" "build" "cedet" "ede")) "melpa"])
   (efire . [(20130811 1649) ((circe (1 2))) "Use campfire from Emacs" single ((:url . "https://github.com/capitaomorte/efire") (:keywords "convenience" "tools")) "melpa"])
   (eide . [(20140627 514) nil "IDE interface" tar nil "melpa"])
