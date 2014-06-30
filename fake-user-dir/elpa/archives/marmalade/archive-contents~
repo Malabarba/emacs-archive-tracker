@@ -1,4 +1,7 @@
 (1
+ (eldoro .
+	 [(0 1 0)
+	  nil "A pomodoro timer/tracker that works with org-mode." tar])
  (highlight-sexp .
 		 [(1 0)
 		  nil "highlight current zone according to its context" single])
