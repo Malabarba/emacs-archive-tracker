@@ -293,7 +293,7 @@
   (gnus-spotlight . [(20130901 1435) nil "Search mail with Spotlight" single ((:keywords "mail" "searching" "spotlight")) "melpa"])
   (gnus-summary-ext . [(20131222 2021) ((macro-utils (1 0))) "Extra limit and process mark commands for the gnus summary buffer" single ((:url . "https://github.com/vapniks/gnus-summary-ext") (:keywords "comm")) "melpa"])
   (gnus-x-gm-raw . [(20140610 31) ((log4e (0 2 0)) (yaxception (0 1))) "Search mail of Gmail using X-GM-RAW as web interface" single ((:url . "https://github.com/aki2o/gnus-x-gm-raw") (:keywords "gnus")) "melpa"])
-  (go-direx . [(20140303 447) ((direx (0 1 -3)) (cl-lib (0 5))) "Tree style source code viewer for Go language" single ((:url . "https://github.com/syohex/emacs-go-direx")) "melpa"])
+  (go-direx . [(20140701 826) ((direx (0 1 -3)) (cl-lib (0 5))) "Tree style source code viewer for Go language" single ((:url . "https://github.com/syohex/emacs-go-direx")) "melpa"])
   (go-projectile . [(20140624 1735) ((projectile (0 10 0)) (go-mode (0)) (go-eldoc (0 16))) "Go add-ons for Projectile" single ((:url . "https://github.com/dougm/go-projectile") (:keywords "project" "convenience")) "melpa"])
   (god-mode . [(20140608 252) nil "God-like command entering minor mode" single ((:url . "https://github.com/chrisdone/god-mode")) "melpa"])
   (gold-mode . [(20140606 1906) ((sws-mode (0))) "Major mode for editing .gold files" single ((:url . "https://github.com/yuutayamada/gold-mode-el") (:keywords "golang" "template" "gold")) "melpa"])
