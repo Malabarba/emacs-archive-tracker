@@ -85,7 +85,7 @@
   (chef-mode . [(20111121 700) nil "minor mode for editing an opscode chef repository" single ((:keywords "chef" "knife")) "melpa"])
   (cherry-blossom-theme . [(20140126 1025) ((emacs (24 0))) "a soothing color theme for Emacs24." single ((:url . "https://github.com/byels/emacs-cherry-blossom-theme")) "melpa"])
   (chruby . [(20140223 1028) nil "Emacs integration for chruby" single ((:url . "http://www.emacswiki.org/emacs/ChrubyEl") (:keywords "ruby" "chruby")) "melpa"])
-  (cider . [(20140624 1355) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 4 1)) (pkg-info (0 4)) (emacs (24))) "Clojure Integrated Development Environment and REPL" tar ((:url . "http://www.github.com/clojure-emacs/cider") (:keywords "languages" "clojure" "cider")) "melpa"])
+  (cider . [(20140703 557) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 4 1)) (pkg-info (0 4)) (emacs (24))) "Clojure Integrated Development Environment and REPL" tar ((:url . "http://www.github.com/clojure-emacs/cider") (:keywords "languages" "clojure" "cider")) "melpa"])
   (cider-decompile . [(20131116 1002) ((cider (0 3 0)) (javap-mode (9))) "decompilation extension for cider" single ((:url . "http://www.github.com/clojure-emacs/cider-decompile") (:keywords "languages" "clojure" "cider")) "melpa"])
   (cider-tracing . [(20131018 738) ((cider (0 3 0)) (clojure-mode (2 1 0))) "Tracing extension for CIDER" single ((:url . "http://www.github.com/clojure-emacs/cider-tracing") (:keywords "languages" "clojure" "cider")) "melpa"])
   (cl-lib-highlight . [(20140127 1312) ((cl-lib (0 3))) "full cl-lib font-lock highlighting" single ((:url . "https://github.com/skeeto/cl-lib-highlight")) "melpa"])
