@@ -1,5 +1,5 @@
 '(
-  (2048-game . [(20140701 1536) nil "play 2048 in Emacs" single ((:url . "https://bitbucket.org/zck/2048.el")) "melpa"])
+  (2048-game . [(20140702 2157) nil "play 2048 in Emacs" single ((:url . "https://bitbucket.org/zck/2048.el")) "melpa"])
   (4clojure . [(20131014 1507) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions" single ((:keywords "languages" "data")) "melpa"])
   (ac-anaconda . [(20140622 324) ((auto-complete (1 4 0)) (anaconda-mode (0 1 0)) (dash (2 6 0))) "Anaconda sources for auto-complete-mode" single ((:url . "https://github.com/anaconda-mode/ac-anaconda")) "melpa"])
   (ac-c-headers . [(20131015 2339) nil "auto-complete source for C headers" single ((:url . "http://hins11.yu-yake.com/")) "melpa"])
@@ -297,7 +297,7 @@
   (git-commit-training-wheels-mode . [(20131121 544) ((git-commit-mode (0 14 0))) "Helps you craft well formed commit messages with git-commit-mode" single ((:url . "https://github.com/yasuyk/git-commit-training-wheels-mode") (:keywords "convenience" "vc" "git")) "melpa"])
   (git-link . [(20140620 648) nil "Get the GitHub/Bitbucket/Gitorious URL for a buffer location" single ((:url . "http://github.com/sshaw/git-link") (:keywords "git")) "melpa"])
   (git-rebase-mode . [(20140605 520) nil "Major mode for editing git rebase files" single ((:url . "https://github.com/magit/git-modes") (:keywords "convenience" "vc" "git")) "melpa"])
-  (git-timemachine . [(20140702 846) ((emacs (24)) (cl-lib (0 5))) "Walk through git revisions of a file" single ((:url . "https://github.com/pidu/git-timemachine") (:keywords "git")) "melpa"])
+  (git-timemachine . [(20140702 2231) ((emacs (24 4)) (cl-lib (0 5))) "Walk through git revisions of a file" single ((:url . "https://github.com/pidu/git-timemachine") (:keywords "git")) "melpa"])
   (gitattributes-mode . [(20140605 520) nil "Major mode for editing .gitattributes files" single ((:url . "https://github.com/magit/git-modes") (:keywords "convenience" "vc" "git")) "melpa"])
   (gmail-message-mode . [(20140317 506) ((ham-mode (1 0))) "A major-mode for editing gmail messages using markdown syntax." single ((:url . "http://github.com/Bruce-Connor/gmail-message-mode") (:keywords "mail" "convenience" "emulation")) "melpa"])
   (gnome-calendar . [(20140112 359) nil "Integration with the GNOME Shell calendar" single ((:keywords "gnome" "calendar")) "melpa"])
