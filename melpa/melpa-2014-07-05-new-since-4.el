@@ -1,5 +1,5 @@
 '(
-  (2048-game . [(20140702 2157) nil "play 2048 in Emacs" single ((:url . "https://bitbucket.org/zck/2048.el")) "melpa"])
+  (2048-game . [(20140704 2330) nil "play 2048 in Emacs" single ((:url . "https://bitbucket.org/zck/2048.el")) "melpa"])
   (4clojure . [(20131014 1507) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions" single ((:keywords "languages" "data")) "melpa"])
   (ac-anaconda . [(20140704 230) ((auto-complete (1 4 0)) (anaconda-mode (0 1 0)) (dash (2 6 0))) "Anaconda sources for auto-complete-mode" single ((:url . "https://github.com/proofit404/ac-anaconda")) "melpa"])
   (ac-c-headers . [(20131015 2339) nil "auto-complete source for C headers" single ((:url . "http://hins11.yu-yake.com/")) "melpa"])
@@ -711,7 +711,7 @@
   (stekene-theme . [(20140524 821) ((emacs (24))) "The stekene dark and light color themes." tar nil "melpa"])
   (stgit . [(20140213 348) nil "major mode for StGit interaction" single ((:url . "http://www.procode.org/stgit")) "melpa"])
   (strie . [(20140109 612) nil "A simple trie data structure implementation" single nil "melpa"])
-  (string-inflection . [(20140505 908) nil "underscore -> UPCASE -> CamelCase conversion of names" single ((:keywords "elisp")) "melpa"])
+  (string-inflection . [(20140704 2340) nil "underscore -> UPCASE -> CamelCase -> lowerCamelCase conversion of names" single ((:keywords "elisp")) "melpa"])
   (strings . [(20131227 158) nil "Miscellaneous string functions." single ((:url . "http://www.emacswiki.org/strings.el") (:keywords "internal" "strings" "text")) "melpa"])
   (subr+ . [(20140531 1835) nil "Extensions to standard library `subr.el'." single ((:url . "http://www.emacswiki.org/simple%2b.el") (:keywords "strings" "text")) "melpa"])
   (sunny-day-theme . [(20140413 1425) nil "Emacs24 theme with a light background." single ((:url . "http://github.com/mswift42/sunny-day-theme")) "melpa"])
