@@ -1,4 +1,7 @@
 (1
+ (env-var-import .
+		 [(1 1)
+		  nil "Import shell environment variables in GUI Emacs" single])
  (eldoro .
 	 [(0 1 0)
 	  nil "A pomodoro timer/tracker that works with org-mode." tar])
