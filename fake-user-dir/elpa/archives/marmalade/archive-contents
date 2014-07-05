@@ -1,6 +1,6 @@
 (1
  (env-var-import .
-		 [(1 1)
+		 [(2 1)
 		  nil "Import shell environment variables in GUI Emacs" single])
  (eldoro .
 	 [(0 1 0)
