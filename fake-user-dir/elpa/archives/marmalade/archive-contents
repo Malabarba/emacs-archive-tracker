@@ -1,4 +1,7 @@
 (1
+ (snakehump .
+	    [(0 1 0)
+	     nil "Convert between compound word conventions" tar])
  (env-var-import .
 		 [(2 1)
 		  nil "Import shell environment variables in GUI Emacs" single])
