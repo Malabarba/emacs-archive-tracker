@@ -1,6 +1,6 @@
 (1
  (snakehump .
-	    [(0 1 0)
+	    [(0 1 1)
 	     nil "Convert between compound word conventions" tar])
  (env-var-import .
 		 [(2 1)

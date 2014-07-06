@@ -182,5 +182,5 @@
   (highlight-sexp . [(1 0) nil "highlight current zone according to its context" single "marmalade"])
   (eldoro . [(0 1 0) nil "A pomodoro timer/tracker that works with org-mode." tar "marmalade"])
   (env-var-import . [(2 1) nil "Import shell environment variables in GUI Emacs" single "marmalade"])
-  (snakehump . [(0 1 0) nil "Convert between compound word conventions" tar "marmalade"])
+  (snakehump . [(0 1 1) nil "Convert between compound word conventions" tar "marmalade"])
  )
