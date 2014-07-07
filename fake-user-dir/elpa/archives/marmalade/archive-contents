@@ -1,4 +1,7 @@
 (1
+ (clojure-env .
+	      [(0 0 2)
+	       nil "manage clojure environments with Emacs" single])
  (snakehump .
 	    [(0 1 1)
 	     nil "Convert between compound word conventions" tar])

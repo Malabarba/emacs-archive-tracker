@@ -183,4 +183,5 @@
   (eldoro . [(0 1 0) nil "A pomodoro timer/tracker that works with org-mode." tar "marmalade"])
   (env-var-import . [(2 1) nil "Import shell environment variables in GUI Emacs" single "marmalade"])
   (snakehump . [(0 1 1) nil "Convert between compound word conventions" tar "marmalade"])
+  (clojure-env . [(0 0 2) nil "manage clojure environments with Emacs" single "marmalade"])
  )
