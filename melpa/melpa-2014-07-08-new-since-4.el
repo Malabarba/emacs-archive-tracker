@@ -465,7 +465,7 @@
   (make-it-so . [(20140415 545) ((helm (1 5 3)) (emacs (24))) "Transform files with Makefile recipes." tar ((:url . "https://github.com/abo-abo/make-it-so") (:keywords "make" "dired")) "melpa"])
   (makey . [(20131231 630) ((cl-lib (0 2))) "interactive commandline mode" single nil "melpa"])
   (malabar-mode . [(20140307 1420) ((fringe-helper (1 0 1))) "A better Java mode for Emacs" tar ((:url . "http://www.github.com/m0smith/malabar-mode") (:keywords "java" "maven" "language" "malabar")) "melpa"])
-  (malinka . [(20140707 1521) ((s (1 9 0)) (dash (2 4 0)) (f (0 11 0)) (cl-lib (0 3)) (rtags (0 0)) (projectile (0 11 0))) "A C/C++ project configuration package for Emacs" single ((:url . "https://github.com/LefterisJP/malinka") (:keywords "c" "c++" "project-management")) "melpa"])
+  (malinka . [(20140708 544) ((s (1 9 0)) (dash (2 4 0)) (f (0 11 0)) (cl-lib (0 3)) (rtags (0 0)) (projectile (0 11 0))) "A C/C++ project configuration package for Emacs" single ((:url . "https://github.com/LefterisJP/malinka") (:keywords "c" "c++" "project-management")) "melpa"])
   (manage-minor-mode . [(20140310 900) ((emacs (24 3))) "Manage your minor-modes easily" single ((:url . "https://github.com/ShingoFukuyama/manage-minor-mode") (:keywords "minor-mode" "manage" "emacs")) "melpa"])
   (markdown-toc . [(20140630 413) ((s (1 7 0)) (dash (2 5 0)) (markdown-mode (2 0))) "A simple TOC generator for markdown file" tar nil "melpa"])
   (marmalade . [(20110602 1622) ((furl (0 0 2))) "Elisp interface for the Emacs Lisp package server." single ((:url . "http://code.google.com/p/marmalade")) "melpa"])
