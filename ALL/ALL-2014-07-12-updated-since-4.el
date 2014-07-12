@@ -341,7 +341,7 @@
   (fold-dwim . [(20140208 837) nil "Unified user interface for Emacs folding modes" single ((:url . "http://www.dur.ac.uk/p.j.heslin/Software/Emacs")) "melpa"])
   (fold-dwim-org . [(20131203 551) ((fold-dwim (1 2))) "Fold DWIM bound to org key-strokes." single ((:url . "https://github.com/mlf176f2/fold-dwim-org") (:keywords "folding" "emacs" "org-mode")) "melpa"])
   (fold-this . [(20131113 247) nil "Just fold this region please" single ((:keywords "convenience")) "melpa"])
-  (font-utils . [(20140626 756) ((persistent-soft (0 8 8)) (pcache (0 2 3))) "Utility functions for working with fonts" single ((:url . "http://github.com/rolandwalker/font-utils") (:keywords "extensions")) "melpa"])
+  (font-utils . [(20140712 1258) ((persistent-soft (0 8 8)) (pcache (0 2 3))) "Utility functions for working with fonts" single ((:url . "http://github.com/rolandwalker/font-utils") (:keywords "extensions")) "melpa"])
   (foreign-regexp . [(20130618 321) nil "search and replace by foreign regexp." tar ((:keywords "convenience" "emulations" "matching" "tools" "unix" "wp")) "melpa"])
   (frame-cmds . [(20140419 2112) nil "Frame and window commands (interactive functions)." single ((:url . "http://www.emacswiki.org/frame-cmds.el") (:keywords "internal" "extensions" "mouse" "frames" "windows" "convenience")) "melpa"])
   (frame-fns . [(20131226 1849) nil "Non-interactive frame and window functions." single ((:url . "http://www.emacswiki.org/frame-fns.el") (:keywords "internal" "extensions" "local" "frames")) "melpa"])
