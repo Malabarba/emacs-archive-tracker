@@ -244,7 +244,7 @@
   (facemenu+ . [(20140517 2033) nil "Extensions to `facemenu.el'." single ((:url . "http://www.emacswiki.org/facemenu+.el") (:keywords "faces" "extensions" "convenience" "menus" "local")) "melpa"])
   (faces+ . [(20131226 1840) nil "Extensions to `faces.el'." single ((:url . "http://www.emacswiki.org/faces+.el") (:keywords "faces" "local")) "melpa"])
   (fancy-narrow . [(20140424 1627) nil "narrow-to-region with more eye candy." single ((:url . "http://github.com/Bruce-Connor/fancy-narrow") (:keywords "faces" "convenience")) "melpa"])
-  (fasd . [(20130831 1003) ((grizzl (0))) "Emacs integration for the command-line productivity booster `fasd'" single ((:url . "https://github.com/steckerhalter/emacs-fasd") (:keywords "cli" "bash" "zsh" "autojump")) "melpa"])
+  (fasd . [(20140711 2208) ((grizzl (0))) "Emacs integration for the command-line productivity booster `fasd'" single ((:url . "https://github.com/steckerhalter/emacs-fasd") (:keywords "cli" "bash" "zsh" "autojump")) "melpa"])
   (fasm-mode . [(20140421 1140) nil "Fasm major mode" single ((:url . "https://github.com/Fanael/fasm-mode")) "melpa"])
   (fetch . [(20131130 2330) nil "Fetch and unpack resources" single ((:url . "https://github.com/crshd/fetch.el")) "melpa"])
   (files+ . [(20131226 1841) nil "Enhancements of standard library `files.el'." single ((:url . "http://www.emacswiki.org/files+.el") (:keywords "internal" "extensions" "local")) "melpa"])
