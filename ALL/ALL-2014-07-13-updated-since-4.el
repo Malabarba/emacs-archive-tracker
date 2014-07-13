@@ -331,7 +331,7 @@
   (flymake-lua . [(20140310 230) nil "Flymake for Lua" single ((:keywords "lua")) "melpa"])
   (flymake-perlcritic . [(20120328 114) ((flymake (0 3))) "Flymake handler for Perl to invoke Perl::Critic" tar ((:url . "https://github.com/illusori/emacs-flymake-perlcritic")) "melpa"])
   (flymake-php . [(20121104 1102) ((flymake-easy (0 1))) "A flymake handler for php-mode files" single ((:url . "https://github.com/purcell/flymake-php")) "melpa"])
-  (flymake-phpcs . [(20140111 1932) ((flymake-easy (0 9))) "making flymake work with PHP CodeSniffer" single ((:url . "https://github.com/senda-akiha/flymake-phpcs/") (:keywords "flymake" "phpcs" "php")) "melpa"])
+  (flymake-phpcs . [(20140712 2331) ((flymake-easy (0 9))) "making flymake work with PHP CodeSniffer" single ((:url . "https://github.com/senda-akiha/flymake-phpcs/") (:keywords "flymake" "phpcs" "php")) "melpa"])
   (flymake-python-pyflakes . [(20131127 6) ((flymake-easy (0 8))) "A flymake handler for python-mode files using pyflakes (or flake8)" single ((:url . "https://github.com/purcell/flymake-python-pyflakes")) "melpa"])
   (flymake-ruby . [(20121104 1059) ((flymake-easy (0 1))) "A flymake handler for ruby-mode files" single ((:url . "https://github.com/purcell/flymake-ruby")) "melpa"])
   (flymake-sass . [(20140308 325) ((flymake-easy (0 1))) "Flymake handler for sass and scss files" single ((:url . "https://github.com/purcell/flymake-sass")) "melpa"])
