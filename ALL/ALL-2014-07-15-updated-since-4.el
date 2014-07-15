@@ -427,7 +427,7 @@
   (haxe-mode . [(20131004 142) nil "An Emacs major mode for Haxe" single ((:url . "http://people.debian.org/~jps/misc/haxe-mode.el")) "melpa"])
   (header-button . [(20130110 851) nil "clickable buttons in header lines" single ((:url . "https://github.com/emacsattic/header-button") (:keywords "extensions")) "melpa"])
   (header2 . [(20140113 1618) nil "Support for creation and update of file headers." single ((:url . "http://www.emacswiki.org/header2.el") (:keywords "tools" "docs" "maint" "abbrev" "local")) "melpa"])
-  (helm . [(20140715 231) nil "Helm is an Emacs incremental and narrowing framework" tar nil "melpa"])
+  (helm . [(20140715 839) nil "Helm is an Emacs incremental and narrowing framework" tar nil "melpa"])
   (helm-R . [(20120819 1714) ((helm (20120517)) (ess (20120509))) "helm-sources and some utilities for GNU R." single ((:url . "https://github.com/myuhe/helm-R.el") (:keywords "convenience")) "melpa"])
   (helm-ack . [(20140507 2127) ((helm (1 0)) (cl-lib (0 5))) "Ack command with helm interface" single ((:url . "https://github.com/syohex/emacs-helm-ack")) "melpa"])
   (helm-ag . [(20140615 209) ((helm (1 5 6)) (cl-lib (0 5))) "the silver searcher with helm interface" single ((:url . "https://github.com/syohex/emacs-helm-ag")) "melpa"])
@@ -799,7 +799,7 @@
   (processing-snippets . [(20140426 728) ((yasnippet (0 8 0))) "Snippets for processing-mode" tar nil "melpa"])
   (project-local-variables . [(20080502 1652) nil "Set project-local variables from a file." single ((:url . "http://www.emacswiki.org/cgi-bin/wiki/ProjectLocalVariables") (:keywords "project" "convenience")) "melpa"])
   (project-persist . [(20131030 1208) nil "A minor mode to allow loading and saving of project settings." tar nil "melpa"])
-  (projectile . [(20140711 2321) ((s (1 6 0)) (dash (1 5 0)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" single ((:url . "https://github.com/bbatsov/projectile") (:keywords "project" "convenience")) "melpa"])
+  (projectile . [(20140715 718) ((s (1 6 0)) (dash (1 5 0)) (pkg-info (0 4))) "Manage and navigate projects in Emacs easily" single ((:url . "https://github.com/bbatsov/projectile") (:keywords "project" "convenience")) "melpa"])
   (projmake-mode . [(20140401 1811) nil "Project oriented automatic builder and error
 highlighter, flymake for projects" tar nil "melpa"])
   (protobuf-mode . [(20091217 1755) nil "major mode for editing protocol buffers." single ((:keywords "google" "protobuf" "languages")) "melpa"])
