@@ -1,6 +1,6 @@
 (1
  (clojure-env .
-	      [(0 0 2)
+	      [(0 0 3)
 	       nil "manage clojure environments with Emacs" single])
  (snakehump .
 	    [(0 1 1)
