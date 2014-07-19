@@ -781,7 +781,7 @@
   (yafolding . [(20140703 12) nil "Yet another folding extension for Emacs" single ((:keywords "folding")) "melpa"])
   (yandex-weather . [(20140423 421) nil "Fetch Yandex Weather forecasts." tar nil "melpa"])
   (zeal-at-point . [(20131210 503) nil "Search the word at point with Zeal" single ((:url . "https://github.com/jinzhu/zeal-at-point")) "melpa"])
-  (zonokai-theme . [(20140715 2352) nil "blue based theme for emacs" single ((:url . "http://github.com/ZehCnaS34/zonokai.git")) "melpa"])
+  (zonokai-theme . [(20140718 2127) nil "blue based theme for emacs" single ((:url . "http://github.com/ZehCnaS34/zonokai.git")) "melpa"])
   (zop-to-char . [(20140416 1015) ((cl-lib (0 5))) "A replacement of zap-to-char." single ((:url . "https://github.com/thierryvolpiatto/zop-to-char")) "melpa"])
   (zotxt . [(20140420 1034) nil "Tools to integrate emacs with Zotero via the zotxt plugin." tar nil "melpa"])
   (ztree . [(20140610 359) nil "Several text-tree applications" tar nil "melpa"])
