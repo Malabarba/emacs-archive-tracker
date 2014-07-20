@@ -639,7 +639,7 @@
   (rpm-spec-mode . [(20140120 50) nil "RPM spec file editing commands for Emacs/XEmacs" single ((:keywords "unix" "languages")) "melpa"])
   (rtags . [(20140718 1311) nil "No description available." tar nil "melpa"])
   (ruby-additional . [(20140422 1903) ((emacs (24 3)) (ruby-mode (1 2))) "ruby-mode extensions yet to be merged into Emacs" tar ((:url . "http://svn.ruby-lang.org/cgi-bin/viewvc.cgi/trunk/misc/") (:keywords "ruby" "languages")) "melpa"])
-  (ruby-refactor . [(20140104 1354) ((ruby-mode (1 2))) "A minor mode which presents various Ruby refactoring helpers." single ((:url . "https://github.com/ajvargo/ruby-refactor") (:keywords "refactor" "ruby")) "melpa"])
+  (ruby-refactor . [(20140719 1645) ((ruby-mode (1 2))) "A minor mode which presents various Ruby refactoring helpers." single ((:url . "https://github.com/ajvargo/ruby-refactor") (:keywords "refactor" "ruby")) "melpa"])
   (runner . [(20140106 758) nil "Improved \"open with\" suggestions for dired" single ((:url . "https://github.com/thamer/runner") (:keywords "shell command" "dired" "file extension" "open with")) "melpa"])
   (sbt-mode . [(20140514 1255) ((scala-mode2 (0 22))) "Major mode for sbt >= 0.12 with scala >= 2.9" tar nil "melpa"])
   (scratch-ext . [(20140103 2116) nil "Extensions for *scratch*" single ((:url . "https://github.com/kyanagi/scratch-ext-el")) "melpa"])
