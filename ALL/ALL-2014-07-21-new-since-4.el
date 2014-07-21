@@ -405,7 +405,7 @@
   (isearch-prop . [(20140711 2058) nil "Search text-property or overlay-property contexts." single ((:url . "http://www.emacswiki.org/isearch-prop.el") (:keywords "search" "matching" "invisible" "thing" "help")) "melpa"])
   (isgd . [(20130927 657) nil "Shorten URLs using the isgd.com shortener service" single ((:url . "https://github.com/chmouel/isgd.el")) "melpa"])
   (iterator . [(20140412 2153) ((emacs (24)) (cl-lib (0 5))) "A library to create and use elisp iterators objects." single ((:url . "https://github.com/thierryvolpiatto/iterator")) "melpa"])
-  (ivariants . [(20140720 348) ((emacs (24 3)) (ivs-edit (1 0))) "Ideographic variants editor and browser" tar ((:url . "http://github.com/kawabata/ivariants") (:keywords "i18n" "languages")) "melpa"])
+  (ivariants . [(20140720 2127) ((emacs (24 3)) (ivs-edit (1 0))) "Ideographic variants editor and browser" tar ((:url . "http://github.com/kawabata/ivariants") (:keywords "i18n" "languages")) "melpa"])
   (ivs-edit . [(20140720 346) ((emacs (24 3)) (dash (2 6 0)) (cl-lib (1 0))) "IVS (Ideographic Variation Sequence) editing tool" tar ((:url . "http://github.com/kawabata/ivs-edit") (:keywords "text")) "melpa"])
   (ix . [(20131027 929) ((grapnel (0 5 3))) "Emacs client for http://ix.io pastebin" single ((:url . "http://www.github.com/theanalyst/ix.el")) "melpa"])
   (japanese-holidays . [(20140620 559) ((cl-lib (0 3))) "calendar functions for the Japanese calendar" single ((:url . "https://github.com/emacs-jp/japanese-holidays") (:keywords "calendar")) "melpa"])
