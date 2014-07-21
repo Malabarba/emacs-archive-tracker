@@ -125,7 +125,7 @@
   (list-utils . [(0 4 2) nil "List-manipulation utility functions" single "marmalade"])
   (lui . [(1 3) ((tracking (1 4))) "Linewise User Interface" tar "marmalade"])
   (magit . [(1 2 1) nil "Control Git from Emacs." tar "marmalade"])
-  (maildir . [(0 0 25) ((kv (0 0 17)) (dash (2 3 0)) (s (1 9 0)) (noflet (0 0 8))) "Simple maildir based MUA." tar "marmalade"])
+  (maildir . [(0 0 26) ((kv (0 0 17)) (dash (2 3 0)) (s (1 9 0)) (noflet (0 0 8))) "Simple maildir based MUA." tar "marmalade"])
   (main-line . [(1 2 2) nil "modeline replacement forked from an early version of powerline.el" single "marmalade"])
   (markdown-mode . [(2 0) nil "Emacs Major mode for Markdown-formatted text files" single "marmalade"])
   (minimal-session-saver . [(0 6 2) nil "Very lean session saver" single "marmalade"])
