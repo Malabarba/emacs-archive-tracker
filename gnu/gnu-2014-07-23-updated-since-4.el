@@ -49,7 +49,7 @@
   (company . [(0 8 1) ((emacs (24 1)) (cl-lib (0 5))) "Modular text completion framework" tar ((:keywords "abbrev" "convenience" "matching") (:url . "http://company-mode.github.io/")) "gnu"])
   (coffee-mode . [(0 4 1 1) nil "Major mode for CoffeeScript files" single ((:url . "http://github.com/defunkt/coffee-mode") (:keywords "coffeescript" "major" "mode")) "gnu"])
   (cl-lib . [(0 5) nil "Properly prefixed CL functions and macros" single ((:url . "http://elpa.gnu.org/packages/cl-lib.html") (:keywords)) "gnu"])
-  (auctex . [(11 87 6) nil "Integrated environment for *TeX*" tar ((:url . "http://www.gnu.org/software/auctex/")) "gnu"])
+  (auctex . [(11 87 7) nil "Integrated environment for *TeX*" tar ((:url . "http://www.gnu.org/software/auctex/")) "gnu"])
   (all . [(1 0) nil "Edit all lines matching a given regexp" single ((:url . "http://elpa.gnu.org/packages/all.html") (:keywords "matching")) "gnu"])
   (adaptive-wrap . [(0 5) nil "Smart line-wrapping with wrap-prefix" single ((:url . "http://elpa.gnu.org/packages/adaptive-wrap.html") (:keywords)) "gnu"])
   (ack . [(1 3) nil "Interface to ack-like source code search tools" tar ((:keywords "tools" "processes" "convenience") (:url . "https://github.com/leoliu/ack-el")) "gnu"])
