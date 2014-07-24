@@ -141,7 +141,7 @@
   (concurrent . [(20140609 1940) ((deferred (0 3 1))) "Concurrent utility functions for emacs lisp" single ((:url . "https://github.com/kiwanami/emacs-deferred/blob/master/README-concurrent.markdown") (:keywords "deferred" "async" "concurrent")) "melpa"])
   (confluence . [(20140410 1723) ((xml-rpc (1 6 4))) "Emacs mode for interacting with confluence wikis" tar ((:url . "http://code.google.com/p/confluence-el/") (:keywords "confluence" "wiki" "xmlrpc")) "melpa"])
   (cperl-mode . [(20140309 122) nil "Perl code editing commands for Emacs" single ((:keywords "languages" "perl")) "melpa"])
-  (cpputils-cmake . [(20140723 1802) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar nil "melpa"])
+  (cpputils-cmake . [(20140723 2224) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar nil "melpa"])
   (crab . [(20130609 958) ((websocket (1 0)) (json (1 2))) "WebSocket server to remotely control a browser" single ((:url . "https://github.com/puffnfresh/crab-emacs")) "melpa"])
   (crappy-jsp-mode . [(20140311 231) nil "A pretty crappy major-mode for jsp." single ((:keywords "jsp" "major" "mode")) "melpa"])
   (creole . [(20140705 414) ((noflet (0 0 3)) (kv (0 0 17))) "A parser for the Creole Wiki language" single ((:keywords "lisp" "creole" "wiki")) "melpa"])
