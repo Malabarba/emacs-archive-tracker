@@ -548,7 +548,7 @@
   (owdriver . [(20140527 1039) ((smartrep (0 0 3)) (log4e (0 2 0)) (yaxception (0 2 0))) "Quickly perform various actions on other windows" single ((:url . "https://github.com/aki2o/owdriver") (:keywords "convenience")) "melpa"])
   (ox-asciidoc . [(20140215 610) ((org (8 1))) "AsciiDoc Back-End for Org Export Engine" single ((:url . "https://github.com/yashi/org-asciidoc") (:keywords "org" "asciidoc")) "melpa"])
   (ox-html5slide . [(20131227 2206) ((org (8 0))) "Export org-mode to HTML5 slide." single ((:url . "http://github.com/coldnew/org-html5slide") (:keywords "html" "presentation")) "melpa"])
-  (ox-pandoc . [(20140724 609) ((org (8 2)) (emacs (24)) (dash (2 8)) (ht (2 0))) "org exporter for pandoc." single ((:url . "https://github.com/kawabata/ox-pandoc") (:keywords "tools")) "melpa"])
+  (ox-pandoc . [(20140726 653) ((org (8 2)) (emacs (24)) (dash (2 8)) (ht (2 0))) "org exporter for pandoc." single ((:url . "https://github.com/kawabata/ox-pandoc") (:keywords "tools")) "melpa"])
   (ox-pukiwiki . [(20140215 609) ((org (8 1))) "Pukiwiki Back-End for Org Export Engine" single ((:url . "https://github.com/yashi/org-pukiwiki") (:keywords "org" "pukiwiki")) "melpa"])
   (ox-reveal . [(20140710 811) ((org (8 0))) "reveal.js Presentation Back-End for Org Export Engine" single ((:keywords "outlines" "hypermedia" "slideshow" "presentation")) "melpa"])
   (ox-textile . [(20140215 607) ((org (8 1))) "Textile Back-End for Org Export Engine" single ((:url . "https://github.com/yashi/org-textile") (:keywords "org" "textile")) "melpa"])
