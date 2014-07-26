@@ -14,7 +14,7 @@
   (javaimp . [(0 4) nil "Add and reorder Java import statements in Maven projects" single ((:url . "http://elpa.gnu.org/packages/javaimp.html") (:keywords "java" "maven" "programming")) "gnu"])
   (gnugo . [(3 0 0) ((ascii-art-to-unicode (1 5)) (xpm (1 0 1)) (cl-lib (0 5))) "play GNU Go in a buffer" tar ((:keywords "games" "processes") (:url . "http://www.gnuvola.org/software/gnugo/")) "gnu"])
   (flylisp . [(0 2) nil "Color unbalanced parentheses and parentheses inconsistent with indentation" single ((:url . "http://elpa.gnu.org/packages/flylisp.html") (:keywords)) "gnu"])
-  (ergoemacs-mode . [(5 14 7 2) ((emacs (24 1)) (undo-tree (0 6 5))) "Emacs mode based on common modern software interface and ergonomics." tar ((:keywords "convenience") (:url . "https://github.com/ergoemacs/ergoemacs-mode")) "gnu"])
+  (ergoemacs-mode . [(5 14 7 3) ((emacs (24 1)) (undo-tree (0 6 5))) "Emacs mode based on common modern interface and ergonomics." tar ((:keywords "convenience") (:url . "https://github.com/ergoemacs/ergoemacs-mode")) "gnu"])
   (electric-spacing . [(5 0) nil "Insert operators with surrounding spaces smartly" single ((:url . "http://elpa.gnu.org/packages/electric-spacing.html") (:keywords)) "gnu"])
   (easy-kill . [(0 9 3) ((emacs (24)) (cl-lib (0 5))) "kill & mark things easily" tar ((:keywords "killing" "convenience") (:url . "https://github.com/leoliu/easy-kill")) "gnu"])
   (dismal . [(1 5) ((cl-lib (0))) "Dis Mode Ain't Lotus: Spreadsheet program Emacs" tar ((:url . "http://elpa.gnu.org/packages/dismal.html")) "gnu"])
