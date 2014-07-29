@@ -185,4 +185,5 @@
   (snakehump . [(0 1 1) nil "Convert between compound word conventions" tar "marmalade"])
   (clojure-env . [(0 0 3) nil "manage clojure environments with Emacs" single "marmalade"])
   (how-many-lines-in-project . [(0 2) ((find-file-in-project (3 3))) "Calculate how many lines are there in your project." single "marmalade"])
+  (fancy-battery . [(0 1) ((emacs (24 1))) "Fancy battery display" single "marmalade"])
  )

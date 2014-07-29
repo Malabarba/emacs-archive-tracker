@@ -1,4 +1,9 @@
 (1
+ (fancy-battery .
+		[(0 1)
+		 ((emacs
+		   (24 1)))
+		 "Fancy battery display" single])
  (how-many-lines-in-project .
 			    [(0 2)
 			     ((find-file-in-project
