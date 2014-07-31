@@ -3,7 +3,7 @@
 	   [(1 2)
 	    nil "keep buffers in sync with filename throughout 'mv'commands in shell-mode." single])
  (fancy-battery .
-		[(0 1)
+		[(0 2)
 		 ((emacs
 		   (24 1)))
 		 "Fancy battery display" single])
