@@ -1,5 +1,5 @@
 '(
-  (2048-game . [(20140729 2247) nil "play 2048 in Emacs" single ((:url . "https://bitbucket.org/zck/2048.el")) "melpa"])
+  (2048-game . [(20140730 2148) nil "play 2048 in Emacs" single ((:url . "https://bitbucket.org/zck/2048.el")) "melpa"])
   (4clojure . [(20131014 1507) ((json (1 2)) (request (0 2 0))) "Open and evaluate 4clojure.com questions" single ((:keywords "languages" "data")) "melpa"])
   (@ . [(20140707 520) ((queue (0 1)) (emacs (24))) "multiple-inheritance prototype-based objects DSL" tar ((:url . "https://github.com/skeeto/at-el")) "melpa"])
   (abc-mode . [(20140225 944) nil "Major mode for editing abc music files" single ((:keywords "local" "docs")) "melpa"])
@@ -366,7 +366,7 @@
   (git-gutter+ . [(20140205 802) ((git-commit-mode (0 14))) "Manage Git hunks straight from the buffer" single ((:url . "https://github.com/nonsequitur/git-gutter-plus")) "melpa"])
   (git-gutter . [(20140725 812) ((cl-lib (0 5)) (emacs (24))) "Port of Sublime Text plugin GitGutter" single ((:url . "https://github.com/syohex/emacs-git-gutter")) "melpa"])
   (git-gutter-fringe+ . [(20140729 403) ((git-gutter+ (0 1)) (fringe-helper (1 0 1))) "Fringe version of git-gutter+.el" single ((:url . "https://github.com/nonsequitur/git-gutter-fringe-plus")) "melpa"])
-  (git-gutter-fringe . [(20140708 1849) ((git-gutter (0 67)) (fringe-helper (0 1 1)) (cl-lib (0 5)) (emacs (24))) "Fringe version of git-gutter.el" single ((:url . "https://github.com/syohex/emacs-git-gutter-fringe")) "melpa"])
+  (git-gutter-fringe . [(20140730 2258) ((git-gutter (0 71)) (fringe-helper (0 1 1)) (cl-lib (0 5)) (emacs (24))) "Fringe version of git-gutter.el" single ((:url . "https://github.com/syohex/emacs-git-gutter-fringe")) "melpa"])
   (git-messenger . [(20140706 646) ((popup (0 5 0))) "Pop up last commit information of current line" single ((:url . "https://github.com/syohex/emacs-git-messenger")) "melpa"])
   (gitconfig . [(20130718 235) nil "Emacs lisp interface to work with git-config variables" single ((:keywords "git" "gitconfig" "git-config")) "melpa"])
   (gitconfig-mode . [(20140605 520) nil "Major mode for editing .gitconfig files" single ((:url . "https://github.com/magit/git-modes") (:keywords "convenience" "vc" "git")) "melpa"])
