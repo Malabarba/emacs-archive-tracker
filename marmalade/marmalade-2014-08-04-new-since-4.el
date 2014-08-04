@@ -187,4 +187,5 @@
   (how-many-lines-in-project . [(0 2) ((find-file-in-project (3 3))) "Calculate how many lines are there in your project." single "marmalade"])
   (fancy-battery . [(0 2) ((emacs (24 1))) "Fancy battery display" single "marmalade"])
   (mv-shell . [(1 2) nil "keep buffers in sync with filename throughout 'mv'commands in shell-mode." single "marmalade"])
+  (jump-dls . [(0 4) nil "Jump to definition of symbol using various methods." single "marmalade"])
  )
