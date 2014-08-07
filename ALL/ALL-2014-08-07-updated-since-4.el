@@ -484,7 +484,7 @@
   (hungry-delete . [(20140805 1727) nil "hungry delete minor mode" single ((:url . "http://github.com/nflath/hungry-delete")) "melpa"])
   (hy-mode . [(20140201 2055) nil "Major mode for Hy code" single ((:url . "http://github.com/hylang/hy-mode") (:keywords "languages" "lisp")) "melpa"])
   (ibuffer-vc . [(20130924 608) ((cl-lib (0 2))) "Group ibuffer's list by VC project, or show VC status" single ((:url . "http://github.com/purcell/ibuffer-vc") (:keywords "themes")) "melpa"])
-  (icicles . [(20140806 2055) nil "Minibuffer input completion and cycling." tar ((:url . "http://www.emacswiki.org/icicles.el") (:keywords "extensions" "help" "abbrev" "local" "minibuffer" "keys" "apropos" "completion" "matching" "regexp" "command")) "melpa"])
+  (icicles . [(20140807 4) nil "Minibuffer input completion and cycling." tar ((:url . "http://www.emacswiki.org/icicles.el") (:keywords "extensions" "help" "abbrev" "local" "minibuffer" "keys" "apropos" "completion" "matching" "regexp" "command")) "melpa"])
   (icomplete+ . [(20140415 1655) nil "Extensions to `icomplete.el'." single ((:url . "http://www.emacswiki.org/icomplete+.el") (:keywords "help" "abbrev" "internal" "extensions" "local" "completion" "matching")) "melpa"])
   (identica-mode . [(20130204 1453) nil "Major mode API client for status.net open microblogging" tar ((:url . "http://blog.gabrielsaldana.org/identica-mode-for-emacs/") (:keywords "identica" "web")) "melpa"])
   (idle-highlight-mode . [(20120920 948) nil "highlight the word the point is on" single ((:url . "http://www.emacswiki.org/cgi-bin/wiki/IdleHighlight") (:keywords "convenience")) "melpa"])
