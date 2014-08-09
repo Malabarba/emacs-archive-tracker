@@ -1022,7 +1022,7 @@
   (wc-mode . [(20120531 1344) nil "show wc-like information in status bar" single ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "length" "characters" "words" "lines" "mode line")) "melpa"])
   (wcheck-mode . [(20140621 1033) nil "General interface for text checkers" tar nil "melpa"])
   (web . [(20140728 1508) ((dash (2 3 0))) "useful HTTP client" single ((:url . "http://github.com/nicferrier/emacs-web") (:keywords "lisp" "http" "hypermedia")) "melpa"])
-  (web-mode . [(20140807 115) nil "major mode for editing html templates" tar ((:url . "http://web-mode.org") (:keywords "html" "template" "php" "javascript" "js" "css" "web" "django" "jsp" "asp" "erb" "twig" "jinja" "blade" "dust" "closure" "freemarker" "mustache" "velocity" "cheetah" "smarty")) "melpa"])
+  (web-mode . [(20140809 845) nil "major mode for editing html templates" tar ((:url . "http://web-mode.org") (:keywords "html" "template" "php" "javascript" "js" "css" "web" "django" "jsp" "asp" "erb" "twig" "jinja" "blade" "dust" "closure" "freemarker" "mustache" "velocity" "cheetah" "smarty")) "melpa"])
   (weblogger . [(20110926 918) ((xml-rpc (1 6 8))) "Weblog maintenance via XML-RPC APIs" single ((:url . "http://launchpad.net/weblogger-el") (:keywords "weblog" "blogger" "cms" "movable" "type" "openweblog" "blog")) "melpa"])
   (websocket . [(20140104 1438) nil "Emacs WebSocket client and server" single ((:keywords "communication" "websocket" "server")) "melpa"])
   (weechat . [(20140603 822) ((s (1 3 1)) (cl-lib (0 2)) (emacs (24)) (tracking (1 2))) "Chat via WeeChat's relay protocol in Emacs" tar nil "melpa"])
