@@ -308,7 +308,7 @@
   (gmail-message-mode . [(20140808 550) ((ham-mode (1 0))) "A major-mode for editing gmail messages using markdown syntax." single ((:url . "http://github.com/Bruce-Connor/gmail-message-mode") (:keywords "mail" "convenience" "emulation")) "melpa"])
   (gnome-calendar . [(20140112 359) nil "Integration with the GNOME Shell calendar" single ((:keywords "gnome" "calendar")) "melpa"])
   (gntp . [(20140330 131) nil "Growl Notification Protocol for Emacs" single nil "melpa"])
-  (gnu-apl-mode . [(20140808 2208) ((emacs (24))) "Integrate GNU APL with Emacs" tar nil "melpa"])
+  (gnu-apl-mode . [(20140809 2142) ((emacs (24))) "Integrate GNU APL with Emacs" tar nil "melpa"])
   (gnus-desktop-notify . [(20140701 257) ((gnus (1 0))) "Gnus Desktop Notification global minor mode" single ((:url . "http://www.thregr.org/~wavexx/hacks/gnus-desktop-notify/")) "melpa"])
   (gnus-spotlight . [(20130901 1435) nil "Search mail with Spotlight" single ((:keywords "mail" "searching" "spotlight")) "melpa"])
   (gnus-summary-ext . [(20131222 2021) ((macro-utils (1 0))) "Extra limit and process mark commands for the gnus summary buffer" single ((:url . "https://github.com/vapniks/gnus-summary-ext") (:keywords "comm")) "melpa"])
