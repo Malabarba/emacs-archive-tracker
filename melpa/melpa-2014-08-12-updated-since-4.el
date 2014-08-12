@@ -1015,7 +1015,7 @@
   (visual-regexp . [(20140714 12) ((cl-lib (0 2))) "A regexp/replace command for Emacs with interactive visual feedback" single ((:url . "https://github.com/benma/visual-regexp.el/") (:keywords "regexp" "replace" "visual" "feedback")) "melpa"])
   (visual-regexp-steroids . [(20140608 2127) ((visual-regexp (0 6))) "Extends visual-regexp to support other regexp engines" tar ((:url . "https://github.com/benma/visual-regexp-steroids.el/") (:keywords "external" "foreign" "regexp" "replace" "python" "visual" "feedback")) "melpa"])
   (vline . [(20120108 1245) nil "show vertical line (column highlighting) mode." single ((:url . "http://www.emacswiki.org/cgi-bin/wiki/vline.el") (:keywords "faces" "editing" "emulating")) "melpa"])
-  (volatile-highlights . [(20140811 2320) nil "Minor mode for visual feedback on some operations." single ((:url . "http://www.emacswiki.org/emacs/download/volatile-highlights.el") (:keywords "emulations" "convenience" "wp")) "melpa"])
+  (volatile-highlights . [(20140812 28) nil "Minor mode for visual feedback on some operations." single ((:url . "http://www.emacswiki.org/emacs/download/volatile-highlights.el") (:keywords "emulations" "convenience" "wp")) "melpa"])
   (w3m . [(20140803 1603) nil "an Emacs interface to w3m" tar ((:keywords "w3m" "www" "hypermedia")) "melpa"])
   (wacspace . [(20140125 2221) ((dash (1 2 0)) (cl-lib (0 2))) "The WACky WorkSPACE manager for emACS" tar nil "melpa"])
   (watch-buffer . [(20120331 1344) nil "run a shell command when saving a buffer" single ((:url . "https://github.com/mjsteger/watch-buffer") (:keywords "automation" "convenience")) "melpa"])
