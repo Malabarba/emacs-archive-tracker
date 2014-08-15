@@ -1045,7 +1045,7 @@
   (vector-utils . [(20140508 1341) nil "Vector-manipulation utility functions" single ((:url . "http://github.com/rolandwalker/vector-utils") (:keywords "extensions")) "melpa"])
   (vertica . [(20131217 711) ((sql (3 0))) "Vertica SQL mode extension" single ((:keywords "sql" "vertica")) "melpa"])
   (viewer . [(20130314 2337) nil "View-mode extension" single ((:url . "http://www.emacswiki.org/cgi-bin/wiki/download/viewer.el") (:keywords "view" "extensions")) "melpa"])
-  (vimgolf . [(20120228 550) nil "VimGolf interface for the One True Editor" single ((:keywords "games" "vimgolf" "vim")) "melpa"])
+  (vimgolf . [(20140814 1448) nil "VimGolf interface for the One True Editor" single ((:keywords "games" "vimgolf" "vim")) "melpa"])
   (vimrc-mode . [(20140807 631) nil "Major mode for vimrc files" single ((:url . "https://github.com/mcandre/vimrc-mode") (:keywords "languages" "vim")) "melpa"])
   (virtualenv . [(20140220 1501) nil "Virtualenv for Python" single ((:keywords "python" "virtualenv")) "melpa"])
   (visible-mark . [(20140801 822) nil "Make marks visible." single ((:url . "https://gitlab.com/iankelling/visible-mark") (:keywords "marking" "color" "faces")) "melpa"])
