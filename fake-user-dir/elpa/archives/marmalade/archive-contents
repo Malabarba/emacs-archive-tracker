@@ -1522,9 +1522,9 @@
 	   [(20120112)
 	    nil "org html export for text/html MIME emails" single])
  (org-magit .
-	    [(0 2 0)
+	    [(0 2 2)
 	     ((magit
-	       (0 8))
+	       (1 2 0))
 	      (org
 	       (6 1)))
 	     "basic support for magit links" single])
