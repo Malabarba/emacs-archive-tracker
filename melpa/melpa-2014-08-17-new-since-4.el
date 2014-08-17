@@ -672,7 +672,7 @@
   (qiita . [(20140118 44) ((helm (1 5 9)) (markdown-mode (2 0))) "Qiita API Library for emacs" single ((:url . "https://github.com/gongo/qiita-el") (:keywords "qiita")) "melpa"])
   (quack . [(20130126 1623) nil "enhanced support for editing and running Scheme code" single nil "melpa"])
   (r-autoyas . [(20140101 710) ((ess (0)) (yasnippet (0 8 0))) "Provides automatically created yasnippets for R function argument lists." tar ((:url . "https://github.com/mlf176f2/r-autoyas.el") (:keywords "r" "yasnippet")) "melpa"])
-  (racket-mode . [(20140808 1817) nil "Major mode for Racket language." tar ((:url . "https://github.com/greghendershott/racket-mode")) "melpa"])
+  (racket-mode . [(20140816 1904) nil "Major mode for Racket language." tar ((:url . "https://github.com/greghendershott/racket-mode")) "melpa"])
   (rails-log-mode . [(20140407 2125) nil "Major mode for viewing Rails log files" single ((:keywords "rails" "log")) "melpa"])
   (rainbow-blocks . [(20140306 1033) nil "Block syntax highlighting for lisp code" single ((:url . "https://github.com/istib/rainbow-blocks")) "melpa"])
   (rainbow-identifiers . [(20140704 1512) ((emacs (24))) "Highlight identifiers according to their names" single ((:url . "https://github.com/Fanael/rainbow-identifiers")) "melpa"])
