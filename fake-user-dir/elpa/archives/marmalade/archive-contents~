@@ -1614,7 +1614,7 @@
        [(0 1 1)
 	nil "Easy Python test running in Emacs" single])
  (noflet .
-   [(0 0 11)
+   [(0 0 12)
     nil "locally override functions" single])
  (no-easy-keys .
 	       [(1 0 2)
