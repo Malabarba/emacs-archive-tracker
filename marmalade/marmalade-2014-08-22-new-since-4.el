@@ -189,4 +189,5 @@
   (xkcd . [(1 0) ((json (1 4))) "View xkcd from Emacs" single "marmalade"])
   (zeal-at-point . [(0 0 3) nil "Search the word at point with Zeal" single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
+  (file-format . [(0 0 1) ((s (1 5 0))) "templates with files as the source" single "marmalade"])
  )

@@ -1,4 +1,9 @@
 (1
+ (file-format .
+	      [(0 0 1)
+	       ((s
+		 (1 5 0)))
+	       "templates with files as the source" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
