@@ -130,6 +130,7 @@
   (maildir . [(0 0 27) ((kv (0 0 17)) (dash (2 3 0)) (s (1 9 0)) (noflet (0 0 8))) "Simple maildir based MUA." tar "marmalade"])
   (main-line . [(1 2 2) nil "modeline replacement forked from an early version of powerline.el" single "marmalade"])
   (markdown-mode . [(2 0) nil "Emacs Major mode for Markdown-formatted text files" single "marmalade"])
+  (marmalade-service . [(2 0 14) ((dash (1 1 0)) (s (1 6 0)) (kv (0 0 16)) (noflet (0 0 7)) (elnode (0 9 9 8 6)) (file-format (0 0 1)) (htmlize (1 3 9))) "The Marmalade package store service." tar "marmalade"])
   (minimal-session-saver . [(0 6 2) nil "Very lean session saver" single "marmalade"])
   (mocker . [(0 3 0) ((eieio (1 3)) (el-x (0 2 4))) "mocking framework for emacs" single "marmalade"])
   (mode-compile . [(2 29) nil "Smart command for compiling files" single "marmalade"])
