@@ -3159,7 +3159,7 @@
 	     [(0 4)
 	      nil "Handy functions for inspecting and comparing package archives" single])
  (elnode .
-	 [(0 9 9 8 5)
+	 [(0 9 9 8 6)
 	  ((web
 	    (0 4 3))
 	   (dash
