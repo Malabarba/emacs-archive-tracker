@@ -549,7 +549,7 @@
   (never-comment . [(20140104 1407) nil "Never blocks are comment" single ((:url . "http://stackoverflow.com/a/4554658/89376")) "melpa"])
   (newlisp-mode . [(20140811 907) nil "newLISP editing mode for Emacs" single ((:url . "https://github.com/kosh04/newlisp-mode") (:keywords "language" "lisp" "newlisp")) "melpa"])
   (nexus . [(20140114 505) nil "REST Client for Nexus Maven Repository servers" tar ((:keywords "comm")) "melpa"])
-  (niflheim-theme . [(20140823 1227) nil "A port of the Nifleim theme to Emacs" single ((:url . "https://github.com/niflheim-theme/emacs") (:keywords "themes")) "melpa"])
+  (niflheim-theme . [(20140825 126) nil "A port of the Nifleim theme to Emacs" single ((:url . "https://github.com/niflheim-theme/emacs") (:keywords "themes")) "melpa"])
   (ninja-mode . [(20140629 1917) nil "Major mode for editing .ninja files" single nil "melpa"])
   (nix-mode . [(20140612 334) nil "Major mode for editing Nix expressions" single ((:url . "https://github.com/NixOS/nix/tree/master/misc/emacs")) "melpa"])
   (nm . [(20140819 729) ((notmuch (0 18)) (peg (0 6)) (company (0)) (emacs (24))) "N E V E R M O R E: an experimental email interface for Notmuch" tar ((:url . "https://github.com/tjim/nevermore")) "melpa"])
