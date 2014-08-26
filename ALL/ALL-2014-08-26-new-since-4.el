@@ -206,7 +206,7 @@
   (el-sprunge . [(20140106 1739) ((web-server (20140105 2246)) (htmlize (20130207 1202)) (emacs (24 3))) "Command line paste server with Emacs highlighting" tar nil "melpa"])
   (el-spy . [(20131226 1208) nil "Mocking framework for Emacs lisp. It also support spy, proxy." single ((:url . "https://github.com/uk-ar/el-spy") (:keywords "test")) "melpa"])
   (electric-spacing . [(20140716 2012) ((cl-lib (0 5))) "insert spaces automatically between user-defined patterns" single ((:url . "http://hins11.yu-yake.com/")) "melpa"])
-  (elfeed . [(20140818 1759) ((emacs (24 1))) "an Emacs Atom/RSS feed reader" tar nil "melpa"])
+  (elfeed . [(20140825 1721) ((emacs (24 1))) "an Emacs Atom/RSS feed reader" tar nil "melpa"])
   (elfeed-web . [(20140702 1626) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed" tar nil "melpa"])
   (elhome . [(20131202 1108) ((initsplit (20120630))) "A framework for a \"home\" Emacs configuration" tar ((:url . "http://github.com/demyanrogozhin/elhome") (:keywords "lisp")) "melpa"])
   (elisp-sandbox . [(20131116 1042) nil "Evaluate EmacsLisp expressions in a sandbox" single ((:url . "https://github.com/joelmccracken/elisp-sandbox") (:keywords "lisp")) "melpa"])
