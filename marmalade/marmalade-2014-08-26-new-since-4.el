@@ -52,6 +52,7 @@
   (exercism . [(0 0 1) nil "An Emacs mode for submitting current file to exercism.io" single "marmalade"])
   (f . [(0 11 0) ((s (1 7 0)) (dash (2 2 0))) "Modern API for working with files and directories" single "marmalade"])
   (fancy-battery . [(0 2) ((emacs (24 1))) "Fancy battery display" single "marmalade"])
+  (file-format . [(0 0 3) ((s (1 5 0))) "templates with files as the source" single "marmalade"])
   (finalize . [(1 0 0) ((emacs (24 1)) (cl-lib (0 3)) (eieio (1 4))) "finalizers for Emacs Lisp" tar "marmalade"])
   (fiplr . [(0 1 3) nil "Fuzzy finder for files in a project." single "marmalade"])
   (fit-frame . [(0) nil "Resize a frame.  In particular, fit a frame to its buffers." single "marmalade"])
@@ -189,5 +190,4 @@
   (xkcd . [(1 0) ((json (1 4))) "View xkcd from Emacs" single "marmalade"])
   (zeal-at-point . [(0 0 3) nil "Search the word at point with Zeal" single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
-  (file-format . [(0 0 1) ((s (1 5 0))) "templates with files as the source" single "marmalade"])
  )
