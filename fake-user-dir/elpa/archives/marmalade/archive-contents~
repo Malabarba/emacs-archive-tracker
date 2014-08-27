@@ -1055,7 +1055,7 @@
 	     (1 2)))
 	   "A library for pasting to https://refheap.com" single])
  (recursive-narrow .
-		   [(1 2)
+		   [(20140801 1400)
 		    nil "narrow-to-region that operates recursively" single])
  (rect-mark .
 	    [(1 4)
