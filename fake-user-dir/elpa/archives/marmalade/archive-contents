@@ -188,9 +188,11 @@
 	   [(8 0 4)
 	    nil "major mode for editing html templates" single])
  (web .
-      [(0 4 3)
+      [(0 4 5)
        ((dash
-	 (2 3 0)))
+	 (2 3 0))
+	(s
+	 (1 5 0)))
        "useful HTTP client" single])
  (weather-metno .
 		[(20140121)
@@ -2934,7 +2936,7 @@
 			[(1 86)
 			 nil "Graphically indicate the fill column" single])
  (file-format .
-	      [(0 0 3)
+	      [(0 0 4)
 	       ((s
 		 (1 5 0)))
 	       "templates with files as the source" single])
