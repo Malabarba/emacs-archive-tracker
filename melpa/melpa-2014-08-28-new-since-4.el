@@ -808,7 +808,7 @@
   (thumb-frm . [(20140827 1643) ((frame-fns (0)) (frame-cmds (0))) "Commands for thumbnail frames." single ((:url . "http://www.emacswiki.org/thumb-frm.el") (:keywords "frame" "icon")) "melpa"])
   (timesheet . [(20140418 502) ((s (1)) (org (7)) (auctex (11 87 4))) "Timesheet management add-on for org-mode" tar ((:url . "https://github.com/tmarble/timesheet.el") (:keywords "org" "timesheet")) "melpa"])
   (tiny . [(20140103 305) nil "Quickly generate linear ranges in Emacs" single ((:url . "https://github.com/abo-abo/tiny")) "melpa"])
-  (toggle . [(20120615 1510) nil "quickly open corresponding file (eg test vs impl)." single ((:keywords "files" "extensions" "convenience")) "melpa"])
+  (toggle . [(20140815 245) nil "quickly open corresponding file (eg test vs impl)." single ((:keywords "files" "extensions" "convenience")) "melpa"])
   (toggle-quotes . [(20140710 226) nil "Toggle between single and double quoted string" single ((:url . "https://github.com/toctan/toggle-quotes.el") (:keywords "convenience" "quotes")) "melpa"])
   (toggle-test . [(20140722 2237) nil "Toggle between source and test files in various programming languages" single ((:url . "https://github.com/rags/toggle-test") (:keywords "tdd" "test" "toggle" "productivity")) "melpa"])
   (toml . [(20130903 555) nil "TOML (Tom's Obvious, Minimal Language) parser" single ((:url . "https://github.com/gongo/emacs-toml") (:keywords "toml" "parser")) "melpa"])
