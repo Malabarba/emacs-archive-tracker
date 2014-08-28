@@ -1,4 +1,7 @@
 (1
+ (dired-nav-enhance .
+		    [(1 0)
+		     nil "Enhanced navigation for dired buffers" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
