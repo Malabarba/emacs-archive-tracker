@@ -19,6 +19,7 @@
   (easy-kill . [(0 9 3) ((emacs (24)) (cl-lib (0 5))) "kill & mark things easily" tar ((:keywords "killing" "convenience") (:url . "https://github.com/leoliu/easy-kill")) "gnu"])
   (dismal . [(1 5) ((cl-lib (0))) "Dis Mode Ain't Lotus: Spreadsheet program Emacs" tar ((:url . "http://elpa.gnu.org/packages/dismal.html")) "gnu"])
   (diff-hl . [(1 6 0) ((cl-lib (0 2))) "Highlight uncommitted changes" tar ((:keywords "vc" "diff") (:url . "https://github.com/dgutov/diff-hl")) "gnu"])
+  (crisp . [(1 3 4) nil "CRiSP/Brief Emacs emulator" single ((:url . "http://elpa.gnu.org/packages/crisp.html") (:keywords "emulations" "brief" "crisp")) "gnu"])
   (chess . [(2 0 4) ((cl-lib (0 5))) "Play chess in GNU Emacs" tar ((:keywords "games") (:url . "http://elpa.gnu.org/packages/chess.html")) "gnu"])
   (caps-lock . [(1 0) nil "Caps-lock as a minor mode" single ((:url . "http://elpa.gnu.org/packages/caps-lock.html") (:keywords)) "gnu"])
   (aumix-mode . [(7) nil "run the aumix program in a buffer" single ((:url . "http://user42.tuxfamily.org/aumix-mode/index.html") (:keywords "multimedia" "mixer" "aumix")) "gnu"])
