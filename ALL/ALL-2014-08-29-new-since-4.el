@@ -549,7 +549,7 @@
   (omniref . [(20140222 1226) nil "Omniref Ruby documentation search engine interface" single ((:url . "http://github.org/dotemacs/omniref.el") (:keywords "docs" "help" "tools")) "melpa"])
   (omnisharp . [(20140807 1207) ((json (1 2)) (dash (1 8 0)) (popup (0 5)) (auto-complete (1 4)) (flycheck (0 19)) (csharp-mode (0 8 6))) "Omnicompletion (intellisense) and more for C#" single ((:url . "https://github.com/sp3ctum/omnisharp-emacs") (:keywords "csharp" "c#" "ide" "auto-complete" "intellisense")) "melpa"])
   (on-screen . [(20140502 2010) ((cl-lib (0))) "guide your eyes while scrolling" single ((:url . "https://github.com/michael-heerdegen/on-screen.el") (:keywords "convenience")) "melpa"])
-  (oneonone . [(20140827 2249) ((hexrgb (0))) "Frame configuration that uses one frame per window." single ((:url . "http://www.emacswiki.org/oneonone.el") (:keywords "local" "frames")) "melpa"])
+  (oneonone . [(20140829 250) ((hexrgb (0))) "Frame configuration that uses one frame per window." single ((:url . "http://www.emacswiki.org/oneonone.el") (:keywords "local" "frames")) "melpa"])
   (openstack-cgit-browse-file . [(20130819 227) nil "Browse the current file in OpenStack cgit" single ((:url . "https://github.com/chmouel/openstack-cgit-browse-file") (:keywords "convenience" "vc" "git" "cgit" "gerrit" "openstack")) "melpa"])
   (operate-on-number . [(20140522 430) nil "Operate on number at point with arithmetic functions" single ((:url . "https://github.com/knu/operate-on-number.el") (:keywords "editing")) "melpa"])
   (org-ac . [(20140302 413) ((auto-complete-pcmp (0 0 1)) (log4e (0 2 0)) (yaxception (0 1))) "Some auto-complete sources for org-mode" single ((:url . "https://github.com/aki2o/org-ac") (:keywords "org" "completion")) "melpa"])
