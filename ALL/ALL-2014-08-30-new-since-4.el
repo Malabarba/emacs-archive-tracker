@@ -527,7 +527,7 @@
   (navi-mode . [(20140605 500) nil "major-mode for easy buffer-navigation" single ((:url . "https://github.com/tj64/outshine")) "melpa"])
   (navi2ch . [(20140716 2324) nil "Navigator for 2ch for Emacsen" tar ((:keywords "network" "2ch")) "melpa"])
   (navorski . [(20140827 923) ((s (1 9 0)) (dash (1 5 0)) (multi-term (0 8 14))) "Helping you live in the terminal, like Viktor did." single ((:keywords "terminal")) "melpa"])
-  (neotree . [(20140824 342) nil "A tree plugin like NerdTree for Vim" single ((:url . "https://github.com/jaypei/emacs-neotree")) "melpa"])
+  (neotree . [(20140829 1853) nil "A tree plugin like NerdTree for Vim" single ((:url . "https://github.com/jaypei/emacs-neotree")) "melpa"])
   (never-comment . [(20140104 1407) nil "Never blocks are comment" single ((:url . "http://stackoverflow.com/a/4554658/89376")) "melpa"])
   (newlisp-mode . [(20140811 907) nil "newLISP editing mode for Emacs" single ((:url . "https://github.com/kosh04/newlisp-mode") (:keywords "language" "lisp" "newlisp")) "melpa"])
   (nexus . [(20140114 505) nil "REST Client for Nexus Maven Repository servers" tar ((:keywords "comm")) "melpa"])
