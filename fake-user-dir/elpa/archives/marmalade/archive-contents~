@@ -1,4 +1,10 @@
 (1
+ (linky-client .
+	       [(0 0 2)
+		nil "a client for linky.elnode.org" single])
+ (fixme-mode .
+	     [(1 0 1)
+	      nil "fixme minor mode to highlight warning words" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
