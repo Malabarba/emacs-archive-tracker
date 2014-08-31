@@ -1,4 +1,7 @@
 (1
+ (isearch-switch .
+		 [(1 0)
+		  nil "switch the manner you are isearching in." single])
  (linky-client .
 	       [(0 0 2)
 		nil "a client for linky.elnode.org" single])

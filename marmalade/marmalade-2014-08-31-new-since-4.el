@@ -193,4 +193,5 @@
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
   (fixme-mode . [(1 0 1) nil "fixme minor mode to highlight warning words" single "marmalade"])
   (linky-client . [(0 0 2) nil "a client for linky.elnode.org" single "marmalade"])
+  (isearch-switch . [(1 0) nil "switch the manner you are isearching in." single "marmalade"])
  )
