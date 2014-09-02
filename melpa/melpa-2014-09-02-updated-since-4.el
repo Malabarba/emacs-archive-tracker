@@ -616,7 +616,7 @@
   (memoize . [(20130421 1234) nil "Memoization functions" single ((:url . "https://github.com/skeeto/emacs-memoize")) "melpa"])
   (mentor . [(20130519 1540) ((xml-rpc (1 6 9))) "Frontend for the rTorrent bittorrent client" tar ((:keywords "bittorrent" "rtorrent")) "melpa"])
   (metaweblog . [(20130707 431) ((xml-rpc (1 6 8))) "An emacs library to access metaweblog based weblogs" tar nil "melpa"])
-  (mew . [(20140702 1800) nil "Messaging in the Emacs World" tar nil "melpa"])
+  (mew . [(20140901 1737) nil "Messaging in the Emacs World" tar nil "melpa"])
   (mic-paren . [(20140714 719) nil "advanced highlighting of matching parentheses" single ((:keywords "languages" "faces" "parenthesis" "matching")) "melpa"])
   (midje-mode . [(20131019 1357) ((cider (0 1 4)) (clojure-mode (1 0))) "Minor mode for running Midje tests in emacs" tar nil "melpa"])
   (migemo . [(20140823 2003) ((cl-lib (0 5))) "Japanese incremental search through dynamic pattern expansion" single ((:url . "https://github.com/emacs-jp/migemo")) "melpa"])
