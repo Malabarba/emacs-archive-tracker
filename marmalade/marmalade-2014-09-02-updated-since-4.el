@@ -176,7 +176,7 @@
   (rbenv . [(0 0 1) nil "Emacs integration for rbenv" single "marmalade"])
   (rcirc-robots . [(0 0 7) ((kv (0 0 8)) (anaphora (0 0 5))) "robots based on rcirc irc" single "marmalade"])
   (rcirc-ssh . [(0 0 7) ((kv (0 0 3))) "do irc over ssh sessions" single "marmalade"])
-  (recursive-narrow . [(20140801 1400) nil "narrow-to-region that operates recursively" single "marmalade"])
+  (recursive-narrow . [(20140811 1546) nil "narrow-to-region that operates recursively" single "marmalade"])
   (refheap . [(0 0 6) ((json (1 2))) "A library for pasting to https://refheap.com" single "marmalade"])
   (region-list-edit . [(20100530 808) nil "Add/delete a region into/from a region list, such as ((4 . 7) (11 . 15) (17 . 17) (20 . 25))." single "marmalade"])
   (remember-theme . [(20140122 1500) nil "Remembers the last theme in use and re-loads for the next session." single "marmalade"])
