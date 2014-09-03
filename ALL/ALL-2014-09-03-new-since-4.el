@@ -144,7 +144,7 @@
   (dayone . [(20131117 255) ((uuid (0 0 3)) (mustache (0 22)) (ht (1 5))) "Utility script for Day One" tar ((:url . "https://github.com/mori-dev/emacs-dayone") (:keywords "day one" "tools" "convenience")) "melpa"])
   (debpaste . [(20140617 2258) ((xml-rpc (1 6 7))) "Interface for getting/posting/deleting pastes from paste.debian.net" single ((:url . "http://github.com/alezost/debpaste.el") (:keywords "paste")) "melpa"])
   (debug-print . [(20140125 1619) ((emacs (24))) "A nice printf debugging environment by the way Gauche do" single ((:url . "https://github.com/kenoss/debug-print") (:keywords "extensions" "lisp" "tools" "maint")) "melpa"])
-  (decl . [(20140424 2227) ((dash (2 5 0)) (emacs (24 3)) (cl-lib (0 3))) "Enables you to organize your code in a declarative manner" single ((:url . "https://github.com/preetpalS/decl.el")) "melpa"])
+  (decl . [(20140902 1847) ((dash (2 5 0)) (emacs (24 3)) (cl-lib (0 3))) "Enables you to organize your code in a declarative manner" single ((:url . "https://github.com/preetpalS/decl.el")) "melpa"])
   (dedukti-mode . [(20140430 734) nil "Major mode for Dedukti files" single nil "melpa"])
   (demangle-mode . [(20140618 1505) ((emacs (24)) (cl-lib (0 1))) "Automatically demangle C++ symbols" single ((:keywords "c" "tools")) "melpa"])
   (demo-it . [(20140819 838) nil "Utility functions for creating demonstrations" single ((:keywords "abbrev")) "melpa"])

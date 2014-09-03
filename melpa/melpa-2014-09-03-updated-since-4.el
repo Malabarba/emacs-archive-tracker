@@ -763,7 +763,7 @@
   (pophint . [(20140816 2152) ((popup (0 5 0)) (log4e (0 2 0)) (yaxception (0 1))) "Provide navigation using pop-up tips, like Firefox's Vimperator Hint Mode" tar ((:url . "https://github.com/aki2o/emacs-pophint") (:keywords "popup")) "melpa"])
   (popup . [(20140815 629) ((cl-lib (0 3))) "Visual Popup User Interface" single ((:keywords "lisp")) "melpa"])
   (popup-switcher . [(20140503 1201) ((popup (0 5 0))) "switch to other buffers and files via popup." single ((:url . "https://github.com/kostafey/popup-switcher") (:keywords "popup" "switch" "buffers" "functions")) "melpa"])
-  (popwin . [(20140508 508) nil "Popup Window Manager." single ((:keywords "convenience")) "melpa"])
+  (popwin . [(20140902 1727) nil "Popup Window Manager." single ((:keywords "convenience")) "melpa"])
   (pos-tip . [(20140613 224) nil "Show tooltip at point" single ((:keywords "tooltip")) "melpa"])
   (pov-mode . [(20120825 716) nil "Major mode for editing POV-Ray scene files." tar nil "melpa"])
   (powerline . [(20140516 2128) ((cl-lib (0 2))) "Rewrite of Powerline" tar ((:url . "http://github.com/milkypostman/powerline/") (:keywords "mode-line")) "melpa"])
