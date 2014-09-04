@@ -228,7 +228,7 @@
   (elisp-depend . [(20120427 123) nil "Parse depend libraries of elisp file." single ((:url . "http://www.emacswiki.org/emacs/download/elisp-depend.el") (:keywords "elisp-depend")) "melpa"])
   (elisp-slime-nav . [(20140619 254) ((cl-lib (0 2))) "Make M-. and M-, work in elisp like they do in slime" single ((:url . "https://github.com/purcell/elisp-slime-nav") (:keywords "navigation" "slime" "elisp" "emacs-lisp")) "melpa"])
   (elixir-mix . [(20140831 2316) nil "Emacs integration for Elixir's mix" single ((:url . "http://github.com/tonini/elixir-mix.el") (:keywords "elixir" "mix" "elixir-mix")) "melpa"])
-  (elixir-mode . [(20140827 1626) nil "Major mode for editing Elixir files" tar ((:url . "https://github.com/elixir-lang/emacs-elixir") (:keywords "languages" "elixir")) "melpa"])
+  (elixir-mode . [(20140904 554) nil "Major mode for editing Elixir files" tar ((:url . "https://github.com/elixir-lang/emacs-elixir") (:keywords "languages" "elixir")) "melpa"])
   (elmine . [(20130330 1300) nil "Redmine API access via elisp." single ((:url . "http://github.com/leoc/elmine") (:keywords "tools")) "melpa"])
   (elnode . [(20140203 1506) ((web (0 1 4)) (dash (1 1 0)) (noflet (0 0 7)) (s (1 5 0)) (creole (0 8 14)) (fakir (0 1 6)) (db (0 0 5)) (kv (0 0 17))) "The Emacs webserver." tar nil "melpa"])
   (elpa-audit . [(20131230 1344) nil "Handy functions for inspecting and comparing package archives" single ((:url . "https://github.com/purcell/elpa-audit") (:keywords "maint")) "melpa"])
