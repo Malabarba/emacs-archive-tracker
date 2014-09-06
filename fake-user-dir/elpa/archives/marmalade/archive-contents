@@ -1457,20 +1457,18 @@
 	      (1 6 8)))
 	    "Blog from Org mode to wordpress" tar])
  (org-trello .
-	     [(0 4 8)
-	      ((db
-		(0 0 6))
+	     [(0 5 9)
+	      ((request-deferred
+		(0 1 0))
+	       (deferred
+		   (0 3 2))
 	       (s
-		(1 7 0))
-	       (esxml
-		(0 3 0))
-	       (elnode
-		(0 9 9 7 6))
-	       (request
-		(0 2 0))
+		(1 9 0))
 	       (dash
-		(2 5 0)))
-	      "Minor mode to synchronize org-mode buffer and trello board" tar])
+		(2 8 0))
+	       (emacs
+		(24)))
+	      "Minor mode to synchronize org-mode buffer and trello board" single])
  (org-table-comment .
 		    [(0 2)
 		     nil "Org table comment modes." single])
