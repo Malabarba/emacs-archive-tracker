@@ -1458,16 +1458,16 @@
 	    "Blog from Org mode to wordpress" tar])
  (org-trello .
 	     [(0 5 9)
-	      ((request-deferred
-		(0 1 0))
-	       (deferred
-		   (0 3 2))
-	       (s
-		(1 9 0))
+	      ((emacs
+		(24))
 	       (dash
 		(2 8 0))
-	       (emacs
-		(24)))
+	       (s
+		(1 9 0))
+	       (deferred
+		   (0 3 2))
+	       (request-deferred
+		(0 1 0)))
 	      "Minor mode to synchronize org-mode buffer and trello board" single])
  (org-table-comment .
 		    [(0 2)
