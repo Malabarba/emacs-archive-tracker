@@ -198,7 +198,7 @@
 	 (1 5 0)))
        "useful HTTP client" single])
  (weather-metno .
-		[(20140121)
+		[(20140909)
 		 ((emacs
 		   (24))
 		  (cl-lib
