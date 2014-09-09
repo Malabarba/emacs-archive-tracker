@@ -199,4 +199,5 @@
   (zeal-at-point . [(0 0 3) nil "Search the word at point with Zeal" single "marmalade"])
   (zenburn . [(0 1) nil "A low contrast colour theme for Emacs" single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
+  (move-line . [(0 0 1) nil "utilities for moving lines in file" single "marmalade"])
  )

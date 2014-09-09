@@ -1,4 +1,7 @@
 (1
+ (move-line .
+	    [(0 0 1)
+	     nil "utilities for moving lines in file" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
