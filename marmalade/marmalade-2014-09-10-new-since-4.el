@@ -182,7 +182,7 @@
   (tommyh-theme . [(1 2) nil "A bright, bold-colored theme for emacs." single "marmalade"])
   (tox . [(20130819 1127) nil "Launch current python test with tox." single "marmalade"])
   (troncle . [(0 1 2) ((cider (0 5 0))) "Emacs convenience functions for tracing clojure code" single "marmalade"])
-  (tronesque-theme . [(1 3) nil "Color Theme based on Tron universe." single "marmalade"])
+  (tronesque-theme . [(1 5) nil "Color Theme based on Tron universe." single "marmalade"])
   (tsql . [(1 0) nil "customizes sql.el for T-SQL" single "marmalade"])
   (typescript . [(0 1 1) nil "Major mode for editing typescript" single "marmalade"])
   (vimpulse . [(0 5) nil "emulates Vim's most useful features" single "marmalade"])
