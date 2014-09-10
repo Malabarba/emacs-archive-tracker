@@ -1,4 +1,7 @@
 (1
+ (math-at-point .
+		[(0 0 1)
+		 nil "Utilities for modifying numbers at point" single])
  (move-line .
 	    [(0 0 1)
 	     nil "utilities for moving lines in file" single])
