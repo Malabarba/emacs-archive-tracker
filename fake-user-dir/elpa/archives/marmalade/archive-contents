@@ -2530,7 +2530,7 @@
 	   [(1 6)
 	    nil "goto last change" single])
  (google-translate .
-		   [(0 8 2)
+		   [(0 10 2)
 		    nil "Emacs interface to Google Translate." tar])
  (god-mode .
 	   [(2 12 0)
