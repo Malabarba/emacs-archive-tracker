@@ -1,7 +1,7 @@
 (1
- (sudo-edit .
-	    [(0 0 1)
-	     nil "Utilities for opening files with sudo" single])
+ (om-mode .
+	  [(0 1 20140914)
+	   nil "Insert Om component template with life cycle." single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -542,6 +542,9 @@
  (sumatra-forward .
 		  [(2008 10 8)
 		   nil "Provides Sumatra Forward search" single])
+ (sudo-edit .
+	    [(0 0 1)
+	     nil "Utilities for opening files with sudo" single])
  (sudden-death .
 	       [(0 1)
 		nil "Totsuzen-no-Shi" single])
