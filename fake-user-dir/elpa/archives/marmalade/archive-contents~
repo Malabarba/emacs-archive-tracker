@@ -1,7 +1,4 @@
 (1
- (om-mode .
-	  [(0 5 20140914)
-	   nil "Insert Om component template with life cycle." single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -1556,6 +1553,9 @@
  (openstack-cgit-browse-file .
 			     [(0 2)
 			      nil "Browse the current file in OpenStack cgit" single])
+ (om-mode .
+	  [(0 5 20140914)
+	   nil "Insert Om component template with life cycle." single])
  (offlineimap .
 	      [(0 1)
 	       nil "Run OfflineIMAP from Emacs" single])
