@@ -905,7 +905,7 @@
   (spotify . [(20140830 1237) nil "Control the spotify application from emacs" single ((:url . "https://github.com/remvee/spotify-el") (:keywords "convenience")) "melpa"])
   (sprintly-mode . [(20121005 2234) ((furl (0 0 2))) "Major mode for dealing with sprint.ly" single ((:url . "https://github.com/sprintly/sprintly-mode")) "melpa"])
   (sql-indent . [(20090325 2254) nil "indentation of SQL statements" single ((:url . "http://www.emacswiki.org/cgi-bin/wiki.pl?SqlIndent") (:keywords "languages")) "melpa"])
-  (sr-speedbar . [(20140914 2339) nil "Same frame speedbar" single ((:url . "http://www.emacswiki.org/emacs/download/sr-speedbar.el") (:keywords "speedbar" "sr-speedbar.el")) "melpa"])
+  (sr-speedbar . [(20140915 652) nil "Same frame speedbar" single ((:url . "http://www.emacswiki.org/emacs/download/sr-speedbar.el") (:keywords "speedbar" "sr-speedbar.el")) "melpa"])
   (ssh . [(20120904 1342) nil "Support for remote logins using ssh." single ((:keywords "unix" "comm")) "melpa"])
   (ssh-config-mode . [(20120513 2233) nil "Mode for fontification of ~/.ssh/config" single ((:url . "http://www.mahalito.net/~harley/elisp/ssh-config-mode.el") (:keywords "ssh" "config" "emacs")) "melpa"])
   (stan-mode . [(20140727 1858) nil "Major mode for editing Stan files" tar ((:url . "http://github.com/stan-dev/stan-mode") (:keywords "languanges")) "melpa"])
