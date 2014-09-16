@@ -189,7 +189,7 @@
   (s . [(1 9 0) nil "The long lost Emacs string manipulation library." single "marmalade"])
   (sass-mode . [(3 0 16) ((haml-mode (3 0 15))) "Major mode for editing Sass files" single "marmalade"])
   (save-visited-files . [(1 2) nil "save opened files across sessions" single "marmalade"])
-  (scpaste . [(0 6 1) ((htmlize (1 39))) "Paste to the web via scp." single "marmalade"])
+  (scpaste . [(0 6 2) ((htmlize (1 39))) "Paste to the web via scp." single "marmalade"])
   (sequence . [(0 0 1) nil "makes sequences of numbers" single "marmalade"])
   (shorten . [(0 3) nil "component-wise string shortener" single "marmalade"])
   (show-marks . [(0 4) ((fm (1 0))) "Navigate and visualize the mark-ring" single "marmalade"])
