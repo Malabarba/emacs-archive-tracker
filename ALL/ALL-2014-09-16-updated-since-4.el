@@ -369,7 +369,7 @@
   (ggo-mode . [(20130524 443) nil "Gengetopt major mode" single ((:keywords "extensions" "convenience" "local")) "melpa"])
   (ggtags . [(20140812 2036) ((emacs (24)) (cl-lib (0 5))) "emacs frontend to GNU Global source code tagging system" single ((:url . "https://github.com/leoliu/ggtags") (:keywords "tools" "convenience")) "melpa"])
   (gh . [(20140706 1506) ((eieio (1 3)) (pcache (0 2 4)) (logito (0 1))) "A GitHub library for Emacs" tar nil "melpa"])
-  (ghc . [(20140828 1904) nil "Sub mode for Haskell mode" tar nil "melpa"])
+  (ghc . [(20140915 2022) nil "Sub mode for Haskell mode" tar nil "melpa"])
   (ghci-completion . [(20140316 2331) ((emacs (24 1))) "Completion for GHCi commands in inferior-haskell buffers" single ((:keywords "convenience")) "melpa"])
   (gist . [(20140706 1503) ((eieio (1 3)) (gh (0 7 2)) (tabulated-list (0))) "Emacs integration for gist.github.com" single ((:keywords "gist" "git" "github" "paste" "pastie" "pastebin")) "melpa"])
   (git-auto-commit-mode . [(20131007 1423) nil "Emacs Minor mode to automatically commit and push" single ((:url . "http://ryuslash.org/projects/git-auto-commit-mode/") (:keywords "vc")) "melpa"])
