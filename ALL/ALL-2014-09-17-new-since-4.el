@@ -210,7 +210,7 @@
   (edts . [(20140907 732) ((auto-complete (1 3 1)) (auto-highlight-symbol (1 53)) (dash (1 5 0)) (eproject (1 5)) (erlang (2 4 1)) (f (0 16 0)) (popup (0 4))) "Erlang Development Tool Suite" tar nil "melpa"])
   (efire . [(20130811 1649) ((circe (1 2))) "Use campfire from Emacs" single ((:url . "https://github.com/capitaomorte/efire") (:keywords "convenience" "tools")) "melpa"])
   (eide . [(20140825 2322) nil "IDE interface" tar nil "melpa"])
-  (el-get . [(20140915 2044) nil "Manage the external elisp bits and pieces you depend upon" tar ((:url . "http://www.emacswiki.org/emacs/el-get") (:keywords "emacs" "package" "elisp" "install" "elpa" "git" "git-svn" "bzr" "cvs" "svn" "darcs" "hg" "apt-get" "fink" "pacman" "http" "http-tar" "emacswiki")) "melpa"])
+  (el-get . [(20140916 2249) nil "Manage the external elisp bits and pieces you depend upon" tar ((:url . "http://www.emacswiki.org/emacs/el-get") (:keywords "emacs" "package" "elisp" "install" "elpa" "git" "git-svn" "bzr" "cvs" "svn" "darcs" "hg" "apt-get" "fink" "pacman" "http" "http-tar" "emacswiki")) "melpa"])
   (el-spice . [(20140805 1138) ((thingatpt+ (0))) "Extra spice for emacs lisp programming" tar ((:url . "https://github.com/vedang/el-spice") (:keywords "languages" "extensions")) "melpa"])
   (el-sprunge . [(20140106 1739) ((web-server (20140105 2246)) (htmlize (20130207 1202)) (emacs (24 3))) "Command line paste server with Emacs highlighting" tar nil "melpa"])
   (el-spy . [(20131226 1208) nil "Mocking framework for Emacs lisp. It also support spy, proxy." single ((:url . "https://github.com/uk-ar/el-spy") (:keywords "test")) "melpa"])
