@@ -189,6 +189,7 @@
   (tronesque-theme . [(1 5) nil "Color Theme based on Tron universe." single "marmalade"])
   (tsql . [(1 0) nil "customizes sql.el for T-SQL" single "marmalade"])
   (typescript . [(0 1 1) nil "Major mode for editing typescript" single "marmalade"])
+  (vc-tfs . [(0 1 2) nil "Support for TFS version control system" single "marmalade"])
   (vimpulse . [(0 5) nil "emulates Vim's most useful features" single "marmalade"])
   (viper-in-more-modes . [(0 1 3) nil "vi-like keybindings for various Emacs modes" single "marmalade"])
   (waher-theme . [(20130917 7) ((emacs (24 1))) "Emacs 24 theme based on waher for st2 by dduckster" single "marmalade"])
@@ -203,5 +204,4 @@
   (zeal-at-point . [(0 0 3) nil "Search the word at point with Zeal" single "marmalade"])
   (zenburn . [(0 1) nil "A low contrast colour theme for Emacs" single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
-  (vc-tfs . [(0 1 2) nil "Support for TFS version control system" single "marmalade"])
  )
