@@ -876,7 +876,7 @@
   (vc-fossil . [(20131225 2324) nil "VC backend for the fossil sofware configuraiton management system" tar nil "melpa"])
   (vc-osc . [(20120910 211) nil "non-resident support for osc version-control" single nil "melpa"])
   (vim-region . [(20140329 924) ((expand-region (20140127))) "Select region as vim" single ((:url . "https://github.com/ongaeshi/emacs-vim-region")) "melpa"])
-  (virtualenvwrapper . [(20140909 2155) ((dash (1 5 0)) (s (1 6 1))) "a featureful virtualenv tool for Emacs" single ((:url . "http://github.com/porterjamesj/virtualenvwrapper.el") (:keywords "python" "virtualenv" "virtualenvwrapper")) "melpa"])
+  (virtualenvwrapper . [(20140920 2024) ((dash (1 5 0)) (s (1 6 1))) "a featureful virtualenv tool for Emacs" single ((:url . "http://github.com/porterjamesj/virtualenvwrapper.el") (:keywords "python" "virtualenv" "virtualenvwrapper")) "melpa"])
   (vkill . [(20091203 1022) nil "view and kill Unix processes from within Emacs" single nil "melpa"])
   (vlf . [(20140908 432) nil "View Large Files" tar ((:url . "https://github.com/m00natic/vlfi") (:keywords "large files" "utilities")) "melpa"])
   (volume . [(20121025 1538) nil "tweak your sound card volume from Emacs" single ((:url . "http://www.brockman.se/software/volume-el/")) "melpa"])
