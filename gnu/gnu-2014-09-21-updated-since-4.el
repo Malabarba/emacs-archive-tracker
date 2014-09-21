@@ -2,7 +2,7 @@
   (yasnippet . [(0 8 0) nil "Yet another snippet extension for Emacs." tar ((:keywords "convenience" "emulation") (:url . "http://github.com/capitaomorte/yasnippet")) "gnu"])
   (xclip . [(1 3) nil "use xclip to copy&paste" single ((:url . "http://elpa.gnu.org/packages/xclip.html") (:keywords "convenience" "tools")) "gnu"])
   (windresize . [(0 1) nil "Resize windows interactively" single ((:url . "http://elpa.gnu.org/packages/windresize.html") (:keywords "window")) "gnu"])
-  (vlf . [(1 5) nil "View Large Files" tar ((:keywords "large files" "utilities") (:url . "https://github.com/m00natic/vlfi")) "gnu"])
+  (vlf . [(1 6) nil "View Large Files" tar ((:keywords "large files" "utilities") (:url . "https://github.com/m00natic/vlfi")) "gnu"])
   (uni-confusables . [(0 1) nil "Unicode confusables table" tar ((:url . "http://elpa.gnu.org/packages/uni-confusables.html")) "gnu"])
   (undo-tree . [(0 6 5) nil "Treat undo history as a tree" single ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "convenience" "files" "undo" "redo" "history" "tree")) "gnu"])
   (trie . [(0 2 6) ((tNFA (0 1 1)) (heap (0 3))) "Trie data structure" single ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "extensions" "matching" "data structures trie" "ternary search tree" "tree" "completion" "regexp")) "gnu"])
