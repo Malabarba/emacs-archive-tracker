@@ -1,4 +1,7 @@
 (1
+ (dirtrack-buffer-name-track-mode .
+				  [(1 0 0)
+				   nil "minor mode to cause shell buffers to reflect the working directory" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
