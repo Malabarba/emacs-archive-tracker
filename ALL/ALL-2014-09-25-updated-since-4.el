@@ -1050,7 +1050,7 @@
   (visible-mark . [(20140801 822) nil "Make marks visible." single ((:url . "https://gitlab.com/iankelling/visible-mark") (:keywords "marking" "color" "faces")) "melpa"])
   (visual-regexp . [(20140825 245) ((cl-lib (0 2))) "A regexp/replace command for Emacs with interactive visual feedback" single ((:url . "https://github.com/benma/visual-regexp.el/") (:keywords "regexp" "replace" "visual" "feedback")) "melpa"])
   (visual-regexp-steroids . [(20140825 245) ((visual-regexp (0 8))) "Extends visual-regexp to support other regexp engines" tar ((:url . "https://github.com/benma/visual-regexp-steroids.el/") (:keywords "external" "foreign" "regexp" "replace" "python" "visual" "feedback")) "melpa"])
-  (vlf . [(20140924 1525) nil "View Large Files" tar ((:url . "https://github.com/m00natic/vlfi") (:keywords "large files" "utilities")) "melpa"])
+  (vlf . [(20140925 754) nil "View Large Files" tar ((:url . "https://github.com/m00natic/vlfi") (:keywords "large files" "utilities")) "melpa"])
   (vline . [(20120108 1245) nil "show vertical line (column highlighting) mode." single ((:url . "http://www.emacswiki.org/cgi-bin/wiki/vline.el") (:keywords "faces" "editing" "emulating")) "melpa"])
   (volatile-highlights . [(20140812 28) nil "Minor mode for visual feedback on some operations." single ((:url . "http://www.emacswiki.org/emacs/download/volatile-highlights.el") (:keywords "emulations" "convenience" "wp")) "melpa"])
   (w32-browser . [(20131227 208) nil "Run Windows application associated with a file." single ((:url . "http://www.emacswiki.org/w32-browser.el") (:keywords "mouse" "dired" "w32" "explorer")) "melpa"])
