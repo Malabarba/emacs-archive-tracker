@@ -6,7 +6,7 @@
   (ac-c-headers . [(20131015 2339) nil "auto-complete source for C headers" single ((:url . "http://hins11.yu-yake.com/")) "melpa"])
   (ac-cake . [(20140315 929) ((cake (1 4 2)) (auto-complete (1 4 0))) "CakePHP Minor Mode auto-complete.el source" single ((:url . "http://code.101000lab.org")) "melpa"])
   (ac-cake2 . [(20140320 8) ((cake2 (1 1 2)) (auto-complete (1 4 0))) "CakePHP 2 Minor Mode auto-complete.el source" single ((:url . "http://code.101000lab.org")) "melpa"])
-  (ac-cider . [(20140921 1215) ((cider (0 8 0)) (auto-complete (1 4))) "Clojure auto-complete sources using CIDER" single ((:url . "https://github.com/clojure-emacs/ac-cider") (:keywords "languages" "clojure" "nrepl" "cider" "compliment")) "melpa"])
+  (ac-cider . [(20140925 2115) ((cider (0 8 0)) (auto-complete (1 4))) "Clojure auto-complete sources using CIDER" single ((:url . "https://github.com/clojure-emacs/ac-cider") (:keywords "languages" "clojure" "nrepl" "cider" "compliment")) "melpa"])
   (ac-dcd . [(20140907 744) ((auto-complete (1 3 1)) (flycheck-dmd-dub (0 7))) "Auto Completion source for dcd for GNU Emacs" single ((:url . "http://github.com/atilaneves/ac-dcd") (:keywords "languages")) "melpa"])
   (ac-emmet . [(20131015 858) ((emmet-mode (1 0 2)) (auto-complete (1 4))) "auto-complete sources for emmet-mode's snippets" single ((:url . "https://github.com/yasuyk/ac-emmet") (:keywords "completion" "convenience" "emmet")) "melpa"])
   (ac-etags . [(20131127 311) ((auto-complete (1 4))) "etags/ctags completion source for auto-complete" single ((:url . "https://github.com/syohex/emacs-ac-etags")) "melpa"])
