@@ -364,7 +364,7 @@
   (hc-zenburn-theme . [(20140811 831) nil "An higher contrast version of the Zenburn theme." single ((:url . "https:github.com/edran/hc-zenburn-emacs")) "melpa"])
   (helm-ad . [(20140807 230) ((dash (2 8 0)) (helm (1 6 2))) "helm source for Active Directory" single ((:keywords "comm")) "melpa"])
   (helm-ag-r . [(20131123 731) ((helm (1 0))) "Search something by ag and display by helm" single ((:url . "https://github.com/yuutayamada/helm-ag-r") (:keywords "searching")) "melpa"])
-  (helm-aws . [(20140927 1442) ((helm (1 5 3))) "Manage AWS EC2 server instances directly from Emacs" single ((:url . "https://github.com/istib/helm-aws")) "melpa"])
+  (helm-aws . [(20140928 222) nil "No description available." single nil "melpa"])
   (helm-backup . [(20140124 1404) ((helm (1 5 5)) (s (1 8 0))) "Backup each file change using git" single ((:url . "http://github.com/antham/helm-backup") (:keywords "backup")) "melpa"])
   (helm-bibtex . [(20140813 1045) ((helm (1 5 5)) (ebib (1 15)) (s (1 9 0)) (dash (2 6 0)) (f (0 16 2)) (cl-lib (0 5))) "Helm source for managing BibTeX bibliographies" single nil "melpa"])
   (helm-bibtexkey . [(20140214 704) ((helm (1 5 8))) "Bibtexkey source for helm" tar ((:url . "https://github.com/kenbeese/helm-bibtexkey") (:keywords "bib" "tex")) "melpa"])
