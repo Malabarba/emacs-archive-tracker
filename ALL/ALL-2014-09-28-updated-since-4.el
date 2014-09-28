@@ -219,7 +219,7 @@
   (edit-list . [(20100930 743) nil "edit a single list" single ((:url . "http://mwolson.org/static/dist/elisp/edit-list.el")) "melpa"])
   (edit-server . [(20140908 717) nil "server that responds to edit requests from Chrome" single ((:url . "https://github.com/stsquad/emacs_chrome")) "melpa"])
   (edit-server-htmlize . [(20130329 1548) ((edit-server (1 9))) "(de)HTMLization hooks for edit-server.el" single ((:url . "https://github.com/frobtech/edit-server-htmlize")) "melpa"])
-  (editorconfig . [(20140920 2309) nil "EditorConfig Emacs extension" single ((:url . "http://github.com/editorconfig/editorconfig-emacs#readme")) "melpa"])
+  (editorconfig . [(20140927 2319) nil "EditorConfig Emacs extension" single ((:url . "http://github.com/editorconfig/editorconfig-emacs#readme")) "melpa"])
   (egg . [(20140826 2152) nil "Emacs Got Git - Emacs interface to Git" tar ((:keywords "git" "version control" "release management")) "melpa"])
   (egison-mode . [(20140828 2346) nil "Egison editing mode" single ((:url . "https://github.com/egisatoshi/egison3/blob/master/elisp/egison-mode.el")) "melpa"])
   (eimp . [(20140630 1447) nil "Emacs Image Manipulation Package" single nil "melpa"])
