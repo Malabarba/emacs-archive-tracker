@@ -158,7 +158,7 @@
   (py-import-check . [(0 2) nil "Finds the unused python imports using importchecker" single "marmalade"])
   (pycomplete . [(1 0) nil "Complete symbols at point using Pymacs." single "marmalade"])
   (python-django . [(0 1) nil "A Jazzy package for managing Django projects" single "marmalade"])
-  (pyvenv . [(1 2) nil "Python virtual environment interface" single "marmalade"])
+  (pyvenv . [(1 4) nil "Python virtual environment interface" single "marmalade"])
   (relax . [(0 2) ((json (1 2))) "For browsing and interacting with CouchDB" single "marmalade"])
   (revive . [(2 19) nil "Resume Emacs." single "marmalade"])
   (scratch-palette . [(1 0 1) nil "add scratch notes for each file" single "marmalade"])
