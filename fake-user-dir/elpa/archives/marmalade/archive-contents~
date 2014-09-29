@@ -1,4 +1,7 @@
 (1
+ (org-publish-agenda .
+		     [(1 0)
+		      nil "Publish org agenda with links to other files" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])

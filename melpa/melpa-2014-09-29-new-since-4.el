@@ -498,7 +498,7 @@
   (latest-clojure-libraries . [(20140314 617) nil "Clojure dependency resolver" single ((:url . "http://github.com/AdamClements/latest-clojure-libraries/")) "melpa"])
   (latex-extra . [(20140921 352) ((auctex (11 86 1)) (cl-lib (0 5))) "Adds several useful functionalities to LaTeX-mode." single ((:url . "http://github.com/Bruce-Connor/latex-extra") (:keywords "tex")) "melpa"])
   (latex-preview-pane . [(20140403 1049) nil "Makes LaTeX editing less painful by providing a updatable preview pane" tar nil "melpa"])
-  (ledger-mode . [(20140928 1948) nil "Helper code for use with the \"ledger\" command-line tool" tar nil "melpa"])
+  (ledger-mode . [(20140928 2045) nil "Helper code for use with the \"ledger\" command-line tool" tar nil "melpa"])
   (lfe-mode . [(20140113 1614) nil "Lisp Flavoured Erlang mode" tar nil "melpa"])
   (lice . [(20140116 657) nil "License And Header Template" tar ((:url . "https://github.com/buzztaiki/lice-el") (:keywords "template" "license" "tools")) "melpa"])
   (light-soap-theme . [(20140903 1402) ((emacs (24))) "Emacs 24 theme with a light background." single nil "melpa"])
