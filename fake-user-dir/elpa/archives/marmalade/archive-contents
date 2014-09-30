@@ -1490,7 +1490,7 @@
 		(21 0)))
 	      "Integrates Readme.org and Commentary/Change-logs." single])
  (org-publish-agenda .
-		     [(1 0)
+		     [(1 1)
 		      nil "Publish org agenda with links to other files" single])
  (org-protocol-jekyll .
 		      [(0 1)
