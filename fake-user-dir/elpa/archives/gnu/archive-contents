@@ -216,7 +216,7 @@
 	  ((:url . "http://elpa.gnu.org/packages/ioccur.html")
 	   (:keywords))])
  (javaimp .
-	  [(0 4)
+	  [(0 5)
 	   nil "Add and reorder Java import statements in Maven projects" single
 	   ((:url . "http://elpa.gnu.org/packages/javaimp.html")
 	    (:keywords "java" "maven" "programming"))])
