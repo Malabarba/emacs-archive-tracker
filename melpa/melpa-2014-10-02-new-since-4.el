@@ -340,7 +340,7 @@
   (geiser . [(20140922 1823) nil "GNU Emacs and Scheme talk to each other" tar nil "melpa"])
   (genrnc . [(20140612 537) ((deferred (0 3 1)) (concurrent (0 3)) (log4e (0 2 0)) (yaxception (0 1))) "generate RELAX NG Compact Schema from RELAX NG Schema, XML Schema and DTD." tar ((:url . "https://github.com/aki2o/emacs-genrnc") (:keywords "xml")) "melpa"])
   (gerrit-download . [(20140828 610) ((emacs (24 0)) (magit (20130828 1540))) "Show gerrit reviews in a diff buffer." single ((:url . "https://github.com/chmouel/gerrit-download.el") (:keywords "tools" "gerrit" "git")) "melpa"])
-  (ggtags . [(20140812 2036) ((emacs (24)) (cl-lib (0 5))) "emacs frontend to GNU Global source code tagging system" single ((:url . "https://github.com/leoliu/ggtags") (:keywords "tools" "convenience")) "melpa"])
+  (ggtags . [(20141001 2111) ((emacs (24)) (cl-lib (0 5))) "emacs frontend to GNU Global source code tagging system" single ((:url . "https://github.com/leoliu/ggtags") (:keywords "tools" "convenience")) "melpa"])
   (gherkin-mode . [(20140107 804) nil "An emacs major mode for editing gherkin files." single ((:keywords "languages")) "melpa"])
   (git . [(20140128 241) ((s (1 7 0)) (dash (2 2 0)) (f (0 10 0))) "An Elisp API for programmatically using Git" single ((:url . "http://github.com/rejeep/git.el") (:keywords "git")) "melpa"])
   (git-annex . [(20131119 1445) nil "Mode for easy editing of git-annex'd files" single ((:url . "https://github.com/jwiegley/git-annex-el") (:keywords "files" "data" "git" "annex")) "melpa"])
