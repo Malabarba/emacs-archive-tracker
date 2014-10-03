@@ -1,4 +1,7 @@
 (1
+ (livecoder .
+	    [(0 0 2)
+	     nil "tools for live coders" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
