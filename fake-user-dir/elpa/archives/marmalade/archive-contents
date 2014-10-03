@@ -1,7 +1,4 @@
 (1
- (buffer-file-utils .
-		    [(1 0)
-		     nil "utilities operating on a buffer and the associated file" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -3919,6 +3916,9 @@
  (buffer-move .
 	      [(0 4)
 	       nil "swap buffers between windows" single])
+ (buffer-file-utils .
+		    [(1 0)
+		     nil "utilities operating on a buffer and the associated file" single])
  (bubbleberry-theme .
 		    [(0 1 2)
 		     ((emacs
