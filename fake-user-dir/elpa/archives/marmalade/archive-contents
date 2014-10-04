@@ -3237,7 +3237,7 @@
 	      [(1 0 0)
 	       nil "Major mode for editing Elixir files" single])
  (elixir-mix .
-	     [(0 3 0)
+	     [(1 0 0)
 	      nil "Emacs integration for Elixir's mix" single])
  (elisp-slime-nav .
 		  [(0 7)
