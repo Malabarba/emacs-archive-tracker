@@ -724,7 +724,7 @@
 	       [(0 6)
 		nil "vim-like window controlling plugin" single])
  (smart-whitespace-comment-fixup .
-				 [(1 0)
+				 [(1 1)
 				  nil "Enables advice around yanking/killing lines that auto-indents and formats properly" single])
  (smart-tab .
 	    [(0 3)
@@ -1493,7 +1493,7 @@
 		(21 0)))
 	      "Integrates Readme.org and Commentary/Change-logs." single])
  (org-publish-agenda .
-		     [(1 2)
+		     [(1 4)
 		      nil "Publish org agenda with links to other files" single])
  (org-protocol-jekyll .
 		      [(0 1)
@@ -1807,7 +1807,7 @@
 	      [(0 1)
 	       nil "Become an Emacs master" single])
  (marmalade-upload .
-		   [(0 0 4)
+		   [(0 0 5)
 		    ((web
 		      (0 4 2))
 		     (kv
