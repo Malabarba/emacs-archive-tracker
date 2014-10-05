@@ -596,7 +596,7 @@
   (org-ac . [(20140302 413) ((auto-complete-pcmp (0 0 1)) (log4e (0 2 0)) (yaxception (0 1))) "Some auto-complete sources for org-mode" single ((:url . "https://github.com/aki2o/org-ac") (:keywords "org" "completion")) "melpa"])
   (org-caldav . [(20140630 1005) ((org (7))) "Sync org files with external calendar through CalDAV" single ((:keywords "calendar" "caldav")) "melpa"])
   (org-drill-table . [(20140117 137) ((s (1 7 0)) (dash (2 2 0)) (cl-lib (0 3)) (org-plus-contrib (8 2)) (emacs (24 1))) "Generate drill cards from org tables" single nil "melpa"])
-  (org-eldoc . [(20140731 706) ((org (8))) "display org header and src block info using eldoc" single ((:url . "https://bitbucket.org/ukaszg/org-eldoc") (:keywords "eldoc" "outline" "breadcrumb" "org" "babel" "minibuffer")) "melpa"])
+  (org-eldoc . [(20141005 37) ((org (8))) "display org header and src block info using eldoc" single ((:url . "https://bitbucket.org/ukaszg/org-eldoc") (:keywords "eldoc" "outline" "breadcrumb" "org" "babel" "minibuffer")) "melpa"])
   (org-gcal . [(20140606 2022) ((request-deferred (0 2 0)) (alert (1 1)) (emacs (24)) (cl-lib (0 5)) (org (8 2 4))) "Org sync with Google Calendar" single ((:url . "https://github.com/myuhe/org-gcal.el") (:keywords "convenience")) "melpa"])
   (org-gnome . [(20140111 813) ((notify (2010 8 20)) (telepathy (0 1)) (gnome-calendar (0 1))) "Orgmode integration with the GNOME desktop" single ((:keywords "org" "gnome")) "melpa"])
   (org-grep . [(20140214 2022) nil "Kind of M-x rgrep adapted for Org mode." single ((:url . "https://github.com/pinard/org-grep")) "melpa"])
