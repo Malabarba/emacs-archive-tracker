@@ -160,7 +160,7 @@
   (d-mode . [(20140918 142) nil "D Programming Language mode for (X)Emacs" single ((:keywords "d" "programming" "language" "emacs" "cc-mode")) "melpa"])
   (darcsum . [(20140315 2110) nil "a pcl-cvs like interface for managing darcs patches" tar ((:keywords "completion" "convenience" "tools" "vc")) "melpa"])
   (dart-mode . [(20140815 1009) nil "Major mode for editing Dart files" single ((:url . "http://code.google.com/p/dart-mode") (:keywords "language")) "melpa"])
-  (dash . [(20141005 705) nil "A modern list library for Emacs" single ((:keywords "lists")) "melpa"])
+  (dash . [(20141006 753) nil "A modern list library for Emacs" single ((:keywords "lists")) "melpa"])
   (dash-at-point . [(20140626 35) nil "Search the word at point with Dash" single ((:url . "https://github.com/stanaka/dash-at-point")) "melpa"])
   (datomic-snippets . [(20130707 1315) ((s (1 4 0)) (dash (1 2 0)) (yasnippet (0 6 1))) "Yasnippets for Datomic" tar nil "melpa"])
   (db . [(20140421 1411) ((kv (0 0 11))) "A database for EmacsLisp" single ((:keywords "data" "lisp")) "melpa"])
