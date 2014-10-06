@@ -1,7 +1,7 @@
 (1
- (livecoder .
-	    [(0 0 2)
-	     nil "tools for live coders" single])
+ (garoon .
+	 [(0 0 1)
+	  nil "A Garoon client." single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -1466,7 +1466,7 @@
 	      (1 6 8)))
 	    "Blog from Org mode to wordpress" tar])
  (org-trello .
-	     [(0 6 1)
+	     [(0 6 2)
 	      ((request-deferred
 		(0 1 0))
 	       (deferred
@@ -1993,6 +1993,9 @@
  (livescript-mode .
 		  [(0 0 1)
 		   nil "Major mode for LiveScript files in Emacs" single])
+ (livecoder .
+	    [(0 0 2)
+	     nil "tools for live coders" single])
  (list-utils .
 	     [(0 4 2)
 	      nil "List-manipulation utility functions" single])
