@@ -1,7 +1,4 @@
 (1
- (garoon .
-	 [(0 0 1)
-	  nil "A Garoon client." single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -2665,6 +2662,9 @@
  (gather .
 	 [(1 0 4)
 	  nil "Gather string in buffer." single])
+ (garoon .
+	 [(0 0 1)
+	  nil "A Garoon client." single])
  (gandalf-theme .
 		[(0 1)
 		 nil "Gandalf color theme" single])
@@ -3493,14 +3493,14 @@
 	(0 0 11)))
       "A database for EmacsLisp" single])
  (dash-functional .
-		  [(1 1 0)
+		  [(1 2 0)
 		   ((dash
 		     (2 0 0))
 		    (emacs
 		     (24)))
 		   "Collection of useful combinators for Emacs Lisp" single])
  (dash .
-       [(2 8 0)
+       [(2 9 0)
 	nil "A modern list library for Emacs" single])
  (dart-mode .
 	    [(0 9)
