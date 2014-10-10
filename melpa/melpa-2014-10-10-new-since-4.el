@@ -677,7 +677,7 @@
   (peek-mode . [(20130620 1246) ((elnode (0 9 8 1))) "Serve buffers live over HTTP with elnode backend" tar ((:url . "https://github.com/erikriverson/peek-mode")) "melpa"])
   (peep-dired . [(20140901 210) nil "Peep at files in another window from dired buffers" single ((:keywords "files" "convenience")) "melpa"])
   (perl-completion . [(20090527 2336) nil "No description available." single nil "melpa"])
-  (persp-projectile . [(20140716 1435) ((perspective (1 9)) (projectile (0 11 0)) (cl-lib (0 3))) "Perspective integration with Projectile" single ((:keywords "project" "convenience")) "melpa"])
+  (persp-projectile . [(20141009 2310) ((perspective (1 9)) (projectile (0 11 0)) (cl-lib (0 3))) "Perspective integration with Projectile" single ((:keywords "project" "convenience")) "melpa"])
   (phi-autopair . [(20141008 2041) ((paredit (20))) "another simple-minded autopair implementation" single ((:url . "http://hins11.yu-yake.com/")) "melpa"])
   (phi-rectangle . [(20140817 2335) nil "another rectangle-mark command (rewrite of rect-mark)" single ((:url . "http://hins11.yu-yake.com/")) "melpa"])
   (phi-search-mc . [(20140619 2229) ((phi-search (2 0 0)) (multiple-cursors (1 2 1))) "multiple-cursors extension for phi-search" single ((:url . "https://github.com/knu/phi-search-mc.el") (:keywords "search" "cursors")) "melpa"])
