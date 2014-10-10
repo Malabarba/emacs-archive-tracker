@@ -212,4 +212,5 @@
   (zenburn . [(0 1) nil "A low contrast colour theme for Emacs" single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
   (git-draft . [(0 0 1) ((dash (2 9 0))) "draft git commit messages" single "marmalade"])
+  (ertx . [(0 0 1) nil "Extra useful testing functions for EmacsLisp." single "marmalade"])
  )

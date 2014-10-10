@@ -1,4 +1,7 @@
 (1
+ (ertx .
+       [(0 0 1)
+	nil "Extra useful testing functions for EmacsLisp." single])
  (shadchen .
 	   [(1 1)
 	    nil "pattern matching for elisp" single])
