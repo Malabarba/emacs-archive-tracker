@@ -1,4 +1,9 @@
 (1
+ (git-draft .
+	    [(0 0 1)
+	     ((dash
+	       (2 9 0)))
+	     "draft git commit messages" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
