@@ -143,7 +143,7 @@
   (openstack-cgit-browse-file . [(0 2) nil "Browse the current file in OpenStack cgit" single "marmalade"])
   (operate-on-number . [(1 1 0) nil "Operate on number at point with arithmetic functions" single "marmalade"])
   (org-gnome . [(0 1) ((notify (2010 8 20)) (telepathy (0 1))) "Orgmode integration with the GNOME desktop" single "marmalade"])
-  (org-publish-agenda . [(1 4) nil "Publish org agenda with links to other files" single "marmalade"])
+  (org-publish-agenda . [(1 5) nil "Publish org agenda with links to other files" single "marmalade"])
   (org2nikola . [(0 0 8) nil "export html and meta data used by static blog like nikola from org file" tar "marmalade"])
   (osx-pseudo-daemon . [(1 0) nil "Daemon mode that plays nice with OSX." single "marmalade"])
   (outlined-elisp-mode . [(1 0 5) nil "outline-minor-mode settings for emacs lisp" single "marmalade"])
