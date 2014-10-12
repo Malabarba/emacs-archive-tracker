@@ -126,7 +126,7 @@
   (list-utils . [(0 4 2) nil "List-manipulation utility functions" single "marmalade"])
   (lui . [(1 4) ((tracking (1 5))) "Linewise User Interface" tar "marmalade"])
   (magit . [(1 2 1) nil "Control Git from Emacs." tar "marmalade"])
-  (maildir . [(0 0 27) ((kv (0 0 17)) (dash (2 3 0)) (s (1 9 0)) (noflet (0 0 8))) "Simple maildir based MUA." tar "marmalade"])
+  (maildir . [(0 0 28) ((kv (0 0 17)) (dash (2 3 0)) (s (1 9 0)) (noflet (0 0 8))) "Simple maildir based MUA." tar "marmalade"])
   (markdown-mode . [(2 0) nil "Emacs Major mode for Markdown-formatted text files" single "marmalade"])
   (marmalade-service . [(2 0 16) ((dash (1 1 0)) (s (1 6 0)) (kv (0 0 16)) (noflet (0 0 7)) (elnode (0 9 9 8 6)) (file-format (0 0 1)) (htmlize (1 3 9))) "The Marmalade package store service." tar "marmalade"])
   (minimal-session-saver . [(0 6 2) nil "Very lean session saver" single "marmalade"])

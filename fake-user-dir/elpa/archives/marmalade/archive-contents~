@@ -1887,7 +1887,7 @@
 	    [(1 2 8)
 	     nil "modeline replacement forked from an early version of powerline.el" single])
  (maildir .
-	  [(0 0 27)
+	  [(0 0 28)
 	   ((kv
 	     (0 0 17))
 	    (dash
