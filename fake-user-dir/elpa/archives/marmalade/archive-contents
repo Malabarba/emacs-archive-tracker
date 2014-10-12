@@ -1,15 +1,4 @@
 (1
- (ertx .
-       [(0 0 1)
-	nil "Extra useful testing functions for EmacsLisp." single])
- (shadchen .
-	   [(1 1)
-	    nil "pattern matching for elisp" single])
- (git-draft .
-	    [(0 0 1)
-	     ((dash
-	       (2 9 0)))
-	     "draft git commit messages" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -2612,6 +2601,11 @@
  (git-gutter .
 	     [(0 42)
 	      nil "Port of Sublime Text plugin GitGutter" single])
+ (git-draft .
+	    [(0 0 1)
+	     ((dash
+	       (2 9 0)))
+	     "draft git commit messages" single])
  (git-commit-mode .
 		  [(0 13)
 		   nil "Major mode for editing git commit messages" single])
@@ -3122,6 +3116,9 @@
 	       (emacs
 		(24)))
 	      "Window-management utilities" single])
+ (ertx .
+       [(0 0 1)
+	nil "Extra useful testing functions for EmacsLisp." single])
  (ert-x .
 	[(0)
 	 ((ert

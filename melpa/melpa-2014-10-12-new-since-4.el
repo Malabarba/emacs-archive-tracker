@@ -275,7 +275,7 @@
   (evil-god-state . [(20140830 514) ((evil (1 0 8)) (god-mode (2 12 0))) "use god-mode keybindings in evil-mode" single ((:url . "https://github.com/gridaphobe/evil-god-state") (:keywords "evil" "leader" "god-mode")) "melpa"])
   (evil-indent-textobject . [(20130831 1519) ((evil (0))) "evil textobjects based on indentation" single ((:url . "http://github.com/cofi/evil-indent-textobject") (:keywords "convenience" "evil")) "melpa"])
   (evil-jumper . [(20140806 724) ((evil (0))) "Jump like vimmers do!" single ((:url . "https://github.com/bling/evil-jumper") (:keywords "evil" "vim" "jumplist" "jump" "list")) "melpa"])
-  (evil-lisp-state . [(20141011 1427) ((evil (1 0 9)) (smartparens (1 6 1))) "An evil state to navigate Lisp code and modify it with smartparens" single ((:url . "https://github.com/syl20bnr/evil-lisp-state") (:keywords "convenience" "editing" "evil" "smartparens" "lisp" "mnemonic")) "melpa"])
+  (evil-lisp-state . [(20141011 2314) ((evil (1 0 9)) (smartparens (1 6 1)) (expand-region (0 10 0))) "An evil state to navigate Lisp code and modify it with smartparens" single ((:url . "https://github.com/syl20bnr/evil-lisp-state") (:keywords "convenience" "editing" "evil" "smartparens" "lisp" "mnemonic")) "melpa"])
   (evil-matchit . [(20140912 629) nil "Vim matchit ported into Emacs (requires EVIL)" tar nil "melpa"])
   (evil-org . [(20141002 253) ((evil (0)) (org (0))) "evil keybindings for org-mode" single ((:url . "https://github.com/edwtjo/evil-org-mode.git") (:keywords "evil" "vim-emulation" "org-mode" "key-bindings" "presets")) "melpa"])
   (evil-search-highlight-persist . [(20140920 217) nil "Persistent highlights after search" single nil "melpa"])

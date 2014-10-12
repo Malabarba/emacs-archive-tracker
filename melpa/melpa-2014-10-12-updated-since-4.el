@@ -592,7 +592,7 @@
   (macro-math . [(20130328 904) nil "in-buffer mathematical operations" single ((:url . "http://nschum.de/src/emacs/macro-math/") (:keywords "convenience")) "melpa"])
   (macrostep . [(20140529 1746) nil "interactive macro stepper for Emacs Lisp" single ((:url . "https://github.com/joddie/macrostep") (:keywords "lisp" "languages" "macro" "debugging")) "melpa"])
   (mag-menu . [(20130224 56) ((splitter (0 1 0))) "Intuitive keyboard-centric menu system" single ((:url . "https://github.com/chumpage/mag-menu") (:keywords "convenience")) "melpa"])
-  (magit . [(20141010 734) ((cl-lib (0 3)) (git-commit-mode (0 14 0)) (git-rebase-mode (0 14 0))) "control Git from Emacs" tar ((:keywords "vc" "tools")) "melpa"])
+  (magit . [(20141011 2234) ((cl-lib (0 3)) (git-commit-mode (0 14 0)) (git-rebase-mode (0 14 0))) "control Git from Emacs" tar ((:keywords "vc" "tools")) "melpa"])
   (magit-filenotify . [(20140807 340) ((magit (1 3 0))) "Refresh status buffer when git tree changes" single ((:keywords "tools")) "melpa"])
   (magit-gh-pulls . [(20140919 1201) ((emacs (24)) (gh (0 4 3)) (magit (1 1 0)) (pcache (0 2 3)) (s (1 6 1))) "GitHub pull requests extension for Magit" single ((:url . "https://github.com/sigma/magit-gh-pulls") (:keywords "tools")) "melpa"])
   (magit-push-remote . [(20140108 1300) ((magit (1 3 0))) "push remote support for Magit" single ((:url . "https://github.com/tarsius/magit-push-remote") (:keywords "convenience")) "melpa"])
