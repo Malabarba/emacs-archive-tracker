@@ -676,7 +676,7 @@
   (naquadah-theme . [(20140731 209) nil "A theme based on Tango color set" single nil "melpa"])
   (nav . [(20120507 7) nil "Emacs mode for filesystem navigation" tar nil "melpa"])
   (nav-flash . [(20140508 1341) nil "Briefly highlight the current line" single ((:url . "http://github.com/rolandwalker/nav-flash") (:keywords "extensions" "navigation" "interface")) "melpa"])
-  (ncl-mode . [(20130527 1545) nil "Major Mode for editing NCL scripts and other goodies" tar nil "melpa"])
+  (ncl-mode . [(20141012 2344) nil "Major Mode for editing NCL scripts and other goodies" tar nil "melpa"])
   (nclip . [(20130617 1315) nil "Network (HTTP) Clipboard" tar ((:url . "http://www.github.com/maio/nclip.el") (:keywords "nclip" "clipboard" "network")) "melpa"])
   (nemerle . [(20130328 746) nil "major mode for editing nemerle programs" single ((:keywords "nemerle" "mode" "languages")) "melpa"])
   (nginx-mode . [(20140321 2028) nil "major mode for editing nginx config files" single ((:keywords "nginx")) "melpa"])
