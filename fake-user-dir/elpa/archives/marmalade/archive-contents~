@@ -2602,7 +2602,7 @@
 	     [(0 42)
 	      nil "Port of Sublime Text plugin GitGutter" single])
  (git-draft .
-	    [(0 0 1)
+	    [(0 0 2)
 	     ((dash
 	       (2 9 0)))
 	     "draft git commit messages" single])

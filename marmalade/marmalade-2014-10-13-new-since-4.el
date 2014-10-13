@@ -76,7 +76,7 @@
   (garoon . [(0 0 1) nil "A Garoon client." single "marmalade"])
   (gecf . [(0 1 0) nil "G\366ktu's Emacs configuration framework." single "marmalade"])
   (gerrit-download . [(0 2) ((magit (20130828 1540))) "Show gerrit reviews in a diff buffer." single "marmalade"])
-  (git-draft . [(0 0 1) ((dash (2 9 0))) "draft git commit messages" single "marmalade"])
+  (git-draft . [(0 0 2) ((dash (2 9 0))) "draft git commit messages" single "marmalade"])
   (gnus-summary-ext . [(0 1) ((macro-utils (1 0))) "Extra limit and process mark commands for the gnus summary buffer" single "marmalade"])
   (god-mode . [(2 12 0) nil "God-like command entering minor mode" single "marmalade"])
   (goto-chg . [(1 6) nil "goto last change" single "marmalade"])
