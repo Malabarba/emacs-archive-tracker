@@ -56,7 +56,7 @@
   (elnode . [(0 9 9 8 7) ((web (0 4 3)) (dash (1 1 0)) (noflet (0 0 7)) (s (1 5 0)) (creole (0 8 14)) (fakir (0 1 6)) (db (0 0 5)) (kv (0 0 17))) "The Emacs webserver." tar "marmalade"])
   (elpakit . [(1 1 1) ((anaphora (0 0 6)) (dash (2 3 0))) "package archive builder" single "marmalade"])
   (elpy . [(1 5 1) ((company (0 8 2)) (find-file-in-project (3 3)) (highlight-indentation (0 5 0)) (idomenu (0 1)) (pyvenv (1 3)) (yasnippet (0 8 0))) "Emacs Python Development Environment" tar "marmalade"])
-  (emmet-mode . [(1 0 5) nil "Unofficial Emmet's support for emacs" single "marmalade"])
+  (emmet-mode . [(1 0 10) nil "Unofficial Emmet's support for emacs" single "marmalade"])
   (eshell-manual . [(1348477812) nil "An updated manual for Eshell." tar "marmalade"])
   (evil . [(1 0 8) ((undo-tree (0 6 3)) (goto-last-change (1 2))) "Extensible Vi layer for Emacs." tar "marmalade"])
   (evil-leader . [(0 4 3) ((evil (0))) "let there be <leader>" single "marmalade"])
