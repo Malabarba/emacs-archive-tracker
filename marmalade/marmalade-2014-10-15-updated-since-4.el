@@ -173,6 +173,7 @@
   (python-mode . [(6 1 3) nil "An Emacs mode for editing Python code" tar "marmalade"])
   (rainbow-delimiters . [(1 3 21) nil "Highlight nested parens, brackets, braces a different color at each depth." single "marmalade"])
   (rbenv . [(0 0 3) nil "Emacs integration for rbenv" single "marmalade"])
+  (rcirc-notify . [(0 8) nil "libnotify popups" single "marmalade"])
   (rcirc-robots . [(0 0 7) ((kv (0 0 8)) (anaphora (0 0 5))) "robots based on rcirc irc" single "marmalade"])
   (rcirc-ssh . [(0 0 7) ((kv (0 0 3))) "do irc over ssh sessions" single "marmalade"])
   (recursive-narrow . [(20140811 1546) nil "narrow-to-region that operates recursively" single "marmalade"])
