@@ -1,4 +1,7 @@
 (1
+ (subatomic-theme .
+		  [(1 5 2)
+		   nil "Low contrast bluish color theme" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
