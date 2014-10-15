@@ -125,6 +125,7 @@
   (let-recur . [(0 0 5) nil "Simplified implementation of recur" single "marmalade"])
   (list-utils . [(0 4 2) nil "List-manipulation utility functions" single "marmalade"])
   (lui . [(1 4) ((tracking (1 5))) "Linewise User Interface" tar "marmalade"])
+  (macrostep . [(0 8) nil "interactive macro stepper for Emacs Lisp" single "marmalade"])
   (magit . [(1 2 1) nil "Control Git from Emacs." tar "marmalade"])
   (maildir . [(0 0 28) ((kv (0 0 17)) (dash (2 3 0)) (s (1 9 0)) (noflet (0 0 8))) "Simple maildir based MUA." tar "marmalade"])
   (markdown-mode . [(2 0) nil "Emacs Major mode for Markdown-formatted text files" single "marmalade"])
