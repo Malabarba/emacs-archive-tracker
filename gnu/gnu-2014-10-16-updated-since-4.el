@@ -32,7 +32,7 @@
   (lex . [(1 1) nil "Lexical analyser construction" tar ((:url . "http://elpa.gnu.org/packages/lex.html")) "gnu"])
   (jumpc . [(3 0) nil "jump to previous insertion points" single ((:url . "http://elpa.gnu.org/packages/jumpc.html") (:keywords)) "gnu"])
   (js2-mode . [(20140114) ((emacs (24 1))) "Improved JavaScript editing mode" tar ((:keywords "languages" "javascript") (:url . "https://github.com/mooz/js2-mode/")) "gnu"])
-  (jgraph-mode . [(1 0) nil "Major mode for Jgraph files" single ((:url . "http://elpa.gnu.org/packages/jgraph-mode.html") (:keywords "tex" "wp")) "gnu"])
+  (jgraph-mode . [(1 0) ((cl-lib (0 5))) "Major mode for Jgraph files" single ((:url . "http://elpa.gnu.org/packages/jgraph-mode.html") (:keywords "tex" "wp")) "gnu"])
   (ioccur . [(2 4) nil "Incremental occur" single ((:url . "http://elpa.gnu.org/packages/ioccur.html") (:keywords)) "gnu"])
   (heap . [(0 3) nil "Heap (a.k.a. priority queue) data structure" single ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "extensions" "data structures" "heap" "priority queue")) "gnu"])
   (ggtags . [(0 8 6) ((emacs (24)) (cl-lib (0 5))) "emacs frontend to GNU Global source code tagging system" single ((:url . "https://github.com/leoliu/ggtags") (:keywords "tools" "convenience")) "gnu"])

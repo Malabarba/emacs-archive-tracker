@@ -1087,7 +1087,7 @@
 		  (0 0 5)))
 		"robots based on rcirc irc" single])
  (rcirc-notify .
-	       [(0 8)
+	       [(0 9)
 		nil "libnotify popups" single])
  (rcirc-color .
 	      [(0 2)
@@ -1531,8 +1531,14 @@
 	       (0 1)))
 	     "Orgmode integration with the GNOME desktop" single])
  (org-email .
-	    [(1 0)
-	     nil "use org for an email database" single])
+	    [(2 1)
+	     ((shadchen
+	       (1 1))
+	      (dash
+	       (2 9 0))
+	      (noflet
+	 (0 0 12)))
+	     "use org for an email database" single])
  (org-ehtml .
 	    [(0 20131014)
 	     ((elnode
