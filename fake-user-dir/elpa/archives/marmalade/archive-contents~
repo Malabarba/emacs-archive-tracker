@@ -1,7 +1,4 @@
 (1
- (subatomic-theme .
-		  [(1 5 2)
-		   nil "Low contrast bluish color theme" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -583,6 +580,9 @@
 	    (yasnippet
 	     (0 6 1)))
 	   "REQUIRES EMACS 24 - Sublime Text 2 Emulation for Emacs" tar])
+ (subatomic-theme .
+		  [(1 5 2)
+		   nil "Low contrast bluish color theme" single])
  (subatomic-enhanced-theme .
 			   [(1 0 1)
 			    nil "Nice looking emacs 24 theme" single])
@@ -3389,7 +3389,7 @@
 	      (22)))
 	    "A bucket of tricks for Clojure and Slime." single])
  (dummy-package .
-		[(0 0 8)
+		[(0 0 9)
 		 ((timeclock
 		   (2 6 1)))
 		 "a fake package for the marmalade test suite" single])
