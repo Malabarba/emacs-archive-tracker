@@ -3389,7 +3389,7 @@
 	      (22)))
 	    "A bucket of tricks for Clojure and Slime." single])
  (dummy-package .
-		[(0 0 3)
+		[(0 0 8)
 		 ((timeclock
 		   (2 6 1)))
 		 "a fake package for the marmalade test suite" single])
