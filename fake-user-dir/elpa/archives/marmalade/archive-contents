@@ -1842,6 +1842,13 @@
  (marmalade-demo .
 		 [(0 0 5)
 		  nil "a demonstration elpa package" single])
+ (marmalade-client .
+		   [(0 0 8)
+		    ((web
+		      (0 4 2))
+		     (kv
+		      (0 0 19)))
+		    "client for marmalade API from emacs" single])
  (marmalade .
 	    [(0 0 4)
 	     ((furl
@@ -3264,6 +3271,9 @@
 		   ((cl-lib
 		     (0 2)))
 		   "Make M-. and M-, work in elisp like they do in slime" single])
+ (elisp-indexer .
+		[(0 0 4)
+		 nil "indexing utils for emacslisp" single])
  (elisp-depend .
 	       [(1 0 2)
 		nil "Parse depend libraries of elisp file." single])
@@ -4157,11 +4167,6 @@
 		((clojure-mode
 		  (1 11 5)))
 		"Space align various Clojure forms" single])
- (alert .
-	[(0 5 10)
-	 ((string-utils
-	   (0 0 2)))
-	 "Alternatives to `message'" single])
  (ahg .
       [(0 99)
        nil "Alberto's Emacs interface for Mercurial (Hg)" single])
