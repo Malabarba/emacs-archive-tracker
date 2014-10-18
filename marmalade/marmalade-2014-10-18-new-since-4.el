@@ -34,7 +34,7 @@
   (dirtrack-buffer-name-track-mode . [(1 0 0) nil "minor mode to cause shell buffers to reflect the working directory" single "marmalade"])
   (discord . [(0 5) nil "Discordian dates for calendar" single "marmalade"])
   (downplay-mode . [(0 1) nil "focus attention on a region of the buffer" single "marmalade"])
-  (dummy-package . [(0 0 9) ((timeclock (2 6 1))) "a fake package for the marmalade test suite" single "marmalade"])
+  (dummy-package . [(0 0 10) ((timeclock (2 6 1))) "a fake package for the marmalade test suite" single "marmalade"])
   (eh-common . [(0 0 1) nil "Tumashu's  emacs functions" single "marmalade"])
   (el-init . [(20130416) nil "Loader for configuration files" tar "marmalade"])
   (eldoro . [(0 1 0) nil "A pomodoro timer/tracker that works with org-mode." tar "marmalade"])
