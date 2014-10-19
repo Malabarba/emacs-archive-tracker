@@ -583,9 +583,6 @@
  (subatomic-theme .
 		  [(1 5 2)
 		   nil "Low contrast bluish color theme" single])
- (subatomic-enhanced-theme .
-			   [(1 0 1)
-			    nil "Nice looking emacs 24 theme" single])
  (stylus-mode .
 	      [(0 1)
 	       nil "Major mode for editing stylus templates." single])
@@ -1913,13 +1910,6 @@
 	    (noflet
        (0 0 8)))
 	   "Simple maildir based MUA." tar])
- (magithub .
-	   [(0 2)
-	    ((magit
-	      (0 8))
-	     (json
-	      (1 2)))
-	    "Magit extensions for using GitHub" single])
  (magit-tramp .
 	      [(0 1 0)
 	       ((magit
@@ -2726,11 +2716,11 @@
 		 ((emacs
 		   (24 1)))
 		 "Restore Emacs frame" single])
- (foo .
-      [(3 0 20)
-       ((haml-mode
-	 (3 0 20)))
-       "Sass major mode" single])
+ (uzumaki .
+	  [(0 1)
+	   ((cl-lib
+	     (0 5)))
+	   "A simple buffer cycler" single])
  (font-utils .
 	     [(0 7 0)
 	      ((persistent-soft
