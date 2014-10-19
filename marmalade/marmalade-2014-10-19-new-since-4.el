@@ -184,7 +184,7 @@
   (snakehump . [(0 1 1) nil "Convert between compound word conventions" tar "marmalade"])
   (sparkline . [(0 3 0) nil "Make sparkline images from a list of numbers" single "marmalade"])
   (steady-theme . [(0 1 0) nil "A steady theme for Emacs" single "marmalade"])
-  (subatomic-theme . [(1 5 2) nil "Low contrast bluish color theme" single "marmalade"])
+  (subatomic-theme . [(1 6 0) nil "Low contrast bluish color theme" single "marmalade"])
   (sudo-edit . [(0 0 1) nil "Utilities for opening files with sudo" single "marmalade"])
   (tango-2 . [(1 0 0) nil "Tango 2 color theme for GNU Emacs 24" single "marmalade"])
   (tbemail . [(0 2) nil "Provide syntax highlighting for email editing via" single "marmalade"])

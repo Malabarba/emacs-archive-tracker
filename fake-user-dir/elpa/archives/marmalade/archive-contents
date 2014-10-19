@@ -598,7 +598,7 @@
 	     (0 6 1)))
 	   "REQUIRES EMACS 24 - Sublime Text 2 Emulation for Emacs" tar])
  (subatomic-theme .
-		  [(1 5 2)
+		  [(1 6 0)
 		   nil "Low contrast bluish color theme" single])
  (stylus-mode .
 	      [(0 1)
@@ -690,7 +690,7 @@
 	    [(0 3 0)
 	     nil "Make sparkline images from a list of numbers" single])
  (sourcetalk .
-	     [(1 1 0)
+	     [(1 2 0)
 	      ((request
 		(0 2 0)))
 	      "SourceTalk (http://sourcetalk.net) plugin for Emacs" single])
@@ -1489,7 +1489,7 @@
 	      (1 6 8)))
 	    "Blog from Org mode to wordpress" tar])
  (org-trello .
-	     [(0 6 2)
+	     [(0 6 3)
 	      ((request-deferred
 		(0 1 0))
 	       (deferred
@@ -3597,9 +3597,6 @@
  (ctable .
 	 [(0 1 1)
 	  nil "Table component for Emacs Lisp" single])
- (csv-mode .
-	   [(1 50)
-	    nil "major mode for editing comma-separated value files" single])
  (csharp-mode .
 	      [(0 8 6)
 	       nil "C# mode derived mode" single])
