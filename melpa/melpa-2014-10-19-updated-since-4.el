@@ -248,7 +248,7 @@
   (enotify . [(20130407 648) nil "A networked notification system for emacs" tar nil "melpa"])
   (epc . [(20140609 2234) ((concurrent (0 3 1)) (ctable (0 1 2))) "A RPC stack for the Emacs Lisp" tar ((:url . "https://github.com/kiwanami/emacs-epc") (:keywords "lisp" "rpc")) "melpa"])
   (epic . [(20130319 2340) ((htmlize (1 47))) "Evernote Picker" tar ((:keywords "evernote" "applescript")) "melpa"])
-  (eproject . [(20140928 1818) nil "assign files to projects, programatically" tar ((:keywords "programming" "projects")) "melpa"])
+  (eproject . [(20141019 746) ((helm (1 6 4))) "assign files to projects, programatically" tar ((:keywords "programming" "projects")) "melpa"])
   (erc-hl-nicks . [(20140619 522) nil "ERC nick highlighter that ignores uniquifying chars when colorizing" single ((:url . "http://www.github.com/leathekd/erc-hl-nicks")) "melpa"])
   (erc-image . [(20140225 1026) ((erc (5 3))) "Show received image urls in the ERC buffer" single ((:keywords "multimedia")) "melpa"])
   (erc-terminal-notifier . [(20140115 224) nil "OSX notifications via the terminal-notifier gem for Emacs ERC." single ((:url . "http://github.com/julienXX/") (:keywords "erc" "terminal-notifier" "nick")) "melpa"])
