@@ -1,13 +1,4 @@
 (1
- (ac-cider .
-	   [(0 2 0)
-	    ((cider
-	      (0 8 0))
-	     (auto-complete
-	      (1 4))
-	     (cl-lib
-	      (0 3)))
-	    "Clojure auto-complete sources using CIDER" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -1516,7 +1507,7 @@
 		(21 0)))
 	      "Integrates Readme.org and Commentary/Change-logs." single])
  (org-publish-agenda .
-		     [(1 6)
+		     [(1 7)
 		      nil "Publish org agenda with links to other files" single])
  (org-protocol-jekyll .
 		      [(0 1)
@@ -4263,6 +4254,15 @@
 			(auto-complete
 			 (1 4)))
 		       "auto-complete sources for Clojure using" single])
+ (ac-cider .
+	   [(0 2 0)
+	    ((cider
+	      (0 8 0))
+	     (auto-complete
+	      (1 4))
+	     (cl-lib
+	      (0 3)))
+	    "Clojure auto-complete sources using CIDER" single])
  (ac-R .
        [(0 2)
 	nil "Autocompletion routines for R" single])
