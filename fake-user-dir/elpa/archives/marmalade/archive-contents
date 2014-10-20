@@ -1,4 +1,9 @@
 (1
+ (helm-dash .
+	    [(1 1)
+	     ((helm
+	       (0 0 0)))
+	     "Helm extension to search dash docsets" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
