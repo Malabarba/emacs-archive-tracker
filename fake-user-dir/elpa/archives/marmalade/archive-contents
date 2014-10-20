@@ -1,9 +1,4 @@
 (1
- (helm-dash .
-	    [(1 1)
-	     ((helm
-	       (0 0 0)))
-	     "Helm extension to search dash docsets" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -2476,6 +2471,11 @@
  (helm-delicious .
 		 [(1 3)
 		  nil "helm extensions for delicious bookmarks" single])
+ (helm-dash .
+	    [(1 1)
+	     ((helm
+	       (0 0 0)))
+	     "Helm extension to search dash docsets" single])
  (helm-ag .
 	  [(0 4)
 	   ((helm
