@@ -716,7 +716,7 @@
   (org-elisp-help . [(20130423 1545) ((cl-lib (0 2)) (org (8 0))) "org links to emacs-lisp documentation" single ((:url . "https://github.com/tarsius/org-elisp-help") (:keywords "org" "remember" "lisp")) "melpa"])
   (org-fstree . [(20090723 819) nil "include a filesystem subtree into an org file" single ((:url . "http://www.burtzlaff.de/org-fstree/org-fstree.el") (:keywords "org-mode" "filesystem" "tree")) "melpa"])
   (org-jekyll . [(20130508 239) ((org (8 0))) "Export jekyll-ready posts form org-mode entries" single ((:url . "http://juanreyero.com/open/org-jekyll/") (:keywords "hypermedia")) "melpa"])
-  (org-jira . [(20141012 428) nil "Syncing between Jira and Org-mode." tar ((:url . "https://github.com/baohaojun/org-jira")) "melpa"])
+  (org-jira . [(20141020 1857) nil "Syncing between Jira and Org-mode." tar ((:url . "https://github.com/baohaojun/org-jira")) "melpa"])
   (org-journal . [(20140915 438) nil "a simple org-mode based journaling mode" single ((:url . "http://github.com/bastibe/emacs-journal")) "melpa"])
   (org-mac-iCal . [(20140107 519) nil "Imports events from iCal.app to the Emacs diary" single ((:keywords "outlines" "calendar")) "melpa"])
   (org-magit . [(20140815 1343) ((magit (1 2 0)) (org (6 1))) "basic support for magit links" single ((:keywords "git" "magit" "outlines")) "melpa"])
