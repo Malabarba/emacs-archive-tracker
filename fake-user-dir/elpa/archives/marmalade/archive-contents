@@ -3983,8 +3983,8 @@
 	       [(1 5)
 		nil "Enhanced intelligent switch-to-other-buffer replacement." single])
  (buffer-move .
-	      [(0 4)
-	       nil "swap buffers between windows" single])
+	      [(0 6 1)
+	       nil "" single])
  (buffer-file-utils .
 		    [(1 0)
 		     nil "utilities operating on a buffer and the associated file" single])

@@ -19,6 +19,7 @@
   (back-button . [(0 6 6) ((nav-flash (1 0 0)) (smartrep (0 0 3)) (ucs-utils (0 7 2)) (persistent-soft (0 8 8)) (pcache (0 2 3))) "Visual navigation through mark rings" single "marmalade"])
   (browse-kill-ring . [(1 3 1) nil "interactively insert items from kill-ring" single "marmalade"])
   (browse-url-dwim . [(0 6 6) ((string-utils (0 3 2))) "Context-sensitive external browse URL or Internet search" single "marmalade"])
+  (buffer-move . [(0 6 1) nil "" single "marmalade"])
   (buffer-utils . [(0 1 0) nil "Buffer-manipulation utility functions" single "marmalade"])
   (bug-reference-github . [(0 2 0) nil "Automatically set `bug-reference-url-format' in Github repositories." single "marmalade"])
   (butler . [(0 2 0) ((deferred (3 1)) (json (1 2))) "Emacs client for Jenkins" tar "marmalade"])
