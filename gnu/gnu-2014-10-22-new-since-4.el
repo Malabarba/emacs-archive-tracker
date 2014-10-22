@@ -10,6 +10,7 @@
   (scroll-restore . [(1 0) nil "restore original position after scrolling" single ((:url . "http://elpa.gnu.org/packages/scroll-restore.html") (:keywords "scrolling")) "gnu"])
   (rudel . [(0 3) nil "A collaborative editing framework for Emacs" tar ((:keywords "rudel" "collaboration") (:url . "http://rudel.sourceforge.net/")) "gnu"])
   (poker . [(0 1) nil "Texas hold'em poker" single ((:url . "http://elpa.gnu.org/packages/poker.html") (:keywords "games")) "gnu"])
+  (pabbrev . [(4 1) nil "Predictive abbreviation expansion" single ((:url . "http://elpa.gnu.org/packages/pabbrev.html") (:keywords)) "gnu"])
   (osc . [(0 1) nil "Open Sound Control protocol library" single ((:url . "http://elpa.gnu.org/packages/osc.html") (:keywords "comm" "processes" "multimedia")) "gnu"])
   (metar . [(0 1) ((cl-lib (0 5))) "Retrieve and decode METAR weather information" single ((:url . "http://elpa.gnu.org/packages/metar.html") (:keywords "comm")) "gnu"])
   (javaimp . [(0 5) nil "Add and reorder Java import statements in Maven projects" single ((:url . "http://elpa.gnu.org/packages/javaimp.html") (:keywords "java" "maven" "programming")) "gnu"])
