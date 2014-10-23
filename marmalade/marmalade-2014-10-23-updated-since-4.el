@@ -85,7 +85,7 @@
   (font-utils . [(0 7 0) ((persistent-soft (0 8 8)) (pcache (0 2 3))) "Utility functions for working with fonts" single "marmalade"])
   (frame-restore . [(0 5) ((emacs (24 1))) "Restore Emacs frame" single "marmalade"])
   (framesize . [(0 0 5) ((key-chord (0 5 20080915))) "change the size of frames in Emacs" single "marmalade"])
-  (geiser . [(0 5) nil "GNU Emacs and Scheme talk to each other" tar "marmalade"])
+  (geiser . [(0 6) nil "GNU Emacs and Scheme talk to each other" tar "marmalade"])
   (gh . [(0 8 0) ((eieio (1 3)) (pcache (0 2 4)) (logito (0 1))) "A GitHub library for Emacs" tar "marmalade"])
   (ghci-completion . [(0 1 3) nil "Completion for GHCi commands in inferior-haskell buffers" single "marmalade"])
   (git-auto-commit-mode . [(4 2 2) nil "Emacs Minor mode to automatically commit and push" single "marmalade"])

@@ -2690,7 +2690,7 @@
 		     [(0 0 10)
 		      nil "A package to help you lazy-load everything" single])
  (geiser .
-	 [(0 5)
+	 [(0 6)
 	  nil "GNU Emacs and Scheme talk to each other" tar])
  (gecf .
        [(0 1 0)
@@ -3294,7 +3294,7 @@
 		     (0 2)))
 		   "Make M-. and M-, work in elisp like they do in slime" single])
  (elisp-indexer .
-		[(0 0 6)
+		[(0 0 7)
 		 nil "indexing utils for emacslisp" single])
  (elisp-depend .
 	       [(1 0 2)
@@ -3421,7 +3421,7 @@
 	      (22)))
 	    "A bucket of tricks for Clojure and Slime." single])
  (dummy-package .
-		[(0 0 20)
+		[(0 0 21)
 		 ((timeclock
 		   (2 6 1)))
 		 "a fake package for the marmalade test suite" single])
