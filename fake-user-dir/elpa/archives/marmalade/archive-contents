@@ -1860,7 +1860,7 @@
 		 [(0 0 5)
 		  nil "a demonstration elpa package" single])
  (marmalade-client .
-		   [(0 0 8)
+		   [(0 0 9)
 		    ((web
 		      (0 4 2))
 		     (kv
@@ -4123,57 +4123,6 @@
  (anzu .
        [(0 22)
 	nil "Show number of matches in mode-line while searching" single])
- (anything-show-completion .
-			   [(20091119)
-			    nil "Show selection in buffer for anything completion" single])
- (anything-obsolete .
-		    [(0 1)
-		     nil "obsolete functions of anything" single])
- (anything-match-plugin .
-			[(1 27)
-			 nil "Humane match plug-in for anything" single])
- (anything-ipython .
-		   [(0 1 2009)
-		    ((ipython
-		      (2927))
-		     (anything
-		      (1 287)))
-		    "Ipython anything" single])
- (anything-git-goto .
-		    [(0 1 0)
-		     nil "Quick listing of:" single])
- (anything-git .
-	       [(1 1 1)
-		nil "Show git files in anything" single])
- (anything-exuberant-ctags .
-			   [(0 1 2)
-			    nil "Exuberant ctags anything.el interface" single])
- (anything-extension .
-		     [(0 2)
-		      nil "Extension functions for anything.el" single])
- (anything-el-swank-fuzzy .
-			  [(0 1 2009)
-			   ((anything
-			     (1 287))
-			    (anything-complete
-			     (1 86)))
-			   "anything-sources for el-swank-fuzzy.el" single])
- (anything-config .
-		  [(0 4 1)
-		   nil "Predefined configurations for `anything.el'" single])
- (anything-complete .
-		    [(1 86)
-		     ((anything
-		       (1 287))
-		      (anything-obsolete
-		       (0 1)))
-		     "completion with anything" single])
- (anything-R .
-	     [(0 1 2010)
-	      nil "anything-sources and some utilities for GNU R." single])
- (anything .
-	   [(1 287)
-	    nil "open anything / QuickSilver-like candidate-selection framework" single])
  (angular-snippets .
 		   [(0 2 3)
 		    ((s
