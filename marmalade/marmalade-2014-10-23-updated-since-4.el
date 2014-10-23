@@ -138,7 +138,7 @@
   (multi-project . [(0 0 15) nil "Easily work with multiple projects." single "marmalade"])
   (multiple-cursors . [(1 3 0) nil "Multiple cursors for Emacs." tar "marmalade"])
   (nav-flash . [(1 1 0) nil "Briefly highlight the current line" single "marmalade"])
-  (noflet . [(0 0 12) nil "locally override functions" single "marmalade"])
+  (noflet . [(0 0 13) nil "locally override functions" single "marmalade"])
   (nrepl . [(0 2 0) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 1 0)) (pkg-info (0 1))) "Client for Clojure nREPL" single "marmalade"])
   (nurumacs . [(3 5 4) nil "smooth-scrolling and minimap, like sublime editor" single "marmalade"])
   (org-dotemacs . [(0 3) ((org (7 9 3)) (cl-lib (1 0))) "Store your emacs config as an org file, and choose which bits to load." single "marmalade"])
