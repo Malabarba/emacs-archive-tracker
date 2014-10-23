@@ -1953,7 +1953,7 @@
 		     (1 2 0)))
 		   "completing-read over all files in Git" single])
  (magit .
-	[(1 2 1)
+	[(1 2 2)
 	 nil "Control Git from Emacs." tar])
  (mactag .
 	 [(0 0 1)
@@ -3421,7 +3421,7 @@
 	      (22)))
 	    "A bucket of tricks for Clojure and Slime." single])
  (dummy-package .
-		[(0 0 14)
+		[(0 0 20)
 		 ((timeclock
 		   (2 6 1)))
 		 "a fake package for the marmalade test suite" single])
