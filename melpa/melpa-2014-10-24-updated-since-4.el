@@ -239,7 +239,7 @@
   (emagician-fix-spell-memory . [(20130415 1244) nil "Simple hack into ispell to fix (muscle) memory problems" single ((:keywords "erc" "bitlbee" "bot" "version" "0.1")) "melpa"])
   (emamux . [(20140925 2105) ((cl-lib (0 5))) "Interact with tmux" single ((:url . "https://github.com/syohex/emacs-emamux")) "melpa"])
   (emamux-ruby-test . [(20130812 939) ((emamux (0 1)) (projectile (0 9 1))) "Ruby test with emamux" single ((:url . "https://github.com/syohex/emamux-ruby-test")) "melpa"])
-  (emmet-mode . [(20141013 2110) nil "Unofficial Emmet's support for emacs" single ((:url . "https://github.com/smihica/emmet-mode") (:keywords "convenience")) "melpa"])
+  (emmet-mode . [(20141023 1332) nil "Unofficial Emmet's support for emacs" single ((:url . "https://github.com/smihica/emmet-mode") (:keywords "convenience")) "melpa"])
   (emms . [(20141015 2009) nil "The Emacs Multimedia System" tar ((:keywords "emms" "mp3" "mpeg" "multimedia")) "melpa"])
   (emms-mark-ext . [(20130528 2027) ((emms (3 0))) "Extra functions for emms-mark-mode and emms-tag-edit-mode" single ((:url . "https://github.com/vapniks/emms-mark-ext") (:keywords "convenience" "multimedia")) "melpa"])
   (emr . [(20140817 1604) ((s (1 3 1)) (dash (1 2 0)) (cl-lib (0 2)) (popup (0 5 0)) (emacs (24 1)) (list-utils (0 3 0)) (redshank (1 0 0)) (paredit (24 0 0)) (projectile (0 9 1))) "Emacs refactoring system." tar ((:keywords "tools" "convenience" "refactoring")) "melpa"])
