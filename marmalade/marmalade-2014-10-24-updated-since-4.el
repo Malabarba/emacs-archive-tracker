@@ -57,7 +57,7 @@
   (elpakit . [(1 1 1) ((anaphora (0 0 6)) (dash (2 3 0))) "package archive builder" single "marmalade"])
   (elpy . [(1 5 1) ((company (0 8 2)) (find-file-in-project (3 3)) (highlight-indentation (0 5 0)) (idomenu (0 1)) (pyvenv (1 3)) (yasnippet (0 8 0))) "Emacs Python Development Environment" tar "marmalade"])
   (emmet-mode . [(1 0 10) nil "Unofficial Emmet's support for emacs" single "marmalade"])
-  (eshell-manual . [(1348477812) nil "An updated manual for Eshell." tar "marmalade"])
+  (eshell-manual . [(20141024) nil "An manual for Eshell." tar "marmalade"])
   (evil . [(1 0 8) ((undo-tree (0 6 3)) (goto-last-change (1 2))) "Extensible Vi layer for Emacs." tar "marmalade"])
   (evil-leader . [(0 4 3) ((evil (0))) "let there be <leader>" single "marmalade"])
   (evil-nerd-commenter . [(1 3 1) nil "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" tar "marmalade"])
