@@ -1664,7 +1664,7 @@
        [(0 1 1)
 	nil "Easy Python test running in Emacs" single])
  (noflet .
-   [(0 0 13)
+   [(0 0 14)
      nil "locally override functions" single])
  (nodejs-repl .
 	      [(0 0 2 1)
