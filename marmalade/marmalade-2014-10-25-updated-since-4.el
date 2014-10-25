@@ -230,6 +230,7 @@
   (web . [(0 4 5) ((dash (2 3 0)) (s (1 5 0))) "useful HTTP client" single "marmalade"])
   (web-mode . [(8 0 4) nil "major mode for editing html templates" single "marmalade"])
   (wiki-nav . [(1 0 0) ((button-lock (1 0 0)) (nav-flash (1 0 0))) "Simple file navigation using [[WikiStrings]]" single "marmalade"])
+  (wikidoc . [(0 9) ((s\.el (1 9 0))) "use elisp doc strings to make other documentation" single "marmalade"])
   (window-end-visible . [(0 1 0) nil "Find the last visible point in a window" single "marmalade"])
   (workspaces . [(0 1) nil "Workspaces for Emacsen" single "marmalade"])
   (world-time-mode . [(0 0 6) nil "show whole days of world-time diffs" single "marmalade"])

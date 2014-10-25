@@ -139,8 +139,10 @@
 	     [(1 0 8)
 	      nil "fast, dynamic bindings for window-switching/resizing" single])
  (wikidoc .
-	  [(0 8 1)
-	   nil "use elisp doc strings to make other documentation" single])
+	  [(0 9)
+	   ((s\.el
+	     (1 9 0)))
+	   "use elisp doc strings to make other documentation" single])
  (wiki-nav .
 	   [(1 0 0)
 	    ((button-lock
