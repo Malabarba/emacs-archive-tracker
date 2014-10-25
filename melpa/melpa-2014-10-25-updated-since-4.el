@@ -413,7 +413,7 @@
   (haxe-mode . [(20131004 142) nil "An Emacs major mode for Haxe" single ((:url . "http://people.debian.org/~jps/misc/haxe-mode.el")) "melpa"])
   (header-button . [(20130110 851) nil "clickable buttons in header lines" single ((:url . "https://github.com/emacsattic/header-button") (:keywords "extensions")) "melpa"])
   (header2 . [(20140723 1525) nil "Support for creation and update of file headers." single ((:url . "http://www.emacswiki.org/header2.el") (:keywords "tools" "docs" "maint" "abbrev" "local")) "melpa"])
-  (helm . [(20141023 2320) ((emacs (24)) (cl-lib (0 5)) (async (1 2))) "Helm is an Emacs incremental and narrowing framework" tar nil "melpa"])
+  (helm . [(20141024 849) ((emacs (24)) (cl-lib (0 5)) (async (1 2))) "Helm is an Emacs incremental and narrowing framework" tar nil "melpa"])
   (helm-R . [(20120819 1714) ((helm (20120517)) (ess (20120509))) "helm-sources and some utilities for GNU R." single ((:url . "https://github.com/myuhe/helm-R.el") (:keywords "convenience")) "melpa"])
   (helm-ack . [(20140507 2127) ((helm (1 0)) (cl-lib (0 5))) "Ack command with helm interface" single ((:url . "https://github.com/syohex/emacs-helm-ack")) "melpa"])
   (helm-ag . [(20141021 2049) ((helm (1 5 6)) (cl-lib (0 5))) "the silver searcher with helm interface" single ((:url . "https://github.com/syohex/emacs-helm-ag")) "melpa"])
