@@ -239,7 +239,7 @@
   (elixir-yasnippets . [(20141020 651) ((yasnippet (0 8 0))) "Yasnippets for Elixir" tar nil "melpa"])
   (elm-mode . [(20140601 1505) nil "Major mode for Elm" tar ((:url . "https://github.com/jcollard/elm-mode")) "melpa"])
   (elmacro . [(20140907 1459) ((s (1 9 0)) (dash (1 5 0)) (cl-lib (0 5))) "Convert keyboard macros to elisp" single ((:url . "https://github.com/Silex/elmacro") (:keywords "macro" "elisp" "convenience")) "melpa"])
-  (elpa-mirror . [(20141024 622) nil "ELPA mirror from locally installed packages is easy" tar nil "melpa"])
+  (elpa-mirror . [(20141025 2021) nil "ELPA mirror from locally installed packages is easy" tar nil "melpa"])
   (elscreen-mew . [(20140629 816) ((elscreen (20120413 807))) "ElScreen Add-On for Mew" single ((:url . "https://github.com/masutaka/elscreen-mew")) "melpa"])
   (elwm . [(20140217 528) ((dash (1 1 0))) "Minimalistic window manager for emacs" single ((:url . "https://github.com/Fuco1/elwm") (:keywords "docs")) "melpa"])
   (elx . [(20140310 1049) ((emacs (24 3 50))) "extract information from Emacs Lisp libraries" single ((:url . "https://github.com/tarsius/elx") (:keywords "docs" "libraries" "packages")) "melpa"])
