@@ -87,6 +87,7 @@
   (ghci-completion . [(0 1 3) nil "Completion for GHCi commands in inferior-haskell buffers" single "marmalade"])
   (git-auto-commit-mode . [(4 2 2) nil "Emacs Minor mode to automatically commit and push" single "marmalade"])
   (git-commit-mode . [(0 13) nil "Major mode for editing git commit messages" single "marmalade"])
+  (git-gutter . [(0 78) ((cl-lib (0 5)) (emacs (24))) "Port of Sublime Text plugin GitGutter" single "marmalade"])
   (gitconfig-mode . [(0 3) nil "Major mode for editing .gitconfig files" single "marmalade"])
   (github-browse-file . [(0 3 0) nil "View the file you're editing on GitHub" single "marmalade"])
   (gnusnotes . [(0 91) nil "Adding per-message notes in gnus summary buffer" single "marmalade"])

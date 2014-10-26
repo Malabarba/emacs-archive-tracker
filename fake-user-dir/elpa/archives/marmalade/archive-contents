@@ -1,4 +1,7 @@
 (1
+ (message-templ .
+		[(0 1 20141026)
+		 nil "Templates for message-mode." single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -2638,8 +2641,12 @@
 		       (0 1 1)))
 		     "Fringe version of git-gutter.el" single])
  (git-gutter .
-	     [(0 42)
-	      nil "Port of Sublime Text plugin GitGutter" single])
+	     [(0 78)
+	      ((cl-lib
+		(0 5))
+	       (emacs
+		(24)))
+	      "Port of Sublime Text plugin GitGutter" single])
  (git-draft .
 	    [(0 0 2)
 	     ((dash
