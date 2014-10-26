@@ -2939,7 +2939,7 @@
 		   (0 6 0)))
 		 "Cask support in Flycheck" single])
  (flycheck .
-	   [(0 20)
+	   [(0 21)
 	    ((dash
 	      (2 4 0))
 	     (pkg-info
@@ -3423,7 +3423,7 @@
 	      (22)))
 	    "A bucket of tricks for Clojure and Slime." single])
  (dummy-package .
-		[(0 0 22)
+		[(0 0 23)
 		 ((timeclock
 		   (2 6 1)))
 		 "a fake package for the marmalade test suite" single])

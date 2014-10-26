@@ -69,7 +69,7 @@
   (fill-column-indicator . [(1 86) nil "Graphically indicate the fill column" single "marmalade"])
   (find-file-in-project . [(3 3) nil "Find files in a project quickly." single "marmalade"])
   (fixmee . [(0 8 4) ((button-lock (1 0 0)) (nav-flash (1 0 0)) (back-button (0 6 0)) (smartrep (0 0 3)) (string-utils (0 3 2)) (tabulated-list (0))) "Quickly navigate to FIXME notices in code" single "marmalade"])
-  (flycheck . [(0 20) ((dash (2 4 0)) (pkg-info (0 4)) (cl-lib (0 3)) (emacs (24 1))) "Modern on-the-fly syntax checking for GNU Emacs" tar "marmalade"])
+  (flycheck . [(0 21) ((dash (2 4 0)) (pkg-info (0 4)) (cl-lib (0 3)) (emacs (24 1))) "Modern on-the-fly syntax checking for GNU Emacs" tar "marmalade"])
   (flycheck-color-mode-line . [(0 3) ((flycheck (0 15)) (dash (1 2)) (emacs (24 1))) "Change mode line color with Flycheck status" single "marmalade"])
   (flymake-checkers . [(0 5) nil "Transition package to Flycheck" single "marmalade"])
   (flymake-coffee . [(0 12) ((flymake-easy (0 1))) "A flymake handler for coffee script" single "marmalade"])
