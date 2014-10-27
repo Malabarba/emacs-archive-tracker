@@ -85,7 +85,7 @@
   :group 'emacs-archive-tracker
   :package-version '(emacs-archive-tracker . "0.5"))
 
-(defcustom eat/directory (expand-file-name "~/.tracker-3/")
+(defcustom eat/directory (expand-file-name "~/.tracker/")
   ""
   :type 'directory
   :group 'emacs-archive-tracker
@@ -304,13 +304,18 @@
                    (mapconcat 'eat/source-name-to-total-count eat/sources "")))
      nil eat/data-file)
 
+    (defun eat/format-list-entry (src &optional n)
+      (format "<li><strong>%s</strong>: %s</li>"
+              (capitalize (or (car-safe src) src))
+              (or n (eat/source-name-to-total-count src))))
+    
     (with-temp-file eat/table-file
       (set-buffer-file-coding-system 'no-conversion)
-      (insert "<td><strong>"
-              (format "%s" eat/ALL-count) "</strong></td> <td>"
-              (format "%s" eat/ALL-single-count) "</td> <td>"
-              (format "%s" eat/ALL-tar-count)    "</td> <td>"
-              (mapconcat 'eat/source-name-to-total-count eat/sources "</td> <td>") "</td>"))
+      (insert
+       (eat/format-list-entry "Total" eat/ALL-count)
+       (eat/format-list-entry "Single" eat/ALL-single-count)
+       (eat/format-list-entry "Tar" eat/ALL-tar-count)
+       (mapconcat #'eat/format-list-entry eat/sources "")))
 
     (eat/-log "Running %s%s" eat/directory eat/script)
     (if (= 0 (shell-command

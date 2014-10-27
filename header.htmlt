@@ -59,9 +59,4 @@
         <p>The breakdown of total number of packages for each
           repository (as well as a comparison of single files vs tar
           balls).</p>
-        <table border="1">
-          <tr>
-            <th>Total</th> <th>Single</th> <th>Tar</th> <th>gnu</th> <th>marmalade</th> <th>melpa</th>
-          </tr>
-          <tr>
-            
+        <ul>
