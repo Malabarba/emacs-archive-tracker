@@ -1,4 +1,7 @@
 (1
+ (monroe .
+	 [(0 2 0)
+	  nil "Yet another client for nREPL" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
