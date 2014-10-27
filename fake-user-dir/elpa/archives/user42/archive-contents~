@@ -1,0 +1,257 @@
+(1
+ (ac-tex-ref .
+	     [(2)
+	      nil "auto-complete for tex-mode \\ref and \\cite labels" single])
+ (accjournal .
+	     [(6)
+	      nil "double entry journal accounting" single])
+ (align-let .
+	    [(12)
+	     nil "align expressions in a lisp \"let\"" single])
+ (arc-lzh-exe .
+	      [(7)
+	       nil "archive-mode support for LHa self-extracting .exe" single])
+ (areabrowse .
+	     [(3)
+	      nil "browse diku mud .are area files" single])
+ (aumix-mode .
+	     [(7)
+	      nil "run the aumix program in a buffer" single])
+ (bytecomp-simplify .
+		    [(17)
+		     nil "byte compile warnings for simplifications" single])
+ (checkdoc-autoload .
+		    [(2)
+		     nil "check for various autoload cookies" single])
+ (checkdoc-batch .
+		 [(5)
+		  nil "batch report of M-x checkdoc things" single])
+ (checkdoc-keywords .
+		    [(6)
+		     nil "check for known values in Keywords header" single])
+ (checkdoc-url-buttonize .
+			 [(1)
+			  nil "check URL `' linking in docstrings" single])
+ (cl-loop-aplist .
+		 [(4)
+		  nil "cl loop macro alist and plist support" single])
+ (compilation-always-kill .
+			  [(5)
+			   nil "kill compilation without prompting" single])
+ (compilation-emacs21-batch .
+			    [(4)
+			     nil "error regexps for emacs21 byte compiler" single])
+ (compilation-ledger .
+		     [(1)
+		      nil "error regexps for ledger" single])
+ (compilation-onewin .
+		     [(3)
+		      nil "whole-frame window for compile buffer" single])
+ (compilation-perl .
+		   [(13)
+		    nil "extra error regexps for Perl" single])
+ (compilation-recenter-end .
+			   [(6)
+			    nil "compilation-mode window recentre" single])
+ (compilation-weblint .
+		      [(6)
+		       nil "error regexps for weblint" single])
+ (compile-command-default .
+			  [(12)
+			   nil "establish a default for M-x compile" single])
+ (completion-ignored-build .
+			   [(11)
+			    nil "some built completion-ignored-extensions" single])
+ (copyright-both-ends .
+		      [(4)
+		       nil "update copyright at start and end of file" single])
+ (diff-save-buffer .
+		   [(13)
+		    nil "default filename when saving a diff." single])
+ (dired-visit-history .
+		      [(3)
+		       nil "add dired visited files to find-file history" single])
+ (do-not-edit .
+	      [(14)
+	       nil "read-only buffer for generated files" single])
+ (elisp-docstring-preview .
+			  [(4)
+			   nil "preview Emacs Lisp docstring" single])
+ (ffap-I-option .
+		[(1)
+		 nil "recognise -I/usr/include/foo" single])
+ (ffap-gcc-path .
+		[(8)
+		 nil "get gcc's include path for ffap-c-path" single])
+ (ffap-href .
+	    [(3)
+	     nil "find href URL/link anywhere in the tag" single])
+ (ffap-include-start .
+		     [(10)
+		      nil "recognise C #include when at start of line" single])
+ (ffap-makefile-vars .
+		     [(4)
+		      nil "find file with makefile variables expanded" single])
+ (ffap-mml .
+	   [(8)
+	    nil "find Gnus message MML attached file at point" single])
+ (ffap-perl-module .
+		   [(22)
+		    nil "find perl module at point with ffap" single])
+ (ffap-pod-F .
+	     [(4)
+	      nil "follow Perl pod F<filename>" single])
+ (ffap-rfc-directories .
+		       [(8)
+			nil "look for RFCs in local directories too" single])
+ (ffap-rfc-space .
+		 [(10)
+		  nil "recognise RFC with a space, like \"RFC 1234\"" single])
+ (filladapt-pat .
+		[(5)
+		 nil "add or remove some filladapt patterns" single])
+ (formfeed-hline .
+		 [(4)
+		  nil "display formfeed with horizontal line" single])
+ (gtk-look .
+	   [(26)
+	    nil "lookup Gtk and Gnome documentation." single])
+ (gutenberg-coding .
+		   [(14)
+		    nil "coding system for Project Gutenberg EBooks." single])
+ (help-xref-elfiles .
+		    [(3)
+		     nil "buttonize foo.el and .emacs filenames in docstrings" single])
+ (html-coding .
+	      [(12)
+	       nil "coding system from meta in html files (for Emacs 21)" single])
+ (html-sizes .
+	     [(14)
+	      nil "maintain file sizes shown for html links" single])
+ (html-smarter-href .
+		    [(1)
+		     nil "smarter html-href-anchor reading" single])
+ (imagetext .
+	    [(10)
+	     nil "show text parts of image files" single])
+ (info-lookmore .
+		[(5)
+		 nil "more things for info-look.el" single])
+ (ispell-stopwords .
+		   [(8)
+		    nil "use perl POD \"=for stopwords\" in ispell" single])
+ (jka-compr-dictzip .
+		    [(1)
+		     nil "dictzip .dz for jka-compr" single])
+ (localedef-overlay .
+		    [(3)
+		     nil "mode for glibc locale definition files" single])
+ (mailcap-mode .
+	       [(3)
+		nil "mailcap file editing mode" single])
+ (make-mode-fillindent .
+		       [(4)
+			nil "filling indented makefile comments" single])
+ (makeinfo-info .
+		[(8)
+		 nil "use Info-mode with makeinfo-buffer." single])
+ (man-completion .
+		 [(33)
+		  nil "completion for M-x man" single])
+ (man-preview .
+	      [(9)
+	       nil "preview nroff man file source" single])
+ (mine-sweeper-auto .
+		    [(5)
+		     nil "automated mine sweeping for mine-sweeper.el" single])
+ (mo-mode .
+	  [(13)
+	   nil "view and edit gettext .mo message files" single])
+ (nobreak-fade .
+	       [(8)
+		nil "some functions for `fill-nobreak-predicate'" single])
+ (nroff-filladapt .
+		  [(3)
+		   nil "nroff comment prefixes for filladapt" single])
+ (oeis .
+       [(4)
+	nil "helpers for the Online Encyclopedia of Integer Sequences" single])
+ (parasep .
+	  [(4)
+	   nil "more paragraph separators" single])
+ (pcf2bdf .
+	  [(13)
+	   nil "view .pcf compiled font files as bdf" single])
+ (perl-env-substitute .
+		      [(1)
+		       nil "Perl style $ENV{VARNAME} in substitute-in-filename" single])
+ (perl-pod-coding .
+		  [(7)
+		   nil "coding system from =encoding in perl files" single])
+ (perl-pod-gt .
+	      [(18)
+	       nil "helpers for Perl POD <> markup" single])
+ (perl-pod-preview .
+		   [(16)
+		    nil "preview perl pod documentation" single])
+ (perl-quote .
+	     [(4)
+	      nil "helpers for Perl quoted strings" single])
+ (perl-use-utf8-coding .
+		       [(4)
+			nil "coding system from \"use utf8\" in perl code" single])
+ (pst-format .
+	     [(7)
+	      nil "view perl Storable files as human readable text" single])
+ (quick-yes .
+	    [(8)
+	     nil "M-y to answer \"yes\" to `yes-or-no-p'." single])
+ (scroll-1 .
+	   [(8)
+	    nil "bind j and k to scroll the window up and down" single])
+ (sh-autoconf .
+	      [(7)
+	       nil "autoconf flavour for sh-mode" single])
+ (sqlite-dump .
+	      [(8)
+	       nil "view dump of sqlite database file" single])
+ (startup-file-name-history .
+			    [(4)
+			     nil "command line files into file-name-history" single])
+ (tcd-format .
+	     [(7)
+	      nil "view XTide .tcd tide constituent database files" single])
+ (tex-math-preview .
+		   [(15)
+		    nil "preview TeX math expressions." single])
+ (texinfo-nobreak .
+		  [(6)
+		   nil "texinfo line break workarounds" single])
+ (texinfo-warn .
+	       [(8)
+		nil "warn about tabs and more in texinfo" single])
+ (tty-format .
+	     [(9)
+	      nil "text file backspacing and ANSI SGR as faces" single])
+ (unicode-disp .
+	       [(10)
+		nil "display-table fallbacks for some unicode chars" single])
+ (upstr .
+	[(2)
+	 nil "up-list out of a string too" single])
+ (variable-at-point-tick .
+			 [(3)
+			  nil "variable-at-point on a 'foo (for Emacs 23)" single])
+ (weblint .
+	  [(5)
+	   nil "run the weblint program" single])
+ (wx-look .
+	  [(5)
+	   nil "lookup wxWidgets functions in its manual." single])
+ (xml-coding .
+	     [(8)
+	      nil "coding system from tag in xml files (for Emacs 21)" single])
+ (xtide .
+	[(24)
+	 nil "XTide display in Emacs" single]))
+

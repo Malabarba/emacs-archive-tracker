@@ -48,6 +48,8 @@
 (setq user-emacs-directory (expand-file-name "./fake-user-dir"))
 (make-directory user-emacs-directory :parents)
 
+(setq debug-on-error t)
+
 (require 'cl-lib)
 
 (defconst eat/version "0.7" "Version of the emacs-archive-tracker.el package.")
@@ -63,7 +65,9 @@
 
 (defcustom eat/sources '(("gnu"       . "http://elpa.gnu.org/packages/")
                          ("marmalade" . "http://marmalade-repo.org/packages/")
-                         ("melpa"     . "http://melpa.org/packages/"))
+                         ("melpa"     . "http://melpa.org/packages/")
+                         ("melpa-stable" . "http://stable.melpa.org/packages/")
+                         ("user42" . "http://download.tuxfamily.org/user42/elpa/packages/"))
   "List of sources to be used."
   :type '(repeat (cons string string))
   :group 'emacs-archive-tracker
@@ -81,7 +85,7 @@
   :group 'emacs-archive-tracker
   :package-version '(emacs-archive-tracker . "0.5"))
 
-(defcustom eat/directory (expand-file-name "~/.tracker/")
+(defcustom eat/directory (expand-file-name "~/.tracker-3/")
   ""
   :type 'directory
   :group 'emacs-archive-tracker
@@ -234,7 +238,8 @@
                       (format "cd %s%s && ls -1 | grep '[a-zA-Z]\\+-[0-9]\\{4\\}-[0-9]\\{2\\}-[0-9]\\{2\\}\\.el' | sed -n '%sp'"
                               eat/directory name days)))))
       (eat/-log "Previous file is %s" eat/-previous-file)
-      (if (file-readable-p eat/-previous-file)
+      (if (and (file-readable-p eat/-previous-file)
+               (null (file-directory-p eat/-previous-file)))
           (with-temp-buffer
             (insert-file-contents eat/-previous-file)
             (if (null (looking-at "^'($"))
