@@ -125,6 +125,7 @@
   (legalese . [(20120706) nil "Add legalese to your program files" single "marmalade"])
   (less-css-mode . [(0 18) nil "Major mode for editing LESS CSS files (lesscss.org)" single "marmalade"])
   (let-recur . [(0 0 5) nil "Simplified implementation of recur" single "marmalade"])
+  (lexbind-mode . [(0 9) nil "Puts the value of lexical-binding in the mode line" single "marmalade"])
   (list-utils . [(0 4 2) nil "List-manipulation utility functions" single "marmalade"])
   (lui . [(1 4) ((tracking (1 5))) "Linewise User Interface" tar "marmalade"])
   (macrostep . [(0 8) nil "interactive macro stepper for Emacs Lisp" single "marmalade"])

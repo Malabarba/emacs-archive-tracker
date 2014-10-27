@@ -50,7 +50,7 @@
   (epl . [(0 7) ((cl-lib (0 3))) "Emacs Package Library" single "marmalade"])
   (eprime-mode . [(1 1 2) nil "An E-prime checking mode for Emacs" single "marmalade"])
   (erc-nick-notify . [(0 2 1) nil "Notify popup for ERC" single "marmalade"])
-  (ertx . [(0 0 1) nil "Extra useful testing functions for EmacsLisp." single "marmalade"])
+  (ertx . [(0 0 2) nil "Extra useful testing functions for EmacsLisp." single "marmalade"])
   (es-windows . [(0 2) ((cl-lib (0 3)) (emacs (24))) "Window-management utilities" single "marmalade"])
   (eshell-fringe-status . [(1 0 0) nil "Show last status in fringe" single "marmalade"])
   (ess-R-object-popup . [(0 0 6) nil "popup description of R object" single "marmalade"])

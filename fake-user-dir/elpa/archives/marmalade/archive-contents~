@@ -2058,7 +2058,7 @@
 	       [(21 0)
 		nil "Commands to list Emacs Lisp library dependencies." single])
  (lexbind-mode .
-	       [(0 8)
+	       [(0 9)
 		nil "Puts the value of lexical-binding in the mode line" single])
  (levenshtein .
 	      [(1 0)
@@ -3167,7 +3167,7 @@
 		(24)))
 	      "Window-management utilities" single])
  (ertx .
-       [(0 0 1)
+       [(0 0 2)
 	nil "Extra useful testing functions for EmacsLisp." single])
  (ert-x .
 	[(0)
