@@ -134,6 +134,7 @@
   (math-at-point . [(0 0 1) nil "Utilities for modifying numbers at point" single "marmalade"])
   (mc-jump . [(1 0 0) nil "like \"jump-char\", but \"multiple-cursors\" friendly" single "marmalade"])
   (memoize . [(1 0 1) nil "Memoization functions" single "marmalade"])
+  (message-templ . [(0 1 20141026) nil "Templates for message-mode." single "marmalade"])
   (minitest . [(0 5) ((dash (1 0 0))) "An Emacs mode for ruby minitest files" single "marmalade"])
   (monky . [(0 1) nil "control Hg from Emacs." single "marmalade"])
   (move-line . [(0 0 1) nil "utilities for moving lines in file" single "marmalade"])
@@ -217,5 +218,4 @@
   (zeal-at-point . [(0 0 3) nil "Search the word at point with Zeal" single "marmalade"])
   (zenburn . [(0 1) nil "A low contrast colour theme for Emacs" single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
-  (message-templ . [(0 1 20141026) nil "Templates for message-mode." single "marmalade"])
  )

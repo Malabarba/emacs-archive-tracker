@@ -1,7 +1,4 @@
 (1
- (message-templ .
-		[(0 1 20141026)
-		 nil "Templates for message-mode." single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -1816,6 +1813,9 @@
  (mic-paren .
 	    [(3 8)
 	     nil "advanced highlighting of matching parentheses" single])
+ (message-templ .
+		[(0 1 20141026)
+		 nil "Templates for message-mode." single])
  (memoize .
 	  [(1 0 1)
 	   nil "Memoization functions" single])
