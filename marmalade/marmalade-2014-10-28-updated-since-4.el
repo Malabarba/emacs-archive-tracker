@@ -235,6 +235,7 @@
   (wiki-nav . [(1 0 0) ((button-lock (1 0 0)) (nav-flash (1 0 0))) "Simple file navigation using [[WikiStrings]]" single "marmalade"])
   (wikidoc . [(0 9) ((s\.el (1 9 0))) "use elisp doc strings to make other documentation" single "marmalade"])
   (window-end-visible . [(0 1 0) nil "Find the last visible point in a window" single "marmalade"])
+  (window-number . [(1 0 2) nil "Select windows by numbers." single "marmalade"])
   (workspaces . [(0 1) nil "Workspaces for Emacsen" single "marmalade"])
   (world-time-mode . [(0 0 6) nil "show whole days of world-time diffs" single "marmalade"])
   (writegood-mode . [(20130406 2316) nil "Polish up poor writing on the fly" single "marmalade"])

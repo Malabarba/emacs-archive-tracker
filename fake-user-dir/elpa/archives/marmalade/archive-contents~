@@ -127,8 +127,8 @@
 	   [(1 4)
 	    nil "Remember buffer positions per-window, not per buffer" single])
  (window-number .
-		[(1 0 1)
-		 nil "Jump to a window by number" single])
+		[(1 0 2)
+		 nil "Select windows by numbers." single])
  (window-margin .
 		[(0 1)
 		 nil "automatic margins for visual-line-mode wrapping" single])
@@ -1868,11 +1868,13 @@
 		 [(0 0 5)
 		  nil "a demonstration elpa package" single])
  (marmalade-client .
-		   [(0 0 9)
+		   [(0 0 11)
 		    ((web
 		      (0 4 2))
 		     (kv
-		      (0 0 19)))
+		      (0 0 19))
+		     (gh
+		      (0 8 0)))
 		    "client for marmalade API from emacs" single])
  (marmalade .
 	    [(0 0 4)

@@ -789,7 +789,7 @@
   (quickref . [(20130113 1500) ((dash (1 0 3)) (s (1 0 0))) "Display relevant notes-to-self in the echo area" single ((:url . "https://github.com/pd/quickref.el")) "melpa"])
   (quickrun . [(20141026 742) ((emacs (24)) (cl-lib (0 5))) "Run commands quickly" single ((:url . "https://github.com/syohex/emacs-quickrun")) "melpa"])
   (railgun . [(20121016 2257) nil "No description available." single nil "melpa"])
-  (rainbow-delimiters . [(20141027 1356) nil "Highlight nested parens, brackets, braces a different color at each depth." single ((:url . "https://github.com/Fanael/rainbow-delimiters") (:keywords "faces" "convenience" "lisp" "tools")) "melpa"])
+  (rainbow-delimiters . [(20141028 617) nil "Highlight nested parens, brackets, braces a different color at each depth." single ((:url . "https://github.com/Fanael/rainbow-delimiters") (:keywords "faces" "convenience" "lisp" "tools")) "melpa"])
   (rase . [(20120928 1345) nil "Run At Sun Event daemon" single ((:url . "https://github.com/m00natic/rase/") (:keywords "solar" "sunrise" "sunset" "midday" "midnight")) "melpa"])
   (rbenv . [(20140318 424) nil "Emacs integration for rbenv" single ((:url . "https://github.com/senny/rbenv.el") (:keywords "ruby" "rbenv")) "melpa"])
   (rdp . [(20120928 1854) nil "Recursive Descent Parser library" single ((:url . "https://github.com/skeeto/rdp")) "melpa"])

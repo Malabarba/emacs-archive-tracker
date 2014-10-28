@@ -129,7 +129,7 @@
   (mainline . [(1 1 0) nil "modeline replacement forked from an early version of powerline.el" single "marmalade"])
   (mark . [(0 3) ((fm (1 0))) "Navigate and visualize the mark-ring" single "marmalade"])
   (markdown-toc . [(0 0 6) ((markdown-mode (2 0)) (dash (2 5 0)) (s (1 7 0))) "A simple TOC generator for markdown file" single "marmalade"])
-  (marmalade-client . [(0 0 9) ((web (0 4 2)) (kv (0 0 19))) "client for marmalade API from emacs" single "marmalade"])
+  (marmalade-client . [(0 0 11) ((web (0 4 2)) (kv (0 0 19)) (gh (0 8 0))) "client for marmalade API from emacs" single "marmalade"])
   (marmalade-demo . [(0 0 5) nil "a demonstration elpa package" single "marmalade"])
   (marmalade-upload . [(0 0 5) ((web (0 4 2)) (kv (0 0 19))) "upload client for marmalade from emacs" single "marmalade"])
   (master-mode . [(0 1) nil "Become an Emacs master" single "marmalade"])
