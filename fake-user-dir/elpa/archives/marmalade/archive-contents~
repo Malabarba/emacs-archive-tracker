@@ -1,7 +1,4 @@
 (1
- (monroe .
-	 [(0 2 0)
-	  nil "Yet another client for nREPL" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -1749,6 +1746,9 @@
 	     ((ruby-mode
 	       (1 1)))
 	     "Mote minor mode" single])
+ (monroe .
+	 [(0 2 0)
+	  nil "Yet another client for nREPL" single])
  (monokai-theme .
 		[(0 0 12)
 		 nil "DEPRECATED: Monokai Color Theme for Emacs." single])
@@ -3263,12 +3263,16 @@
 	  (0 8 0)))
 	"Emacs Python Development Environment" tar])
  (elpakit .
-	  [(1 1 1)
-	   ((anaphora
-	     (0 0 6))
-	    (dash
-	     (2 3 0)))
-	   "package archive builder" single])
+	  [(2 0 2)
+	   ((dash
+	     (2 9 0))
+	    (shadchen
+	     (1 2))
+	    (noflet
+       (0 0 14))
+	    (s
+	     (1 9 0)))
+	   "The ELPA package maintainer's friend" tar])
  (elpa-mirror .
 	      [(1 1 2)
 	       nil "ELPA mirror from locally installed packages is easy" tar])
@@ -3433,7 +3437,7 @@
 	      (22)))
 	    "A bucket of tricks for Clojure and Slime." single])
  (dummy-package .
-		[(0 0 23)
+		[(0 0 25)
 		 ((timeclock
 		   (2 6 1)))
 		 "a fake package for the marmalade test suite" single])
@@ -3532,6 +3536,9 @@
 		      ((anything
 			(1 287)))
 		      "Yet Another `describe-bindings' with `anything'." single])
+ (demo-multifile .
+		 [(0 0 2)
+		  nil "a demo multifile package." tar])
  (deft .
      [(0 3)
       nil "quickly browse, filter, and edit plain text notes" single])
