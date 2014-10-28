@@ -151,6 +151,7 @@
   (org-table-comment . [(0 2) nil "Org table comment modes." single "marmalade"])
   (org-trello . [(0 6 3) ((request-deferred (0 1 0)) (deferred (0 3 2)) (s (1 9 0)) (dash (2 8 0)) (emacs (24))) "Minor mode to synchronize org-mode buffer and trello board" tar "marmalade"])
   (osx-browse . [(0 8 8) ((string-utils (0 3 2)) (browse-url-dwim (0 6 6))) "Web browsing helpers for OS X" single "marmalade"])
+  (pabbrev . [(4 1) nil "Predictive abbreviation expansion" single "marmalade"])
   (package . [(1 0 1) ((tabulated-list (1 0))) "Simple package system for Emacs" single "marmalade"])
   (page-break-lines . [(0 9) nil "Display ugly ^L page breaks as tidy horizontal lines" single "marmalade"])
   (paredit . [(22) nil "minor mode for editing parentheses" single "marmalade"])

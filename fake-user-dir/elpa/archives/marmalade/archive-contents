@@ -1441,7 +1441,7 @@
 	     (1 0)))
 	   "Simple package system for Emacs" single])
  (pabbrev .
-	  [(3 1)
+	  [(4 1)
 	   nil "Predictive abbreviation expansion" single])
  (p4 .
      [(11 0)
@@ -4171,6 +4171,11 @@
 		((clojure-mode
 		  (1 11 5)))
 		"Space align various Clojure forms" single])
+ (alchemist .
+	    [(0 2 0)
+	     ((emacs
+	       (24)))
+	     "Elixir tooling integration into emacs" tar])
  (ahg .
       [(0 99)
        nil "Alberto's Emacs interface for Mercurial (Hg)" single])
