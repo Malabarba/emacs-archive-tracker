@@ -222,4 +222,5 @@
   (zenburn . [(0 1) nil "A low contrast colour theme for Emacs" single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
   (fooddice . [(0 1) nil "Help me I am hungry and dont know what to eat!" single "marmalade"])
+  (psci . [(0 0 3) ((purescript-mode (13 10)) (dash (2 9 0)) (projectile (0 11 0)) (s (1 9 0)) (f (0 17 1)) (deferred (0 3 2))) "Major mode for purescript repl psci" single "marmalade"])
  )
