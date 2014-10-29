@@ -1,4 +1,7 @@
 (1
+ (fooddice .
+	   [(0 1)
+	    nil "Help me I am hungry and dont know what to eat!" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
