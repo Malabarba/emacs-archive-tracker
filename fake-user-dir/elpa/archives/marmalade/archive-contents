@@ -1562,9 +1562,9 @@
 	       (0 1)))
 	     "Orgmode integration with the GNOME desktop" single])
  (org-email .
-	    [(2 1)
+	    [(3 0 0)
 	     ((shadchen
-	       (1 1))
+	       (1 2))
 	      (dash
 	       (2 9 0))
 	      (noflet
@@ -4192,7 +4192,7 @@
 		  (1 11 5)))
 		"Space align various Clojure forms" single])
  (alchemist .
-	    [(0 2 0)
+	    [(0 3 0)
 	     ((emacs
 	       (24)))
 	     "Elixir tooling integration into emacs" tar])

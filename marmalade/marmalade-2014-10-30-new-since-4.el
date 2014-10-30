@@ -5,7 +5,7 @@
   (ac-geiser . [(0 1) ((geiser (0 5)) (auto-complete (1 4))) "Auto-complete backend for geiser" tar "marmalade"])
   (ac-inf-ruby . [(0 4) ((inf-ruby (2 3 2)) (auto-complete (1 4))) "Enable auto-complete in inf-ruby sessions" single "marmalade"])
   (ac-python . [(20110519) ((auto-complete (1 4))) "Simple Python Completion Source for Auto-Complete" single "marmalade"])
-  (alchemist . [(0 2 0) ((emacs (24))) "Elixir tooling integration into emacs" tar "marmalade"])
+  (alchemist . [(0 3 0) ((emacs (24))) "Elixir tooling integration into emacs" tar "marmalade"])
   (ample-zen-theme . [(0 2) nil "AmpleZen Theme for Emacs 24" single "marmalade"])
   (anzu . [(0 22) nil "Show number of matches in mode-line while searching" single "marmalade"])
   (aok . [(0 1) nil "various useful ways to do `multi-occur'" single "marmalade"])
