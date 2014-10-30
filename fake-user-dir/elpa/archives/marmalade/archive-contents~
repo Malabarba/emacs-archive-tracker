@@ -1,22 +1,4 @@
 (1
- (psci .
-       [(0 0 3)
-	((purescript-mode
-	  (13 10))
-	 (dash
-	  (2 9 0))
-	 (projectile
-	  (0 11 0))
-	 (s
-	  (1 9 0))
-	 (f
-	  (0 17 1))
-	 (deferred
-	     (0 3 2)))
-	"Major mode for purescript repl psci" single])
- (fooddice .
-	   [(0 1)
-	    nil "Help me I am hungry and dont know what to eat!" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -1219,6 +1201,21 @@
  (psgml .
 	[(1 4 1)
 	 nil "Lennart Staflin's Psgml package, with Elisp syntax and sgml-validate fixed for Emacsen >=24." tar])
+ (psci .
+       [(0 0 3)
+	((purescript-mode
+	  (13 10))
+	 (dash
+	  (2 9 0))
+	 (projectile
+	  (0 11 0))
+	 (s
+	  (1 9 0))
+	 (f
+	  (0 17 1))
+	 (deferred
+	     (0 3 2)))
+	"Major mode for purescript repl psci" single])
  (ps-ccrypt .
 	    [(1 10)
 	     nil "reading/writing/loading encrypted files" tar])
@@ -2779,6 +2776,9 @@
 		 ((emacs
 		   (24 1)))
 		 "Restore Emacs frame" single])
+ (fooddice .
+	   [(0 1)
+	    nil "Help me I am hungry and dont know what to eat!" single])
  (font-utils .
 	     [(0 7 0)
 	      ((persistent-soft
