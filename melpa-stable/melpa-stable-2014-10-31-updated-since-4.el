@@ -19,7 +19,7 @@
   (adoc-mode . [(0 6 2) ((markup-faces (1 0 0))) "a major-mode for editing AsciiDoc files in Emacs" single ((:url . "https://github.com/sensorflo/adoc-mode/wiki") (:keywords "wp" "asciidoc")) "melpa-stable"])
   (aes . [(0 6) nil "Implementation of AES" single ((:url . "https://github.com/gaddhi/aes") (:keywords "data" "tools")) "melpa-stable"])
   (ag . [(0 44) nil "A front-end for ag ('the silver searcher'), the C ack replacement." single nil "melpa-stable"])
-  (evil-nerd-commenter . [(1 5 9) nil "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" tar nil "melpa-stable"])
+  (evil-nerd-commenter . [(1 5 10) nil "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" tar nil "melpa-stable"])
   (fsharp-mode . [(1 4 1) ((auto-complete (1 4)) (popup (0 5)) (pos-tip (0 4 5)) (s (1 3 1)) (dash (1 1 0))) "F# mode for Emacs" tar nil "melpa-stable"])
   (ghc . [(5 2 0 0) nil "Sub mode for Haskell mode" tar nil "melpa-stable"])
   (helm-ack . [(0 13) ((helm (1 0)) (cl-lib (0 5))) "Ack command with helm interface" single ((:url . "https://github.com/syohex/emacs-helm-ack")) "melpa-stable"])

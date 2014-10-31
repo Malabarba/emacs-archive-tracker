@@ -43,7 +43,7 @@
   (electric-case . [(2 2 1) nil "insert camelCase, snake_case words without \"Shift\"ing" single "marmalade"])
   (elfeed . [(1 1 0) ((emacs (24 1))) "an Emacs Atom/RSS feed reader" tar "marmalade"])
   (elfeed-web . [(1 1 0) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed" tar "marmalade"])
-  (elisp-indexer . [(0 0 7) nil "indexing utils for emacslisp" single "marmalade"])
+  (elisp-indexer . [(0 0 8) nil "indexing utils for emacslisp" single "marmalade"])
   (elpa-mirror . [(1 1 2) nil "ELPA mirror from locally installed packages is easy" tar "marmalade"])
   (elscreen . [(1 4 6) nil "Screen for Emacsen" single "marmalade"])
   (emacs-cl . [(0 5) nil "Emacs Common Lisp" tar "marmalade"])
