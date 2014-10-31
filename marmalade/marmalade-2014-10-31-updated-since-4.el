@@ -55,7 +55,7 @@
   (elixir-mix . [(1 0 0) nil "Emacs integration for Elixir's mix" single "marmalade"])
   (elnode . [(0 9 9 8 7) ((web (0 4 3)) (dash (1 1 0)) (noflet (0 0 7)) (s (1 5 0)) (creole (0 8 14)) (fakir (0 1 6)) (db (0 0 5)) (kv (0 0 17))) "The Emacs webserver." tar "marmalade"])
   (elpakit . [(2 0 2) ((dash (2 9 0)) (shadchen (1 2)) (noflet (0 0 14)) (s (1 9 0))) "The ELPA package maintainer's friend" tar "marmalade"])
-  (elpy . [(1 5 1) ((company (0 8 2)) (find-file-in-project (3 3)) (highlight-indentation (0 5 0)) (idomenu (0 1)) (pyvenv (1 3)) (yasnippet (0 8 0))) "Emacs Python Development Environment" tar "marmalade"])
+  (elpy . [(1 6 0) ((company (0 8 2)) (find-file-in-project (3 3)) (highlight-indentation (0 5 0)) (idomenu (0 1)) (pyvenv (1 3)) (yasnippet (0 8 0))) "Emacs Python Development Environment" tar "marmalade"])
   (emmet-mode . [(1 0 10) nil "Unofficial Emmet's support for emacs" single "marmalade"])
   (eshell-manual . [(20141024) nil "An manual for Eshell." tar "marmalade"])
   (evil . [(1 0 8) ((undo-tree (0 6 3)) (goto-last-change (1 2))) "Extensible Vi layer for Emacs." tar "marmalade"])
