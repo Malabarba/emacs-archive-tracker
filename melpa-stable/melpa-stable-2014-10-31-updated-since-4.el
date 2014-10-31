@@ -24,6 +24,7 @@
   (ghc . [(5 2 0 0) nil "Sub mode for Haskell mode" tar nil "melpa-stable"])
   (helm-ack . [(0 13) ((helm (1 0)) (cl-lib (0 5))) "Ack command with helm interface" single ((:url . "https://github.com/syohex/emacs-helm-ack")) "melpa-stable"])
   (idris-mode . [(0 9 15) ((emacs (24))) "Major mode for editing Idris code" tar ((:url . "https://github.com/idris-hackers/idris-mode") (:keywords "languages")) "melpa-stable"])
+  (init-loader . [(0 2) nil "Loader for configuration files" single ((:url . "https://github.com/emacs-jp/init-loader/")) "melpa-stable"])
   (irony . [(0 1 2) ((cl-lib (0 5))) "C/C++ minor mode powered by libclang" tar ((:url . "https://github.com/Sarcasm/irony-mode") (:keywords "c" "convenience" "tools")) "melpa-stable"])
   (names . [(0 5 4) ((emacs (24 1)) (cl-lib (0 5))) "Namespaces for emacs-lisp. Works like C++ namespaces to avoid name clobbering." tar ((:url . "http://github.com/Bruce-Connor/names") (:keywords "extensions" "lisp")) "melpa-stable"])
   (psci . [(0 0 5) ((purescript-mode (13 10)) (dash (2 9 0)) (s (1 9 0)) (f (0 17 1)) (deferred (0 3 2))) "Major mode for purescript repl psci" tar ((:url . "https://github.com/ardumont/emacs-psci") (:keywords "purescript" "psci" "repl" "major" "mode")) "melpa-stable"])
