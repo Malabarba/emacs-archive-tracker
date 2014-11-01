@@ -903,7 +903,7 @@
   (quickrun . [(20141026 742) ((emacs (24)) (cl-lib (0 5))) "Run commands quickly" single ((:url . "https://github.com/syohex/emacs-quickrun")) "melpa"])
   (r-autoyas . [(20140101 710) ((ess (0)) (yasnippet (0 8 0))) "Provides automatically created yasnippets for R function argument lists." tar ((:url . "https://github.com/mlf176f2/r-autoyas.el") (:keywords "r" "yasnippet")) "melpa"])
   (railgun . [(20121016 2257) nil "No description available." single nil "melpa"])
-  (rainbow-delimiters . [(20141028 1406) nil "Highlight nested parens, brackets, braces a different color at each depth." single ((:url . "https://github.com/Fanael/rainbow-delimiters") (:keywords "faces" "convenience" "lisp" "tools")) "melpa"])
+  (rainbow-delimiters . [(20141101 945) nil "Highlight nested parens, brackets, braces a different color at each depth." single ((:url . "https://github.com/Fanael/rainbow-delimiters") (:keywords "faces" "convenience" "lisp" "tools")) "melpa"])
   (rase . [(20120928 1345) nil "Run At Sun Event daemon" single ((:url . "https://github.com/m00natic/rase/") (:keywords "solar" "sunrise" "sunset" "midday" "midnight")) "melpa"])
   (rbenv . [(20140318 424) nil "Emacs integration for rbenv" single ((:url . "https://github.com/senny/rbenv.el") (:keywords "ruby" "rbenv")) "melpa"])
   (rcirc-color . [(20140131 656) nil "color nicks" single ((:keywords "comm")) "melpa"])

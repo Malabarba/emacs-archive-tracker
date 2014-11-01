@@ -4190,7 +4190,7 @@
 		  (1 11 5)))
 		"Space align various Clojure forms" single])
  (alchemist .
-	    [(0 3 0)
+	    [(0 4 0)
 	     ((emacs
 	       (24)))
 	     "Elixir tooling integration into emacs" tar])
