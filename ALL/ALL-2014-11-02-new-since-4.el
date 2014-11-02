@@ -111,7 +111,7 @@
   (addressbook-bookmark . [(20140430 10) ((emacs (24))) "An address book based on Standard Emacs bookmarks." single ((:url . "https://github.com/thierryvolpiatto/addressbook-bookmark")) "melpa"])
   (afternoon-theme . [(20140104 1059) ((emacs (24 1))) "Dark color theme with a deep blue background" single ((:url . "http://github.com/osener/emacs-afternoon-theme") (:keywords "themes")) "melpa"])
   (aggressive-indent . [(20141101 152) ((emacs (24 1)) (names (0 5)) (cl-lib (0 5))) "Minor mode to aggressively keep your code always indented" single ((:url . "http://github.com/Bruce-Connor/aggressive-indent-mode") (:keywords "indent" "lisp" "maint" "tools")) "melpa"])
-  (alchemist . [(20141101 2332) ((emacs (24)) (pkg-info (0 5))) "Elixir tooling integration into emacs" tar ((:url . "http://www.github.com/tonini/alchemist.el") (:keywords "languages" "mix" "elixir" "elixirc" "hex")) "melpa"])
+  (alchemist . [(20141102 230) ((emacs (24)) (pkg-info (0 5))) "Elixir tooling integration into emacs" tar ((:url . "http://www.github.com/tonini/alchemist.el") (:keywords "languages" "mix" "elixir" "elixirc" "hex")) "melpa"])
   (alect-themes . [(20141021 1221) nil "Configurable color themes (light, dark and black) for Emacs 24" tar nil "melpa"])
   (amd-mode . [(20140905 825) ((projectile (0 10 0)) (s (1 9 0)) (f (0 16 2)) (dash (2 5 0)) (makey (0 3)) (js2-mode (20140114)) (js2-refactor (0 6 1))) "Minor mode for handling JavaScript AMD module requirements." single ((:keywords "javascript" "amd" "projectile")) "melpa"])
   (ample-regexps . [(20140707 1348) nil "ample regular expressions for Emacs" single ((:keywords "regexps" "extensions" "tools")) "melpa"])
