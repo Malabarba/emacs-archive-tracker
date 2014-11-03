@@ -1041,7 +1041,7 @@
   (wisp-mode . [(20140502 1401) nil "Tools for wisp: the Whitespace-to-Lisp preprocessor" single ((:keywords "languages" "lisp")) "melpa"])
   (with-namespace . [(20130407 1122) ((dash (1 1 0)) (loop (1 1))) "interoperable elisp namespaces" single ((:keywords "namespaces")) "melpa"])
   (workgroups . [(20110726 941) nil "workgroups for windows (for Emacs)" single ((:keywords "session" "management" "window-configuration" "persistence")) "melpa"])
-  (workgroups2 . [(20140929 2339) ((cl-lib (0 4)) (dash (2 8 0)) (anaphora (1 0 0)) (f (0 17))) "New workspaces for Emacs" single ((:url . "https://github.com/pashinin/workgroups2") (:keywords "session" "management" "window-configuration" "persistence")) "melpa"])
+  (workgroups2 . [(20141102 1122) ((cl-lib (0 4)) (dash (2 8 0)) (anaphora (1 0 0)) (f (0 17))) "New workspaces for Emacs" single ((:url . "https://github.com/pashinin/workgroups2") (:keywords "session" "management" "window-configuration" "persistence")) "melpa"])
   (world-time-mode . [(20140627 107) nil "show whole days of world-time diffs" single ((:keywords "tools" "calendar")) "melpa"])
   (wrap-region . [(20140116 2320) ((dash (1 0 3))) "Wrap text with punctation or tag" single ((:url . "http://github.com/rejeep/wrap-region") (:keywords "speed" "convenience")) "melpa"])
   (writegood-mode . [(20140605 734) nil "Polish up poor writing on the fly" single ((:url . "http://github.com/bnbeckwith/writegood-mode") (:keywords "writing" "weasel-words" "grammar")) "melpa"])
