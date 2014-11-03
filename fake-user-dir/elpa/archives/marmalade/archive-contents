@@ -4192,7 +4192,7 @@
 		  (1 11 5)))
 		"Space align various Clojure forms" single])
  (alchemist .
-	    [(0 4 1)
+	    [(0 5 0)
 	     ((emacs
 	       (24))
 	      (pkg-info
