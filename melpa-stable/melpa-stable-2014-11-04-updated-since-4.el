@@ -38,4 +38,5 @@
   (rainbow-delimiters . [(2 0) nil "Highlight nested parens, brackets, braces a different color at each depth." single ((:url . "https://github.com/Fanael/rainbow-delimiters") (:keywords "faces" "convenience" "lisp" "tools")) "melpa-stable"])
   (rainbow-identifiers . [(0 2 2) ((emacs (24))) "Highlight identifiers according to their names" single ((:url . "https://github.com/Fanael/rainbow-identifiers")) "melpa-stable"])
   (stekene-theme . [(1 0 15) ((emacs (24))) "Low-contrast (except for strings) theme, in light and dark versions." tar nil "melpa-stable"])
+  (web-mode . [(10 1) nil "major mode for editing html templates" single ((:url . "http://web-mode.org") (:keywords "html" "template" "javascript" "css" "web" "php" "django" "erb" "jsp")) "melpa-stable"])
  )
