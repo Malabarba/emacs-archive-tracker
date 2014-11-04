@@ -21,7 +21,7 @@
   (ag . [(0 44) nil "A front-end for ag ('the silver searcher'), the C ack replacement." single nil "melpa-stable"])
   (alchemist . [(0 5 0) ((emacs (24)) (pkg-info (0 5))) "Elixir tooling integration into emacs" tar ((:url . "http://www.github.com/tonini/alchemist.el") (:keywords "languages" "mix" "elixir" "elixirc" "hex")) "melpa-stable"])
   (colorsarenice-theme . [(1 0 14) ((emacs (24))) "A colorful color theme." tar nil "melpa-stable"])
-  (cpputils-cmake . [(0 4 20) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar nil "melpa-stable"])
+  (cpputils-cmake . [(0 4 21) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar nil "melpa-stable"])
   (elpy . [(1 6 0) ((company (0 8 2)) (find-file-in-project (3 3)) (highlight-indentation (0 5 0)) (idomenu (0 1)) (pyvenv (1 3)) (yasnippet (0 8 0))) "Emacs Python Development Environment" tar nil "melpa-stable"])
   (evil-nerd-commenter . [(1 5 10) nil "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" tar nil "melpa-stable"])
   (fsharp-mode . [(1 4 1) ((auto-complete (1 4)) (popup (0 5)) (pos-tip (0 4 5)) (s (1 3 1)) (dash (1 1 0))) "F# mode for Emacs" tar nil "melpa-stable"])
