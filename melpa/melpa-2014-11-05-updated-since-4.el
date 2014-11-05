@@ -120,7 +120,7 @@
   (cm-mode . [(20140506 1729) nil "Minor mode for CriticMarkup" single ((:keywords "text" "markdown")) "melpa"])
   (cn-outline . [(20100321 914) nil "No description available." single nil "melpa"])
   (coffee-fof . [(20131012 530) ((coffee-mode (0 4 1))) "A coffee-mode configuration for `ff-find-other-file'." single ((:url . "http://github.com/yasuyk/coffee-fof") (:keywords "coffee-mode")) "melpa"])
-  (coffee-mode . [(20140930 206) ((emacs (24 1)) (cl-lib (0 5))) "Major mode to edit CoffeeScript files in Emacs" single ((:url . "http://github.com/defunkt/coffee-mode") (:keywords "coffeescript" "major" "mode")) "melpa"])
+  (coffee-mode . [(20141105 329) ((emacs (24 1)) (cl-lib (0 5))) "Major mode to edit CoffeeScript files in Emacs" single ((:url . "http://github.com/defunkt/coffee-mode") (:keywords "coffeescript" "major" "mode")) "melpa"])
   (col-highlight . [(20131226 1817) ((vline (0))) "Highlight the current column." single ((:url . "http://www.emacswiki.org/cgi-bin/wiki/col-highlight.el") (:keywords "faces" "frames" "emulation" "highlight" "cursor" "accessibility")) "melpa"])
   (color-moccur . [(20140925 454) nil "multi-buffer occur (grep) mode" single ((:url . "http://www.bookshelf.jp/elc/color-moccur.el") (:keywords "convenience")) "melpa"])
   (color-theme . [(20080305 34) nil "install color themes" tar ((:url . "http://www.emacswiki.org/cgi-bin/wiki.pl?ColorTheme") (:keywords "faces")) "melpa"])

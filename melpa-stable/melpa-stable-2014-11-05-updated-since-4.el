@@ -42,7 +42,7 @@
   (punctuality-logger . [(0 4) nil "Punctuality logger for Emacs" single ((:url . "https://gitlab.com/elzair/punctuality-logger") (:keywords "reminder" "calendar")) "melpa-stable"])
   (rainbow-delimiters . [(2 0) nil "Highlight nested parens, brackets, braces a different color at each depth." single ((:url . "https://github.com/Fanael/rainbow-delimiters") (:keywords "faces" "convenience" "lisp" "tools")) "melpa-stable"])
   (rainbow-identifiers . [(0 2 2) ((emacs (24))) "Highlight identifiers according to their names" single ((:url . "https://github.com/Fanael/rainbow-identifiers")) "melpa-stable"])
-  (req-package . [(0 7) ((use-package (1 0)) (dash (2 7 0)) (log4e (0 2 0))) "A use-package wrapper for package runtime dependencies management" single ((:url . "https://github.com/edvorg/req-package") (:keywords "dotemacs" "startup" "speed" "config" "package")) "melpa-stable"])
+  (req-package . [(0 8) ((use-package (1 0)) (dash (2 7 0)) (log4e (0 2 0))) "A use-package wrapper for package runtime dependencies management" single ((:url . "https://github.com/edvorg/req-package") (:keywords "dotemacs" "startup" "speed" "config" "package")) "melpa-stable"])
   (stekene-theme . [(1 0 15) ((emacs (24))) "Low-contrast (except for strings) theme, in light and dark versions." tar nil "melpa-stable"])
   (web-mode . [(10 1) nil "major mode for editing html templates" single ((:url . "http://web-mode.org") (:keywords "html" "template" "javascript" "css" "web" "php" "django" "erb" "jsp")) "melpa-stable"])
  )
