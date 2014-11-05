@@ -3348,7 +3348,7 @@
 		(24 1)))
 	      "web interface to Elfeed" tar])
  (elfeed .
-	 [(1 1 0)
+	 [(1 1 2)
 	  ((emacs
 	    (24 1)))
 	  "an Emacs Atom/RSS feed reader" tar])
