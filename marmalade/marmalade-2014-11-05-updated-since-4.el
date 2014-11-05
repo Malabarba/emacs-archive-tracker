@@ -137,7 +137,7 @@
   (mocker . [(0 3 0) ((eieio (1 3)) (el-x (0 2 4))) "mocking framework for emacs" single "marmalade"])
   (mode-compile . [(2 29) nil "Smart command for compiling files" single "marmalade"])
   (monokai-theme . [(0 0 12) nil "DEPRECATED: Monokai Color Theme for Emacs." single "marmalade"])
-  (multi-project . [(0 0 15) nil "Easily work with multiple projects." single "marmalade"])
+  (multi-project . [(0 0 16) nil "Easily work with multiple projects." single "marmalade"])
   (multiple-cursors . [(1 3 0) nil "Multiple cursors for Emacs." tar "marmalade"])
   (nav-flash . [(1 1 0) nil "Briefly highlight the current line" single "marmalade"])
   (noflet . [(0 0 15) nil "locally override functions" single "marmalade"])
