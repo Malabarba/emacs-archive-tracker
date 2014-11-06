@@ -43,6 +43,8 @@
   (rainbow-delimiters . [(2 0) nil "Highlight nested parens, brackets, braces a different color at each depth." single ((:url . "https://github.com/Fanael/rainbow-delimiters") (:keywords "faces" "convenience" "lisp" "tools")) "melpa-stable"])
   (rainbow-identifiers . [(0 2 2) ((emacs (24))) "Highlight identifiers according to their names" single ((:url . "https://github.com/Fanael/rainbow-identifiers")) "melpa-stable"])
   (req-package . [(0 8) ((use-package (1 0)) (dash (2 7 0)) (log4e (0 2 0))) "A use-package wrapper for package runtime dependencies management" single ((:url . "https://github.com/edvorg/req-package") (:keywords "dotemacs" "startup" "speed" "config" "package")) "melpa-stable"])
+  (stan-mode . [(2 4 2) nil "Major mode for editing Stan files" tar ((:url . "http://github.com/stan-dev/stan-mode") (:keywords "languanges")) "melpa-stable"])
+  (stan-snippets . [(2 4 2) ((yasnippet (0 8 0)) (stan-mode (2 4 2))) "Yasnippets for Stan" tar ((:url . "http://github.com/stan-dev/stan-mode") (:keywords "languages")) "melpa-stable"])
   (stekene-theme . [(1 0 15) ((emacs (24))) "Low-contrast (except for strings) theme, in light and dark versions." tar nil "melpa-stable"])
   (web-mode . [(10 1) nil "major mode for editing html templates" single ((:url . "http://web-mode.org") (:keywords "html" "template" "javascript" "css" "web" "php" "django" "erb" "jsp")) "melpa-stable"])
  )
