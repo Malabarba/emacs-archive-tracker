@@ -909,7 +909,7 @@
   (rcirc-color . [(20140131 656) nil "color nicks" single ((:keywords "comm")) "melpa"])
   (rcirc-notify . [(20141015 2211) nil "libnotify popups" single ((:keywords "lisp" "rcirc" "irc" "notify" "growl")) "melpa"])
   (rdp . [(20120928 1854) nil "Recursive Descent Parser library" single ((:url . "https://github.com/skeeto/rdp")) "melpa"])
-  (realgud . [(20141105 523) ((load-relative (20130410)) (list-utils (20140508)) (loc-changes (20130723)) (test-simple (20130710))) "A modular front-end for interacting with external debuggers" tar ((:url . "http://github.com/rocky/emacs-dbgr")) "melpa"])
+  (realgud . [(20141105 2152) ((load-relative (20130410)) (list-utils (20140508)) (loc-changes (20130723)) (test-simple (20130710))) "A modular front-end for interacting with external debuggers" tar ((:url . "http://github.com/rocky/emacs-dbgr")) "melpa"])
   (rebox2 . [(20121113 500) nil "Handling of comment boxes in various styles." single ((:url . "https://github.com/lewang/rebox2")) "melpa"])
   (recentf-ext . [(20130130 2150) nil "Recentf extensions" single ((:url . "http://www.emacswiki.org/cgi-bin/wiki/download/recentf-ext.el") (:keywords "convenience" "files")) "melpa"])
   (rect+ . [(20140117 608) nil "Extensions to rect.el" single ((:url . "https://github.com/mhayashi1120/Emacs-rectplus/raw/master/rect+.el") (:keywords "extensions" "data" "tools")) "melpa"])
