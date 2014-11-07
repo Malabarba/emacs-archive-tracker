@@ -21,6 +21,7 @@
   (ag . [(0 44) nil "A front-end for ag ('the silver searcher'), the C ack replacement." single nil "melpa-stable"])
   (alchemist . [(0 5 0) ((emacs (24)) (pkg-info (0 5))) "Elixir tooling integration into emacs" tar ((:url . "http://www.github.com/tonini/alchemist.el") (:keywords "languages" "mix" "elixir" "elixirc" "hex")) "melpa-stable"])
   (browse-kill-ring . [(2 0 0) nil "interactively insert items from kill-ring" single ((:url . "https://github.com/browse-kill-ring/browse-kill-ring") (:keywords "convenience")) "melpa-stable"])
+  (coffee-mode . [(0 5 6) ((emacs (24 1)) (cl-lib (0 5))) "Major mode to edit CoffeeScript files in Emacs" single ((:url . "http://github.com/defunkt/coffee-mode") (:keywords "coffeescript" "major" "mode")) "melpa-stable"])
   (colorsarenice-theme . [(1 0 15) ((emacs (24))) "A colorful color theme." tar nil "melpa-stable"])
   (cpputils-cmake . [(0 4 21) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar nil "melpa-stable"])
   (elfeed . [(1 1 2) ((emacs (24 1))) "an Emacs Atom/RSS feed reader" tar nil "melpa-stable"])

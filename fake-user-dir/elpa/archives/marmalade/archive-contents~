@@ -127,7 +127,7 @@
 	   [(1 4)
 	    nil "Remember buffer positions per-window, not per buffer" single])
  (window-number .
-		[(1 0 2)
+		[(1 0 3)
 		 nil "Select windows by numbers." single])
  (window-margin .
 		[(0 1)
