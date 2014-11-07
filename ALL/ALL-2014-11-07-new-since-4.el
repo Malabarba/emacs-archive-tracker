@@ -83,6 +83,17 @@
   (align-let . [(12) nil "align expressions in a lisp \"let\"" single "user42"])
   (accjournal . [(6) nil "double entry journal accounting" single "user42"])
   (ac-tex-ref . [(2) nil "auto-complete for tex-mode \\ref and \\cite labels" single "user42"])
+  (hl-anything . [(0 0 6) ((emacs (24 3))) "Things highlight in a text file is fundamental and very helpful to everyone.
+
+Main features:
+1. Words or selections highlights with different colors set. The highlights are 
+still visible even under current line highlight (`hl-line-mode' or 
+`global-hl-line-mode' is enabled).
+2. Search highlighted things at point in the current buffer.
+3. Highlight outward and inward parentheses with different colors set.
+
+Extended feature:
+1. Additional faces set for temporary highlights." tar nil "melpa-stable"])
   (magit-stgit . [(90141025) ((cl-lib (0 3)) (magit (1 3 0))) "StGit plug-in for Magit" single ((:keywords "vc" "tools")) "melpa-stable"])
   (magit-svn . [(90141025) ((cl-lib (0 3)) (magit (1 3 0))) "git-svn plug-in for Magit" single ((:keywords "vc" "tools")) "melpa-stable"])
   (magit-topgit . [(90141025) ((cl-lib (0 3)) (magit (1 3 0))) "topgit plug-in for Magit" single ((:keywords "vc" "tools")) "melpa-stable"])
@@ -1141,6 +1152,7 @@
   (wisp . [(0 1 4) nil "Tools for wisp: the Whitespace-to-Lisp preprocessor" single "marmalade"])
   (zenburn . [(0 1) nil "A low contrast colour theme for Emacs" single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
+  (org-cliplink . [(0 1 1) nil "a simple command that takes a URL from the clipboard and inserts an org-mode link with a title of a page found by the URL into the current buffer" single "marmalade"])
   (xpm . [(1 0 3) nil "edit XPM images" tar ((:keywords "multimedia" "xpm") (:url . "http://www.gnuvola.org/software/xpm/")) "gnu"])
   (wpuzzle . [(1 1) nil "find as many word in a given time" single ((:url . "http://elpa.gnu.org/packages/wpuzzle.html") (:keywords)) "gnu"])
   (wisi . [(1 0 6) ((cl-lib (0 4)) (emacs (24 2))) "Utilities for implementing an indentation/navigation engine using a generalized LALR parser" tar ((:keywords "parser" "indentation" "navigation") (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])

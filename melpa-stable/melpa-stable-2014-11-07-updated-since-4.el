@@ -14,7 +14,7 @@
   (ac-slime . [(0 7) ((auto-complete (1 4)) (slime (2 9)) (cl-lib (0 5))) "An auto-complete source using slime completions" single ((:url . "https://github.com/purcell/ac-slime")) "melpa-stable"])
   (ace-jump-mode . [(2 0) nil "a quick cursor location minor mode for emacs" single ((:url . "https://github.com/winterTTr/ace-jump-mode/") (:keywords "motion" "location" "cursor")) "melpa-stable"])
   (ace-window . [(0 5 0) ((ace-jump-mode (2 0))) "Quickly switch windows using `ace-jump-mode'." single ((:url . "https://github.com/abo-abo/ace-window") (:keywords "cursor" "window" "location")) "melpa-stable"])
-  (alchemist . [(0 5 0) ((emacs (24)) (pkg-info (0 5))) "Elixir tooling integration into emacs" tar ((:url . "http://www.github.com/tonini/alchemist.el") (:keywords "languages" "mix" "elixir" "elixirc" "hex")) "melpa-stable"])
+  (alchemist . [(0 6 0) ((emacs (24)) (pkg-info (0 5))) "Elixir tooling integration into emacs" tar ((:url . "http://www.github.com/tonini/alchemist.el") (:keywords "languages" "mix" "elixir" "elixirc" "hex")) "melpa-stable"])
   (browse-kill-ring . [(2 0 0) nil "interactively insert items from kill-ring" single ((:url . "https://github.com/browse-kill-ring/browse-kill-ring") (:keywords "convenience")) "melpa-stable"])
   (coffee-mode . [(0 5 6) ((emacs (24 1)) (cl-lib (0 5))) "Major mode to edit CoffeeScript files in Emacs" single ((:url . "http://github.com/defunkt/coffee-mode") (:keywords "coffeescript" "major" "mode")) "melpa-stable"])
   (colorsarenice-theme . [(1 0 15) ((emacs (24))) "A colorful color theme." tar nil "melpa-stable"])

@@ -1,4 +1,7 @@
 (1
+ (org-cliplink .
+	       [(0 1 1)
+		nil "a simple command that takes a URL from the clipboard and inserts an org-mode link with a title of a page found by the URL into the current buffer" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -4192,7 +4195,7 @@
 		  (1 11 5)))
 		"Space align various Clojure forms" single])
  (alchemist .
-	    [(0 5 0)
+	    [(0 6 0)
 	     ((emacs
 	       (24))
 	      (pkg-info
