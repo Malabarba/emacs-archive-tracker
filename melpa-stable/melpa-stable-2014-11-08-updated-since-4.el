@@ -26,6 +26,7 @@
   (fsharp-mode . [(1 4 1) ((auto-complete (1 4)) (popup (0 5)) (pos-tip (0 4 5)) (s (1 3 1)) (dash (1 1 0))) "F# mode for Emacs" tar nil "melpa-stable"])
   (ghc . [(5 2 1 0) nil "Sub mode for Haskell mode" tar nil "melpa-stable"])
   (git-timemachine . [(1 9) nil "Walk through git revisions of a file" single ((:url . "https://github.com/pidu/git-timemachine") (:keywords "git")) "melpa-stable"])
+  (haml-mode . [(3 1 8) ((ruby-mode (1 0))) "Major mode for editing Haml files" single ((:url . "http://github.com/nex3/haml/tree/master") (:keywords "markup" "language" "html")) "melpa-stable"])
   (helm-ack . [(0 13) ((helm (1 0)) (cl-lib (0 5))) "Ack command with helm interface" single ((:url . "https://github.com/syohex/emacs-helm-ack")) "melpa-stable"])
   (helm-gtags . [(1 4 1) ((helm (1 5 6)) (cl-lib (0 5))) "GNU GLOBAL helm interface" single ((:url . "https://github.com/syohex/emacs-helm-gtags")) "melpa-stable"])
   (idris-mode . [(0 9 15) ((emacs (24))) "Major mode for editing Idris code" tar ((:url . "https://github.com/idris-hackers/idris-mode") (:keywords "languages")) "melpa-stable"])
