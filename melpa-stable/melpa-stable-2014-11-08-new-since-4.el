@@ -21,4 +21,5 @@ Extended feature:
   (kakapo-mode . [(0 2) ((cl-lib (0 5))) "TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment." single ((:url . "https://github.com/listx/kakapo-mode") (:keywords "indentation")) "melpa-stable"])
   (scala-mode2 . [(0 22) nil "Major mode for editing Scala >= 2.9" tar nil "melpa-stable"])
   (scala-outline-popup . [(0 2) ((popup (0 5 0)) (scala-mode2 (0 22))) "scala file summary popup" single ((:url . "https://github.com/ancane/scala-outline-popup.el") (:keywords "scala" "structure" "summary")) "melpa-stable"])
+  (xtest . [(1 0 0) ((cl-lib (0 5))) "Simple Testing with Emacs & ERT" single ((:url . "https://github.com/promethial/xtest") (:keywords "testing" "ert")) "melpa-stable"])
  )
