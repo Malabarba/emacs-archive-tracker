@@ -22,6 +22,7 @@
   (cpputils-cmake . [(0 4 22) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar nil "melpa-stable"])
   (elfeed . [(1 1 2) ((emacs (24 1))) "an Emacs Atom/RSS feed reader" tar nil "melpa-stable"])
   (elfeed-web . [(1 1 2) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed" tar nil "melpa-stable"])
+  (elmacro . [(0 3 0) ((s (1 9 0)) (dash (1 5 0)) (cl-lib (0 5))) "Convert keyboard macros to elisp" single ((:url . "https://github.com/Silex/elmacro") (:keywords "macro" "elisp" "convenience")) "melpa-stable"])
   (elpy . [(1 6 0) ((company (0 8 2)) (find-file-in-project (3 3)) (highlight-indentation (0 5 0)) (idomenu (0 1)) (pyvenv (1 3)) (yasnippet (0 8 0))) "Emacs Python Development Environment" tar nil "melpa-stable"])
   (evil-nerd-commenter . [(1 5 10) nil "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" tar nil "melpa-stable"])
   (fsharp-mode . [(1 4 1) ((auto-complete (1 4)) (popup (0 5)) (pos-tip (0 4 5)) (s (1 3 1)) (dash (1 1 0))) "F# mode for Emacs" tar nil "melpa-stable"])
