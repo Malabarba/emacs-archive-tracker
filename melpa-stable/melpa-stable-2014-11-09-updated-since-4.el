@@ -35,6 +35,7 @@
   (merlin . [(2 0) nil "Mode for Merlin, an assistant for OCaml." tar ((:url . "http://github.com/the-lambda-church/merlin") (:keywords "ocaml" "languages")) "melpa-stable"])
   (names . [(0 5 4) ((emacs (24 1)) (cl-lib (0 5))) "Namespaces for emacs-lisp. Works like C++ namespaces to avoid name clobbering." tar ((:url . "http://github.com/Bruce-Connor/names") (:keywords "extensions" "lisp")) "melpa-stable"])
   (org-trello . [(0 6 4) ((request-deferred (0 1 0)) (deferred (0 3 2)) (s (1 9 0)) (dash (2 8 0)) (emacs (24))) "Minor mode to synchronize org-mode buffer and trello board" tar nil "melpa-stable"])
+  (popup-complete . [(0 2) ((popup (0 5 0))) "completion with popup" single ((:url . "https://github.com/syohex/emacs-popup-complete")) "melpa-stable"])
   (project-explorer . [(0 13 5) ((cl-lib (0 3)) (es-lib (0 3)) (es-windows (0 1)) (emacs (24))) "A project explorer sidebar" single ((:url . "https://github.com/sabof/project-explorer")) "melpa-stable"])
   (psci . [(0 0 5) ((purescript-mode (13 10)) (dash (2 9 0)) (s (1 9 0)) (f (0 17 1)) (deferred (0 3 2))) "Major mode for purescript repl psci" tar ((:url . "https://github.com/ardumont/emacs-psci") (:keywords "purescript" "psci" "repl" "major" "mode")) "melpa-stable"])
   (punctuality-logger . [(0 4) nil "Punctuality logger for Emacs" single ((:url . "https://gitlab.com/elzair/punctuality-logger") (:keywords "reminder" "calendar")) "melpa-stable"])
