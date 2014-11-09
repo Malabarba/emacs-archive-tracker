@@ -1,10 +1,4 @@
 (1
- (gotham-theme .
-	       [(1 0)
-		nil "A very dark Emacs color theme." single])
- (org-cliplink .
-	       [(0 1 1)
-		nil "a simple command that takes a URL from the clipboard and inserts an org-mode link with a title of a page found by the URL into the current buffer" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -1591,6 +1585,9 @@
  (org-cua-dwim .
 	       [(0 5)
 		nil "Org-mode and Cua mode compatibility layer" single])
+ (org-cliplink .
+	       [(0 1 1)
+		nil "a simple command that takes a URL from the clipboard and inserts an org-mode link with a title of a page found by the URL into the current buffer" single])
  (org-blog .
 	   [(1 18 1 1)
 	    nil "create and publish a blog with org-mode" single])
@@ -2164,7 +2161,7 @@
 	 [(0 1 2)
 	  nil "Parse org-todo headlines to use org-tables as Kanban tables" single])
  (jump-dls .
-	   [(0 5)
+	   [(0 6)
 	    nil "Jump to definition of symbol using various methods." single])
  (jump-char .
 	    [(0 1)
@@ -2607,6 +2604,9 @@
  (goto-chg .
 	   [(1 6)
 	    nil "goto last change" single])
+ (gotham-theme .
+	       [(1 0)
+		nil "A very dark Emacs color theme." single])
  (gopher .
 	 [(0 0 2)
 	  nil "easily access and navigate Gopher servers" single])
