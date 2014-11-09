@@ -1,4 +1,7 @@
 (1
+ (gotham-theme .
+	       [(1 0)
+		nil "A very dark Emacs color theme." single])
  (org-cliplink .
 	       [(0 1 1)
 		nil "a simple command that takes a URL from the clipboard and inserts an org-mode link with a title of a page found by the URL into the current buffer" single])
@@ -4044,7 +4047,7 @@
 		     (0 3 2)))
 		   "Context-sensitive external browse URL or Internet search" single])
  (browse-kill-ring .
-		   [(1 3 1)
+		   [(2 0 0)
 		    nil "interactively insert items from kill-ring" single])
  (boxquote .
 	   [(1 23)
