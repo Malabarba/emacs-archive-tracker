@@ -1035,7 +1035,7 @@
   (yabin . [(20140205 1951) nil "Yet Another Bignum package (A thin wrapper of calc.el)." single ((:keywords "data")) "melpa"])
   (yafolding . [(20141011 112) nil "Yet another folding extension for Emacs" single ((:keywords "folding")) "melpa"])
   (yandex-weather . [(20140423 421) nil "Fetch Yandex Weather forecasts." tar nil "melpa"])
-  (ycmd . [(20141108 301) ((emacs (24)) (anaphora (1 0 0)) (request (0 2 0)) (deferred (0 3 2)) (request-deferred (0 2 0)) (popup (0 5 0))) "emacs bindings to the ycmd completion server" single ((:url . "https://github.com/abingham/emacs-ycmd")) "melpa"])
+  (ycmd . [(20141109 2138) ((emacs (24)) (anaphora (1 0 0)) (deferred (0 3 2)) (popup (0 5 0))) "emacs bindings to the ycmd completion server" single ((:url . "https://github.com/abingham/emacs-ycmd")) "melpa"])
   (zeal-at-point . [(20131210 503) nil "Search the word at point with Zeal" single ((:url . "https://github.com/jinzhu/zeal-at-point")) "melpa"])
   (zonokai-theme . [(20140909 1941) nil "No description available." tar nil "melpa"])
   (zop-to-char . [(20140416 1015) ((cl-lib (0 5))) "A replacement of zap-to-char." single ((:url . "https://github.com/thierryvolpiatto/zop-to-char")) "melpa"])
