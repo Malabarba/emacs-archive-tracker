@@ -1,7 +1,9 @@
 '(
   (aggressive-indent . [(0 3 1) ((emacs (24 1)) (names (0 5)) (cl-lib (0 5))) "Minor mode to aggressively keep your code always indented" single ((:url . "http://github.com/Bruce-Connor/aggressive-indent-mode") (:keywords "indent" "lisp" "maint" "tools")) "melpa-stable"])
+  (android-mode . [(0 3 1) nil "Minor mode for Android application development" single ((:url . "https://github.com/remvee/android-mode") (:keywords "tools" "processes")) "melpa-stable"])
   (boon . [(0 1) ((emacs (24 3)) (expand-region (0 10 0))) "Ergonomic Command Mode for Emacs." tar nil "melpa-stable"])
   (elscreen-mew . [(1 0 1) ((elscreen (20120413 807))) "ElScreen Add-On for Mew" single ((:url . "https://github.com/masutaka/elscreen-mew")) "melpa-stable"])
+  (evil-escape . [(1 0) ((emacs (24)) (evil (1 0 9)) (key-chord (0 6))) "Customizable key sequence to escape from insert state and everything else." single ((:url . "https://github.com/syl20bnr/evil-escape") (:keywords "convenience" "editing" "evil")) "melpa-stable"])
   (gitlab . [(0 1 0) ((s (1 9 0)) (dash (2 9 0)) (pkg-info (0 5 0)) (request (0 1 0))) "Emacs client for Gitlab" tar ((:url . "https://github.com/nlamirault/emacs-gitlab") (:keywords "gitlab")) "melpa-stable"])
   (gotham-theme . [(1 0) nil "A very dark Emacs color theme." single ((:url . "https://github.com/wasamasa/gotham-theme")) "melpa-stable"])
   (helm-ghc . [(0 1 0) ((emacs (24)) (cl-lib (0 5)) (helm (1 6 4)) (ghc (5 2 1 0))) "A Helm datasource for ghc-mod errors" single ((:keywords "languages" "helm")) "melpa-stable"])
