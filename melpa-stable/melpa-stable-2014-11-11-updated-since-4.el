@@ -27,7 +27,7 @@
   (elpy . [(1 6 0) ((company (0 8 2)) (find-file-in-project (3 3)) (highlight-indentation (0 5 0)) (idomenu (0 1)) (pyvenv (1 3)) (yasnippet (0 8 0))) "Emacs Python Development Environment" tar nil "melpa-stable"])
   (evil-nerd-commenter . [(1 5 10) nil "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" tar nil "melpa-stable"])
   (fountain-mode . [(1 3 4) ((s (1 9 0))) "Major mode for screenwriting in Fountain markup" single ((:url . "https://github.com/rnkn/fountain-mode") (:keywords "wp")) "melpa-stable"])
-  (fsharp-mode . [(1 4 1) ((auto-complete (1 4)) (popup (0 5)) (pos-tip (0 4 5)) (s (1 3 1)) (dash (1 1 0))) "F# mode for Emacs" tar nil "melpa-stable"])
+  (fsharp-mode . [(1 4 2) ((auto-complete (1 4)) (popup (0 5)) (pos-tip (0 4 5)) (s (1 3 1)) (dash (1 1 0))) "F# mode for Emacs" tar nil "melpa-stable"])
   (ggtags . [(0 8 7) ((emacs (24)) (cl-lib (0 5))) "emacs frontend to GNU Global source code tagging system" single ((:url . "https://github.com/leoliu/ggtags") (:keywords "tools" "convenience")) "melpa-stable"])
   (ghc . [(5 2 1 0) nil "Sub mode for Haskell mode" tar nil "melpa-stable"])
   (git-timemachine . [(1 9) nil "Walk through git revisions of a file" single ((:url . "https://github.com/pidu/git-timemachine") (:keywords "git")) "melpa-stable"])
