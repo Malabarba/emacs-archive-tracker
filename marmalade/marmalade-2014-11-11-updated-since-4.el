@@ -64,6 +64,7 @@
   (evil-numbers . [(0 4) nil "increment/decrement numbers like in vim" single "marmalade"])
   (exec-path-from-shell . [(1 7) nil "Get environment variables such as $PATH from the shell" single "marmalade"])
   (expand-region . [(0 10 0) nil "Increase selected region by semantic units." tar "marmalade"])
+  (expectations-mode . [(0 0 5) ((cider (0 7 0))) "Minor mode for expectations tests" single "marmalade"])
   (express . [(0 6 0) ((string-utils (0 3 2))) "Alternatives to `message'" single "marmalade"])
   (fakir . [(0 1 9) ((noflet (0 0 8)) (dash (1 3 2)) (kv (0 0 19))) "fakeing bits of Emacs" single "marmalade"])
   (fill-column-indicator . [(1 86) nil "Graphically indicate the fill column" single "marmalade"])

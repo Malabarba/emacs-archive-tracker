@@ -3102,11 +3102,9 @@
 	     (0 3 2)))
 	   "Alternatives to `message'" single])
  (expectations-mode .
-		    [(0 0 4)
-		     ((nrepl
-		       (0 1 5))
-		      (clojure-mode
-		       (1 11)))
+		    [(0 0 5)
+		     ((cider
+		       (0 7 0)))
 		     "Minor mode for expectations tests" single])
  (expand-region .
 		[(0 10 0)
