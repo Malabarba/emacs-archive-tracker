@@ -225,4 +225,6 @@
   (zeal-at-point . [(0 0 3) nil "Search the word at point with Zeal" single "marmalade"])
   (zenburn . [(0 1) nil "A low contrast colour theme for Emacs" single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
+  (mbe . [(0 1) ((emacs (24)) (cl-lib (0 5))) "Macros by Example" single "marmalade"])
+  (seethru . [(0 1) ((shadchen (1 4))) "Easily change Emacs' transparency" single "marmalade"])
  )

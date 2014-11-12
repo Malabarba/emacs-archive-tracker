@@ -25,6 +25,7 @@ Extended feature:
   (kakapo-mode . [(0 2) ((cl-lib (0 5))) "TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment." single ((:url . "https://github.com/listx/kakapo-mode") (:keywords "indentation")) "melpa-stable"])
   (karma . [(0 1 0) nil "Karma Test Runner Emacs Integration" single ((:url . "http://github.com/tonini/karma.el") (:keywords "javascript" "js" "karma" "testing")) "melpa-stable"])
   (keyset . [(0 1 0) ((dash (2 8 0)) (cl-lib (0 5))) "A small library for structuring key bindings." single nil "melpa-stable"])
+  (mbe . [(0 1) ((emacs (24)) (cl-lib (0 5))) "Macros by Example" single ((:url . "https://github.com/ijp/mbe.el") (:keywords "tools" "macros")) "melpa-stable"])
   (monokai-theme . [(1 0 0) nil "A fruity color theme for Emacs." single ((:url . "http://github.com/oneKelvinSmith/monokai-emacs")) "melpa-stable"])
   (persp-mode . [(1 0) nil "\"perspectives\" + save/load + shared among frames - bugs." single ((:url . "https://github.com/Bad-ptr/persp-mode.el") (:keywords "perspectives" "session")) "melpa-stable"])
   (scala-mode2 . [(0 22) nil "Major mode for editing Scala >= 2.9" tar nil "melpa-stable"])
