@@ -227,4 +227,7 @@
   (zeal-at-point . [(0 0 3) nil "Search the word at point with Zeal" single "marmalade"])
   (zenburn . [(0 1) nil "A low contrast colour theme for Emacs" single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
+  (evil-escape . [(1 1) ((emacs (24)) (evil (1 0 9)) (key-chord (0 6))) "Customizable key sequence to escape from insert state and everything else." single "marmalade"])
+  (fpaste . [(0 1 2) nil "Send text to http://fpaste.org" single "marmalade"])
+  (karma . [(0 1 0) nil "Karma Test Runner Emacs Integration" single "marmalade"])
  )
