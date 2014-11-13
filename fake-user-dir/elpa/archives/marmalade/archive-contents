@@ -1,16 +1,4 @@
 (1
- (seethru .
-	  [(0 1)
-	   ((shadchen
-	     (1 4)))
-	   "Easily change Emacs' transparency" single])
- (mbe .
-      [(0 1)
-       ((emacs
-	 (24))
-	(cl-lib
-	 (0 5)))
-       "Macros by Example" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -895,6 +883,11 @@
 	      (sequences
 	       (0 1 0)))
 	     "A dead simple way to load sensitive information" single])
+ (seethru .
+	  [(0 2)
+	   ((shadchen
+	     (1 4)))
+	   "Easily change Emacs' transparency" single])
  (sedated .
 	  [(1 0)
 	   nil "A few extremely simple sed functions for familiar text manipulation" single])
@@ -1856,6 +1849,13 @@
  (mc-jump .
 	  [(1 0 0)
 	   nil "like \"jump-char\", but \"multiple-cursors\" friendly" single])
+ (mbe .
+      [(0 1)
+       ((emacs
+	 (24))
+	(cl-lib
+	 (0 5)))
+       "Macros by Example" single])
  (maxframe .
 	   [(0 5 1)
 	    nil "maximize the emacs frame based on display size" single])
@@ -3299,7 +3299,7 @@
 	  (0 8 0)))
 	"Emacs Python Development Environment" tar])
  (elpakit .
-	  [(2 0 2)
+	  [(2 0 3)
 	   ((dash
 	     (2 9 0))
 	    (shadchen
