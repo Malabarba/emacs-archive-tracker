@@ -3,7 +3,7 @@
 	[(0 1 0)
 	 nil "Karma Test Runner Emacs Integration" single])
  (fpaste .
-	 [(0 1 2)
+	 [(0 1 3)
 	  nil "Send text to http://fpaste.org" single])
  (evil-escape .
 	      [(1 1)
