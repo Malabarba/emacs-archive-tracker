@@ -102,7 +102,7 @@
   (gruber-darker-theme . [(0 6) nil "Gruber Darker color theme for Emacs 24." single "marmalade"])
   (guru-mode . [(0 2) nil "Become an Emacs guru" single "marmalade"])
   (hackernews . [(0 2 1) ((json (1 2))) "Access the hackernews aggregator from Emacs" tar "marmalade"])
-  (haml-mode . [(3 1 5) ((ruby-mode (1 0))) "Major mode for editing Haml files" single "marmalade"])
+  (haml-mode . [(3 1 8) ((ruby-mode (1 0))) "Major mode for editing Haml files" single "marmalade"])
   (hardhat . [(0 4 4) ((ignoramus (0 7 0))) "Protect against clobbering user-writable files" single "marmalade"])
   (helm-projectile . [(0 10 0) ((helm (1 4 0)) (projectile (0 10 0))) "Helm integration for Projectile" single "marmalade"])
   (highlight-escape-sequences . [(0 1) nil "Highlight escape sequences" single "marmalade"])

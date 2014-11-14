@@ -1,19 +1,4 @@
 (1
- (karma .
-	[(0 1 0)
-	 nil "Karma Test Runner Emacs Integration" single])
- (fpaste .
-	 [(0 1 3)
-	  nil "Send text to http://fpaste.org" single])
- (evil-escape .
-	      [(1 1)
-	       ((emacs
-		 (24))
-		(evil
-		 (1 0 9))
-		(key-chord
-		 (0 6)))
-	       "Customizable key sequence to escape from insert state and everything else." single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -2184,6 +2169,9 @@
 		(color-theme-emacs-revert-theme
 		 (0 1)))
 	       "Key Choices -- Also Viper has different colors in different modes" single])
+ (karma .
+	[(0 1 0)
+	 nil "Karma Test Runner Emacs Integration" single])
  (kanban .
 	 [(0 1 2)
 	  nil "Parse org-todo headlines to use org-tables as Kanban tables" single])
@@ -2563,7 +2551,7 @@
 		  [(1 3)
 		   nil "A major mode for editing Handlebars files." single])
  (haml-mode .
-	    [(3 1 5)
+	    [(3 1 8)
 	     ((ruby-mode
 	       (1 0)))
 	     "Major mode for editing Haml files" single])
@@ -2809,6 +2797,9 @@
 		 ((emacs
 		   (24 1)))
 		 "Restore Emacs frame" single])
+ (fpaste .
+	 [(0 1 3)
+	  nil "Send text to http://fpaste.org" single])
  (fooddice .
 	   [(0 1)
 	    nil "Help me I am hungry and dont know what to eat!" single])
@@ -3168,6 +3159,15 @@
 			  ((evil
 			    (0)))
 			  "evil textobjects based on indentation" single])
+ (evil-escape .
+	      [(1 1)
+	       ((emacs
+		 (24))
+		(evil
+		 (1 0 9))
+		(key-chord
+		 (0 6)))
+	       "Customizable key sequence to escape from insert state and everything else." single])
  (evil .
        [(1 0 8)
 	((undo-tree
