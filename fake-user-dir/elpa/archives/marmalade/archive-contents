@@ -895,7 +895,7 @@
 		 [(1 1 1)
 		  nil "Edit in seclusion. A Dark Room mode." single])
  (sea-before-storm-theme .
-			 [(0 3)
+			 [(0 4 20141114)
 			  nil "Sea Before Storm color theme for Emacs 24" single])
  (scss-mode .
 	    [(0 5 0)

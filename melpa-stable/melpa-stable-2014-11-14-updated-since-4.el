@@ -49,7 +49,7 @@
   (popup-complete . [(0 2) ((popup (0 5 0))) "completion with popup" single ((:url . "https://github.com/syohex/emacs-popup-complete")) "melpa-stable"])
   (project-explorer . [(0 13 5) ((cl-lib (0 3)) (es-lib (0 3)) (es-windows (0 1)) (emacs (24))) "A project explorer sidebar" single ((:url . "https://github.com/sabof/project-explorer")) "melpa-stable"])
   (psci . [(0 0 5) ((purescript-mode (13 10)) (dash (2 9 0)) (s (1 9 0)) (f (0 17 1)) (deferred (0 3 2))) "Major mode for purescript repl psci" tar ((:url . "https://github.com/ardumont/emacs-psci") (:keywords "purescript" "psci" "repl" "major" "mode")) "melpa-stable"])
-  (punctuality-logger . [(0 5) nil "Punctuality logger for Emacs" single ((:url . "https://gitlab.com/elzair/punctuality-logger") (:keywords "reminder" "calendar")) "melpa-stable"])
+  (punctuality-logger . [(0 8) nil "Punctuality logger for Emacs" single ((:url . "https://gitlab.com/elzair/punctuality-logger") (:keywords "reminder" "calendar")) "melpa-stable"])
   (rainbow-delimiters . [(2 0 1) nil "Highlight nested parens, brackets, braces a different color at each depth." single ((:url . "https://github.com/Fanael/rainbow-delimiters") (:keywords "faces" "convenience" "lisp" "tools")) "melpa-stable"])
   (rainbow-identifiers . [(0 2 2) ((emacs (24))) "Highlight identifiers according to their names" single ((:url . "https://github.com/Fanael/rainbow-identifiers")) "melpa-stable"])
   (req-package . [(0 9) ((use-package (1 0)) (dash (2 7 0)) (log4e (0 2 0))) "A use-package wrapper for package runtime dependencies management" single ((:url . "https://github.com/edvorg/req-package") (:keywords "dotemacs" "startup" "speed" "config" "package")) "melpa-stable"])

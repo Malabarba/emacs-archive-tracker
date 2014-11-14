@@ -197,6 +197,7 @@
   (sass-mode . [(3 0 16) ((haml-mode (3 0 15))) "Major mode for editing Sass files" single "marmalade"])
   (save-visited-files . [(1 2) nil "save opened files across sessions" single "marmalade"])
   (scpaste . [(0 6 3) ((htmlize (1 39))) "Paste to the web via scp." single "marmalade"])
+  (sea-before-storm-theme . [(0 4 20141114) nil "Sea Before Storm color theme for Emacs 24" single "marmalade"])
   (sequence . [(0 0 1) nil "makes sequences of numbers" single "marmalade"])
   (shadchen . [(1 4) nil "pattern matching for elisp" single "marmalade"])
   (shorten . [(0 3) nil "component-wise string shortener" single "marmalade"])
