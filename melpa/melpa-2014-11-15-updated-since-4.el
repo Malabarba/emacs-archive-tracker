@@ -870,7 +870,7 @@
   (simple-call-tree . [(20130330 940) nil "analyze source code based on font-lock text-properties" single ((:url . "http://www.emacswiki.org/cgi-bin/wiki.pl?CallTree") (:keywords "programming")) "melpa"])
   (simple-httpd . [(20140908 1908) ((cl-lib (0 3))) "pure elisp HTTP server" single ((:url . "https://github.com/skeeto/emacs-http-server")) "melpa"])
   (simpleclip . [(20140508 1341) nil "Simplified access to the system clipboard" single ((:url . "http://github.com/rolandwalker/simpleclip") (:keywords "convenience")) "melpa"])
-  (simplenote . [(20130416 1502) nil "Interact with simple-note.appspot.com" single ((:keywords "simplenote")) "melpa"])
+  (simplenote . [(20141115 252) nil "Interact with simple-note.appspot.com" single ((:keywords "simplenote")) "melpa"])
   (simplezen . [(20130421 300) ((s (1 4 0)) (dash (1 1 0))) "A simple subset of zencoding-mode for Emacs." single nil "melpa"])
   (skewer-mode . [(20140702 647) ((simple-httpd (1 4 0)) (js2-mode (20090723)) (emacs (24))) "live browser JavaScript, CSS, and HTML interaction" tar nil "melpa"])
   (slamhound . [(20140506 1618) nil "Rip Clojure namespaces apart and rebuild them." single ((:url . "https://github.com/technomancy/slamhound") (:keywords "tools" "lisp")) "melpa"])

@@ -32,5 +32,6 @@ Extended feature:
   (persp-mode . [(1 0) nil "\"perspectives\" + save/load + shared among frames - bugs." single ((:url . "https://github.com/Bad-ptr/persp-mode.el") (:keywords "perspectives" "session")) "melpa-stable"])
   (scala-mode2 . [(0 22) nil "Major mode for editing Scala >= 2.9" tar nil "melpa-stable"])
   (scala-outline-popup . [(0 2) ((popup (0 5 0)) (scala-mode2 (0 22))) "scala file summary popup" single ((:url . "https://github.com/ancane/scala-outline-popup.el") (:keywords "scala" "structure" "summary")) "melpa-stable"])
+  (travis . [(0 1 0) ((helm (1 0)) (request (0 1 0)) (pkg-info (0 5 0)) (dash (2 9 0)) (s (1 9 0))) "Emacs client for Travis" tar nil "melpa-stable"])
   (xtest . [(1 1 0) ((cl-lib (0 5))) "Simple Testing with Emacs & ERT" single ((:url . "https://github.com/promethial/xtest") (:keywords "testing" "ert")) "melpa-stable"])
  )
