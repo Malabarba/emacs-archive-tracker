@@ -46,6 +46,7 @@
   (irony . [(0 1 2) ((cl-lib (0 5))) "C/C++ minor mode powered by libclang" tar ((:url . "https://github.com/Sarcasm/irony-mode") (:keywords "c" "convenience" "tools")) "melpa-stable"])
   (merlin . [(2 0) nil "Mode for Merlin, an assistant for OCaml." tar ((:url . "http://github.com/the-lambda-church/merlin") (:keywords "ocaml" "languages")) "melpa-stable"])
   (names . [(0 5 4) ((emacs (24 1)) (cl-lib (0 5))) "Namespaces for emacs-lisp. Works like C++ namespaces to avoid name clobbering." tar ((:url . "http://github.com/Bruce-Connor/names") (:keywords "extensions" "lisp")) "melpa-stable"])
+  (notmuch . [(0 19) nil "No description available." tar nil "melpa-stable"])
   (org-trello . [(0 6 4) ((request-deferred (0 1 0)) (deferred (0 3 2)) (s (1 9 0)) (dash (2 8 0)) (emacs (24))) "Minor mode to synchronize org-mode buffer and trello board" tar nil "melpa-stable"])
   (paradox . [(1 2 4) ((emacs (24 1)) (dash (2 6 0)) (cl-lib (0 5)) (json (1 3))) "A modern Packages Menu. Colored, with package ratings, and customizable." tar ((:url . "http://github.com/Bruce-Connor/paradox") (:keywords "package" "packages" "mode-line")) "melpa-stable"])
   (popup-complete . [(0 2) ((popup (0 5 0))) "completion with popup" single ((:url . "https://github.com/syohex/emacs-popup-complete")) "melpa-stable"])
