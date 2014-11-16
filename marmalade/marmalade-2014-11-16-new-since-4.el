@@ -212,6 +212,7 @@
   (tox . [(20130819 1127) nil "Launch current python test with tox." single "marmalade"])
   (troncle . [(0 1 2) ((cider (0 5 0))) "Emacs convenience functions for tracing clojure code" single "marmalade"])
   (tronesque-theme . [(1 5) nil "Color Theme based on Tron universe." single "marmalade"])
+  (try . [(0 0 1) ((emacs (24))) "Try out Emacs packages." single "marmalade"])
   (tsql . [(1 0) nil "customizes sql.el for T-SQL" single "marmalade"])
   (typescript . [(0 1 1) nil "Major mode for editing typescript" single "marmalade"])
   (uzumaki . [(0 1) ((cl-lib (0 5))) "A simple buffer cycler" single "marmalade"])
@@ -230,5 +231,4 @@
   (zeal-at-point . [(0 0 3) nil "Search the word at point with Zeal" single "marmalade"])
   (zenburn . [(0 1) nil "A low contrast colour theme for Emacs" single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
-  (try . [(0 0 1) ((emacs (24))) "Try out Emacs packages." single "marmalade"])
  )
