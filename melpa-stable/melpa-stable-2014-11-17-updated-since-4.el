@@ -43,6 +43,7 @@
   (helm-ack . [(0 13) ((helm (1 0)) (cl-lib (0 5))) "Ack command with helm interface" single ((:url . "https://github.com/syohex/emacs-helm-ack")) "melpa-stable"])
   (helm-ag . [(0 31) ((helm (1 5 6)) (cl-lib (0 5))) "the silver searcher with helm interface" single ((:url . "https://github.com/syohex/emacs-helm-ag")) "melpa-stable"])
   (helm-gtags . [(1 4 2) ((helm (1 5 6)) (cl-lib (0 5))) "GNU GLOBAL helm interface" single ((:url . "https://github.com/syohex/emacs-helm-gtags")) "melpa-stable"])
+  (helm-themes . [(0 5) ((helm (1 0))) "Color theme selection with helm interface" single ((:url . "https://github.com/syohex/emacs-helm-themes")) "melpa-stable"])
   (idris-mode . [(0 9 15) ((emacs (24))) "Major mode for editing Idris code" tar ((:url . "https://github.com/idris-hackers/idris-mode") (:keywords "languages")) "melpa-stable"])
   (init-loader . [(0 2) nil "Loader for configuration files" single ((:url . "https://github.com/emacs-jp/init-loader/")) "melpa-stable"])
   (irony . [(0 1 2) ((cl-lib (0 5))) "C/C++ minor mode powered by libclang" tar ((:url . "https://github.com/Sarcasm/irony-mode") (:keywords "c" "convenience" "tools")) "melpa-stable"])

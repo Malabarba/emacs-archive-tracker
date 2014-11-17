@@ -398,7 +398,7 @@
   (flex-isearch . [(20130508 1503) nil "Flex matching (like ido) in isearch." single ((:url . "https://bitbucket.org/jpkotta/flex-isearch") (:keywords "convenience" "search")) "melpa"])
   (flx . [(20140921 739) ((cl-lib (0 3))) "fuzzy matching with good sorting" single ((:url . "https://github.com/lewang/flx")) "melpa"])
   (flx-ido . [(20140821 2033) ((flx (0 1)) (cl-lib (0 3))) "flx integration for ido" single ((:url . "https://github.com/lewang/flx")) "melpa"])
-  (flycheck . [(20141115 800) ((dash (2 4 0)) (pkg-info (0 4)) (cl-lib (0 3)) (emacs (24 1))) "Modern on-the-fly syntax checking for GNU Emacs" tar ((:url . "https://flycheck.readthedocs.org") (:keywords "convenience" "languages" "tools")) "melpa"])
+  (flycheck . [(20141117 1029) ((dash (2 4 0)) (pkg-info (0 4)) (cl-lib (0 3)) (emacs (24 1))) "Modern on-the-fly syntax checking for GNU Emacs" tar ((:url . "https://flycheck.readthedocs.org") (:keywords "convenience" "languages" "tools")) "melpa"])
   (flycheck-color-mode-line . [(20131125 2138) ((flycheck (0 15)) (dash (1 2)) (emacs (24 1))) "Change mode line color with Flycheck status" single ((:keywords "convenience" "language" "tools")) "melpa"])
   (flymake-coffee . [(20140809 324) ((flymake-easy (0 1))) "A flymake handler for coffee script" single ((:url . "https://github.com/purcell/flymake-coffee")) "melpa"])
   (flymake-css . [(20121104 1104) ((flymake-easy (0 1))) "Flymake support for css using csslint" single ((:url . "https://github.com/purcell/flymake-css")) "melpa"])
