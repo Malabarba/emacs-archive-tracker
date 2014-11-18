@@ -1,5 +1,5 @@
 '(
-  (aggressive-indent . [(0 3 1) ((emacs (24 1)) (names (0 5)) (cl-lib (0 5))) "Minor mode to aggressively keep your code always indented" single ((:url . "http://github.com/Bruce-Connor/aggressive-indent-mode") (:keywords "indent" "lisp" "maint" "tools")) "melpa-stable"])
+  (aggressive-indent . [(0 3 3) ((emacs (24 1)) (names (0 5)) (cl-lib (0 5))) "Minor mode to aggressively keep your code always indented" single ((:url . "http://github.com/Bruce-Connor/aggressive-indent-mode") (:keywords "indent" "lisp" "maint" "tools")) "melpa-stable"])
   (android-mode . [(0 3 1) nil "Minor mode for Android application development" single ((:url . "https://github.com/remvee/android-mode") (:keywords "tools" "processes")) "melpa-stable"])
   (boon . [(0 1) ((emacs (24 3)) (expand-region (0 10 0))) "Ergonomic Command Mode for Emacs." tar nil "melpa-stable"])
   (checkbox . [(0 2 1) ((emacs (24)) (cl-lib (0 5))) "Quick manipulation of textual checkboxes" single ((:url . "http://github.com/camdez/checkbox.el") (:keywords "convenience")) "melpa-stable"])
