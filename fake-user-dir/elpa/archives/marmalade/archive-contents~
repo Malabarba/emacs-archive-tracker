@@ -1,4 +1,15 @@
 (1
+ (ical-pull .
+	    [(0 0 2)
+	     ((shadchen
+	       (1 2))
+	      (dash
+	       (2 9 0))
+	      (s
+	       (1 9 0))
+	      (noflet
+	 (0 0 14)))
+	     "pull ical feeds into org-agenda" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])

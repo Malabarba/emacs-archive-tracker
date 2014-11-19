@@ -408,7 +408,7 @@
   (handlebars-sgml-mode . [(20130623 1633) nil "Add Handlebars contextual indenting support to sgml-mode" single ((:url . "http://github.com/jacott/handlebars-sgml-mode")) "melpa"])
   (hardcore-mode . [(20111204 2216) nil "Disable arrow keys + optionally backspace and return" single ((:keywords "marking" "region")) "melpa"])
   (hardhat . [(20140827 1856) ((ignoramus (0 7 0))) "Protect against clobbering user-writable files" single ((:url . "http://github.com/rolandwalker/hardhat") (:keywords "convenience")) "melpa"])
-  (haskell-mode . [(20141119 631) ((cl-lib (0 5))) "A Haskell editing mode" tar nil "melpa"])
+  (haskell-mode . [(20141119 1110) ((cl-lib (0 5))) "A Haskell editing mode" tar nil "melpa"])
   (haste . [(20141030 1334) ((json (1 2))) "Emacs client for hastebin (http://hastebin.com/about.md)" single ((:url . "http://github.com/rlister/emacs-haste-client")) "melpa"])
   (haxe-mode . [(20131004 142) nil "An Emacs major mode for Haxe" single ((:url . "http://people.debian.org/~jps/misc/haxe-mode.el")) "melpa"])
   (header2 . [(20140723 1525) nil "Support for creation and update of file headers." single ((:url . "http://www.emacswiki.org/header2.el") (:keywords "tools" "docs" "maint" "abbrev" "local")) "melpa"])
