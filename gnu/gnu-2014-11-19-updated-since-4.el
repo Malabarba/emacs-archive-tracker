@@ -31,7 +31,7 @@
   (lmc . [(1 3) nil "Little Man Computer in Elisp" single ((:url . "http://elpa.gnu.org/packages/lmc.html") (:keywords)) "gnu"])
   (lex . [(1 1) nil "Lexical analyser construction" tar ((:url . "http://elpa.gnu.org/packages/lex.html")) "gnu"])
   (jumpc . [(3 0) nil "jump to previous insertion points" single ((:url . "http://elpa.gnu.org/packages/jumpc.html") (:keywords)) "gnu"])
-  (js2-mode . [(20141115) ((emacs (24 1))) "Improved JavaScript editing mode" tar ((:keywords "languages" "javascript") (:url . "https://github.com/mooz/js2-mode/")) "gnu"])
+  (js2-mode . [(20141118) ((emacs (24 1))) "Improved JavaScript editing mode" tar ((:keywords "languages" "javascript") (:url . "https://github.com/mooz/js2-mode/")) "gnu"])
   (jgraph-mode . [(1 0) ((cl-lib (0 5))) "Major mode for Jgraph files" single ((:url . "http://elpa.gnu.org/packages/jgraph-mode.html") (:keywords "tex" "wp")) "gnu"])
   (ioccur . [(2 4) nil "Incremental occur" single ((:url . "http://elpa.gnu.org/packages/ioccur.html") (:keywords)) "gnu"])
   (heap . [(0 3) nil "Heap (a.k.a. priority queue) data structure" single ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "extensions" "data structures" "heap" "priority queue")) "gnu"])
