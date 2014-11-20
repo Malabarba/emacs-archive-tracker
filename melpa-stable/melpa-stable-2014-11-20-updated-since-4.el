@@ -53,7 +53,7 @@
   (irony . [(0 1 2) ((cl-lib (0 5))) "C/C++ minor mode powered by libclang" tar ((:url . "https://github.com/Sarcasm/irony-mode") (:keywords "c" "convenience" "tools")) "melpa-stable"])
   (js2-mode . [(20141118) ((emacs (24 1))) "Improved JavaScript editing mode" tar ((:url . "https://github.com/mooz/js2-mode/") (:keywords "languages" "javascript")) "melpa-stable"])
   (keychain-environment . [(2 1 0) nil "load keychain environment variables" single ((:url . "https://github.com/tarsius/keychain-environment") (:keywords "gnupg" "pgp" "ssh")) "melpa-stable"])
-  (lispy . [(0 14 0) ((helm (1 5 3)) (ace-jump-mode (2 0)) (s (1 4 0)) (noflet (0 0 10)) (multiple-cursors (1 3 0)) (iedit (0 97))) "vi-like Paredit" tar nil "melpa-stable"])
+  (lispy . [(0 15 0) ((helm (1 5 3)) (ace-jump-mode (2 0)) (s (1 4 0)) (noflet (0 0 10)) (multiple-cursors (1 3 0)) (iedit (0 97))) "vi-like Paredit" tar nil "melpa-stable"])
   (merlin . [(2 0) nil "Mode for Merlin, an assistant for OCaml." tar ((:url . "http://github.com/the-lambda-church/merlin") (:keywords "ocaml" "languages")) "melpa-stable"])
   (names . [(0 5 4) ((emacs (24 1)) (cl-lib (0 5))) "Namespaces for emacs-lisp. Works like C++ namespaces to avoid name clobbering." tar ((:url . "http://github.com/Bruce-Connor/names") (:keywords "extensions" "lisp")) "melpa-stable"])
   (notmuch . [(0 19) nil "No description available." tar nil "melpa-stable"])
