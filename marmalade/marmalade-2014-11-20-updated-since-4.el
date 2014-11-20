@@ -54,7 +54,7 @@
   (elisp-slime-nav . [(0 7) ((cl-lib (0 2))) "Make M-. and M-, work in elisp like they do in slime" single "marmalade"])
   (elixir-mix . [(1 0 0) nil "Emacs integration for Elixir's mix" single "marmalade"])
   (elnode . [(0 9 9 8 8) ((web (0 4 3)) (dash (2 9 0)) (noflet (0 0 14)) (s (1 5 0)) (creole (1 0 6)) (fakir (0 1 9)) (db (0 0 6)) (kv (0 0 19))) "The Emacs webserver." tar "marmalade"])
-  (elpakit . [(2 0 3) ((dash (2 9 0)) (shadchen (1 2)) (noflet (0 0 14)) (s (1 9 0))) "The ELPA package maintainer's friend" tar "marmalade"])
+  (elpakit . [(2 0 4) ((dash (2 9 0)) (shadchen (1 2)) (noflet (0 0 14)) (s (1 9 0))) "The ELPA package maintainer's friend" tar "marmalade"])
   (elpy . [(1 6 0) ((company (0 8 2)) (find-file-in-project (3 3)) (highlight-indentation (0 5 0)) (idomenu (0 1)) (pyvenv (1 3)) (yasnippet (0 8 0))) "Emacs Python Development Environment" tar "marmalade"])
   (emmet-mode . [(1 0 10) nil "Unofficial Emmet's support for emacs" single "marmalade"])
   (eshell-manual . [(20141024) nil "An manual for Eshell." tar "marmalade"])
