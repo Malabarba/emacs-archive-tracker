@@ -3176,7 +3176,7 @@
 			    (0)))
 			  "evil textobjects based on indentation" single])
  (evil-escape .
-	      [(1 4)
+	      [(1 5 1)
 	       ((emacs
 		 (24))
 		(evil
