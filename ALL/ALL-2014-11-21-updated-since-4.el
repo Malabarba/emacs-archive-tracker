@@ -1147,7 +1147,7 @@
   (wcheck-mode . [(20140621 1033) nil "General interface for text checkers" tar nil "melpa"])
   (weather-metno . [(20141005 838) ((emacs (24)) (cl-lib (0 3))) "Weather data from met.no in Emacs" tar nil "melpa"])
   (web . [(20141111 533) ((dash (2 9 0)) (s (1 5 0))) "useful HTTP client" single ((:url . "http://github.com/nicferrier/emacs-web") (:keywords "lisp" "http" "hypermedia")) "melpa"])
-  (web-mode . [(20141120 1104) nil "major mode for editing html templates" single ((:url . "http://web-mode.org") (:keywords "html" "template" "javascript" "css" "web" "php" "django" "erb" "jsp")) "melpa"])
+  (web-mode . [(20141120 2326) nil "major mode for editing html templates" single ((:url . "http://web-mode.org") (:keywords "html" "template" "javascript" "css" "web" "php" "django" "erb" "jsp")) "melpa"])
   (weblogger . [(20110926 918) ((xml-rpc (1 6 8))) "Weblog maintenance via XML-RPC APIs" single ((:url . "http://launchpad.net/weblogger-el") (:keywords "weblog" "blogger" "cms" "movable" "type" "openweblog" "blog")) "melpa"])
   (websocket . [(20140823 1756) nil "Emacs WebSocket client and server" single ((:keywords "communication" "websocket" "server")) "melpa"])
   (weechat . [(20141016 1422) ((s (1 3 1)) (cl-lib (0 2)) (emacs (24)) (tracking (1 2))) "Chat via WeeChat's relay protocol in Emacs" tar nil "melpa"])
