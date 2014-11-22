@@ -29,6 +29,7 @@
   (egison-mode . [(3 3 15) nil "Egison editing mode" single ((:url . "https://github.com/egisatoshi/egison3/blob/master/elisp/egison-mode.el")) "melpa-stable"])
   (elfeed . [(1 1 2) ((emacs (24 1))) "an Emacs Atom/RSS feed reader" tar nil "melpa-stable"])
   (elfeed-web . [(1 1 2) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed" tar nil "melpa-stable"])
+  (elisp-slime-nav . [(0 8) ((cl-lib (0 2))) "Make M-. and M-, work in elisp like they do in slime" single ((:url . "https://github.com/purcell/elisp-slime-nav") (:keywords "navigation" "slime" "elisp" "emacs-lisp")) "melpa-stable"])
   (elmacro . [(0 3 0) ((s (1 9 0)) (dash (1 5 0)) (cl-lib (0 5))) "Convert keyboard macros to elisp" single ((:url . "https://github.com/Silex/elmacro") (:keywords "macro" "elisp" "convenience")) "melpa-stable"])
   (elpy . [(1 6 0) ((company (0 8 2)) (find-file-in-project (3 3)) (highlight-indentation (0 5 0)) (idomenu (0 1)) (pyvenv (1 3)) (yasnippet (0 8 0))) "Emacs Python Development Environment" tar nil "melpa-stable"])
   (evil-matchit . [(1 4 1) nil "Vim matchit ported into Emacs (requires EVIL)" tar nil "melpa-stable"])
