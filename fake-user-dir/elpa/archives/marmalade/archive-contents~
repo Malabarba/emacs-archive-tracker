@@ -361,7 +361,7 @@
 	     [(0 1 1)
 	      nil "Major mode for editing typescript" single])
  (twittering-mode .
-		  [(2 0 0)
+		  [(3 0 1)
 		   nil "Major mode for Twitter" single])
  (twilight-theme .
 		 [(1 0 0)
@@ -4252,7 +4252,7 @@
 		  (1 11 5)))
 		"Space align various Clojure forms" single])
  (alchemist .
-	    [(0 7 0)
+	    [(0 7 1)
 	     ((emacs
 	       (24))
 	      (pkg-info

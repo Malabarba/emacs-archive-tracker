@@ -220,6 +220,7 @@
   (truthy . [(0 2 8) ((list-utils (0 4 2))) "Test the content of a value" single "marmalade"])
   (tuareg . [(2 0 8) ((caml (3 12 0 1))) "OCaml mode for Emacs" tar "marmalade"])
   (tumblesocks . [(0 0 7) ((htmlize (1 39)) (oauth (1 0 3)) (markdown-mode (1 8 1))) "An Emacs tumblr client." tar "marmalade"])
+  (twittering-mode . [(3 0 1) nil "Major mode for Twitter" single "marmalade"])
   (ucs-utils . [(0 7 10) ((persistent-soft (0 8 8)) (pcache (0 2 3)) (list-utils (0 4 2))) "Utilities for Unicode characters" single "marmalade"])
   (ujelly-theme . [(1 0 35) nil "Ujelly theme for GNU Emacs 24 (deftheme)" single "marmalade"])
   (unicode-enbox . [(0 1 4) ((string-utils (0 3 2)) (ucs-utils (0 7 6)) (persistent-soft (0 8 8)) (pcache (0 2 3))) "Surround a string with box-drawing characters" single "marmalade"])
