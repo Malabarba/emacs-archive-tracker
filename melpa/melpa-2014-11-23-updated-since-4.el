@@ -131,7 +131,7 @@
   (color-theme-solarized . [(20140408 1309) ((color-theme (6 5 5))) "Solarized themes for Emacs" tar nil "melpa"])
   (column-marker . [(20121128 843) nil "Highlight certain character columns" single ((:keywords "tools" "convenience" "highlight")) "melpa"])
   (commander . [(20140120 1052) ((s (1 6 0)) (dash (2 0 0)) (cl-lib (0 3)) (f (0 6 1))) "Emacs command line parser" single ((:url . "http://github.com/rejeep/commander.el") (:keywords "cli" "argv")) "melpa"])
-  (company . [(20141121 1632) ((emacs (24 1)) (cl-lib (0 5))) "Modular text completion framework" tar ((:url . "http://company-mode.github.io/") (:keywords "abbrev" "convenience" "matching")) "melpa"])
+  (company . [(20141122 1950) ((emacs (24 1)) (cl-lib (0 5))) "Modular text completion framework" tar ((:url . "http://company-mode.github.io/") (:keywords "abbrev" "convenience" "matching")) "melpa"])
   (company-inf-ruby . [(20140805 1354) ((company (0 6 10)) (inf-ruby (2 2 7)) (emacs (24 1))) "company-mode completion back-end for inf-ruby" single ((:url . "https://github.com/company-mode/company-inf-ruby")) "melpa"])
   (concurrent . [(20140609 1940) ((deferred (0 3 1))) "Concurrent utility functions for emacs lisp" single ((:url . "https://github.com/kiwanami/emacs-deferred/blob/master/README-concurrent.markdown") (:keywords "deferred" "async" "concurrent")) "melpa"])
   (confluence . [(20140410 1723) ((xml-rpc (1 6 4))) "Emacs mode for interacting with confluence wikis" tar ((:url . "http://code.google.com/p/confluence-el/") (:keywords "confluence" "wiki" "xmlrpc")) "melpa"])
