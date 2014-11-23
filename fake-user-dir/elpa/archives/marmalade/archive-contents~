@@ -4000,15 +4000,19 @@
 	   (1 1)))
 	 "Client for IRC in Emacs" tar])
  (cider .
-	[(0 6 0)
+	[(0 8 1)
 	 ((clojure-mode
-	   (2 0 0))
+	   (3 0 0))
 	  (cl-lib
-	   (0 3))
+	   (0 5))
 	  (dash
 	   (2 4 1))
 	  (pkg-info
-	   (0 4)))
+	   (0 4))
+	  (emacs
+	   (24))
+	  (queue
+	   (0 1 1)))
 	 "Clojure Integrated Development Environment and REPL" tar])
  (chm-view .
 	   [(0 2 2)

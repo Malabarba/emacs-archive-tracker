@@ -19,7 +19,7 @@
   (buffer-file-utils . [(1 0) nil "utilities operating on a buffer and the associated file" single "marmalade"])
   (cedit . [(0 0 0) nil "paredit-like commands for c-like languages" single "marmalade"])
   (checkbox . [(0 2 1) ((emacs (24)) (cl-lib (0 5))) "Quick manipulation of textual checkboxes" single "marmalade"])
-  (cider . [(0 6 0) ((clojure-mode (2 0 0)) (cl-lib (0 3)) (dash (2 4 1)) (pkg-info (0 4))) "Clojure Integrated Development Environment and REPL" tar "marmalade"])
+  (cider . [(0 8 1) ((clojure-mode (3 0 0)) (cl-lib (0 5)) (dash (2 4 1)) (pkg-info (0 4)) (emacs (24)) (queue (0 1 1))) "Clojure Integrated Development Environment and REPL" tar "marmalade"])
   (cl-lib-highlight . [(1 0 0) ((cl-lib (0 3))) "full cl-lib font-lock highlighting" single "marmalade"])
   (clojure-env . [(0 0 3) nil "manage clojure environments with Emacs" single "marmalade"])
   (clojure-project . [(1 0) ((project-mode (1 0))) "Extends project-mode for Clojure projects" single "marmalade"])

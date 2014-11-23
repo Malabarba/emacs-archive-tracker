@@ -43,7 +43,7 @@ Extended feature:
   (json-reformat . [(0 0 1) nil "Reformatting tool for JSON" single ((:url . "https://github.com/gongo/json-reformat") (:keywords "json")) "melpa-stable"])
   (kakapo-mode . [(0 2) ((cl-lib (0 5))) "TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment." single ((:url . "https://github.com/listx/kakapo-mode") (:keywords "indentation")) "melpa-stable"])
   (karma . [(0 1 0) nil "Karma Test Runner Emacs Integration" single ((:url . "http://github.com/tonini/karma.el") (:keywords "javascript" "js" "karma" "testing")) "melpa-stable"])
-  (keyset . [(0 1 0) ((dash (2 8 0)) (cl-lib (0 5))) "A small library for structuring key bindings." single nil "melpa-stable"])
+  (keyset . [(0 1 1) ((dash (2 8 0)) (cl-lib (0 5))) "A small library for structuring key bindings." single nil "melpa-stable"])
   (log4e . [(0 2 0) nil "provide logging framework for elisp" single ((:url . "https://github.com/aki2o/log4e") (:keywords "log")) "melpa-stable"])
   (mbe . [(0 1) ((emacs (24)) (cl-lib (0 5))) "Macros by Example" single ((:url . "https://github.com/ijp/mbe.el") (:keywords "tools" "macros")) "melpa-stable"])
   (monokai-theme . [(1 0 0) nil "A fruity color theme for Emacs." single ((:url . "http://github.com/oneKelvinSmith/monokai-emacs")) "melpa-stable"])
