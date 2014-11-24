@@ -196,7 +196,7 @@
   (circe . [(20140903 553) ((lui (0)) (lcs (0))) "Client for IRC in Emacs" tar nil "melpa"])
   (clippy . [(20140417 414) ((pos-tip (1 0))) "Show tooltip with function documentation at point" single ((:url . "https://github.com/Fuco1/clippy.el") (:keywords "docs")) "melpa"])
   (clips-mode . [(20131012 1401) nil "Major mode for editing CLIPS code and REPL" tar nil "melpa"])
-  (clj-refactor . [(20141123 1230) ((s (1 8 0)) (dash (2 4 0)) (yasnippet (0 6 1)) (paredit (22)) (multiple-cursors (1 2 2)) (cider (0 8 1))) "A collection of clojure refactoring functions" single ((:keywords "convenience")) "melpa"])
+  (clj-refactor . [(20141124 128) ((s (1 8 0)) (dash (2 4 0)) (yasnippet (0 6 1)) (paredit (22)) (multiple-cursors (1 2 2)) (cider (0 8 1))) "A collection of clojure refactoring functions" single ((:keywords "convenience")) "melpa"])
   (cljsbuild-mode . [(20140619 126) nil "A minor mode for the ClojureScript 'lein cljsbuild' command" single ((:url . "http://github.com/kototama/cljsbuild-mode") (:keywords "clojure" "clojurescript" "leiningen" "compilation")) "melpa"])
   (clojure-mode . [(20141122 110) ((emacs (24 1))) "Major mode for Clojure code" single ((:url . "http://github.com/clojure-emacs/clojure-mode") (:keywords "languages" "clojure" "clojurescript" "lisp")) "melpa"])
   (clojure-snippets . [(20140831 912) ((yasnippet (0 8 0))) "Yasnippets for clojure" tar nil "melpa"])

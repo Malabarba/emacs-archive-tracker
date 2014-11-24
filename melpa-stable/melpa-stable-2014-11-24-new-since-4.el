@@ -10,6 +10,7 @@
   (caskxy . [(0 0 5) ((log4e (0 2 0)) (yaxception (0 1))) "Control Cask in Emacs" single ((:url . "https://github.com/aki2o/caskxy") (:keywords "convenience")) "melpa-stable"])
   (checkbox . [(0 2 1) ((emacs (24)) (cl-lib (0 5))) "Quick manipulation of textual checkboxes" single ((:url . "http://github.com/camdez/checkbox.el") (:keywords "convenience")) "melpa-stable"])
   (ctxmenu . [(0 3 0) ((popup (20140205 103)) (log4e (0 2 0)) (yaxception (0 1))) "Provide a context menu like right-click." tar ((:url . "https://github.com/aki2o/emacs-ctxmenu") (:keywords "popup")) "melpa-stable"])
+  (dired-imenu . [(0 5 0) nil "imenu binding for dired mode" single ((:url . "https://github.com/DamienCassou/dired-imenu") (:keywords "dired" "imenu")) "melpa-stable"])
   (direx-grep . [(0 1 0) ((direx (0 1 -3))) "Grep node of direx.el using incremental search like anything.el/helm.el" single ((:url . "https://github.com/aki2o/direx-grep") (:keywords "convenience")) "melpa-stable"])
   (e2wm-direx . [(0 0 5) ((e2wm (1 2)) (direx (0 1 -3))) "Plugin of e2wm.el for direx.el" single ((:url . "https://github.com/aki2o/e2wm-direx") (:keywords "tools" "window manager" "convenience")) "melpa-stable"])
   (e2wm-pkgex4pl . [(0 0 1) ((e2wm (1 2)) (plsense-direx (0 2 0))) "Plugin of e2wm.el for package explorer of Perl" single ((:url . "https://github.com/aki2o/e2wm-pkgex4pl") (:keywords "tools" "window manager" "perl")) "melpa-stable"])
@@ -32,17 +33,7 @@
   (helm-ghc . [(0 1 0) ((emacs (24)) (cl-lib (0 5)) (helm (1 6 4)) (ghc (5 2 1 0))) "A Helm datasource for ghc-mod errors" single ((:keywords "languages" "helm")) "melpa-stable"])
   (helm-gitlab . [(0 1 0) ((s (1 9 0)) (dash (2 9 0)) (helm (1 0)) (gitlab (0))) "Helm interface to Gitlab" single ((:url . "https://github.com/nlamirault/emacs-gitlab") (:keywords "gitlab" "helm")) "melpa-stable"])
   (helm-hatena-bookmark . [(1 0 2) ((helm (1 5 6))) "Hatena::Bookmark helm.el interface" single ((:url . "https://github.com/masutaka/emacs-helm-hatena-bookmark")) "melpa-stable"])
-  (hl-anything . [(0 0 6) ((emacs (24 3))) "Things highlight in a text file is fundamental and very helpful to everyone.
-
-Main features:
-1. Words or selections highlights with different colors set. The highlights are 
-still visible even under current line highlight (`hl-line-mode' or 
-`global-hl-line-mode' is enabled).
-2. Search highlighted things at point in the current buffer.
-3. Highlight outward and inward parentheses with different colors set.
-
-Extended feature:
-1. Additional faces set for temporary highlights." tar nil "melpa-stable"])
+  (hl-anything . [(0 0 7) ((emacs (24 3))) "Highlight symbols, selections, enclosing parens and more." single nil "melpa-stable"])
   (idomenu . [(0 1) nil "imenu tag selection with ido" single ((:url . "https://github.com/birkenfeld/idomenu") (:keywords "extensions" "convenience")) "melpa-stable"])
   (inlineR . [(1 0) nil "insert Tag for inline image of R graphics" single ((:url . "https://github.com/myuhe/inlineR.el") (:keywords "convenience" "iimage.el" "cacoo.el")) "melpa-stable"])
   (json-reformat . [(0 0 1) nil "Reformatting tool for JSON" single ((:url . "https://github.com/gongo/json-reformat") (:keywords "json")) "melpa-stable"])
