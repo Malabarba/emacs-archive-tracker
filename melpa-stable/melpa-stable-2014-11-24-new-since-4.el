@@ -17,6 +17,8 @@
   (e2wm-term . [(0 0 5) ((e2wm (1 2)) (log4e (0 2 0)) (yaxception (0 3 2))) "Perspective of e2wm.el for work in terminal" single ((:url . "https://github.com/aki2o/e2wm-term") (:keywords "tools" "window manager")) "melpa-stable"])
   (elscreen-mew . [(1 0 1) ((elscreen (20120413 807))) "ElScreen Add-On for Mew" single ((:url . "https://github.com/masutaka/elscreen-mew")) "melpa-stable"])
   (es-lib . [(0 4) ((cl-lib (0 3))) "A collection of emacs utilities" tar ((:url . "https://github.com/sabof/es-lib")) "melpa-stable"])
+  (ess-R-data-view . [(1 0) ((ctable (20130313 1743)) (popup (20130324 1305)) (ess (20130225 1754))) "Data viewer for GNU R" single ((:url . "https://github.com/myuhe/ess-R-data-view.el") (:keywords "convenience")) "melpa-stable"])
+  (ess-R-object-popup . [(1 0) ((popup (20130117 1954)) (ess (20130225 1754))) "popup description of R object" single ((:url . "https://github.com/myuhe/ess-R-object-popup.el") (:keywords "convenience" "ess")) "melpa-stable"])
   (eval-in-repl . [(0 3 0) ((dash (0 0 0)) (paredit (0 0 0))) "Consistent ESS-like eval interface for various REPLs" tar nil "melpa-stable"])
   (evil-escape . [(1 5 1) ((emacs (24)) (evil (1 0 9)) (key-chord (0 6))) "Customizable key sequence to escape from insert state and everything else." single ((:url . "https://github.com/syl20bnr/evil-escape") (:keywords "convenience" "editing" "evil")) "melpa-stable"])
   (feature-mode . [(0 4) nil "Major mode for editing Gherkin (i.e. Cucumber) user stories" tar nil "melpa-stable"])
@@ -41,6 +43,8 @@ still visible even under current line highlight (`hl-line-mode' or
 
 Extended feature:
 1. Additional faces set for temporary highlights." tar nil "melpa-stable"])
+  (idomenu . [(0 1) nil "imenu tag selection with ido" single ((:url . "https://github.com/birkenfeld/idomenu") (:keywords "extensions" "convenience")) "melpa-stable"])
+  (inlineR . [(1 0) nil "insert Tag for inline image of R graphics" single ((:url . "https://github.com/myuhe/inlineR.el") (:keywords "convenience" "iimage.el" "cacoo.el")) "melpa-stable"])
   (json-reformat . [(0 0 1) nil "Reformatting tool for JSON" single ((:url . "https://github.com/gongo/json-reformat") (:keywords "json")) "melpa-stable"])
   (kakapo-mode . [(0 2) ((cl-lib (0 5))) "TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment." single ((:url . "https://github.com/listx/kakapo-mode") (:keywords "indentation")) "melpa-stable"])
   (karma . [(0 1 0) nil "Karma Test Runner Emacs Integration" single ((:url . "http://github.com/tonini/karma.el") (:keywords "javascript" "js" "karma" "testing")) "melpa-stable"])
@@ -67,6 +71,7 @@ Extended feature:
   (term-cmd . [(1 0) nil "Send commands to Emacs from programs running under term.el" single ((:url . "https://github.com/CallumCameron/term-cmd") (:keywords "processes")) "melpa-stable"])
   (travis . [(0 3 0) ((s (1 9 0)) (dash (2 9 0)) (pkg-info (0 5 0)) (request (0 1 0))) "Emacs client for Travis" tar ((:url . "https://github.com/nlamirault/emacs-travis") (:keywords "travis")) "melpa-stable"])
   (tss . [(0 6 0) ((auto-complete (1 4 0)) (json-mode (1 1 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide a interface for auto-complete.el/flymake.el on typescript-mode." tar ((:url . "https://github.com/aki2o/emacs-tss") (:keywords "typescript" "completion")) "melpa-stable"])
+  (vagrant . [(0 5 0) nil "Manage a vagrant box from emacs" single ((:url . "https://github.com/ottbot/vagrant.el") (:keywords "vagrant" "chef")) "melpa-stable"])
   (vbasense . [(0 1 1) ((auto-complete (1 4 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide a environment like Visual Basic Editor." tar ((:url . "https://github.com/aki2o/emacs-vbasense") (:keywords "vba" "completion")) "melpa-stable"])
   (xtest . [(1 1 0) ((cl-lib (0 5))) "Simple Testing with Emacs & ERT" single ((:url . "https://github.com/promethial/xtest") (:keywords "testing" "ert")) "melpa-stable"])
   (yaxception . [(0 3 2) nil "Provide framework about exception like Java for Elisp" single ((:url . "https://github.com/aki2o/yaxception") (:keywords "exception" "error" "signal")) "melpa-stable"])
