@@ -1,4 +1,6 @@
 '(
+  (ace-jump-buffer . [(0 3 1) ((ace-jump-mode (1 0)) (dash (2 4 0))) "fast buffer switching extension to `ace-jump-mode'" single ((:url . "https://github.com/waymondo/ace-jump-buffer")) "melpa-stable"])
+  (ace-jump-zap . [(0 0 3) ((ace-jump-mode (1 0))) "Character zapping, `ace-jump-mode` style" single ((:url . "https://github.com/waymondo/ace-jump-zap") (:keywords "convenience" "tools" "extensions")) "melpa-stable"])
   (ace-link . [(0 1 0) ((ace-jump-mode (2 0)) (noflet (0 0 10))) "Quickly follow links using `ace-jump-mode'" single ((:url . "https://github.com/abo-abo/ace-link") (:keywords "convenience" "links")) "melpa-stable"])
   (aggressive-indent . [(0 3 3) ((emacs (24 1)) (names (0 5)) (cl-lib (0 5))) "Minor mode to aggressively keep your code always indented" single ((:url . "http://github.com/Bruce-Connor/aggressive-indent-mode") (:keywords "indent" "lisp" "maint" "tools")) "melpa-stable"])
   (android-mode . [(0 3 3) nil "Minor mode for Android application development" single ((:url . "https://github.com/remvee/android-mode") (:keywords "tools" "processes")) "melpa-stable"])
@@ -65,7 +67,7 @@
   (term-cmd . [(1 0) nil "Send commands to Emacs from programs running under term.el" single ((:url . "https://github.com/CallumCameron/term-cmd") (:keywords "processes")) "melpa-stable"])
   (travis . [(0 3 0) ((s (1 9 0)) (dash (2 9 0)) (pkg-info (0 5 0)) (request (0 1 0))) "Emacs client for Travis" tar ((:url . "https://github.com/nlamirault/emacs-travis") (:keywords "travis")) "melpa-stable"])
   (tss . [(0 6 0) ((auto-complete (1 4 0)) (json-mode (1 1 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide a interface for auto-complete.el/flymake.el on typescript-mode." tar ((:url . "https://github.com/aki2o/emacs-tss") (:keywords "typescript" "completion")) "melpa-stable"])
-  (vagrant . [(0 5 1) nil "Manage a vagrant box from emacs" single ((:url . "https://github.com/ottbot/vagrant.el") (:keywords "vagrant" "chef")) "melpa-stable"])
+  (vagrant . [(0 5 2) nil "Manage a vagrant box from emacs" single ((:url . "https://github.com/ottbot/vagrant.el") (:keywords "vagrant" "chef")) "melpa-stable"])
   (vbasense . [(0 1 1) ((auto-complete (1 4 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide a environment like Visual Basic Editor." tar ((:url . "https://github.com/aki2o/emacs-vbasense") (:keywords "vba" "completion")) "melpa-stable"])
   (xtest . [(1 1 0) ((cl-lib (0 5))) "Simple Testing with Emacs & ERT" single ((:url . "https://github.com/promethial/xtest") (:keywords "testing" "ert")) "melpa-stable"])
   (yaml-mode . [(0 0 11) nil "Major mode for editing YAML files" single ((:keywords "data" "yaml")) "melpa-stable"])

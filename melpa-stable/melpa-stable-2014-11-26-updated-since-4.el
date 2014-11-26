@@ -12,7 +12,6 @@
   (ac-ispell . [(0 6) ((auto-complete (1 4))) "ispell completion source for auto-complete" single ((:url . "https://github.com/syohex/emacs-ac-ispell")) "melpa-stable"])
   (ac-octave . [(0 4) ((auto-complete (1 4 0))) "An auto-complete source for Octave" single ((:url . "https://github.com/coldnew/ac-octave") (:keywords "octave" "auto-complete" "completion")) "melpa-stable"])
   (ac-slime . [(0 7) ((auto-complete (1 4)) (slime (2 9)) (cl-lib (0 5))) "An auto-complete source using slime completions" single ((:url . "https://github.com/purcell/ac-slime")) "melpa-stable"])
-  (ace-jump-mode . [(2 0) nil "a quick cursor location minor mode for emacs" single ((:url . "https://github.com/winterTTr/ace-jump-mode/") (:keywords "motion" "location" "cursor")) "melpa-stable"])
   (ace-window . [(0 5 0) ((ace-jump-mode (2 0))) "Quickly switch windows using `ace-jump-mode'." single ((:url . "https://github.com/abo-abo/ace-window") (:keywords "cursor" "window" "location")) "melpa-stable"])
   (ag . [(0 45) ((dash (2 8 0)) (s (1 9 0))) "A front-end for ag ('the silver searcher'), the C ack replacement." single nil "melpa-stable"])
   (alchemist . [(0 7 2) ((emacs (24)) (pkg-info (0 5))) "Elixir tooling integration into emacs" tar ((:url . "http://www.github.com/tonini/alchemist.el") (:keywords "languages" "mix" "elixir" "elixirc" "hex")) "melpa-stable"])
