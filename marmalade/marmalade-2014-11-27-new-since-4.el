@@ -58,7 +58,7 @@
   (es-windows . [(0 2) ((cl-lib (0 3)) (emacs (24))) "Window-management utilities" single "marmalade"])
   (eshell-fringe-status . [(1 0 0) nil "Show last status in fringe" single "marmalade"])
   (ess-R-object-popup . [(0 0 6) nil "popup description of R object" single "marmalade"])
-  (evil-escape . [(1 5 1) ((emacs (24)) (evil (1 0 9)) (key-chord (0 6))) "Customizable key sequence to escape from insert state and everything else." single "marmalade"])
+  (evil-escape . [(1 6 0) ((emacs (24)) (evil (1 0 9)) (key-chord (0 6))) "Customizable key sequence to escape from insert state and everything else." single "marmalade"])
   (evil-indent-textobject . [(0 2) ((evil (0))) "evil textobjects based on indentation" single "marmalade"])
   (evil-matchit . [(1 3 0) nil "Vim matchit ported into Emacs (requires EVIL)" tar "marmalade"])
   (exercism . [(0 0 1) nil "An Emacs mode for submitting current file to exercism.io" single "marmalade"])
