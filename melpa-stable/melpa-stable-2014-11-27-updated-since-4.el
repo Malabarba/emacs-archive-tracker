@@ -59,7 +59,7 @@
   (js2-mode . [(20141118) ((emacs (24 1))) "Improved JavaScript editing mode" tar ((:url . "https://github.com/mooz/js2-mode/") (:keywords "languages" "javascript")) "melpa-stable"])
   (julia-mode . [(0 3 3) nil "No description available." single nil "melpa-stable"])
   (keychain-environment . [(2 1 0) nil "load keychain environment variables" single ((:url . "https://github.com/tarsius/keychain-environment") (:keywords "gnupg" "pgp" "ssh")) "melpa-stable"])
-  (lispy . [(0 17 0) ((helm (1 5 3)) (ace-jump-mode (2 0)) (s (1 4 0)) (noflet (0 0 10)) (multiple-cursors (1 3 0)) (iedit (0 97))) "vi-like Paredit" tar nil "melpa-stable"])
+  (lispy . [(0 18 0) ((helm (1 5 3)) (ace-jump-mode (2 0)) (s (1 4 0)) (noflet (0 0 10)) (multiple-cursors (1 3 0)) (iedit (0 97))) "vi-like Paredit" tar nil "melpa-stable"])
   (merlin . [(2 0) nil "Mode for Merlin, an assistant for OCaml." tar ((:url . "http://github.com/the-lambda-church/merlin") (:keywords "ocaml" "languages")) "melpa-stable"])
   (names . [(0 5 4) ((emacs (24 1)) (cl-lib (0 5))) "Namespaces for emacs-lisp. Works like C++ namespaces to avoid name clobbering." tar ((:url . "http://github.com/Bruce-Connor/names") (:keywords "extensions" "lisp")) "melpa-stable"])
   (ninja-mode . [(1 5 3) ((emacs (24))) "Major mode for editing .ninja files" single nil "melpa-stable"])

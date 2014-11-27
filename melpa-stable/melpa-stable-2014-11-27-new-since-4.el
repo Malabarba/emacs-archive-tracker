@@ -67,6 +67,7 @@
   (term-cmd . [(1 0) nil "Send commands to Emacs from programs running under term.el" single ((:url . "https://github.com/CallumCameron/term-cmd") (:keywords "processes")) "melpa-stable"])
   (travis . [(0 3 0) ((s (1 9 0)) (dash (2 9 0)) (pkg-info (0 5 0)) (request (0 1 0))) "Emacs client for Travis" tar ((:url . "https://github.com/nlamirault/emacs-travis") (:keywords "travis")) "melpa-stable"])
   (tss . [(0 6 0) ((auto-complete (1 4 0)) (json-mode (1 1 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide a interface for auto-complete.el/flymake.el on typescript-mode." tar ((:url . "https://github.com/aki2o/emacs-tss") (:keywords "typescript" "completion")) "melpa-stable"])
+  (typed-clojure-mode . [(1 0 0) ((clojure-mode (2 1 1)) (cider (0 5 0))) "Typed Clojure minor mode for Emacs" single ((:url . "https://github.com/typedclojure/typed-clojure-mode")) "melpa-stable"])
   (vagrant . [(0 5 2) nil "Manage a vagrant box from emacs" single ((:url . "https://github.com/ottbot/vagrant.el") (:keywords "vagrant" "chef")) "melpa-stable"])
   (vbasense . [(0 1 1) ((auto-complete (1 4 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide a environment like Visual Basic Editor." tar ((:url . "https://github.com/aki2o/emacs-vbasense") (:keywords "vba" "completion")) "melpa-stable"])
   (whole-line-or-region . [(1 3 1) nil "operate on current line if region undefined" single ((:keywords "kill" "yank" "cut" "copy" "paste" "whole" "lines")) "melpa-stable"])
