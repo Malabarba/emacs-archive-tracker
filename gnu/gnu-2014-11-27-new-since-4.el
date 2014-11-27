@@ -1,7 +1,7 @@
 '(
   (xpm . [(1 0 3) nil "edit XPM images" tar ((:keywords "multimedia" "xpm") (:url . "http://www.gnuvola.org/software/xpm/")) "gnu"])
   (wpuzzle . [(1 1) nil "find as many word in a given time" single ((:url . "http://elpa.gnu.org/packages/wpuzzle.html") (:keywords)) "gnu"])
-  (wisi . [(1 0 6) ((cl-lib (0 4)) (emacs (24 2))) "Utilities for implementing an indentation/navigation engine using a generalized LALR parser" tar ((:keywords "parser" "indentation" "navigation") (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])
+  (wisi . [(1 1 0) ((cl-lib (0 4)) (emacs (24 2))) "Utilities for implementing an indentation/navigation engine using a generalized LALR parser" tar ((:keywords "parser" "indentation" "navigation") (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])
   (websocket . [(1 3) nil "Emacs WebSocket client and server" tar ((:keywords "communication" "websocket" "server") (:url . "http://elpa.gnu.org/packages/websocket.html")) "gnu"])
   (web-server . [(0 1 1) ((emacs (24 3))) "Emacs Web Server" tar ((:keywords "http" "server" "network") (:url . "https://github.com/eschulte/emacs-web-server")) "gnu"])
   (wcheck-mode . [(2014 6 21) nil "General interface for text checkers" single ((:url . "https://github.com/tlikonen/wcheck-mode") (:keywords "text" "spell" "check" "languages" "ispell")) "gnu"])
@@ -30,5 +30,5 @@
   (ascii-art-to-unicode . [(1 9) nil "a small artist adjunct" single ((:url . "http://www.gnuvola.org/software/aa2u/") (:keywords "ascii" "unicode" "box-drawing")) "gnu"])
   (adjust-parens . [(3 0) nil "Indent and dedent Lisp code, automatically adjust close parens" tar ((:url . "http://elpa.gnu.org/packages/adjust-parens.html")) "gnu"])
   (ada-ref-man . [(2012 0) nil "Ada Reference Manual 2012" tar ((:keywords "languages" "ada") (:url . "http://stephe-leake.org/ada/arm.html")) "gnu"])
-  (ada-mode . [(5 1 6) ((wisi (1 0 6)) (cl-lib (0 4)) (emacs (24 2))) "major-mode for editing Ada sources" tar ((:keywords "languages" "ada") (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])
+  (ada-mode . [(5 1 7) ((wisi (1 1 0)) (cl-lib (0 4)) (emacs (24 2))) "major-mode for editing Ada sources" tar ((:keywords "languages" "ada") (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])
  )
