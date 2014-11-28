@@ -16,6 +16,7 @@
   (ag . [(0 45) ((dash (2 8 0)) (s (1 9 0))) "A front-end for ag ('the silver searcher'), the C ack replacement." single nil "melpa-stable"])
   (alchemist . [(0 7 2) ((emacs (24)) (pkg-info (0 5))) "Elixir tooling integration into emacs" tar ((:url . "http://www.github.com/tonini/alchemist.el") (:keywords "languages" "mix" "elixir" "elixirc" "hex")) "melpa-stable"])
   (anti-zenburn-theme . [(2 2) nil "Low-contrast Zenburn-inverted theme" single ((:url . "https://github.com/m00natic/anti-zenburn-theme")) "melpa-stable"])
+  (anzu . [(0 42) ((cl-lib (0 5)) (emacs (24))) "Show number of matches in mode-line while searching" single ((:url . "https://github.com/syohex/emacs-anzu")) "melpa-stable"])
   (browse-kill-ring . [(2 0 0) nil "interactively insert items from kill-ring" single ((:url . "https://github.com/browse-kill-ring/browse-kill-ring") (:keywords "convenience")) "melpa-stable"])
   (cider . [(0 8 1) ((clojure-mode (3 0 0)) (cl-lib (0 5)) (dash (2 4 1)) (pkg-info (0 4)) (emacs (24)) (queue (0 1 1))) "Clojure Integrated Development Environment and REPL" tar ((:url . "http://www.github.com/clojure-emacs/cider") (:keywords "languages" "clojure" "cider")) "melpa-stable"])
   (clj-refactor . [(0 13 0) ((s (1 8 0)) (dash (2 4 0)) (yasnippet (0 6 1)) (paredit (22)) (multiple-cursors (1 2 2)) (cider (0 6 0))) "A collection of clojure refactoring functions" single ((:keywords "convenience")) "melpa-stable"])
