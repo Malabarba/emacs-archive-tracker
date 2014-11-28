@@ -45,7 +45,7 @@
   (git-gutter . [(0 79) ((cl-lib (0 5)) (emacs (24))) "Port of Sublime Text plugin GitGutter" single ((:url . "https://github.com/syohex/emacs-git-gutter")) "melpa-stable"])
   (git-timemachine . [(1 9) nil "Walk through git revisions of a file" single ((:url . "https://github.com/pidu/git-timemachine") (:keywords "git")) "melpa-stable"])
   (google-translate . [(0 10 5) nil "Emacs interface to Google Translate." tar nil "melpa-stable"])
-  (grails-projectile-mode . [(1 0 1) ((projectile (0 10 0)) (emacs (24)) (cl-lib (0 5))) "Grails mode with Projectile for projects management." single ((:keywords "grails" "projectile")) "melpa-stable"])
+  (grails-projectile-mode . [(1 0 2) ((projectile (0 10 0)) (emacs (24)) (cl-lib (0 5))) "Grails mode with Projectile for projects management." single ((:keywords "grails" "projectile")) "melpa-stable"])
   (haml-mode . [(3 1 8) ((ruby-mode (1 0))) "Major mode for editing Haml files" single ((:url . "http://github.com/nex3/haml/tree/master") (:keywords "markup" "language" "html")) "melpa-stable"])
   (helm-ack . [(0 13) ((helm (1 0)) (cl-lib (0 5))) "Ack command with helm interface" single ((:url . "https://github.com/syohex/emacs-helm-ack")) "melpa-stable"])
   (helm-ag . [(0 31) ((helm (1 5 6)) (cl-lib (0 5))) "the silver searcher with helm interface" single ((:url . "https://github.com/syohex/emacs-helm-ag")) "melpa-stable"])

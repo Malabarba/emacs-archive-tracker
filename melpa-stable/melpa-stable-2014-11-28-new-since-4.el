@@ -30,6 +30,8 @@
   (ghc-imported-from . [(0 1 2) ((emacs (24 1))) "Haskell documentation lookup with ghc-imported-from" single ((:keywords "languages")) "melpa-stable"])
   (gitlab . [(0 1 0) ((s (1 9 0)) (dash (2 9 0)) (pkg-info (0 5 0)) (request (0 1 0))) "Emacs client for Gitlab" tar ((:url . "https://github.com/nlamirault/emacs-gitlab") (:keywords "gitlab")) "melpa-stable"])
   (gnus-x-gm-raw . [(0 0 1) ((log4e (0 2 0)) (yaxception (0 1))) "Search mail of Gmail using X-GM-RAW as web interface" single ((:url . "https://github.com/aki2o/gnus-x-gm-raw") (:keywords "gnus")) "melpa-stable"])
+  (go-errcheck . [(1 0 0) nil "errcheck integration for go-mode" single nil "melpa-stable"])
+  (go-mode . [(1 0 0) nil "Major mode for the Go programming language" tar ((:url . "https://github.com/dominikh/go-mode.el") (:keywords "languages" "go")) "melpa-stable"])
   (gotham-theme . [(1 0) nil "A very dark Emacs color theme." single ((:url . "https://github.com/wasamasa/gotham-theme")) "melpa-stable"])
   (graphviz-dot-mode . [(0 4) nil "Mode for the dot-language used by graphviz (att)." single ((:url . "http://ppareit.github.com/graphviz-dot-mode/") (:keywords "mode" "dot" "dot-language" "dotlanguage" "graphviz" "graphs" "att")) "melpa-stable"])
   (guide-key-tip . [(0 0 1) ((guide-key (1 2 3)) (pos-tip (0 4 5))) "Show guide-key.el hints using pos-tip.el" single ((:url . "https://github.com/aki2o/guide-key-tip") (:keywords "help" "convenience" "tooltip")) "melpa-stable"])
