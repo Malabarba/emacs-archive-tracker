@@ -56,6 +56,7 @@
   (org-linkany . [(0 0 2) ((log4e (0 2 0)) (yaxception (0 1))) "Insert link using anything.el/helm.el on org-mode" single ((:url . "https://github.com/aki2o/org-linkany") (:keywords "org" "completion")) "melpa-stable"])
   (owdriver . [(0 0 6) ((smartrep (0 0 3)) (log4e (0 2 0)) (yaxception (0 2 0))) "Quickly perform various actions on other windows" single ((:url . "https://github.com/aki2o/owdriver") (:keywords "convenience")) "melpa-stable"])
   (package+ . [(1 0 1) nil "Extensions for the package library." single ((:url . "TBA") (:keywords "extensions" "tools")) "melpa-stable"])
+  (parenface . [(1 0 3) nil "Provide a face for parens in lispy modes." tar nil "melpa-stable"])
   (paxedit . [(1 1 3) ((cl-lib (0 5)) (paredit (23))) "Structured, Context Driven LISP Editing and Refactoring" single ((:url . "https://github.com/promethial/paxedit") (:keywords "lisp" "refactoring" "context")) "melpa-stable"])
   (persp-mode . [(1 0) nil "\"perspectives\" + save/load + shared among frames - bugs." single ((:url . "https://github.com/Bad-ptr/persp-mode.el") (:keywords "perspectives" "session")) "melpa-stable"])
   (plsense . [(0 4 6) ((auto-complete (1 4 0)) (log4e (0 2 0)) (yaxception (0 2 0))) "provide interface for PlSense that is a development tool for Perl." single ((:url . "https://github.com/aki2o/emacs-plsense") (:keywords "perl" "completion")) "melpa-stable"])
