@@ -634,7 +634,7 @@
   (minimal-theme . [(20140409 1601) nil "A light/dark minimalistic Emacs 24 theme." tar ((:url . "http://github.com/ikame/minimal-theme") (:keywords "color" "theme" "minimal")) "melpa"])
   (minitest . [(20140829 852) ((dash (1 0 0))) "An Emacs mode for ruby minitest files" single ((:url . "https://github.com/arthurnn/minitest-emacs")) "melpa"])
   (mip-mode . [(20141023 450) nil "virtual projects for emacs." single ((:keywords "workspaces" "workspace" "project" "projects" "mip-mode")) "melpa"])
-  (misc-cmds . [(20141128 2218) nil "Miscellaneous commands (interactive functions)." single ((:url . "http://www.emacswiki.org/misc-cmds.el") (:keywords "internal" "unix" "extensions" "maint" "local")) "melpa"])
+  (misc-cmds . [(20141129 513) nil "Miscellaneous commands (interactive functions)." single ((:url . "http://www.emacswiki.org/misc-cmds.el") (:keywords "internal" "unix" "extensions" "maint" "local")) "melpa"])
   (mkdown . [(20140517 718) ((markdown-mode (2 0))) "Pretty Markdown previews based on mkdown.com" tar ((:url . "https://github.com/ajtulloch/mkdown.el") (:keywords "markdown")) "melpa"])
   (mobdebug-mode . [(20140109 1946) ((lua-mode (20130419)) (emacs (24))) "Major mode for MobDebug" single ((:url . "https://github.com/deftsp/mobdebug-mode")) "melpa"])
   (mocha-snippets . [(20141009 713) ((yasnippet (0 8 0))) "Yasnippets for the Mocha JS Testing Framework" tar ((:keywords "test" "javascript")) "melpa"])
