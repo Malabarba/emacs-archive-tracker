@@ -50,6 +50,7 @@
   (maven-test-mode . [(0 1 4) nil "No description available." single nil "melpa-stable"])
   (mbe . [(0 1) ((emacs (24)) (cl-lib (0 5))) "Macros by Example" single ((:url . "https://github.com/ijp/mbe.el") (:keywords "tools" "macros")) "melpa-stable"])
   (monokai-theme . [(1 0 0) nil "A fruity color theme for Emacs." single ((:url . "http://github.com/oneKelvinSmith/monokai-emacs")) "melpa-stable"])
+  (omnisharp . [(3 4) ((json (1 2)) (dash (1 8 0)) (popup (0 5)) (auto-complete (1 4)) (flycheck (0 19)) (csharp-mode (0 8 6))) "Omnicompletion (intellisense) and more for C#" tar ((:url . "https://github.com/sp3ctum/omnisharp-emacs") (:keywords "csharp" "c#" "ide" "auto-complete" "intellisense")) "melpa-stable"])
   (org-ac . [(0 0 2) ((auto-complete-pcmp (0 0 1)) (log4e (0 2 0)) (yaxception (0 1))) "Some auto-complete sources for org-mode" single ((:url . "https://github.com/aki2o/org-ac") (:keywords "org" "completion")) "melpa-stable"])
   (org-link-travis . [(0 0 1) ((org (7))) "Insert/Export the link of Travis CI on org-mode" single ((:url . "https://github.com/aki2o/org-link-travis") (:keywords "org")) "melpa-stable"])
   (org-linkany . [(0 0 2) ((log4e (0 2 0)) (yaxception (0 1))) "Insert link using anything.el/helm.el on org-mode" single ((:url . "https://github.com/aki2o/org-linkany") (:keywords "org" "completion")) "melpa-stable"])
