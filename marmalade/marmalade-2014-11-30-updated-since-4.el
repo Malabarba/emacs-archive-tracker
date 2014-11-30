@@ -147,7 +147,7 @@
   (nurumacs . [(3 5 4) nil "smooth-scrolling and minimap, like sublime editor" single "marmalade"])
   (org-dotemacs . [(0 3) ((org (7 9 3)) (cl-lib (1 0))) "Store your emacs config as an org file, and choose which bits to load." single "marmalade"])
   (org-ehtml . [(0 20131014) ((elnode (20130416 1626)) (org-plus-contrib (20131007))) "Export Org-mode files as editable web pages" tar "marmalade"])
-  (org-email . [(3 0 0) ((shadchen (1 2)) (dash (2 9 0)) (noflet (0 0 12))) "use org for an email database" single "marmalade"])
+  (org-email . [(3 0 1) ((shadchen (1 2)) (dash (2 9 0)) (noflet (0 0 12))) "use org for an email database" single "marmalade"])
   (org-journal . [(1 6 1) nil "a simple org-mode based journaling mode" single "marmalade"])
   (org-magit . [(0 2 2) ((magit (1 2 0)) (org (6 1))) "basic support for magit links" single "marmalade"])
   (org-table-comment . [(0 2) nil "Org table comment modes." single "marmalade"])

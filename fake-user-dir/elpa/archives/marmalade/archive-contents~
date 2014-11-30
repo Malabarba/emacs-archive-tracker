@@ -1,7 +1,4 @@
 (1
- (gitattributes-whitespace .
-			   [(1 20141128)
-			    nil "configure whitespace settings from gitattributes" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -1573,7 +1570,7 @@
 	       (0 1)))
 	     "Orgmode integration with the GNOME desktop" single])
  (org-email .
-	    [(3 0 0)
+	    [(3 0 1)
 	     ((shadchen
 	       (1 2))
 	      (dash
@@ -2693,6 +2690,9 @@
  (gitconfig .
 	    [(1 0 0)
 	     nil "Emacs lisp interface to work with git-config variables" single])
+ (gitattributes-whitespace .
+			   [(1 20141128)
+			    nil "configure whitespace settings from gitattributes" single])
  (git-gutter-fringe .
 		    [(0 12)
 		     ((git-gutter
@@ -3003,13 +3003,13 @@
 			      (24 1)))
 			    "Change mode line color with Flycheck status" single])
  (flycheck-cask .
-		[(0 1)
-		 ((flycheck
+		[(0 2)
+		 ((emacs
+		   (24 1))
+		  (flycheck
 		   (0 14))
 		  (dash
-		   (2 0 0))
-		  (f
-		   (0 6 0)))
+		   (2 4 0)))
 		 "Cask support in Flycheck" single])
  (flycheck .
 	   [(0 21)

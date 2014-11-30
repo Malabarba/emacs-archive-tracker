@@ -39,6 +39,7 @@
   (evil-search-highlight-persist . [(1 2) ((highlight (0))) "Persistent highlights after search" single nil "melpa-stable"])
   (fasm-mode . [(0 1 11) nil "Fasm major mode" single ((:url . "https://github.com/Fanael/fasm-mode")) "melpa-stable"])
   (floobits . [(1 5 13) ((json (1 2)) (highlight (0))) "Floobits plugin for real-time collaborative editing" tar ((:url . "http://github.com/Floobits/floobits-emacs") (:keywords "comm" "tools")) "melpa-stable"])
+  (flycheck-cask . [(0 2) ((emacs (24 1)) (flycheck (0 14)) (dash (2 4 0))) "Cask support in Flycheck" single ((:url . "https://github.com/flycheck/flycheck-cask") (:keywords "tools" "convenience")) "melpa-stable"])
   (fountain-mode . [(1 3 4) ((s (1 9 0))) "Major mode for screenwriting in Fountain markup" single ((:url . "https://github.com/rnkn/fountain-mode") (:keywords "wp")) "melpa-stable"])
   (fsharp-mode . [(1 5 0) ((auto-complete (1 4)) (popup (0 5)) (pos-tip (0 4 5)) (s (1 3 1)) (dash (1 1 0))) "F# mode for Emacs" tar nil "melpa-stable"])
   (ggtags . [(0 8 7) ((emacs (24)) (cl-lib (0 5))) "emacs frontend to GNU Global source code tagging system" single ((:url . "https://github.com/leoliu/ggtags") (:keywords "tools" "convenience")) "melpa-stable"])
