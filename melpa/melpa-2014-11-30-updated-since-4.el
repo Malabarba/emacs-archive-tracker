@@ -874,7 +874,7 @@
   (slamhound . [(20140506 1618) nil "Rip Clojure namespaces apart and rebuild them." single ((:url . "https://github.com/technomancy/slamhound") (:keywords "tools" "lisp")) "melpa"])
   (slideview . [(20130512 2142) nil "File slideshow" single ((:keywords "slideshow")) "melpa"])
   (slim-mode . [(20140611 950) nil "Major mode for editing Slim files" single ((:url . "http://github.com/slim-template/emacs-slim") (:keywords "markup" "language")) "melpa"])
-  (slime . [(20141129 1601) ((cl-lib (0 5))) "Superior Lisp Interaction Mode for Emacs" tar ((:url . "https://github.com/slime/slime") (:keywords "languages" "lisp" "slime")) "melpa"])
+  (slime . [(20141129 1826) ((cl-lib (0 5))) "Superior Lisp Interaction Mode for Emacs" tar ((:url . "https://github.com/slime/slime") (:keywords "languages" "lisp" "slime")) "melpa"])
   (slime-ritz . [(20130218 1537) nil "slime extensions for ritz" single ((:url . "https://github.com/pallet/ritz") (:keywords "languages" "lisp" "slime")) "melpa"])
   (smart-compile . [(20140622 919) nil "an interface to `compile'" single ((:keywords "tools" "unix")) "melpa"])
   (smart-forward . [(20140430 13) ((expand-region (0 8 0))) "Semantic navigation" single ((:keywords "navigation")) "melpa"])
