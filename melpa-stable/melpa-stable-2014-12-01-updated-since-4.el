@@ -79,6 +79,7 @@
   (passthword . [(1 4) ((cl-lib (0 5))) "Simple password manager" single nil "melpa-stable"])
   (popup . [(0 5 1) ((cl-lib (0 3))) "Visual Popup User Interface" single ((:keywords "lisp")) "melpa-stable"])
   (popup-complete . [(0 2) ((popup (0 5 0))) "completion with popup" single ((:url . "https://github.com/syohex/emacs-popup-complete")) "melpa-stable"])
+  (pretty-mode . [(2 0 3) nil "Redisplay parts of the buffer as pretty symbols." single ((:url . "https://github.com/akatov/pretty-mode") (:keywords "pretty" "unicode" "symbols")) "melpa-stable"])
   (project-explorer . [(0 13 5) ((cl-lib (0 3)) (es-lib (0 3)) (es-windows (0 1)) (emacs (24))) "A project explorer sidebar" single ((:url . "https://github.com/sabof/project-explorer")) "melpa-stable"])
   (psci . [(0 0 5) ((purescript-mode (13 10)) (dash (2 9 0)) (s (1 9 0)) (f (0 17 1)) (deferred (0 3 2))) "Major mode for purescript repl psci" tar ((:url . "https://github.com/ardumont/emacs-psci") (:keywords "purescript" "psci" "repl" "major" "mode")) "melpa-stable"])
   (punctuality-logger . [(0 8) nil "Punctuality logger for Emacs" single ((:url . "https://gitlab.com/elzair/punctuality-logger") (:keywords "reminder" "calendar")) "melpa-stable"])

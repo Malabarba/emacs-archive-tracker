@@ -7,6 +7,7 @@
   (wcheck-mode . [(2014 6 21) nil "General interface for text checkers" single ((:url . "https://github.com/tlikonen/wcheck-mode") (:keywords "text" "spell" "check" "languages" "ispell")) "gnu"])
   (w3 . [(4 0 49) nil "Fully customizable, largely undocumented web browser for Emacs" tar ((:keywords "faces" "help" "comm" "news" "mail" "processes" "mouse" "hypermedia") (:url . "http://elpa.gnu.org/packages/w3.html")) "gnu"])
   (temp-buffer-browse . [(1 3) nil "temp buffer browse mode" single ((:url . "http://elpa.gnu.org/packages/temp-buffer-browse.html") (:keywords "convenience")) "gnu"])
+  (svg . [(0 1) nil "svg image creation functions" single ((:url . "http://elpa.gnu.org/packages/svg.html") (:keywords "image")) "gnu"])
   (scroll-restore . [(1 0) nil "restore original position after scrolling" single ((:url . "http://elpa.gnu.org/packages/scroll-restore.html") (:keywords "scrolling")) "gnu"])
   (rudel . [(0 3) nil "A collaborative editing framework for Emacs" tar ((:keywords "rudel" "collaboration") (:url . "http://rudel.sourceforge.net/")) "gnu"])
   (poker . [(0 1) nil "Texas hold'em poker" single ((:url . "http://elpa.gnu.org/packages/poker.html") (:keywords "games")) "gnu"])

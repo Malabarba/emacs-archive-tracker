@@ -3,6 +3,7 @@
   (ace-jump-zap . [(0 0 3) ((ace-jump-mode (1 0))) "Character zapping, `ace-jump-mode` style" single ((:url . "https://github.com/waymondo/ace-jump-zap") (:keywords "convenience" "tools" "extensions")) "melpa-stable"])
   (ace-link . [(0 1 0) ((ace-jump-mode (2 0)) (noflet (0 0 10))) "Quickly follow links using `ace-jump-mode'" single ((:url . "https://github.com/abo-abo/ace-link") (:keywords "convenience" "links")) "melpa-stable"])
   (aggressive-indent . [(0 3 3) ((emacs (24 1)) (names (0 5)) (cl-lib (0 5))) "Minor mode to aggressively keep your code always indented" single ((:url . "http://github.com/Bruce-Connor/aggressive-indent-mode") (:keywords "indent" "lisp" "maint" "tools")) "melpa-stable"])
+  (alert . [(1 1) ((gntp (0 1))) "Growl-style notification system for Emacs" single ((:url . "https://github.com/jwiegley/alert") (:keywords "notification" "emacs" "message")) "melpa-stable"])
   (android-mode . [(0 3 3) nil "Minor mode for Android application development" single ((:url . "https://github.com/remvee/android-mode") (:keywords "tools" "processes")) "melpa-stable"])
   (auto-complete-nxml . [(0 5 0) ((auto-complete (1 4))) "do completion by auto-complete.el on nXML-mode" single ((:url . "https://github.com/aki2o/auto-complete-nxml") (:keywords "completion" "html" "xml")) "melpa-stable"])
   (auto-complete-pcmp . [(0 0 2) ((auto-complete (1 4 0)) (log4e (0 2 0)) (yaxception (0 1))) "Provide auto-complete sources using pcomplete results" single ((:url . "https://github.com/aki2o/auto-complete-pcmp") (:keywords "completion")) "melpa-stable"])
