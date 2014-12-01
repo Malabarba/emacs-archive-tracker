@@ -1,4 +1,7 @@
 (1
+ (shackle .
+	  [(0 1)
+	   nil "Enforce rules for popups" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
