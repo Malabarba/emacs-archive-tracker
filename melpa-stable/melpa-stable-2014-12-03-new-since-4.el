@@ -55,7 +55,7 @@
   (mbe . [(0 1) ((emacs (24)) (cl-lib (0 5))) "Macros by Example" single ((:url . "https://github.com/ijp/mbe.el") (:keywords "tools" "macros")) "melpa-stable"])
   (metaweblog . [(0 1 1) ((xml-rpc (1 6 8))) "An emacs library to access metaweblog based weblogs" tar nil "melpa-stable"])
   (monokai-theme . [(1 0 0) nil "A fruity color theme for Emacs." single ((:url . "http://github.com/oneKelvinSmith/monokai-emacs")) "melpa-stable"])
-  (omnisharp . [(3 6) ((json (1 2)) (dash (1 8 0)) (popup (0 5)) (auto-complete (1 4)) (flycheck (0 19)) (csharp-mode (0 8 7))) "Omnicompletion (intellisense) and more for C#" tar ((:url . "https://github.com/sp3ctum/omnisharp-emacs") (:keywords "csharp" "c#" "ide" "auto-complete" "intellisense")) "melpa-stable"])
+  (omnisharp . [(3 7) ((json (1 2)) (flycheck (0 21)) (dash (20141201 2206)) (auto-complete (1 4)) (popup (0 5 1)) (csharp-mode (0 8 7))) "Omnicompletion (intellisense) and more for C#" tar ((:url . "https://github.com/sp3ctum/omnisharp-emacs") (:keywords "csharp" "c#" "ide" "auto-complete" "intellisense")) "melpa-stable"])
   (org-ac . [(0 0 2) ((auto-complete-pcmp (0 0 1)) (log4e (0 2 0)) (yaxception (0 1))) "Some auto-complete sources for org-mode" single ((:url . "https://github.com/aki2o/org-ac") (:keywords "org" "completion")) "melpa-stable"])
   (org-link-travis . [(0 0 1) ((org (7))) "Insert/Export the link of Travis CI on org-mode" single ((:url . "https://github.com/aki2o/org-link-travis") (:keywords "org")) "melpa-stable"])
   (org-linkany . [(0 0 2) ((log4e (0 2 0)) (yaxception (0 1))) "Insert link using anything.el/helm.el on org-mode" single ((:url . "https://github.com/aki2o/org-linkany") (:keywords "org" "completion")) "melpa-stable"])
