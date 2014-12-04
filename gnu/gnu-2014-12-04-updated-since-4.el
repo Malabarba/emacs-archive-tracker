@@ -7,7 +7,7 @@
   (undo-tree . [(0 6 5) nil "Treat undo history as a tree" single ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "convenience" "files" "undo" "redo" "history" "tree")) "gnu"])
   (trie . [(0 2 6) ((tNFA (0 1 1)) (heap (0 3))) "Trie data structure" single ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "extensions" "matching" "data structures trie" "ternary search tree" "tree" "completion" "regexp")) "gnu"])
   (tNFA . [(0 1 1) ((queue (0 1))) "Tagged non-deterministic finite-state automata" single ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "extensions" "matching" "data structures tnfa" "nfa" "dfa" "finite state automata" "automata" "regexp")) "gnu"])
-  (svg-clock . [(0 5) nil "Analog clock using Scalable Vector Graphics" single ((:url . "http://elpa.gnu.org/packages/svg-clock.html") (:keywords "demo" "svg" "clock")) "gnu"])
+  (svg-clock . [(0 5) ((svg (0 1)) (emacs (25 0))) "Analog clock using Scalable Vector Graphics" single ((:url . "http://elpa.gnu.org/packages/svg-clock.html") (:keywords "demo" "svg" "clock")) "gnu"])
   (sokoban . [(1 4) nil "Implementation of Sokoban for Emacs." tar ((:keywords "games") (:url . "http://elpa.gnu.org/packages/sokoban.html")) "gnu"])
   (sml-mode . [(6 5) nil "Major mode for editing (Standard) ML" single ((:url . "http://elpa.gnu.org/packages/sml-mode.html") (:keywords "sml")) "gnu"])
   (sisu-mode . [(3 0 3) nil "Major mode for SiSU markup text" single ((:url . "http://elpa.gnu.org/packages/sisu-mode.html") (:keywords "text" "processes" "tools")) "gnu"])
