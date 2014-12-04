@@ -29,7 +29,7 @@
   (cpputils-cmake . [(0 4 22) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar nil "melpa-stable"])
   (dired-k . [(0 13) ((cl-lib (0 5)) (emacs (24))) "highlight dired buffer by file size, modified time, git status" tar ((:url . "https://github.com/syohex/emacs-dired-k")) "melpa-stable"])
   (ebib . [(2 0 8) ((dash (2 5 0)) (emacs (24 3))) "a BibTeX database manager" tar ((:keywords "text" "bibtex")) "melpa-stable"])
-  (egison-mode . [(3 3 16) nil "Egison editing mode" single ((:url . "https://github.com/egisatoshi/egison3/blob/master/elisp/egison-mode.el")) "melpa-stable"])
+  (egison-mode . [(3 3 17) nil "Egison editing mode" single ((:url . "https://github.com/egisatoshi/egison3/blob/master/elisp/egison-mode.el")) "melpa-stable"])
   (elfeed . [(1 1 2) ((emacs (24 1))) "an Emacs Atom/RSS feed reader" tar nil "melpa-stable"])
   (elfeed-web . [(1 1 2) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed" tar nil "melpa-stable"])
   (elisp-slime-nav . [(0 8) ((cl-lib (0 2))) "Make M-. and M-, work in elisp like they do in slime" single ((:url . "https://github.com/purcell/elisp-slime-nav") (:keywords "navigation" "slime" "elisp" "emacs-lisp")) "melpa-stable"])
