@@ -100,5 +100,6 @@
   (undercover . [(0 3 0) ((emacs (24)) (dash (2 0 0)) (shut-up (0 3 2))) "Test coverage library for Emacs" single ((:url . "https://github.com/sviridov/undercover.el") (:keywords "lisp" "tests" "coverage" "tools")) "melpa-stable"])
   (web-mode . [(10 1) nil "major mode for editing html templates" single ((:url . "http://web-mode.org") (:keywords "html" "template" "javascript" "css" "web" "php" "django" "erb" "jsp")) "melpa-stable"])
   (wisp-mode . [(0 8 1) nil "Tools for wisp: the Whitespace-to-Lisp preprocessor" single ((:keywords "languages" "lisp")) "melpa-stable"])
+  (yagist . [(0 8 11) ((json (1 2 0))) "Yet Another Emacs integration for gist.github.com" single ((:url . "https://github.com/mhayashi1120/yagist.el/raw/master/yagist.el") (:keywords "gist" "git" "github" "paste" "pastie" "pastebin")) "melpa-stable"])
   (zenburn-theme . [(2 2) nil "A low contrast color theme for Emacs." single ((:url . "http://github.com/bbatsov/zenburn-emacs")) "melpa-stable"])
  )
