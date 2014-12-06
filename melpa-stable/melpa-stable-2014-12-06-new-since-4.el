@@ -91,6 +91,7 @@
   (vagrant . [(0 5 2) nil "Manage a vagrant box from emacs" single ((:url . "https://github.com/ottbot/vagrant.el") (:keywords "vagrant" "chef")) "melpa-stable"])
   (vbasense . [(0 1 1) ((auto-complete (1 4 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide a environment like Visual Basic Editor." tar ((:url . "https://github.com/aki2o/emacs-vbasense") (:keywords "vba" "completion")) "melpa-stable"])
   (whole-line-or-region . [(1 3 1) nil "operate on current line if region undefined" single ((:keywords "kill" "yank" "cut" "copy" "paste" "whole" "lines")) "melpa-stable"])
+  (wn-mode . [(1 1) nil "No description available." single nil "melpa-stable"])
   (xtest . [(1 1 0) ((cl-lib (0 5))) "Simple Testing with Emacs & ERT" single ((:url . "https://github.com/promethial/xtest") (:keywords "testing" "ert")) "melpa-stable"])
   (yaml-mode . [(0 0 11) nil "Major mode for editing YAML files" single ((:keywords "data" "yaml")) "melpa-stable"])
   (yaxception . [(0 3 2) nil "Provide framework about exception like Java for Elisp" single ((:url . "https://github.com/aki2o/yaxception") (:keywords "exception" "error" "signal")) "melpa-stable"])

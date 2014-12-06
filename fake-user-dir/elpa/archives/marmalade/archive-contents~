@@ -3649,7 +3649,7 @@
 		     (24)))
 		   "Collection of useful combinators for Emacs Lisp" single])
  (dash .
-       [(2 9 0)
+       [(2 10 0)
 	nil "A modern list library for Emacs" single])
  (dart-mode .
 	    [(0 9)

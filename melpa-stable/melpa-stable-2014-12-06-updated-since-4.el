@@ -28,6 +28,8 @@
   (colorsarenice-theme . [(1 0 19) ((emacs (24))) "A colorful color theme." tar nil "melpa-stable"])
   (company-ghc . [(0 1 9) ((cl-lib (0 5)) (company (0 8 0)) (ghc (4 1 1)) (emacs (24))) "company-mode ghc-mod backend" single ((:url . "https://github.com/iquiw/company-ghc") (:keywords "haskell" "completion")) "melpa-stable"])
   (cpputils-cmake . [(0 4 22) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar nil "melpa-stable"])
+  (dash . [(2 10 0) nil "A modern list library for Emacs" single ((:keywords "lists")) "melpa-stable"])
+  (dash-functional . [(2 10 0) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp" single ((:keywords "lisp" "functions" "combinators")) "melpa-stable"])
   (dired-k . [(0 13) ((cl-lib (0 5)) (emacs (24))) "highlight dired buffer by file size, modified time, git status" tar ((:url . "https://github.com/syohex/emacs-dired-k")) "melpa-stable"])
   (ebib . [(2 0 9) ((dash (2 5 0)) (emacs (24 3))) "a BibTeX database manager" tar ((:keywords "text" "bibtex")) "melpa-stable"])
   (egison-mode . [(3 4 0) nil "Egison editing mode" single ((:url . "https://github.com/egisatoshi/egison3/blob/master/elisp/egison-mode.el")) "melpa-stable"])
