@@ -1671,17 +1671,6 @@
 		    (javap-mode
 		     (9)))
 		   "decompilation extension for nrepl.el" single])
- (nrepl .
-	[(0 2 0)
-	 ((clojure-mode
-	   (2 0 0))
-	  (cl-lib
-	   (0 3))
-	  (dash
-	   (2 1 0))
-	  (pkg-info
-	   (0 1)))
-	 "Client for Clojure nREPL" single])
  (notmuch-labeler .
 		  [(0 1)
 		   nil "Improves notmuch way of displaying labels through fonts, pictures, and hyperlinks." tar])
@@ -2022,7 +2011,7 @@
       [(0 0 2)
        nil "lxc integration with Emacs" single])
  (lui .
-      [(1 4)
+      [(1 5)
        ((tracking
 	 (1 5)))
        "Linewise User Interface" tar])
@@ -3936,13 +3925,6 @@
  (clojurescript-mode .
 		     [(0 5)
 		      nil "Major mode for ClojureScript code" single])
- (clojure-test-mode .
-		    [(3 0 0)
-		     ((clojure-mode
-		       (1 7))
-		      (cider
-		       (0 4 0)))
-		     "Minor mode for Clojure tests" single])
  (clojure-project-mode .
 		       [(1 0)
 			((project-mode
@@ -4008,11 +3990,11 @@
 	      [(0 0 2)
 	       nil "Major mode for editing Citrus files" single])
  (circe .
-	[(1 4)
+	[(1 5)
 	 ((lui
-	   (1 4))
+	   (1 5))
 	  (lcs
-	   (1 1)))
+	   (1 5)))
 	 "Client for IRC in Emacs" tar])
  (cider .
 	[(0 8 1)
