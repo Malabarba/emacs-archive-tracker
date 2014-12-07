@@ -80,6 +80,8 @@
   (notmuch . [(0 19) nil "No description available." tar nil "melpa-stable"])
   (org-journal . [(1 6 1) nil "a simple org-mode based journaling mode" single ((:url . "http://github.com/bastibe/emacs-journal")) "melpa-stable"])
   (org-trello . [(0 6 4) ((request-deferred (0 1 0)) (deferred (0 3 2)) (s (1 9 0)) (dash (2 8 0)) (emacs (24))) "Minor mode to synchronize org-mode buffer and trello board" tar nil "melpa-stable"])
+  (packed . [(0 4 0) ((cl-lib (0 5))) "package manager agnostic Emacs Lisp package utilities" single ((:url . "https://github.com/tarsius/packed") (:keywords "compile" "convenience" "lisp" "package" "library")) "melpa-stable"])
+  (packed-git . [(0 4 0) ((cl-lib (0 5)) (magit (2 1 0)) (packed (0 3 5))) "Utilities for Emacs packages living in Git repositories" single ((:url . "http://tarsius.github.com/packed") (:keywords "compile" "convenience" "lisp" "package" "library")) "melpa-stable"])
   (pandoc-mode . [(2 7) nil "Minor mode for interacting with Pandoc" tar ((:keywords "text" "pandoc")) "melpa-stable"])
   (paradox . [(1 2 5) ((emacs (24 1)) (dash (2 6 0)) (cl-lib (0 5)) (json (1 3))) "A modern Packages Menu. Colored, with package ratings, and customizable." tar ((:url . "http://github.com/Bruce-Connor/paradox") (:keywords "package" "packages" "mode-line")) "melpa-stable"])
   (paredit . [(24) nil "minor mode for editing parentheses" single ((:keywords "lisp")) "melpa-stable"])
