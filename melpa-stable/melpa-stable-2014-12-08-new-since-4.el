@@ -86,6 +86,7 @@
   (sparkline . [(1 0 1) nil "Make sparkline images from a list of numbers" single ((:keywords "extensions")) "melpa-stable"])
   (term-alert . [(1 0) ((term-cmd (1 0)) (alert (1 1))) "Get notifications when commands complete in the Emacs terminal emulator" single ((:url . "https://github.com/CallumCameron/term-alert") (:keywords "notifications" "processes")) "melpa-stable"])
   (term-cmd . [(1 0) nil "Send commands to Emacs from programs running under term.el" single ((:url . "https://github.com/CallumCameron/term-cmd") (:keywords "processes")) "melpa-stable"])
+  (tern-django . [(0 1 0) ((emacs (24)) (tern (0 0 1)) (f (0 17 1))) "Create tern projects for django applications." tar ((:url . "https://github.com/proofit404/tern-django")) "melpa-stable"])
   (travis . [(0 3 0) ((s (1 9 0)) (dash (2 9 0)) (pkg-info (0 5 0)) (request (0 1 0))) "Emacs client for Travis" tar ((:url . "https://github.com/nlamirault/emacs-travis") (:keywords "travis")) "melpa-stable"])
   (tss . [(0 6 0) ((auto-complete (1 4 0)) (json-mode (1 1 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide a interface for auto-complete.el/flymake.el on typescript-mode." tar ((:url . "https://github.com/aki2o/emacs-tss") (:keywords "typescript" "completion")) "melpa-stable"])
   (typed-clojure-mode . [(1 0 0) ((clojure-mode (2 1 1)) (cider (0 5 0))) "Typed Clojure minor mode for Emacs" single ((:url . "https://github.com/typedclojure/typed-clojure-mode")) "melpa-stable"])
