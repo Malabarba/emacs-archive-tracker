@@ -24,6 +24,7 @@
   (clojure-env . [(0 0 3) nil "manage clojure environments with Emacs" single "marmalade"])
   (clojure-mode-extra-font-locking . [(3 0 0) ((clojure-mode (3 0))) "Extra font-locking for Clojure mode" single "marmalade"])
   (clojure-project . [(1 0) ((project-mode (1 0))) "Extends project-mode for Clojure projects" single "marmalade"])
+  (template . [(0 1 0) ((request (20140316 417))) "create project templates in Emacs easily" single "marmalade"])
   (cmuclojure . [(0 2) nil "Clojure process in a buffer" single "marmalade"])
   (cobra-mode . [(1 0 1) nil "Major mode for .NET-based Cobra language" single "marmalade"])
   (color-theme-tangotango . [(0 0 2) ((color-theme (6 6 1))) "Tango Palette color theme for Emacs." single "marmalade"])

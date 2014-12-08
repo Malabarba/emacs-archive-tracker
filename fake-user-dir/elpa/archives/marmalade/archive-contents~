@@ -1565,7 +1565,7 @@
 	       (6 1)))
 	     "basic support for magit links" single])
  (org-journal .
-	      [(1 6 1)
+	      [(1 6 2)
 	       nil "a simple org-mode based journaling mode" single])
  (org-gnome .
 	    [(0 1)
@@ -3925,6 +3925,11 @@
  (clojurescript-mode .
 		     [(0 5)
 		      nil "Major mode for ClojureScript code" single])
+ (template .
+	   [(0 1 0)
+	    ((request
+	      (20140316 417)))
+	    "create project templates in Emacs easily" single])
  (clojure-project-mode .
 		       [(1 0)
 			((project-mode

@@ -80,7 +80,7 @@
   (names . [(0 5 4) ((emacs (24 1)) (cl-lib (0 5))) "Namespaces for emacs-lisp. Works like C++ namespaces to avoid name clobbering." tar ((:url . "http://github.com/Bruce-Connor/names") (:keywords "extensions" "lisp")) "melpa-stable"])
   (ninja-mode . [(1 5 3) ((emacs (24))) "Major mode for editing .ninja files" single nil "melpa-stable"])
   (notmuch . [(0 19) nil "No description available." tar nil "melpa-stable"])
-  (org-journal . [(1 6 1) nil "a simple org-mode based journaling mode" single ((:url . "http://github.com/bastibe/emacs-journal")) "melpa-stable"])
+  (org-journal . [(1 6 2) nil "a simple org-mode based journaling mode" single ((:url . "http://github.com/bastibe/emacs-journal")) "melpa-stable"])
   (org-trello . [(0 6 5) ((request-deferred (0 1 0)) (deferred (0 3 2)) (s (1 9 0)) (dash (2 8 0)) (emacs (24))) "Minor mode to synchronize org-mode buffer and trello board" tar nil "melpa-stable"])
   (orglink . [(0 2 2) ((dash (1 3 2)) (org (8 0))) "use Org Mode links in other modes" single ((:url . "http://github.com/tarsius/orglink") (:keywords "hypertext")) "melpa-stable"])
   (packed . [(0 4 0) ((cl-lib (0 5))) "package manager agnostic Emacs Lisp package utilities" single ((:url . "https://github.com/tarsius/packed") (:keywords "compile" "convenience" "lisp" "package" "library")) "melpa-stable"])
