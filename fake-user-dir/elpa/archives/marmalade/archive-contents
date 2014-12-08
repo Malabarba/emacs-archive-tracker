@@ -2398,7 +2398,7 @@
 	    (0 0 6)))
 	  "chainsaw powered logging" single])
  (hungry-delete .
-		[(1 1)
+		[(1 1 2)
 		 nil "hungry delete minor mode" single])
  (httpd .
 	[(1 0 1)
