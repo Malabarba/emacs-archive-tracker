@@ -57,7 +57,7 @@
   (keyset . [(0 1 1) ((dash (2 8 0)) (cl-lib (0 5))) "A small library for structuring key bindings." single nil "melpa-stable"])
   (kurecolor . [(1 1) ((emacs (24 1)) (s (1 0))) "color editing goodies for Emacs" single nil "melpa-stable"])
   (log4e . [(0 2 0) nil "provide logging framework for elisp" single ((:url . "https://github.com/aki2o/log4e") (:keywords "log")) "melpa-stable"])
-  (maven-test-mode . [(0 1 4) nil "No description available." single nil "melpa-stable"])
+  (maven-test-mode . [(0 1 5) ((s (1 9)) (emacs (24))) "Utilities for navigating test files and running maven test tasks." single ((:url . "http://github.com/rranelli/maven-test-mode") (:keywords "java" "maven" "test")) "melpa-stable"])
   (mbe . [(0 1) ((emacs (24)) (cl-lib (0 5))) "Macros by Example" single ((:url . "https://github.com/ijp/mbe.el") (:keywords "tools" "macros")) "melpa-stable"])
   (metaweblog . [(0 1 1) ((xml-rpc (1 6 8))) "An emacs library to access metaweblog based weblogs" tar nil "melpa-stable"])
   (monokai-theme . [(1 0 0) nil "A fruity color theme for Emacs." single ((:url . "http://github.com/oneKelvinSmith/monokai-emacs")) "melpa-stable"])
