@@ -27,7 +27,7 @@
   (coffee-mode . [(0 5 7) ((emacs (24 1)) (cl-lib (0 5))) "Major mode to edit CoffeeScript files in Emacs" single ((:url . "http://github.com/defunkt/coffee-mode") (:keywords "coffeescript" "major" "mode")) "melpa-stable"])
   (colorsarenice-theme . [(1 0 19) ((emacs (24))) "A colorful color theme." tar nil "melpa-stable"])
   (company-ghc . [(0 1 9) ((cl-lib (0 5)) (company (0 8 0)) (ghc (4 1 1)) (emacs (24))) "company-mode ghc-mod backend" single ((:url . "https://github.com/iquiw/company-ghc") (:keywords "haskell" "completion")) "melpa-stable"])
-  (cpputils-cmake . [(0 4 22) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar nil "melpa-stable"])
+  (cpputils-cmake . [(0 5 0) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar nil "melpa-stable"])
   (dash . [(2 10 0) nil "A modern list library for Emacs" single ((:keywords "lists")) "melpa-stable"])
   (dash-functional . [(2 10 0) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp" single ((:keywords "lisp" "functions" "combinators")) "melpa-stable"])
   (dim-autoload . [(1 1 3) nil "dim complete autoload cookie lines" single ((:url . "http://github.com/tarsius/dim-autoload") (:keywords "convenience")) "melpa-stable"])
