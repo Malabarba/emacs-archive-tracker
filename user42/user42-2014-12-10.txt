@@ -1,0 +1,1 @@
+  xtide                        24                 available  XTide display in Emacs
