@@ -1,4 +1,5 @@
 '(
+  (ac-html . [(0 21) ((auto-complete (1 4))) "auto complete source for html tags and attributes" tar ((:url . "https://github.com/cheunghy/ac-html") (:keywords "html" "auto-complete" "rails" "ruby")) "melpa-stable"])
   (ace-jump-buffer . [(0 3 1) ((ace-jump-mode (1 0)) (dash (2 4 0))) "fast buffer switching extension to `ace-jump-mode'" single ((:url . "https://github.com/waymondo/ace-jump-buffer")) "melpa-stable"])
   (ace-jump-zap . [(0 0 3) ((ace-jump-mode (1 0))) "Character zapping, `ace-jump-mode` style" single ((:url . "https://github.com/waymondo/ace-jump-zap") (:keywords "convenience" "tools" "extensions")) "melpa-stable"])
   (ace-link . [(0 1 0) ((ace-jump-mode (2 0)) (noflet (0 0 10))) "Quickly follow links using `ace-jump-mode'" single ((:url . "https://github.com/abo-abo/ace-link") (:keywords "convenience" "links")) "melpa-stable"])
