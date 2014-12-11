@@ -51,7 +51,7 @@
   (idomenu . [(0 1) nil "imenu tag selection with ido" single ((:url . "https://github.com/birkenfeld/idomenu") (:keywords "extensions" "convenience")) "melpa-stable"])
   (image-dired+ . [(0 5 4) nil "Image-dired extensions" single ((:url . "http://github.com/mhayashi1120/Emacs-image-diredx/raw/master/image-dired+.el") (:keywords "image-dired" "extensions")) "melpa-stable"])
   (inlineR . [(1 0) nil "insert Tag for inline image of R graphics" single ((:url . "https://github.com/myuhe/inlineR.el") (:keywords "convenience" "iimage.el" "cacoo.el")) "melpa-stable"])
-  (json-reformat . [(0 0 1) nil "Reformatting tool for JSON" single ((:url . "https://github.com/gongo/json-reformat") (:keywords "json")) "melpa-stable"])
+  (json-reformat . [(0 0 2) nil "Reformatting tool for JSON" single ((:url . "https://github.com/gongo/json-reformat") (:keywords "json")) "melpa-stable"])
   (kakapo-mode . [(0 2) ((cl-lib (0 5))) "TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment." single ((:url . "https://github.com/listx/kakapo-mode") (:keywords "indentation")) "melpa-stable"])
   (karma . [(0 1 0) nil "Karma Test Runner Emacs Integration" single ((:url . "http://github.com/tonini/karma.el") (:keywords "javascript" "js" "karma" "testing")) "melpa-stable"])
   (keyfreq . [(1 5) nil "track command frequencies" single nil "melpa-stable"])

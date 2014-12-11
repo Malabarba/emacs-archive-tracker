@@ -73,6 +73,7 @@
   (magit-svn . [(90141129) ((cl-lib (0 3)) (magit (1 3 0))) "git-svn plug-in for Magit" single ((:keywords "vc" "tools")) "melpa-stable"])
   (magit-topgit . [(90141129) ((cl-lib (0 3)) (magit (1 3 0))) "topgit plug-in for Magit" single ((:keywords "vc" "tools")) "melpa-stable"])
   (merlin . [(2 0) nil "Mode for Merlin, an assistant for OCaml." tar ((:url . "http://github.com/the-lambda-church/merlin") (:keywords "ocaml" "languages")) "melpa-stable"])
+  (minitest . [(0 8 0) ((dash (1 0 0))) "An Emacs mode for ruby minitest files" tar ((:url . "https://github.com/arthurnn/minitest-emacs")) "melpa-stable"])
   (names . [(0 5 4) ((emacs (24 1)) (cl-lib (0 5))) "Namespaces for emacs-lisp. Works like C++ namespaces to avoid name clobbering." tar ((:url . "http://github.com/Bruce-Connor/names") (:keywords "extensions" "lisp")) "melpa-stable"])
   (ninja-mode . [(1 5 3) ((emacs (24))) "Major mode for editing .ninja files" single nil "melpa-stable"])
   (notmuch . [(0 19) nil "No description available." tar nil "melpa-stable"])
