@@ -3876,11 +3876,6 @@
 		       ((color-theme
 			 (6 6 1)))
 		       "A dark color theme for GNU Emacs." single])
- (color-theme-active .
-		     [(0 0 1)
-		      ((color-theme
-			(6 6 1)))
-		      "Active theme inspired by jEdit theme of the same name" single])
  (color-theme .
 	      [(6 6 1)
 	       nil "install color themes" single])
