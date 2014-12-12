@@ -428,7 +428,7 @@
   (flash-region . [(20130923 1117) nil "Flash a region" single ((:keywords "utility")) "melpa"])
   (flatland-black-theme . [(20141115 2230) ((emacs (24 0))) "an Emacs 24 theme based on Flatland Black (tmTheme)" single ((:url . "https://github.com/emacsfodder/flatland-black-theme")) "melpa"])
   (flatland-theme . [(20140805 305) nil "A simple theme for Emacs based on the Flatland theme for Sublime Text" single ((:url . "http://github.com/gregchapple/flatland-emacs")) "melpa"])
-  (flatui-theme . [(20141008 315) nil "A color theme for Emacs based on flatuicolors.com" single ((:url . "https://github.com/john2x/flatui-theme.el")) "melpa"])
+  (flatui-theme . [(20141211 1710) nil "A color theme for Emacs based on flatuicolors.com" single ((:url . "https://github.com/john2x/flatui-theme.el")) "melpa"])
   (flim . [(20141109 201) ((apel (10 8))) "A library to provide basic features about message representation or encoding." tar nil "melpa"])
   (fliptext . [(20131114 218) nil "Input method for flipping characters upside down" single ((:keywords "games" "i18n")) "melpa"])
   (floobits . [(20141203 1950) ((json (1 2)) (highlight (0))) "Floobits plugin for real-time collaborative editing" tar ((:url . "http://github.com/Floobits/floobits-emacs") (:keywords "comm" "tools")) "melpa"])
