@@ -3876,6 +3876,13 @@
 		       ((color-theme
 			 (6 6 1)))
 		       "A dark color theme for GNU Emacs." single])
+ (inf-clojure .
+	      [(1 0 0)
+	       ((emacs
+		 (24 1))
+		(clojure-mode
+		 (4 0)))
+	       "an inferior-clojure mode" single])
  (color-theme .
 	      [(6 6 1)
 	       nil "install color themes" single])
@@ -3941,7 +3948,7 @@
 				     (3 0)))
 				   "Extra font-locking for Clojure mode" single])
  (clojure-mode .
-	       [(3 0 1)
+	       [(4 0 0)
 		((emacs
 		  (24 1)))
 		"Major mode for Clojure code" single])
@@ -4249,7 +4256,7 @@
 		  (1 11 5)))
 		"Space align various Clojure forms" single])
  (alchemist .
-	    [(0 9 0)
+	    [(0 10 0)
 	     ((emacs
 	       (24)))
 	     "Elixir tooling integration into emacs" tar])

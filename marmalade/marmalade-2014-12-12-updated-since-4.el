@@ -28,7 +28,7 @@
   (circe . [(1 5) ((lui (1 5)) (lcs (1 5))) "Client for IRC in Emacs" tar "marmalade"])
   (clips-mode . [(0 7) nil "Major mode for editing CLIPS code and REPL" tar "marmalade"])
   (clj-refactor . [(0 13 0) ((s (1 8 0)) (dash (2 4 0)) (yasnippet (0 6 1)) (paredit (22)) (multiple-cursors (1 2 2)) (cider (0 6 0))) "A collection of clojure refactoring functions" single "marmalade"])
-  (clojure-mode . [(3 0 1) ((emacs (24 1))) "Major mode for Clojure code" single "marmalade"])
+  (clojure-mode . [(4 0 0) ((emacs (24 1))) "Major mode for Clojure code" single "marmalade"])
   (clues-theme . [(20130908 801) ((emacs (24 0))) "an Emacs 24 theme which may well be fully awesome..." single "marmalade"])
   (cmake-mode . [(20110824) nil "Major mode for editing CMake sources." single "marmalade"])
   (cmake-project . [(0 7) nil "Integrates CMake build process with Emacs" single "marmalade"])
