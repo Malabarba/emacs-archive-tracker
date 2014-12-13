@@ -2318,6 +2318,13 @@
  (inf-groovy .
 	     [(2 0)
 	      nil "minor-mode that adds some Grails project management to a grails project" single])
+ (inf-clojure .
+	      [(1 0 0)
+	       ((emacs
+		 (24 1))
+		(clojure-mode
+		 (4 0)))
+	       "an inferior-clojure mode" single])
  (immutant-server .
 		  [(1 0 1)
 		   nil "Run your Immutant server in Emacs" single])
@@ -3876,13 +3883,6 @@
 		       ((color-theme
 			 (6 6 1)))
 		       "A dark color theme for GNU Emacs." single])
- (inf-clojure .
-	      [(1 0 0)
-	       ((emacs
-		 (24 1))
-		(clojure-mode
-		 (4 0)))
-	       "an inferior-clojure mode" single])
  (color-theme .
 	      [(6 6 1)
 	       nil "install color themes" single])
