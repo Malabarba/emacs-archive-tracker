@@ -844,7 +844,7 @@
   (perlbrew . [(20130127 324) nil "A perlbrew wrapper for Emacs" single ((:keywords "emacs" "perl")) "melpa"])
   (persistent-soft . [(20140508 1341) ((pcache (0 2 3)) (list-utils (0 4 2))) "Persistent storage, returning nil on failure" single ((:url . "http://github.com/rolandwalker/persistent-soft") (:keywords "data" "extensions")) "melpa"])
   (persp-mode . [(20141212 17) nil "\"perspectives\" + save/load + shared among frames - bugs." single ((:url . "https://github.com/Bad-ptr/persp-mode.el") (:keywords "perspectives" "session")) "melpa"])
-  (perspective . [(20141212 1333) ((cl-lib (0 5))) "switch between named \"perspectives\" of the editor" single ((:url . "http://github.com/nex3/perspective-el") (:keywords "workspace" "convenience" "frames")) "melpa"])
+  (perspective . [(20141212 1637) ((cl-lib (0 5))) "switch between named \"perspectives\" of the editor" single ((:url . "http://github.com/nex3/perspective-el") (:keywords "workspace" "convenience" "frames")) "melpa"])
   (pg . [(20130731 1442) nil "Emacs Lisp interface to the PostgreSQL RDBMS" single ((:keywords "data" "comm" "database" "postgresql")) "melpa"])
   (pgdevenv . [(20130527 257) nil "Manage your PostgreSQL development envs" tar ((:keywords "emacs" "postgresql" "development" "environment" "shell" "debug" "gdb")) "melpa"])
   (ph . [(20130312 1137) ((emacs (24 3))) "A global minor mode for managing multiple projects." tar nil "melpa"])
