@@ -1,4 +1,7 @@
 (1
+ (wsd-mode .
+	   [(0 1 0)
+	    nil "Emacs major-mode for www.websequencediagrams.com" tar])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -681,7 +684,7 @@
 		   (0 0 2)))
 		 "Major mode for dealing with sprint.ly" single])
  (spotify .
-	  [(0 2)
+	  [(0 3)
 	   nil "Control the spotify application from emacs" single])
  (speck .
 	[(2010 5 25)
@@ -4234,7 +4237,7 @@
 		      (1 2 0)))
 		    "Yasnippets for AngularJS" tar])
  (android-mode .
-	       [(0 3 0)
+	       [(0 3 3)
 		nil "Minor mode for Android application development" single])
  (anaphora .
 	   [(1 0 0)
