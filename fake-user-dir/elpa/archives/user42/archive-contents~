@@ -160,7 +160,7 @@
 		    nil "coding system for Project Gutenberg EBooks." single
 		    ((:url . "http://user42.tuxfamily.org/gutenberg-coding/index.html"))])
  (help-xref-elfiles .
-		    [(3)
+		    [(4)
 		     nil "buttonize foo.el and .emacs filenames in docstrings" single
 		     ((:url . "http://user42.tuxfamily.org/help-xref-elfiles/index.html"))])
  (html-coding .
@@ -232,9 +232,9 @@
 		   nil "nroff comment prefixes for filladapt" single
 		   ((:url . "http://user42.tuxfamily.org/nroff-filladapt/index.html"))])
  (oeis .
-       [(4)
+       [(5)
 	nil "helpers for the Online Encyclopedia of Integer Sequences" single
-	((:url . "http://user42.tuxfamily.org/oeis-el//index.html"))])
+	((:url . "http://user42.tuxfamily.org/oeis-el/index.html"))])
  (parasep .
 	  [(4)
 	   nil "more paragraph separators" single
@@ -316,8 +316,8 @@
 		nil "display-table fallbacks for some unicode chars" single
 		((:url . "http://user42.tuxfamily.org/unicode-disp/index.html"))])
  (upstr .
-	[(2)
-	 nil "up-list out of a string too" single
+	[(3)
+	 nil "up-list out of a string or TeX maths too" single
 	 ((:url . "http://user42.tuxfamily.org/upstr/index.html"))])
  (variable-at-point-tick .
 			 [(3)
