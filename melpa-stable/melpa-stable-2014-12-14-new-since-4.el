@@ -49,7 +49,7 @@
   (helm-ghc . [(0 1 0) ((emacs (24)) (cl-lib (0 5)) (helm (1 6 4)) (ghc (5 2 1 0))) "A Helm datasource for ghc-mod errors" single ((:keywords "languages" "helm")) "melpa-stable"])
   (helm-gitlab . [(0 1 0) ((s (1 9 0)) (dash (2 9 0)) (helm (1 0)) (gitlab (0))) "Helm interface to Gitlab" single ((:url . "https://github.com/nlamirault/emacs-gitlab") (:keywords "gitlab" "helm")) "melpa-stable"])
   (helm-hatena-bookmark . [(1 0 2) ((helm (1 5 6))) "Hatena::Bookmark helm.el interface" single ((:url . "https://github.com/masutaka/emacs-helm-hatena-bookmark")) "melpa-stable"])
-  (helm-w32-launcher . [(0 1 1) ((emacs (24)) (helm (1 6 5)) (cl-lib (0 5))) "Start Menu entry launcher using Helm" tar ((:url . "https://github.com/Fanael/helm-w32-launcher")) "melpa-stable"])
+  (helm-w32-launcher . [(0 1 2) ((emacs (24)) (helm (1 6 5)) (cl-lib (0 5))) "Start Menu entry launcher using Helm" tar ((:url . "https://github.com/Fanael/helm-w32-launcher")) "melpa-stable"])
   (hl-anything . [(0 0 7) ((emacs (24 3))) "Highlight symbols, selections, enclosing parens and more." single nil "melpa-stable"])
   (idomenu . [(0 1) nil "imenu tag selection with ido" single ((:url . "https://github.com/birkenfeld/idomenu") (:keywords "extensions" "convenience")) "melpa-stable"])
   (image-dired+ . [(0 5 4) nil "Image-dired extensions" single ((:url . "http://github.com/mhayashi1120/Emacs-image-diredx/raw/master/image-dired+.el") (:keywords "image-dired" "extensions")) "melpa-stable"])

@@ -42,7 +42,7 @@
   (evil-space . [(0 0 3) ((evil (1 0 0))) "Repeat motion in Evil. Correct the behaviour of what SPC should do." single ((:url . "http://github.com/linktohack/evil-space") (:keywords "space" "repeat" "motion")) "melpa-stable"])
   (eww-lnum . [(1 1) nil "Conkeror-like functionality for eww" single ((:url . "https://github.com/m00natic/eww-lnum") (:keywords "eww" "browse" "conkeror")) "melpa-stable"])
   (fasm-mode . [(0 1 11) nil "Fasm major mode" single ((:url . "https://github.com/Fanael/fasm-mode")) "melpa-stable"])
-  (floobits . [(1 5 13) ((json (1 2)) (highlight (0))) "Floobits plugin for real-time collaborative editing" tar ((:url . "http://github.com/Floobits/floobits-emacs") (:keywords "comm" "tools")) "melpa-stable"])
+  (floobits . [(1 5 14) ((json (1 2)) (highlight (0))) "Floobits plugin for real-time collaborative editing" tar ((:url . "http://github.com/Floobits/floobits-emacs") (:keywords "comm" "tools")) "melpa-stable"])
   (flycheck-cask . [(0 2) ((emacs (24 1)) (flycheck (0 14)) (dash (2 4 0))) "Cask support in Flycheck" single ((:url . "https://github.com/flycheck/flycheck-cask") (:keywords "tools" "convenience")) "melpa-stable"])
   (fountain-mode . [(1 4 3) ((s (1 9 0))) "Major mode for screenwriting in Fountain markup" single ((:url . "https://github.com/rnkn/fountain-mode") (:keywords "wp")) "melpa-stable"])
   (fsharp-mode . [(1 5 0) ((auto-complete (1 4)) (popup (0 5)) (pos-tip (0 4 5)) (s (1 3 1)) (dash (1 1 0))) "F# mode for Emacs" tar nil "melpa-stable"])
