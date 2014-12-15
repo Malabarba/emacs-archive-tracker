@@ -15,7 +15,7 @@
   (osc . [(0 1) nil "Open Sound Control protocol library" single ((:url . "http://elpa.gnu.org/packages/osc.html") (:keywords "comm" "processes" "multimedia")) "gnu"])
   (names . [(20141119) ((emacs (24 1)) (cl-lib (0 5))) "Namespaces for emacs-lisp. Avoid name clobbering without hiding symbols." tar ((:keywords "extensions" "lisp") (:url . "http://github.com/Bruce-Connor/names")) "gnu"])
   (metar . [(0 1) ((cl-lib (0 5))) "Retrieve and decode METAR weather information" single ((:url . "http://elpa.gnu.org/packages/metar.html") (:keywords "comm")) "gnu"])
-  (let-alist . [(1 0) nil "Easily let-bind values of an assoc-list by their names" single ((:url . "http://elpa.gnu.org/packages/let-alist.html") (:keywords "extensions" "lisp")) "gnu"])
+  (let-alist . [(1 0 1) nil "Easily let-bind values of an assoc-list by their names" single ((:url . "http://elpa.gnu.org/packages/let-alist.html") (:keywords "extensions" "lisp")) "gnu"])
   (javaimp . [(0 5) nil "Add and reorder Java import statements in Maven projects" single ((:url . "http://elpa.gnu.org/packages/javaimp.html") (:keywords "java" "maven" "programming")) "gnu"])
   (gnugo . [(3 0 0) ((ascii-art-to-unicode (1 5)) (xpm (1 0 1)) (cl-lib (0 5))) "play GNU Go in a buffer" tar ((:keywords "games" "processes") (:url . "http://www.gnuvola.org/software/gnugo/")) "gnu"])
   (gnorb . [(1 0 1) ((cl-lib (0 5))) "Glue code between Gnus, Org, and BBDB" tar ((:keywords "mail" "org" "gnus" "bbdb" "todo" "task") (:url . "https://github.com/girzel/gnorb")) "gnu"])
