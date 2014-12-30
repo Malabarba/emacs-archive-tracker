@@ -1,0 +1,14 @@
+#!/bin/bash
+
+if (git branch | grep '^\* *gh-pages *$'); then
+    # We're in the right branch, go right ahead.
+    MathematicaScript -script emacs-archive-plotter.m
+    # tar -czf data.tar.gz ALL/ marmalade/ melpa/ gnu/ main-dish.dat main-dish.fmt *Plot*
+    cat header.htmlt table-content.htmlt footer.htmlt > index.html
+    git add .
+    git commit -m "$(date)"
+    git push
+else
+    echo "Wrong Branch!"
+    return 1
+fi
