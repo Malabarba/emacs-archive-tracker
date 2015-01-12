@@ -125,6 +125,7 @@
   (kmacro-decision . [(1 5) ((el-x (1 0)) (jb-misc-macros (0 2))) "Add conditional branching to keyboard macros" single "marmalade"])
   (kv . [(0 0 19) nil "key/value data structure functions" single "marmalade"])
   (langtool . [(1 2 1) nil "Grammar check utility using LanguageTool" single "marmalade"])
+  (lcs . [(1 5) nil "find out the longest common sequence" single "marmalade"])
   (legalese . [(20120706) nil "Add legalese to your program files" single "marmalade"])
   (less-css-mode . [(0 18) nil "Major mode for editing LESS CSS files (lesscss.org)" single "marmalade"])
   (let-recur . [(0 0 5) nil "Simplified implementation of recur" single "marmalade"])

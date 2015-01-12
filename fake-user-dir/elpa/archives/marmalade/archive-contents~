@@ -2155,7 +2155,7 @@
 	   [(20120706)
 	    nil "Add legalese to your program files" single])
  (lcs .
-      [(1 1)
+      [(1 5)
        nil "find out the longest common sequence" single])
  (layout-restore .
 		 [(0 4)
