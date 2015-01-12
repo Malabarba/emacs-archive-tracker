@@ -904,7 +904,7 @@
 	       (0 1 0)))
 	     "A dead simple way to load sensitive information" single])
  (seethru .
-	  [(0 2)
+	  [(0 3)
 	   ((shadchen
 	     (1 4)))
 	   "Easily change Emacs' transparency" single])

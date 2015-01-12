@@ -17,7 +17,7 @@
   (boxquote . [(1 22) nil "Quote text with a semi-box." single nil "melpa-stable"])
   (caskxy . [(0 0 5) ((log4e (0 2 0)) (yaxception (0 1))) "Control Cask in Emacs" single ((:url . "https://github.com/aki2o/caskxy") (:keywords "convenience")) "melpa-stable"])
   (checkbox . [(0 2 1) ((emacs (24)) (cl-lib (0 5))) "Quick manipulation of textual checkboxes" single ((:url . "http://github.com/camdez/checkbox.el") (:keywords "convenience")) "melpa-stable"])
-  (chinese-word-at-point . [(0 1) ((cl-lib (0 5))) "Add `chinese-word' thing to `thing-at-point'" single ((:url . "https://github.com/xuchunyang/chinese-word-at-point.el") (:keywords "convenience" "chinese")) "melpa-stable"])
+  (chinese-word-at-point . [(0 2) ((cl-lib (0 5))) "Add `chinese-word' thing to `thing-at-point'" single ((:url . "https://github.com/xuchunyang/chinese-word-at-point.el") (:keywords "convenience" "chinese")) "melpa-stable"])
   (circe . [(1 5) ((lui (0)) (lcs (0))) "Client for IRC in Emacs" tar nil "melpa-stable"])
   (company-restclient . [(0 0 2) ((cl-lib (0 5)) (company (0 8 0)) (emacs (24)) (know-your-http-well (0 2 0))) "company-mode completion back-end for restclient-mode" single ((:url . "https://github.com/iquiw/company-restclient")) "melpa-stable"])
   (company-ycmd . [(0 9) ((ycmd (0 1)) (company (0 8 3)) (deferred (0 2 0)) (s (1 0 0))) "company-mode backend for ycmd" single ((:url . "https://github.com/abingham/emacs-ycmd")) "melpa-stable"])

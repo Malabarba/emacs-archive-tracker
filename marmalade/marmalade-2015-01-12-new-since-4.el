@@ -198,7 +198,7 @@
   (scratch-palette . [(1 0 1) nil "add scratch notes for each file" single "marmalade"])
   (scratch-pop . [(1 0 0) nil "popup scratch" single "marmalade"])
   (sedated . [(1 0) nil "A few extremely simple sed functions for familiar text manipulation" single "marmalade"])
-  (seethru . [(0 2) ((shadchen (1 4))) "Easily change Emacs' transparency" single "marmalade"])
+  (seethru . [(0 3) ((shadchen (1 4))) "Easily change Emacs' transparency" single "marmalade"])
   (sensitive . [(1 0 1) ((emacs (24)) (sequences (0 1 0))) "A dead simple way to load sensitive information" single "marmalade"])
   (sequences . [(0 1 0) ((emacs (24))) "Ports of some Clojure sequence functions." single "marmalade"])
   (setup-cygwin . [(21 0) nil "Set up Emacs for using Cygwin" single "marmalade"])
