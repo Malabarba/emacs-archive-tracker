@@ -156,6 +156,7 @@
   (ubuntu-theme . [(0 2) nil "A color theme for Emacs." single ((:url . "http://github.com/rocher/ubuntu-theme")) "melpa-stable"])
   (vagrant . [(0 5 2) nil "Manage a vagrant box from emacs" single ((:url . "https://github.com/ottbot/vagrant.el") (:keywords "vagrant" "chef")) "melpa-stable"])
   (vbasense . [(0 1 1) ((auto-complete (1 4 0)) (log4e (0 2 0)) (yaxception (0 1))) "provide a environment like Visual Basic Editor." tar ((:url . "https://github.com/aki2o/emacs-vbasense") (:keywords "vba" "completion")) "melpa-stable"])
+  (visual-fill-column . [(1 1) ((emacs (24 3))) "fill-column for visual-line-mode" single nil "melpa-stable"])
   (whole-line-or-region . [(1 3 1) nil "operate on current line if region undefined" single ((:keywords "kill" "yank" "cut" "copy" "paste" "whole" "lines")) "melpa-stable"])
   (wn-mode . [(1 2) nil "No description available." single nil "melpa-stable"])
   (wsd-mode . [(0 3 0) nil "Emacs major-mode for www.websequencediagrams.com" tar ((:url . "https://github.com/josteink/wsd-mode") (:keywords "wsd" "diagrams" "design" "process" "modelling" "uml")) "melpa-stable"])
