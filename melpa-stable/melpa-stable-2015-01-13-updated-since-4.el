@@ -20,6 +20,7 @@
   (cmake-mode . [(3 1 0) nil "major-mode for editing CMake sources" single nil "melpa-stable"])
   (coffee-mode . [(0 5 8) ((emacs (24 1)) (cl-lib (0 5))) "Major mode to edit CoffeeScript files in Emacs" single ((:url . "http://github.com/defunkt/coffee-mode") (:keywords "coffeescript" "major" "mode")) "melpa-stable"])
   (colorsarenice-theme . [(1 0 19) ((emacs (24))) "A colorful color theme." tar nil "melpa-stable"])
+  (company . [(0 8 8) ((emacs (24 1)) (cl-lib (0 5))) "Modular text completion framework" tar ((:url . "http://company-mode.github.io/") (:keywords "abbrev" "convenience" "matching")) "melpa-stable"])
   (company-ghc . [(0 1 9) ((cl-lib (0 5)) (company (0 8 0)) (ghc (4 1 1)) (emacs (24))) "company-mode ghc-mod backend" single ((:url . "https://github.com/iquiw/company-ghc") (:keywords "haskell" "completion")) "melpa-stable"])
   (cpputils-cmake . [(0 5 0) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar nil "melpa-stable"])
   (dash . [(2 10 0) nil "A modern list library for Emacs" single ((:keywords "lists")) "melpa-stable"])
