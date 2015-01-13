@@ -47,6 +47,7 @@
   (evil-space . [(0 0 3) ((evil (1 0 0))) "Repeat motion in Evil. Correct the behaviour of what SPC should do." single ((:url . "http://github.com/linktohack/evil-space") (:keywords "space" "repeat" "motion")) "melpa-stable"])
   (evil-visualstar . [(0 1 0) ((evil (0))) "Starts a * or # search from the visual selection" single ((:url . "https://github.com/bling/evil-visualstar") (:keywords "evil" "vim" "visualstar")) "melpa-stable"])
   (eww-lnum . [(1 1) nil "Conkeror-like functionality for eww" single ((:url . "https://github.com/m00natic/eww-lnum") (:keywords "eww" "browse" "conkeror")) "melpa-stable"])
+  (exec-path-from-shell . [(1 9) nil "Get environment variables such as $PATH from the shell" single ((:url . "https://github.com/purcell/exec-path-from-shell") (:keywords "environment")) "melpa-stable"])
   (f . [(0 17 2) ((s (1 7 0)) (dash (2 2 0))) "Modern API for working with files and directories" single ((:url . "http://github.com/rejeep/f.el") (:keywords "files" "directories")) "melpa-stable"])
   (fasm-mode . [(0 1 11) nil "Fasm major mode" single ((:url . "https://github.com/Fanael/fasm-mode")) "melpa-stable"])
   (floobits . [(1 5 15) ((json (1 2)) (highlight (0))) "Floobits plugin for real-time collaborative editing" tar ((:url . "http://github.com/Floobits/floobits-emacs") (:keywords "comm" "tools")) "melpa-stable"])
