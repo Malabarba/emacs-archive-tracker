@@ -202,7 +202,7 @@
   (sensitive . [(1 0 1) ((emacs (24)) (sequences (0 1 0))) "A dead simple way to load sensitive information" single "marmalade"])
   (sequences . [(0 1 0) ((emacs (24))) "Ports of some Clojure sequence functions." single "marmalade"])
   (setup-cygwin . [(21 0) nil "Set up Emacs for using Cygwin" single "marmalade"])
-  (shackle . [(0 2) ((cl-lib (0 5))) "Enforce rules for popups" single "marmalade"])
+  (shackle . [(0 2 1) ((cl-lib (0 5))) "Enforce rules for popups" single "marmalade"])
   (shell-pop . [(0 3) nil "helps you to use shell easily on Emacs. Only one key action to work." single "marmalade"])
   (simple-httpd . [(1 4 5) ((cl-lib (0 3))) "pure elisp HTTP server" single "marmalade"])
   (skewer-less . [(0 2) ((skewer-mode (1 5 3))) "Skewer support for live LESS stylesheet updates" single "marmalade"])
