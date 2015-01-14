@@ -29,6 +29,7 @@
   (dired-imenu . [(0 5 0) nil "imenu binding for dired mode" single ((:url . "https://github.com/DamienCassou/dired-imenu") (:keywords "dired" "imenu")) "melpa-stable"])
   (direx-grep . [(0 1 0) ((direx (0 1 -3))) "Grep node of direx.el using incremental search like anything.el/helm.el" single ((:url . "https://github.com/aki2o/direx-grep") (:keywords "convenience")) "melpa-stable"])
   (dockerfile-mode . [(1 0) nil "Major mode for editing Docker's Dockerfiles" single nil "melpa-stable"])
+  (downplay-mode . [(0 1) nil "focus attention on a region of the buffer" single ((:url . "https://github.com/tobias/downplay-mode/")) "melpa-stable"])
   (dyalog-mode . [(0 3) nil "Major mode for editing Dyalog APL source code" single ((:url . "http://bitbucket.org/harsman/dyalog-mode") (:keywords "languages")) "melpa-stable"])
   (e2wm-direx . [(0 0 5) ((e2wm (1 2)) (direx (0 1 -3))) "Plugin of e2wm.el for direx.el" single ((:url . "https://github.com/aki2o/e2wm-direx") (:keywords "tools" "window manager" "convenience")) "melpa-stable"])
   (e2wm-pkgex4pl . [(0 0 1) ((e2wm (1 2)) (plsense-direx (0 2 0))) "Plugin of e2wm.el for package explorer of Perl" single ((:url . "https://github.com/aki2o/e2wm-pkgex4pl") (:keywords "tools" "window manager" "perl")) "melpa-stable"])
