@@ -1227,7 +1227,7 @@
 	[(1 4 1)
 	 nil "Lennart Staflin's Psgml package, with Elisp syntax and sgml-validate fixed for Emacsen >=24." tar])
  (psci .
-       [(0 0 5)
+       [(0 0 6)
 	((purescript-mode
 	  (13 10))
 	 (dash

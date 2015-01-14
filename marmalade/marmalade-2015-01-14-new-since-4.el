@@ -188,7 +188,7 @@
   (project-explorer . [(0 13) ((cl-lib (0 3)) (es-lib (0 3)) (es-windows (0 1)) (emacs (24))) "A project explorer sidebar" single "marmalade"])
   (proxy-mode . [(0 9) nil "Provides proxy minor mode." single "marmalade"])
   (ps-ccrypt . [(1 10) nil "reading/writing/loading encrypted files" tar "marmalade"])
-  (psci . [(0 0 5) ((purescript-mode (13 10)) (dash (2 9 0)) (s (1 9 0)) (f (0 17 1)) (deferred (0 3 2))) "Major mode for purescript repl psci" single "marmalade"])
+  (psci . [(0 0 6) ((purescript-mode (13 10)) (dash (2 9 0)) (s (1 9 0)) (f (0 17 1)) (deferred (0 3 2))) "Major mode for purescript repl psci" single "marmalade"])
   (py-import-check . [(0 2) nil "Finds the unused python imports using importchecker" single "marmalade"])
   (pycomplete . [(1 0) nil "Complete symbols at point using Pymacs." single "marmalade"])
   (python-django . [(0 1) nil "A Jazzy package for managing Django projects" single "marmalade"])
