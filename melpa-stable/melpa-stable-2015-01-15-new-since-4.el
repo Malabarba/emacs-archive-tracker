@@ -93,7 +93,7 @@
   (latex-math-preview . [(0 7 0) nil "preview LaTeX mathematical expressions." single ((:url . "http://www.emacswiki.org/latex-math-preview.el") (:keywords "latex" "tex")) "melpa-stable"])
   (lcs . [(1 5) nil "find out the longest common sequence" single ((:url . "https://github.com/jorgenschaefer/circe/wiki/lcs")) "melpa-stable"])
   (lentic . [(0 6 1) ((emacs (24)) (m-buffer (0 8)) (dash (2 5 0))) "One buffer as a view of another" tar nil "melpa-stable"])
-  (live-code-talks . [(0 1 1) ((emacs (24)) (cl-lib (0 5)) (narrowed-page-navigation (0 1))) "Support for slides with live code in them" single ((:keywords "docs" "multimedia")) "melpa-stable"])
+  (live-code-talks . [(0 2 1) ((emacs (24)) (cl-lib (0 5)) (narrowed-page-navigation (0 1))) "Support for slides with live code in them" single ((:keywords "docs" "multimedia")) "melpa-stable"])
   (load-relative . [(1 0) nil "relative file load (within a multi-file Emacs package)" tar ((:url . "http://github.com/rocky/emacs-load-relative") (:keywords "internal")) "melpa-stable"])
   (loc-changes . [(1 1) nil "Helps users and programs keep track of positions even after buffer changes." single ((:url . "http://github.com/rocky/emacs-loc-changes")) "melpa-stable"])
   (log4e . [(0 3 0) nil "provide logging framework for elisp" single ((:url . "https://github.com/aki2o/log4e") (:keywords "log")) "melpa-stable"])
