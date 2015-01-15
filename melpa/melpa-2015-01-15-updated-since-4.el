@@ -696,7 +696,7 @@
   (org-readme . [(20130508 705) ((http-post-simple (1 0)) (yaoddmuse (0 1 1)) (header2 (21 0)) (lib-requires (21 0))) "Integrates Readme.org and Commentary/Change-logs." tar ((:url . "https://github.com/mlf176f2/org-readme") (:keywords "header2" "readme.org" "emacswiki" "git")) "melpa"])
   (org-toodledo . [(20140331 606) nil "Toodledo integration for Emacs Org mode" tar ((:keywords "outlines" "data")) "melpa"])
   (org-trello . [(20141213 327) ((request-deferred (0 1 0)) (deferred (0 3 2)) (s (1 9 0)) (dash (2 8 0)) (emacs (24))) "Minor mode to synchronize org-mode buffer and trello board" tar nil "melpa"])
-  (org2blog . [(20141214 2105) ((org (8 1)) (xml-rpc (1 6 8)) (metaweblog (0 1))) "Blog from Org mode to wordpress" tar nil "melpa"])
+  (org2blog . [(20150114 2301) ((org (8 1)) (xml-rpc (1 6 8)) (metaweblog (0 1))) "Blog from Org mode to wordpress" tar nil "melpa"])
   (orglink . [(20141207 533) ((dash (1 3 2)) (org (8 0))) "use Org Mode links in other modes" single ((:url . "http://github.com/tarsius/orglink") (:keywords "hypertext")) "melpa"])
   (orglue . [(20130912 1842) ((org (8 1)) (epic (0 1)) (org-mac-link (1 2))) "more functionality to org-mode." tar ((:keywords "org")) "melpa"])
   (osx-browse . [(20140508 1341) ((string-utils (0 3 2)) (browse-url-dwim (0 6 6))) "Web browsing helpers for OS X" single ((:url . "http://github.com/rolandwalker/osx-browse") (:keywords "hypermedia" "external")) "melpa"])
