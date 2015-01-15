@@ -75,7 +75,7 @@
  (xkcd .
        [(1 0)
 	((json
-	  (1 4)))
+	  (1 3)))
 	"View xkcd from Emacs" single])
  (wxwidgets-help .
 		 [(0 0 3)
@@ -4325,7 +4325,7 @@
 		  (1 11 5)))
 		"Space align various Clojure forms" single])
  (alchemist .
-	    [(0 12 0)
+	    [(0 13 0)
 	     ((emacs
 	       (24)))
 	     "Elixir tooling integration into emacs" tar])
