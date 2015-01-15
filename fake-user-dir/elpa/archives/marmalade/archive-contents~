@@ -3717,7 +3717,7 @@
        [(2 10 0)
 	nil "A modern list library for Emacs" single])
  (dart-mode .
-	    [(0 9)
+	    [(0 11)
 	     nil "Major mode for editing Dart files" single])
  (d-mode .
 	 [(2 0 4)
