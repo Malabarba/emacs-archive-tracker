@@ -1,5 +1,6 @@
 '(
   (ac-html . [(0 22) ((auto-complete (1 4))) "auto complete source for html tags and attributes" tar ((:url . "https://github.com/cheunghy/ac-html") (:keywords "html" "auto-complete" "rails" "ruby")) "melpa-stable"])
+  (ace-isearch . [(0 1 0) ((ace-jump-mode (2 0)) (helm-swoop (1 4)) (emacs (24))) "A seamless bridge between isearch and ace-jump-mode" single ((:url . "https://github.com/tam17aki/ace-isearch")) "melpa-stable"])
   (ace-jump-buffer . [(0 3 1) ((ace-jump-mode (1 0)) (dash (2 4 0))) "fast buffer switching extension to `ace-jump-mode'" single ((:url . "https://github.com/waymondo/ace-jump-buffer")) "melpa-stable"])
   (ace-jump-zap . [(0 0 3) ((ace-jump-mode (1 0))) "Character zapping, `ace-jump-mode` style" single ((:url . "https://github.com/waymondo/ace-jump-zap") (:keywords "convenience" "tools" "extensions")) "melpa-stable"])
   (ace-link . [(0 3 0) ((ace-jump-mode (2 0))) "Quickly follow links using `ace-jump-mode'" single ((:url . "https://github.com/abo-abo/ace-link") (:keywords "convenience" "links")) "melpa-stable"])
@@ -51,7 +52,7 @@
   (evil-snipe . [(1 0) nil "emulate vim-sneak & vim-seek" single ((:url . "https://github.com/hlissner/evil-snipe") (:keywords "emulation" "vim" "evil" "sneak" "seek")) "melpa-stable"])
   (evil-tutor . [(1 0) ((evil (1 0 9))) "Vimtutor adapted to Evil and wrapped in a major-mode" tar ((:url . "https://github.com/syl20bnr/evil-tutor") (:keywords "convenience" "editing" "evil")) "melpa-stable"])
   (feature-mode . [(0 4) nil "Major mode for editing Gherkin (i.e. Cucumber) user stories" tar nil "melpa-stable"])
-  (flycheck-clojure . [(0 1 2) ((cider (0 8 1)) (flycheck (0 22 -3 1)) (let-alist (1 0 1)) (emacs (24))) "Flycheck: Clojure support" single ((:url . "https://github.com/clojure-emacs/squiggly-clojure")) "melpa-stable"])
+  (flycheck-clojure . [(0 1 3) ((cider (0 8 1)) (flycheck (0 22 -3 1)) (let-alist (1 0 1)) (emacs (24))) "Flycheck: Clojure support" single ((:url . "https://github.com/clojure-emacs/squiggly-clojure")) "melpa-stable"])
   (flycheck-ocaml . [(0 2) ((emacs (24 1)) (flycheck (0 22 -3 1)) (merlin (2 0)) (let-alist (1 0 3))) "Flycheck: OCaml support" single ((:url . "https://github.com/flycheck/flycheck-ocaml") (:keywords "convenience" "tools" "languages")) "melpa-stable"])
   (flycheck-package . [(0 5) ((cl-lib (0 5)) (flycheck (0 22 -3 1)) (emacs (24))) "A Flycheck checker for elisp package authors" single ((:keywords "lisp")) "melpa-stable"])
   (flycheck-ycmd . [(0 9) ((emacs (24)) (dash (1 2 0)) (flycheck (0 22)) (ycmd (20141217 453))) "flycheck integration for ycmd" single ((:url . "https://github.com/abingham/emacs-ycmd")) "melpa-stable"])
