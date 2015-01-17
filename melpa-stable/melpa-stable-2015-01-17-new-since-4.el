@@ -68,6 +68,7 @@
   (graphviz-dot-mode . [(0 4) nil "Mode for the dot-language used by graphviz (att)." single ((:url . "http://ppareit.github.com/graphviz-dot-mode/") (:keywords "mode" "dot" "dot-language" "dotlanguage" "graphviz" "graphs" "att")) "melpa-stable"])
   (guide-key . [(1 2 5) ((popwin (0 3 0))) "Guide the following key bindings automatically and dynamically" single ((:url . "https://github.com/kai2nenobu/guide-key") (:keywords "help" "convenience")) "melpa-stable"])
   (guide-key-tip . [(0 0 1) ((guide-key (1 2 3)) (pos-tip (0 4 5))) "Show guide-key.el hints using pos-tip.el" single ((:url . "https://github.com/aki2o/guide-key-tip") (:keywords "help" "convenience" "tooltip")) "melpa-stable"])
+  (haskell-emacs . [(1 4 3) nil "write emacs extensions in haskell" tar ((:url . "https://github.com/knupfer/haskell-emacs") (:keywords "haskell" "emacs" "ffi")) "melpa-stable"])
   (helm-ghc . [(0 1 0) ((emacs (24)) (cl-lib (0 5)) (helm (1 6 4)) (ghc (5 2 1 0))) "A Helm datasource for ghc-mod errors" single ((:keywords "languages" "helm")) "melpa-stable"])
   (helm-gitlab . [(0 2 0) ((s (1 9 0)) (dash (2 9 0)) (helm (1 0)) (gitlab (0))) "Helm interface to Gitlab" single ((:url . "https://github.com/nlamirault/emacs-gitlab") (:keywords "gitlab" "helm")) "melpa-stable"])
   (helm-hatena-bookmark . [(1 0 2) ((helm (1 5 6))) "Hatena::Bookmark helm.el interface" single ((:url . "https://github.com/masutaka/emacs-helm-hatena-bookmark")) "melpa-stable"])

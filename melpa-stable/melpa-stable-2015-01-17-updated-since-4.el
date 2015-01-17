@@ -99,6 +99,7 @@
   (markdown-toc . [(0 0 7) ((s (1 7 0)) (dash (2 5 0)) (markdown-mode (2 0))) "A simple TOC generator for markdown file" tar nil "melpa-stable"])
   (merlin . [(2 1) nil "Mode for Merlin, an assistant for OCaml." tar ((:url . "http://github.com/the-lambda-church/merlin") (:keywords "ocaml" "languages")) "melpa-stable"])
   (minitest . [(0 8 0) ((dash (1 0 0))) "An Emacs mode for ruby minitest files" tar ((:url . "https://github.com/arthurnn/minitest-emacs")) "melpa-stable"])
+  (mmm-mode . [(0 5 2) nil "Allow Multiple Major Modes in a buffer" tar ((:url . "https://github.com/purcell/mmm-mode") (:keywords "convenience" "faces" "languages" "tools")) "melpa-stable"])
   (names . [(0 5 4) ((emacs (24 1)) (cl-lib (0 5))) "Namespaces for emacs-lisp. Works like C++ namespaces to avoid name clobbering." tar ((:url . "http://github.com/Bruce-Connor/names") (:keywords "extensions" "lisp")) "melpa-stable"])
   (ninja-mode . [(1 5 3) ((emacs (24))) "Major mode for editing .ninja files" single nil "melpa-stable"])
   (nix-mode . [(1 8) nil "Major mode for editing Nix expressions" single ((:url . "https://github.com/NixOS/nix/tree/master/misc/emacs")) "melpa-stable"])
