@@ -124,7 +124,7 @@
   (ox-twbs . [(0 1 0) nil "Bootstrap compatible HTML Back-End for Org" single ((:url . "https://github.com/marsmining/ox-twbs") (:keywords "org" "html" "publish" "twitter" "bootstrap")) "melpa-stable"])
   (package+ . [(1 0 1) nil "Extensions for the package library." single ((:url . "TBA") (:keywords "extensions" "tools")) "melpa-stable"])
   (parenface . [(1 0 3) nil "Provide a face for parens in lispy modes." tar nil "melpa-stable"])
-  (parsebib . [(1 0 2) ((emacs (24 3))) "A library for parsing bib files" single ((:keywords "text" "bibtex")) "melpa-stable"])
+  (parsebib . [(1 0 3) ((emacs (24 3))) "A library for parsing bib files" single ((:keywords "text" "bibtex")) "melpa-stable"])
   (paxedit . [(1 1 4) ((cl-lib (0 5)) (paredit (23))) "Structured, Context Driven LISP Editing and Refactoring" single ((:url . "https://github.com/promethial/paxedit") (:keywords "lisp" "refactoring" "context")) "melpa-stable"])
   (pcsv . [(1 3 5) nil "Parser of csv" single ((:url . "https://github.com/mhayashi1120/Emacs-pcsv/raw/master/pcsv.el") (:keywords "data")) "melpa-stable"])
   (persistent-scratch . [(0 1 3) ((emacs (24))) "Preserve the scratch buffer across Emacs sessions" single ((:url . "https://github.com/Fanael/persistent-scratch")) "melpa-stable"])
