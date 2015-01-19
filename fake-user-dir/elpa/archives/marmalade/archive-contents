@@ -2143,13 +2143,13 @@
 		[(0 18)
 		 nil "Major mode for editing LESS CSS files (lesscss.org)" single])
  (lentic .
-	 [(0 6)
-	  ((dash
-	    (2 5 0))
+	 [(0 6 1)
+	  ((emacs
+	    (24))
 	   (m-buffer
 	    (0 8))
-	   (emacs
-	    (24)))
+	   (dash
+	    (2 5 0)))
 	  "One buffer as a view of another" tar])
  (legalese .
 	   [(20120706)
@@ -4309,7 +4309,7 @@
 	   [(1 0 0)
 	    nil "anaphoric macros providing implicit temp variables" single])
  (ample-zen-theme .
-		  [(0 2)
+		  [(0 3)
 		   nil "AmpleZen Theme for Emacs 24" single])
  (ample-theme .
 	      [(0 12)
