@@ -703,7 +703,7 @@
   (osx-location . [(20130907 133) nil "Watch and respond to changes in geographical location on OS X" tar nil "melpa"])
   (osx-plist . [(20101130 448) nil "Apple plist file parser" single ((:keywords "convenience")) "melpa"])
   (otter-mode . [(20121202 903) nil "Major mode for source files of the Otter automated theorem prover" single ((:url . "https://github.com/scvalex/script-fu/blob/master/otter-mode.el")) "melpa"])
-  (outline-magic . [(20150115 1201) nil "outline mode extensions for Emacs" single ((:keywords "outlines")) "melpa"])
+  (outline-magic . [(20150120 1225) nil "outline mode extensions for Emacs" single ((:keywords "outlines")) "melpa"])
   (outlined-elisp-mode . [(20131108 327) nil "outline-minor-mode settings for emacs lisp" single ((:url . "http://hins11.yu-yake.com/")) "melpa"])
   (p4 . [(20150112 1403) nil "Simple Perforce-Emacs Integration" single ((:url . "https://github.com/gareth-rees/p4.el")) "melpa"])
   (pabbrev . [(20141021 1434) nil "Predictive abbreviation expansion" single nil "melpa"])
