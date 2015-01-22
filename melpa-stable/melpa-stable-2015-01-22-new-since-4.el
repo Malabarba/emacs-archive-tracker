@@ -79,7 +79,7 @@
   (helm-pages . [(0 1 1) ((helm (1 6 5)) (emacs (24)) (cl-lib (0 5))) "Pages in current buffer as Helm datasource" single ((:keywords "convenience" "helm" "outlines")) "melpa-stable"])
   (helm-w32-launcher . [(0 1 6) ((emacs (24)) (helm (1 6 5)) (cl-lib (0 5))) "Start Menu entry launcher using Helm" tar ((:url . "https://github.com/Fanael/helm-w32-launcher")) "melpa-stable"])
   (hi2 . [(1 0) nil "indentation module for Haskell Mode" single ((:url . "https://github.com/errge/hi2") (:keywords "indentation" "haskell")) "melpa-stable"])
-  (hindent . [(4 2 3) ((cl-lib (0 5))) "Indent haskell code using the \"hindent\" program" single ((:url . "https://github.com/chrisdone/hindent")) "melpa-stable"])
+  (hindent . [(4 2 4) ((cl-lib (0 5))) "Indent haskell code using the \"hindent\" program" single ((:url . "https://github.com/chrisdone/hindent")) "melpa-stable"])
   (history . [(1 0 0) ((emacs (24 3))) "History utility for source code navigation" tar ((:url . "https://github.com/boyw165/history")) "melpa-stable"])
   (hl-anything . [(0 0 9) ((emacs (24 3))) "Highlight symbols, selections, enclosing parens and more." tar nil "melpa-stable"])
   (hydra . [(0 3 0) ((cl-lib (0 5))) "Make bindings that stick around" tar ((:url . "https://github.com/abo-abo/hydra") (:keywords "bindings")) "melpa-stable"])
