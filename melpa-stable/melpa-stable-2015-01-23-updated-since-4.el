@@ -111,7 +111,7 @@
   (package-safe-delete . [(0 1 7) ((emacs (24)) (epl (0 7 -3))) "Safely delete package.el packages" single ((:url . "https://github.com/Fanael/package-safe-delete")) "melpa-stable"])
   (packed . [(0 4 0) ((cl-lib (0 5))) "package manager agnostic Emacs Lisp package utilities" single ((:url . "https://github.com/tarsius/packed") (:keywords "compile" "convenience" "lisp" "package" "library")) "melpa-stable"])
   (pallet . [(0 9 0) ((s (1 9 0)) (f (0 17 1)) (cask (0 7))) "A package management tool for Emacs, using Cask." tar nil "melpa-stable"])
-  (pandoc-mode . [(2 8) nil "Minor mode for interacting with Pandoc" tar ((:keywords "text" "pandoc")) "melpa-stable"])
+  (pandoc-mode . [(2 9) nil "Minor mode for interacting with Pandoc" tar ((:keywords "text" "pandoc")) "melpa-stable"])
   (paradox . [(1 5) ((emacs (24 1)) (dash (2 6 0)) (cl-lib (0 5)) (json (1 3))) "A modern Packages Menu. Colored, with package ratings, and customizable." tar ((:url . "http://github.com/Bruce-Connor/paradox") (:keywords "package" "packages" "mode-line")) "melpa-stable"])
   (paredit . [(24) nil "minor mode for editing parentheses" single ((:keywords "lisp")) "melpa-stable"])
   (paren-face . [(0 1 1) nil "a face for parentheses in lisp modes" single ((:url . "http://github.com/tarsius/paren-face")) "melpa-stable"])
