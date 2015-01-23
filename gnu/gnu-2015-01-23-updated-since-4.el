@@ -46,7 +46,7 @@
   (dict-tree . [(0 12 8) ((trie (0 2 5)) (tNFA (0 1 1)) (heap (0 3))) "Dictionary data structure" single ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "extensions" "matching" "data structures trie" "tree" "dictionary" "completion" "regexp")) "gnu"])
   (debbugs . [(0 6) nil "SOAP library to access debbugs servers" tar ((:keywords "comm" "hypermedia") (:url . "http://elpa.gnu.org/packages/debbugs.html")) "gnu"])
   (csv-mode . [(1 2) nil "Major mode for editing comma/char separated values" single ((:url . "http://centaur.maths.qmul.ac.uk/Emacs/") (:keywords "convenience")) "gnu"])
-  (company . [(0 8 8) ((emacs (24 1)) (cl-lib (0 5))) "Modular text completion framework" tar ((:keywords "abbrev" "convenience" "matching") (:url . "http://company-mode.github.io/")) "gnu"])
+  (company . [(0 8 9) ((emacs (24 1)) (cl-lib (0 5))) "Modular text completion framework" tar ((:keywords "abbrev" "convenience" "matching") (:url . "http://company-mode.github.io/")) "gnu"])
   (coffee-mode . [(0 4 1 1) nil "Major mode for CoffeeScript files" single ((:url . "http://github.com/defunkt/coffee-mode") (:keywords "coffeescript" "major" "mode")) "gnu"])
   (cl-lib . [(0 5) nil "Properly prefixed CL functions and macros" single ((:url . "http://elpa.gnu.org/packages/cl-lib.html") (:keywords)) "gnu"])
   (auctex . [(11 88 1) nil "Integrated environment for *TeX*" tar ((:url . "http://www.gnu.org/software/auctex/")) "gnu"])
