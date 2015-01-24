@@ -89,6 +89,7 @@
   (julia-mode . [(0 3 5) nil "No description available." single nil "melpa-stable"])
   (keychain-environment . [(2 1 0) nil "load keychain environment variables" single ((:url . "https://github.com/tarsius/keychain-environment") (:keywords "gnupg" "pgp" "ssh")) "melpa-stable"])
   (langtool . [(1 2 2) nil "Grammar check utility using LanguageTool" single ((:url . "https://github.com/mhayashi1120/Emacs-langtool/raw/master/langtool.el") (:keywords "docs")) "melpa-stable"])
+  (latex-extra . [(1 8 1) ((auctex (11 86 1)) (cl-lib (0 5))) "Adds several useful functionalities to LaTeX-mode." single ((:url . "http://github.com/Bruce-Connor/latex-extra") (:keywords "tex")) "melpa-stable"])
   (lispy . [(0 21 0) ((helm (1 5 3)) (ace-jump-mode (2 0)) (s (1 4 0)) (multiple-cursors (1 3 0)) (iedit (0 97)) (highlight (0))) "vi-like Paredit" tar nil "melpa-stable"])
   (m-buffer . [(0 8) ((dash (2 8 0)) (emacs (24 3))) "List-Oriented, Functional Buffer Manipulation" tar nil "melpa-stable"])
   (magit . [(90150116) ((cl-lib (0 3)) (git-commit-mode (0 14 0)) (git-rebase-mode (0 14 0))) "control Git from Emacs" tar ((:keywords "vc" "tools")) "melpa-stable"])
