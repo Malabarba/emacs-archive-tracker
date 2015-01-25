@@ -30,7 +30,7 @@
   (dim-autoload . [(1 1 3) nil "dim complete autoload cookie lines" single ((:url . "http://github.com/tarsius/dim-autoload") (:keywords "convenience")) "melpa-stable"])
   (dired-k . [(0 13) ((cl-lib (0 5)) (emacs (24))) "highlight dired buffer by file size, modified time, git status" tar ((:url . "https://github.com/syohex/emacs-dired-k")) "melpa-stable"])
   (easy-kill . [(0 9 3) ((emacs (24)) (cl-lib (0 5))) "kill & mark things easily" single ((:url . "https://github.com/leoliu/easy-kill") (:keywords "killing" "convenience")) "melpa-stable"])
-  (ebib . [(2 1 5) ((dash (2 5 0)) (parsebib (1 0)) (emacs (24 3))) "a BibTeX database manager" tar ((:keywords "text" "bibtex")) "melpa-stable"])
+  (ebib . [(2 2 1) ((dash (2 5 0)) (parsebib (1 0)) (emacs (24 3))) "a BibTeX database manager" tar ((:keywords "text" "bibtex")) "melpa-stable"])
   (editorconfig . [(0 4) nil "EditorConfig Emacs extension" single ((:url . "http://github.com/editorconfig/editorconfig-emacs#readme")) "melpa-stable"])
   (egison-mode . [(3 5 5) nil "Egison editing mode" single ((:url . "https://github.com/egisatoshi/egison3/blob/master/elisp/egison-mode.el")) "melpa-stable"])
   (elfeed . [(1 1 2) ((emacs (24 1))) "an Emacs Atom/RSS feed reader" tar nil "melpa-stable"])
