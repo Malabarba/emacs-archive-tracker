@@ -147,6 +147,7 @@
   (stripe-buffer . [(0 2 5) ((cl-lib (1 0))) "Use a different background for even and odd lines" single ((:url . "https://github.com/sabof/stripe-buffer")) "melpa-stable"])
   (tern . [(0 8 0) ((json (1 2)) (cl-lib (0 5)) (emacs (24))) "Tern-powered JavaScript integration" single ((:url . "http://ternjs.net/")) "melpa-stable"])
   (tern-auto-complete . [(0 8 0) ((tern (0 0 1)) (auto-complete (1 4)) (cl-lib (0 5)) (emacs (24))) "Tern Completion by auto-complete.el" single nil "melpa-stable"])
+  (terraform-mode . [(0 2) ((cl-lib (0 5))) "Major mode for terraform configuration file" single ((:url . "https://github.com/syohex/emacs-terraform-mode")) "melpa-stable"])
   (thrift . [(0 9 2) nil "Major mode for Apache Thrift files" single ((:keywords "files")) "melpa-stable"])
   (traad . [(0 4) nil "emacs interface to the traad refactoring server." tar ((:url . "https://github.com/abingham/traad")) "melpa-stable"])
   (undercover . [(0 4 0) ((emacs (24)) (dash (2 0 0)) (shut-up (0 3 2))) "Test coverage library for Emacs" single ((:url . "https://github.com/sviridov/undercover.el") (:keywords "lisp" "tests" "coverage" "tools")) "melpa-stable"])
