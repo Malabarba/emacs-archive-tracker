@@ -1522,7 +1522,7 @@
 	     [(0 0 8)
 	      nil "export html and meta data used by static blog like nikola from org file" tar])
  (org2jekyll .
-	     [(0 1 1)
+	     [(0 1 2)
 	      ((dash
 		(2 10 0))
 	       (dash-functional
@@ -1540,7 +1540,7 @@
 	      (1 6 8)))
 	    "Blog from Org mode to wordpress" tar])
  (org-trello .
-	     [(0 6 8)
+	     [(0 6 9)
 	      ((request-deferred
 		(0 1 0))
 	       (deferred
