@@ -1,0 +1,39 @@
+  xtide                        24                 available  XTide display in Emacs
+  yabin                        20140205.1951      available  Yet Another Bignum package (A thin wrapper of calc.el).
+  yafolding                    20141202.2056      available  Yet another folding extension for Emacs
+  yagist                       20140321.1512      available  Yet Another Emacs integration for gist.github.com
+  yalinum                      20130217.243       available  yet another display line numbers.
+  yaml-mode                    20141125.37        available  Major mode for editing YAML files
+  yandex-weather               20140423.421       available  Fetch Yandex Weather forecasts.
+  yaoddmuse                    20140804.1856      available  Yet another oddmuse for Emacs
+  yard-mode                    20140816.1044      available  Minor mode for Ruby YARD comments
+  yari                         20140206.611       available  Yet Another RI interface for Emacs
+  yas-jit                      0.8.3              available  Loads Yasnippets on demand (makes start up faster)
+  yascroll                     20140313.808       available  Yet Another Scroll Bar Mode
+  yasnippet                    20141223.303       available  Yet another snippet extension for Emacs.
+  yasnippet-bundle             0.6.1              available  Yet another snippet extension (Auto compiled bundle)
+  yaxception                   20150105.652       available  Provide framework about exception like Java for Elisp
+  ycm                          20150125.1147      available  Emacs client for the YouCompleteMe auto-completion server.
+  ycmd                         20150111.512       available  emacs bindings to the ycmd completion server
+  youdao-dictionary            20150124.1914      available  Youdao Dictionary interface for Emacs
+  zeal-at-point                20150119.2356      available  Search the word at point with Zeal
+  zeitgeist                    20131228.1009      available  No description available.
+  zen-and-art-theme            20120622.737       available  zen and art color theme for GNU Emacs 24
+  zen-mode                     20120627           available  remove/restore Emacs distractions quickly
+  zenburn                      0.1                available  A low contrast colour theme for Emacs
+  zenburn-theme                20141112.923       available  A low contrast color theme for Emacs.
+  zencoding-mode               20140213.22        available  Unfold CSS-selector-like expressions to markup
+  zjl-hl                       20121028.1901      available  Highlight variable and function call and others in c/emacs, make life easy.
+  zlc                          20141029.647       available  Provides zsh like completion system to Emacs
+  znc                          20140722.1421      available  ZNC + ERC
+  zombie                       20141222.816       available  major mode for editing ZOMBIE programs
+  zone-matrix                  0.0.1              available  Matrix themed Zone mode
+  zonokai-theme                20140909.1941      available  No description available.
+  zoom-frm                     20150110.2052      available  Commands to zoom frame font size.
+  zoom-window                  20141204.546       available  Zoom window like tmux
+  zop-to-char                  20150124.1156      available  A replacement of zap-to-char.
+  zossima                      20121123.1635      available  Ruby from Emacs
+  zotelo                       20141218.18        available  Manage Zotero collections from emacs
+  zotxt                        20150125.1031      available  Tools to integrate emacs with Zotero via the zotxt plugin.
+  ztree                        20140610.359       available  Several text-tree applications
+  zygospore                    20140703.152       available  reversible C-x 1 (delete-other-windows)
