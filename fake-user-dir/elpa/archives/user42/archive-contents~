@@ -112,7 +112,7 @@
 		 nil "get gcc's include path for ffap-c-path" single
 		 ((:url . "http://user42.tuxfamily.org/ffap-gcc-path/index.html"))])
  (ffap-href .
-	    [(4)
+	    [(5)
 	     nil "find href URL/link anywhere in the tag" single
 	     ((:url . "http://user42.tuxfamily.org/ffap-href/index.html"))])
  (ffap-include-start .
@@ -232,7 +232,7 @@
 		   nil "nroff comment prefixes for filladapt" single
 		   ((:url . "http://user42.tuxfamily.org/nroff-filladapt/index.html"))])
  (oeis .
-       [(5)
+       [(6)
 	nil "helpers for the Online Encyclopedia of Integer Sequences" single
 	((:url . "http://user42.tuxfamily.org/oeis-el/index.html"))])
  (parasep .
