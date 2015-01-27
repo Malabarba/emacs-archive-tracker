@@ -153,7 +153,7 @@
   (org-journal . [(1 6 4) nil "a simple org-mode based journaling mode" single "marmalade"])
   (org-magit . [(0 2 2) ((magit (1 2 0)) (org (6 1))) "basic support for magit links" single "marmalade"])
   (org-table-comment . [(0 2) nil "Org table comment modes." single "marmalade"])
-  (org-trello . [(0 6 9) ((request-deferred (0 1 0)) (deferred (0 3 2)) (s (1 9 0)) (dash (2 8 0)) (emacs (24))) "Minor mode to synchronize org-mode buffer and trello board" tar "marmalade"])
+  (org-trello . [(0 6 9 1) ((request-deferred (0 1 0)) (deferred (0 3 2)) (s (1 9 0)) (dash (2 8 0)) (emacs (24))) "Minor mode to synchronize org-mode buffer and trello board" tar "marmalade"])
   (osx-browse . [(0 8 8) ((string-utils (0 3 2)) (browse-url-dwim (0 6 6))) "Web browsing helpers for OS X" single "marmalade"])
   (pabbrev . [(4 1) nil "Predictive abbreviation expansion" single "marmalade"])
   (package . [(1 0 1) ((tabulated-list (1 0))) "Simple package system for Emacs" single "marmalade"])
