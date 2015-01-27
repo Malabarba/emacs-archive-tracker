@@ -1895,7 +1895,7 @@
 	      [(0 1)
 	       nil "Become an Emacs master" single])
  (marshal .
-	  [(0 3 1)
+	  [(0 4 0)
 	   ((eieio
 	     (1 4))
 	    (json
@@ -2796,7 +2796,7 @@
 	 (2 8 0)))
        "Happy Haskell programming on Emacs" tar])
  (gh .
-     [(0 9 1)
+     [(0 9 2)
       ((eieio
 	(1 4))
        (pcache
