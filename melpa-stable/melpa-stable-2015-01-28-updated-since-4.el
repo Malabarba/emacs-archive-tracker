@@ -138,7 +138,7 @@
   (sage-shell-mode . [(0 0 4 2) ((cl-lib (0 5)) (deferred (0 3 1))) "A front-end for Sage Math" tar ((:url . "https://github.com/stakemori/sage-shell-mode") (:keywords "sage" "math")) "melpa-stable"])
   (sekka . [(1 5 8) ((cl-lib (0 3)) (concurrent (0 3 1)) (popup (0 5 0))) "A client for Sekka IME server" single ((:url . "https://github.com/kiyoka/sekka") (:keywords "ime" "skk" "japanese")) "melpa-stable"])
   (serverspec . [(0 0 6) ((dash (2 6 0)) (s (1 9 0)) (f (0 16 2)) (helm (1 6 1))) "Serverspec minor mode" tar ((:url . "http://101000lab.org")) "melpa-stable"])
-  (shm . [(1 0 12) nil "Structured Haskell Mode" tar ((:keywords "development" "haskell" "structured")) "melpa-stable"])
+  (shm . [(1 0 13) nil "Structured Haskell Mode" tar ((:keywords "development" "haskell" "structured")) "melpa-stable"])
   (skeletor . [(1 5 1) ((s (1 7 0)) (f (0 14 0)) (dash (2 2 0)) (cl-lib (0 3)) (let-alist (1 0 3)) (emacs (24 1))) "Provides project skeletons for Emacs" tar nil "melpa-stable"])
   (slime . [(2 12) ((cl-lib (0 5))) "Superior Lisp Interaction Mode for Emacs" tar ((:url . "https://github.com/slime/slime") (:keywords "languages" "lisp" "slime")) "melpa-stable"])
   (smart-mode-line . [(2 8) ((emacs (24 3)) (dash (2 2 0)) (rich-minority (0 1))) "A color coded smart mode-line." tar ((:url . "http://github.com/Bruce-Connor/smart-mode-line") (:keywords "mode-line" "faces" "theme" "themes")) "melpa-stable"])
