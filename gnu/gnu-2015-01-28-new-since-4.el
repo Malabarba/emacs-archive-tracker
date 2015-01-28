@@ -33,6 +33,7 @@
   (caps-lock . [(1 0) nil "Caps-lock as a minor mode" single ((:url . "http://elpa.gnu.org/packages/caps-lock.html") (:keywords)) "gnu"])
   (aumix-mode . [(7) nil "run the aumix program in a buffer" single ((:url . "http://user42.tuxfamily.org/aumix-mode/index.html") (:keywords "multimedia" "mixer" "aumix")) "gnu"])
   (ascii-art-to-unicode . [(1 9) nil "a small artist adjunct" single ((:url . "http://www.gnuvola.org/software/aa2u/") (:keywords "ascii" "unicode" "box-drawing")) "gnu"])
+  (ahungry-theme . [(1 0 3) ((emacs (24))) "Ahungry color theme for Emacs." tar ((:keywords "ahungry" "palette" "color" "theme" "emacs" "color-theme" "deftheme") (:url . "https://github.com/ahungry/color-theme-ahungry")) "gnu"])
   (adjust-parens . [(3 0) nil "Indent and dedent Lisp code, automatically adjust close parens" tar ((:url . "http://elpa.gnu.org/packages/adjust-parens.html")) "gnu"])
   (ada-ref-man . [(2012 0) nil "Ada Reference Manual 2012" tar ((:keywords "languages" "ada") (:url . "http://stephe-leake.org/ada/arm.html")) "gnu"])
   (ada-mode . [(5 1 7) ((wisi (1 1 0)) (cl-lib (0 4)) (emacs (24 2))) "major-mode for editing Ada sources" tar ((:keywords "languages" "ada") (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) "gnu"])
