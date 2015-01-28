@@ -119,6 +119,7 @@
   (paredit . [(24) nil "minor mode for editing parentheses" single ((:keywords "lisp")) "melpa-stable"])
   (paren-face . [(0 1 1) nil "a face for parentheses in lisp modes" single ((:url . "http://github.com/tarsius/paren-face")) "melpa-stable"])
   (passthword . [(1 4) ((cl-lib (0 5))) "Simple password manager" single nil "melpa-stable"])
+  (password-store . [(1 6 5) ((dash (1 5 0)) (f (0 11 0)) (s (1 9 0))) "Password store (pass) support" single ((:keywords "pass")) "melpa-stable"])
   (pcache . [(0 3 1) ((eieio (1 3))) "persistent caching for Emacs" single nil "melpa-stable"])
   (phi-search-mc . [(2 2) ((phi-search (2 0 0)) (multiple-cursors (1 2 1))) "multiple-cursors extension for phi-search" single ((:url . "https://github.com/knu/phi-search-mc.el") (:keywords "search" "cursors")) "melpa-stable"])
   (popup . [(0 5 2) ((cl-lib (0 3))) "Visual Popup User Interface" single ((:keywords "lisp")) "melpa-stable"])
