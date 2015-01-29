@@ -796,7 +796,7 @@
   (replace-from-region . [(20140526 2223) nil "Replace commands whose query is from region" single ((:url . "http://www.emacswiki.org/emacs/download/replace-from-region.el") (:keywords "replace" "search" "region")) "melpa"])
   (request . [(20140316 417) nil "Compatible layer for URL request in Emacs" single nil "melpa"])
   (requirejs-mode . [(20130215 1304) nil "Improved AMD module management" single ((:keywords "javascript" "amd" "requirejs")) "melpa"])
-  (restclient . [(20141230 352) nil "An interactive HTTP client for Emacs" single ((:keywords "http")) "melpa"])
+  (restclient . [(20150129 707) nil "An interactive HTTP client for Emacs" single ((:keywords "http")) "melpa"])
   (reverse-theme . [(20141204 1745) nil "Reverse theme for Emacs" single ((:url . "https://github.com/syohex/emacs-reverse-theme")) "melpa"])
   (revive . [(20150110 1819) nil "Resume Emacs" single nil "melpa"])
   (rfringe . [(20110405 1520) nil "display the relative location of the region, in the fringe." single ((:url . "http://www.emacswiki.org/emacs/rfringe.el") (:keywords "fringe" "bitmap")) "melpa"])
