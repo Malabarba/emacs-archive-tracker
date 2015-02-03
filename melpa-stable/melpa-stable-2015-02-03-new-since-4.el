@@ -156,6 +156,7 @@
   (scala-mode2 . [(0 22) nil "Major mode for editing Scala >= 2.9" tar nil "melpa-stable"])
   (scala-outline-popup . [(0 3 4) ((dash (2 9 0)) (popup (0 5 2)) (scala-mode2 (0 22))) "scala file summary popup" single ((:url . "https://github.com/ancane/scala-outline-popup.el") (:keywords "scala" "structure" "summary")) "melpa-stable"])
   (shackle . [(0 2 2) ((cl-lib (0 5))) "Enforce rules for popups" single ((:url . "https://github.com/wasamasa/shackle") (:keywords "convenience")) "melpa-stable"])
+  (shell-split-string . [(0 1) nil "Split strings using shell-like syntax" single ((:url . "https://github.com/10sr/shell-split-string-el") (:keywords "utility" "library" "shell" "string")) "melpa-stable"])
   (shell-toggle . [(1 3 1) nil "Toggle to and from the shell buffer" single ((:url . "https://github.com/knu/shell-toggle.el") (:keywords "processes")) "melpa-stable"])
   (shelldoc . [(0 0 5) ((cl-lib (0 3)) (s (1 9 0))) "shell command editing support with man page." single ((:url . "http://github.com/mhayashi1120/Emacs-shelldoc/raw/master/shelldoc.el") (:keywords "applications")) "melpa-stable"])
   (shelltest-mode . [(1 1) nil "Major mode for shelltestrunner" single ((:url . "https://github.com/rtrn/shelltest-mode") (:keywords "languages")) "melpa-stable"])
