@@ -714,7 +714,7 @@
   (pager-default-keybindings . [(20130719 1357) ((pager (1 0))) "Add the default keybindings suggested for pager.el" single ((:url . "http://github.com/nflath/pager-default-keybindings")) "melpa"])
   (pallet . [(20150120 212) ((s (1 9 0)) (f (0 17 1)) (cask (0 7))) "A package management tool for Emacs, using Cask." tar nil "melpa"])
   (pandoc-mode . [(20150126 500) nil "Minor mode for interacting with Pandoc" tar ((:keywords "text" "pandoc")) "melpa"])
-  (pangu-spacing . [(20140627 1852) nil "Minor-mode to add space between Chinese and English characters." single ((:url . "http://github.com/coldnew/pangu-spacing")) "melpa"])
+  (pangu-spacing . [(20150202 1910) nil "Minor-mode to add space between Chinese and English characters." single ((:url . "http://github.com/coldnew/pangu-spacing")) "melpa"])
   (paredit . [(20150126 155) nil "minor mode for editing parentheses" single ((:keywords "lisp")) "melpa"])
   (paredit-everywhere . [(20140906 210) ((paredit (22))) "Enable some paredit features in non-lisp buffers" single ((:keywords "languages" "convenience")) "melpa"])
   (paredit-menu . [(20130923 1254) nil "Adds a menu to paredit.el as memory aid" single ((:keywords "paredit")) "melpa"])
