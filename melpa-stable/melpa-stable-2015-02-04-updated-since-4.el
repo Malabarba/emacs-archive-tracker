@@ -159,7 +159,7 @@
   (undercover . [(0 4 0) ((emacs (24)) (dash (2 0 0)) (shut-up (0 3 2))) "Test coverage library for Emacs" single ((:url . "https://github.com/sviridov/undercover.el") (:keywords "lisp" "tests" "coverage" "tools")) "melpa-stable"])
   (utop . [(1 17) ((emacs (24))) "Universal toplevel for OCaml" single ((:url . "https://github.com/diml/utop") (:keywords "ocaml" "languages")) "melpa-stable"])
   (vlf . [(1 7) nil "View Large Files" tar ((:url . "https://github.com/m00natic/vlfi") (:keywords "large files" "utilities")) "melpa-stable"])
-  (web-mode . [(10 3) nil "major mode for editing web templates" single ((:url . "http://web-mode.org") (:keywords "languages")) "melpa-stable"])
+  (web-mode . [(10 4) nil "major mode for editing web templates" single ((:url . "http://web-mode.org") (:keywords "languages")) "melpa-stable"])
   (whitespace-cleanup-mode . [(0 10) nil "Intelligently call whitespace-cleanup on save" single ((:url . "https://github.com/purcell/whitespace-cleanup-mode") (:keywords "convenience")) "melpa-stable"])
   (wisp-mode . [(0 8 1) nil "Tools for wisp: the Whitespace-to-Lisp preprocessor" single ((:keywords "languages" "lisp")) "melpa-stable"])
   (writeroom-mode . [(2 9) ((emacs (24 1)) (visual-fill-column (1 4))) "Minor mode for distraction-free writing" tar ((:keywords "text")) "melpa-stable"])

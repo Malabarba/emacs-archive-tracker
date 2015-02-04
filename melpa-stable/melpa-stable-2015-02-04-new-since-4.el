@@ -40,7 +40,7 @@
   (e2wm-sww . [(0 0 2) ((e2wm (1 2))) "Plugin of e2wm.el to switch plugin quickly" single ((:url . "https://github.com/aki2o/e2wm-sww") (:keywords "tools" "window manager")) "melpa-stable"])
   (e2wm-term . [(0 0 5) ((e2wm (1 2)) (log4e (0 2 0)) (yaxception (0 3 2))) "Perspective of e2wm.el for work in terminal" single ((:url . "https://github.com/aki2o/e2wm-term") (:keywords "tools" "window manager")) "melpa-stable"])
   (edit-indirect . [(0 1 2) ((emacs (24 3))) "Edit regions in separate buffers" single ((:url . "https://github.com/Fanael/edit-indirect")) "melpa-stable"])
-  (el-init . [(0 1 2) ((emacs (24)) (cl-lib (0 5)) (anaphora (1 0 0))) "A loader inspired by init-loader" single nil "melpa-stable"])
+  (el-init . [(0 1 3) ((emacs (24)) (cl-lib (0 5)) (anaphora (1 0 0))) "A loader inspired by init-loader" single nil "melpa-stable"])
   (elscreen-mew . [(1 0 1) ((elscreen (20120413 807))) "ElScreen Add-On for Mew" single ((:url . "https://github.com/masutaka/elscreen-mew")) "melpa-stable"])
   (elscreen-persist . [(0 1 1) ((elscreen (1 4 6)) (revive (2 1 9))) "persist the elscreen across sessions" single ((:keywords "elscreen" "frames")) "melpa-stable"])
   (erc-youtube . [(0 -3) ((erc (5 3))) "Show received youtube urls in the ERC buffer" single ((:keywords "multimedia")) "melpa-stable"])
