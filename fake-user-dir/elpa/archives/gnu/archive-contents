@@ -67,6 +67,11 @@
 	 "Play chess in GNU Emacs" tar
 	 ((:keywords "games")
 	  (:url . "http://elpa.gnu.org/packages/chess.html"))])
+ (cl-generic .
+	     [(0 1)
+	      nil "Forward cl-generic compatibility for Emacs<25" single
+	      ((:url . "http://elpa.gnu.org/packages/cl-generic.html")
+	       (:keywords))])
  (cl-lib .
 	 [(0 5)
 	  nil "Properly prefixed CL functions and macros" single
@@ -78,7 +83,7 @@
 	       ((:url . "http://github.com/defunkt/coffee-mode")
 		(:keywords "coffeescript" "major" "mode"))])
  (company .
-	  [(0 8 9)
+	  [(0 8 10)
 	   ((emacs
 	     (24 1))
 	    (cl-lib
@@ -241,7 +246,7 @@
 	((:url . "http://www.dr-qubit.org/emacs.php")
 	 (:keywords "extensions" "data structures" "heap" "priority queue"))])
  (hydra .
-	[(0 3 1)
+	[(0 5 0)
 	 ((cl-lib
 	   (0 5)))
 	 "Make bindings that stick around" tar
@@ -265,9 +270,11 @@
 	       ((:url . "http://elpa.gnu.org/packages/jgraph-mode.html")
 		(:keywords "tex" "wp"))])
  (js2-mode .
-	   [(20141118)
+	   [(20150202)
 	    ((emacs
-	      (24 1)))
+	      (24 1))
+	     (cl-lib
+	      (0 5)))
 	    "Improved JavaScript editing mode" tar
 	    ((:keywords "languages" "javascript")
 	     (:url . "https://github.com/mooz/js2-mode/"))])
@@ -361,7 +368,7 @@
 	    ((:url . "http://elpa.gnu.org/packages/omn-mode.html")
 	     (:keywords))])
  (org .
-      [(20150126)
+      [(20150202)
        nil "Outline-based notes management and organizer" tar nil])
  (osc .
       [(0 1)
