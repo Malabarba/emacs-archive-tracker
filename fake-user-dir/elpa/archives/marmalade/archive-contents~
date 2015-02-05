@@ -2150,13 +2150,15 @@
 		[(0 18)
 		 nil "Major mode for editing LESS CSS files (lesscss.org)" single])
  (lentic .
-	 [(0 6 1)
+	 [(0 7)
 	  ((emacs
-	    (24))
+	    (24 4))
 	   (m-buffer
 	    (0 8))
 	   (dash
-	    (2 5 0)))
+	    (2 5 0))
+	   (f
+	    (0 17 2)))
 	  "One buffer as a view of another" tar])
  (legalese .
 	   [(20120706)
