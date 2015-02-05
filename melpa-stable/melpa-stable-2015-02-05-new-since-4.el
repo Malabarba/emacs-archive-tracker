@@ -86,7 +86,7 @@
   (hindent . [(4 3 7) ((cl-lib (0 5))) "Indent haskell code using the \"hindent\" program" single ((:url . "https://github.com/chrisdone/hindent")) "melpa-stable"])
   (history . [(1 0 0) ((emacs (24 3))) "History utility for source code navigation" tar ((:url . "https://github.com/boyw165/history")) "melpa-stable"])
   (hl-anything . [(0 0 9) ((emacs (24 3))) "Highlight symbols, selections, enclosing parens and more." tar nil "melpa-stable"])
-  (hydra . [(0 7 0) ((cl-lib (0 5))) "Make bindings that stick around" tar ((:url . "https://github.com/abo-abo/hydra") (:keywords "bindings")) "melpa-stable"])
+  (hydra . [(0 8 0) ((cl-lib (0 5))) "Make bindings that stick around" tar ((:url . "https://github.com/abo-abo/hydra") (:keywords "bindings")) "melpa-stable"])
   (ibuffer-projectile . [(0 2) ((projectile (0 11 0))) "Group ibuffer's list by projectile root" single ((:url . "http://github.com/purcell/ibuffer-projectile") (:keywords "themes")) "melpa-stable"])
   (idomenu . [(0 1) nil "imenu tag selection with ido" single ((:url . "https://github.com/birkenfeld/idomenu") (:keywords "extensions" "convenience")) "melpa-stable"])
   (image+ . [(0 5 9) nil "Image manupulation extensions for Emacs" single ((:url . "http://github.com/mhayashi1120/Emacs-imagex/raw/master/image+.el") (:keywords "multimedia" "extensions")) "melpa-stable"])
