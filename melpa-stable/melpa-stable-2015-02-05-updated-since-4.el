@@ -32,7 +32,7 @@
   (easy-kill . [(0 9 3) ((emacs (24)) (cl-lib (0 5))) "kill & mark things easily" single ((:url . "https://github.com/leoliu/easy-kill") (:keywords "killing" "convenience")) "melpa-stable"])
   (ebib . [(2 2 3) ((dash (2 5 0)) (parsebib (1 0)) (emacs (24 3))) "a BibTeX database manager" tar ((:keywords "text" "bibtex")) "melpa-stable"])
   (editorconfig . [(0 4) nil "EditorConfig Emacs extension" single ((:url . "http://github.com/editorconfig/editorconfig-emacs#readme")) "melpa-stable"])
-  (egison-mode . [(3 5 5) nil "Egison editing mode" single ((:url . "https://github.com/egisatoshi/egison3/blob/master/elisp/egison-mode.el")) "melpa-stable"])
+  (egison-mode . [(3 5 6) nil "Egison editing mode" single ((:url . "https://github.com/egisatoshi/egison3/blob/master/elisp/egison-mode.el")) "melpa-stable"])
   (elfeed . [(1 1 2) ((emacs (24 1))) "an Emacs Atom/RSS feed reader" tar nil "melpa-stable"])
   (elfeed-web . [(1 1 2) ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) "web interface to Elfeed" tar nil "melpa-stable"])
   (elisp-slime-nav . [(0 8) ((cl-lib (0 2))) "Make M-. and M-, work in elisp like they do in slime" single ((:url . "https://github.com/purcell/elisp-slime-nav") (:keywords "navigation" "slime" "elisp" "emacs-lisp")) "melpa-stable"])

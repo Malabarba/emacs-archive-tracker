@@ -961,7 +961,7 @@
   (scpaste . [(20110617 1856) ((htmlfontify (0 21))) "Paste to the web via scp." single ((:url . "http://www.emacswiki.org/cgi-bin/wiki/SCPaste") (:keywords "convenience" "hypermedia")) "melpa"])
   (scratch . [(20120830 1028) nil "Mode-specific scratch buffers" tar ((:keywords "editing")) "melpa"])
   (scratch-log . [(20141114 2343) nil "Utility for *scratch* buffer." single nil "melpa"])
-  (scratch-palette . [(20150127 526) nil "save scratch notes on each file" single ((:url . "http://hins11.yu-yake.com/")) "melpa"])
+  (scratch-palette . [(20150204 2319) nil "save scratch notes on each file" single ((:url . "http://hins11.yu-yake.com/")) "melpa"])
   (scratch-pop . [(20131108 330) nil "popup \"scratch\"es" single ((:url . "http://hins11.yu-yake.com/")) "melpa"])
   (screenshot . [(20120509 1105) nil "Take a screenshot in Emacs" single ((:url . "http://www.emacswiki.org/cgi-bin/wiki/download/screenshot.el") (:keywords "images" "hypermedia")) "melpa"])
   (scss-mode . [(20150107 1400) nil "Major mode for editing SCSS files" single ((:url . "https://github.com/antonj/scss-mode") (:keywords "scss" "css" "mode")) "melpa"])
