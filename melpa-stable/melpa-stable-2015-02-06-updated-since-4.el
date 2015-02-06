@@ -65,6 +65,7 @@
   (gist . [(1 2 1) ((eieio (1 4)) (gh (0 8 1)) (tabulated-list (0))) "Emacs integration for gist.github.com" single ((:keywords "gist" "git" "github" "paste" "pastie" "pastebin")) "melpa-stable"])
   (git-auto-commit-mode . [(4 3 0) nil "Emacs Minor mode to automatically commit and push" single ((:url . "http://ryuslash.org/projects/git-auto-commit-mode/") (:keywords "vc")) "melpa-stable"])
   (git-gutter . [(0 80) ((cl-lib (0 5)) (emacs (24))) "Port of Sublime Text plugin GitGutter" single ((:url . "https://github.com/syohex/emacs-git-gutter")) "melpa-stable"])
+  (git-link . [(0 1 0) nil "Get the GitHub/Bitbucket/Gitorious URL for a buffer location" single ((:url . "http://github.com/sshaw/git-link") (:keywords "git")) "melpa-stable"])
   (git-timemachine . [(1 9) nil "Walk through git revisions of a file" single ((:url . "https://github.com/pidu/git-timemachine") (:keywords "git")) "melpa-stable"])
   (go-eldoc . [(0 21) ((go-mode (0)) (cl-lib (0 5))) "eldoc for go-mode" single ((:url . "https://github.com/syohex/emacs-go-eldoc")) "melpa-stable"])
   (google-translate . [(0 10 6) nil "Emacs interface to Google Translate." tar nil "melpa-stable"])
