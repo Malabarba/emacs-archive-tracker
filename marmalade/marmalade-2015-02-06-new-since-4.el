@@ -161,6 +161,7 @@
   (multi . [(2 0 1) ((emacs (24))) "Clojure-style multi-methods for emacs lisp" single "marmalade"])
   (mv-shell . [(1 2) nil "keep buffers in sync with filename throughout 'mv'commands in shell-mode." single "marmalade"])
   (navigate . [(0 1 5) nil "Seamlessly navigate between Emacs and tmux" single "marmalade"])
+  (niclein . [(0 0 1) ((shadchen (1 4)) (smartparens (1 5))) "Nic's lein and clojure integration" single "marmalade"])
   (nose-mode . [(0 1) ((nose (0 1 1))) "Minor mode for running nose tests." tar "marmalade"])
   (nrepl-discover . [(0 0 1) nil "Client to load commands from nrepl server" single "marmalade"])
   (nssh-n . [(0 9 8) nil "SSH mode for Emacs" single "marmalade"])
@@ -247,5 +248,4 @@
   (zeal-at-point . [(0 0 3) nil "Search the word at point with Zeal" single "marmalade"])
   (zenburn . [(0 1) nil "A low contrast colour theme for Emacs" single "marmalade"])
   (zone-matrix . [(0 0 1) nil "Matrix themed Zone mode" tar "marmalade"])
-  (niclein . [(0 0 1) ((shadchen (1 4)) (smartparens (1 5))) "Nic's lein and clojure integration" single "marmalade"])
  )
