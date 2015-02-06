@@ -249,4 +249,5 @@
   (yaml-mode . [(0 0 9) nil "Major mode for editing YAML files" single "marmalade"])
   (yari . [(0 7) nil "Yet Another RI interface for Emacs" single "marmalade"])
   (znc . [(0 0 2) ((cl (2 2)) (erc (5 3))) "ZNC + ERC" single "marmalade"])
+  (aes . [(0 8) nil "Implementation of AES" single "marmalade"])
  )

@@ -5,6 +5,7 @@
   (ac-cider . [(0 2 1) ((cider (0 8 0)) (auto-complete (1 4)) (cl-lib (0 3))) "Clojure auto-complete sources using CIDER" single ((:url . "https://github.com/clojure-emacs/ac-cider") (:keywords "languages" "clojure" "nrepl" "cider" "compliment")) "melpa-stable"])
   (ac-haskell-process . [(0 5) ((auto-complete (1 4)) (haskell-mode (13))) "Haskell auto-complete source which uses the current haskell process" single ((:keywords "languages")) "melpa-stable"])
   (ace-window . [(0 6 1) ((ace-jump-mode (2 0))) "Quickly switch windows using `ace-jump-mode'." single ((:url . "https://github.com/abo-abo/ace-window") (:keywords "cursor" "window" "location")) "melpa-stable"])
+  (aes . [(0 8) nil "Implementation of AES" single ((:url . "https://github.com/Sauermann/emacs-aes") (:keywords "data" "tools")) "melpa-stable"])
   (ag . [(0 45) ((dash (2 8 0)) (s (1 9 0))) "A front-end for ag ('the silver searcher'), the C ack replacement." single nil "melpa-stable"])
   (alchemist . [(0 13 1) ((emacs (24))) "Elixir tooling integration into emacs" tar ((:url . "http://www.github.com/tonini/alchemist.el") (:keywords "languages" "mix" "elixir" "elixirc" "hex")) "melpa-stable"])
   (ansible . [(0 0 3) ((s (1 9 0)) (f (0 16 2))) "Ansible minor mode" tar ((:url . "http://101000lab.org")) "melpa-stable"])
