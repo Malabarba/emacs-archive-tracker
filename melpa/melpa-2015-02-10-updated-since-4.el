@@ -409,7 +409,7 @@
   (helm . [(20150209 1429) ((emacs (24)) (cl-lib (0 5)) (async (1 2))) "Helm is an Emacs incremental and narrowing framework" tar nil "melpa"])
   (helm-R . [(20120819 1714) ((helm (20120517)) (ess (20120509))) "helm-sources and some utilities for GNU R." single ((:url . "https://github.com/myuhe/helm-R.el") (:keywords "convenience")) "melpa"])
   (helm-ack . [(20141030 526) ((helm (1 0)) (cl-lib (0 5))) "Ack command with helm interface" single ((:url . "https://github.com/syohex/emacs-helm-ack")) "melpa"])
-  (helm-ag . [(20150201 618) ((helm (1 5 6)) (cl-lib (0 5))) "the silver searcher with helm interface" single ((:url . "https://github.com/syohex/emacs-helm-ag")) "melpa"])
+  (helm-ag . [(20150210 126) ((helm (1 5 6)) (cl-lib (0 5))) "the silver searcher with helm interface" single ((:url . "https://github.com/syohex/emacs-helm-ag")) "melpa"])
   (helm-anything . [(20141126 231) ((helm (20130406)) (anything (20120101))) "Bridge between anything and helm" single ((:url . "http://www.emacswiki.org/emacs/download/helm-anything.el") (:keywords "helm" "anything" "convenience" "search" "tools")) "melpa"])
   (helm-c-moccur . [(20140115 1943) ((helm (20120811)) (color-moccur (2 71))) "helm source for color-moccur.el" single ((:keywords "convenience" "emulation")) "melpa"])
   (helm-c-yasnippet . [(20140131 226) ((helm (1 5 8)) (yasnippet (0 8 0)) (cl-lib (0 3))) "helm source for yasnippet.el" single ((:keywords "convenience" "emulation")) "melpa"])
