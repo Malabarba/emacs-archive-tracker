@@ -27,6 +27,7 @@
   (conkeror-minor-mode . [(1 6 2) nil "Mode for editing conkeror javascript files." single ((:url . "http://github.com/Bruce-Connor/conkeror-minor-mode") (:keywords "programming" "tools")) "melpa-stable"])
   (cperl-mode . [(6 3) nil "Perl code editing commands for Emacs" single ((:keywords "languages" "perl")) "melpa-stable"])
   (cpputils-cmake . [(0 5 0) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar nil "melpa-stable"])
+  (cython-mode . [(0 22) nil "Major mode for editing Cython files" single nil "melpa-stable"])
   (dash . [(2 10 0) nil "A modern list library for Emacs" single ((:keywords "lists")) "melpa-stable"])
   (dash-functional . [(2 10 0) ((dash (2 0 0)) (emacs (24))) "Collection of useful combinators for Emacs Lisp" single ((:keywords "lisp" "functions" "combinators")) "melpa-stable"])
   (dim-autoload . [(1 1 3) nil "dim complete autoload cookie lines" single ((:url . "http://github.com/tarsius/dim-autoload") (:keywords "convenience")) "melpa-stable"])
