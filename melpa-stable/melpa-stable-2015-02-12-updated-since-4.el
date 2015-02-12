@@ -19,7 +19,7 @@
   (clj-refactor . [(0 13 0) ((s (1 8 0)) (dash (2 4 0)) (yasnippet (0 6 1)) (paredit (22)) (multiple-cursors (1 2 2)) (cider (0 6 0))) "A collection of clojure refactoring functions" single ((:keywords "convenience")) "melpa-stable"])
   (clojure-mode . [(4 0 1) ((emacs (24 1))) "Major mode for Clojure code" single ((:url . "http://github.com/clojure-emacs/clojure-mode") (:keywords "languages" "clojure" "clojurescript" "lisp")) "melpa-stable"])
   (clojure-mode-extra-font-locking . [(4 0 1) ((clojure-mode (3 0))) "Extra font-locking for Clojure mode" single ((:url . "http://github.com/clojure-emacs/clojure-mode") (:keywords "languages" "lisp")) "melpa-stable"])
-  (cmake-mode . [(3 1 2) nil "major-mode for editing CMake sources" single nil "melpa-stable"])
+  (cmake-mode . [(3 1 3) nil "major-mode for editing CMake sources" single nil "melpa-stable"])
   (coffee-mode . [(0 5 8) ((emacs (24 1)) (cl-lib (0 5))) "Major mode to edit CoffeeScript files in Emacs" single ((:url . "http://github.com/defunkt/coffee-mode") (:keywords "coffeescript" "major" "mode")) "melpa-stable"])
   (colorsarenice-theme . [(1 0 19) ((emacs (24))) "A colorful color theme." tar nil "melpa-stable"])
   (company . [(0 8 11) ((emacs (24 1)) (cl-lib (0 5))) "Modular text completion framework" tar ((:url . "http://company-mode.github.io/") (:keywords "abbrev" "convenience" "matching")) "melpa-stable"])
