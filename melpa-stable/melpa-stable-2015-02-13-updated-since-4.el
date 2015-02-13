@@ -113,7 +113,7 @@
   (nix-mode . [(1 8) nil "Major mode for editing Nix expressions" single ((:url . "https://github.com/NixOS/nix/tree/master/misc/emacs")) "melpa-stable"])
   (notmuch . [(0 19) nil "No description available." tar nil "melpa-stable"])
   (org-journal . [(1 6 4) nil "a simple org-mode based journaling mode" single ((:url . "http://github.com/bastibe/org-journal")) "melpa-stable"])
-  (org-pomodoro . [(1 4 1) ((alert (0 5 10))) "Pomodoro implementation for org-mode." tar nil "melpa-stable"])
+  (org-pomodoro . [(1 5 0) ((alert (0 5 10))) "Pomodoro implementation for org-mode." tar nil "melpa-stable"])
   (org-trello . [(0 6 9 2) ((request-deferred (0 1 0)) (deferred (0 3 2)) (s (1 9 0)) (dash (2 8 0)) (emacs (24))) "Minor mode to synchronize org-mode buffer and trello board" tar nil "melpa-stable"])
   (orglink . [(0 2 2) ((dash (1 3 2)) (org (8 0))) "use Org Mode links in other modes" single ((:url . "http://github.com/tarsius/orglink") (:keywords "hypertext")) "melpa-stable"])
   (package-utils . [(0 3 0) ((epl (0 7 -3))) "Extensions for package.el" single ((:url . "https://github.com/Silex/package-utils") (:keywords "package" "convenience")) "melpa-stable"])
