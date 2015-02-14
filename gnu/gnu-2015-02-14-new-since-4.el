@@ -29,7 +29,7 @@
   (diff-hl . [(1 7 0) ((cl-lib (0 2))) "Highlight uncommitted changes" tar ((:keywords "vc" "diff") (:url . "https://github.com/dgutov/diff-hl")) "gnu"])
   (darkroom . [(0 1) ((cl-lib (0 5))) "Remove visual distractions and focus on writing" single ((:url . "http://elpa.gnu.org/packages/darkroom.html") (:keywords "convenience" "emulations")) "gnu"])
   (crisp . [(1 3 4) nil "CRiSP/Brief Emacs emulator" single ((:url . "http://elpa.gnu.org/packages/crisp.html") (:keywords "emulations" "brief" "crisp")) "gnu"])
-  (context-coloring . [(5 0 0) ((emacs (24)) (js2-mode (20150126))) "Syntax highlighting, except not for syntax." single ((:url . "https://github.com/jacksonrayhamilton/context-coloring") (:keywords "context" "coloring" "syntax" "highlighting")) "gnu"])
+  (context-coloring . [(6 0 0) ((emacs (24)) (js2-mode (20150126))) "Syntax highlighting, except not for syntax." single ((:url . "https://github.com/jacksonrayhamilton/context-coloring") (:keywords "context" "coloring" "syntax" "highlighting")) "gnu"])
   (company-statistics . [(0 1 1) ((emacs (24 3)) (company (0 8 5))) "Sort candidates using completion history" tar ((:keywords "abbrev" "convenience" "matching") (:url . "https://github.com/company-mode/company-statistics")) "gnu"])
   (cl-generic . [(0 1) nil "Forward cl-generic compatibility for Emacs<25" single ((:url . "http://elpa.gnu.org/packages/cl-generic.html") (:keywords)) "gnu"])
   (chess . [(2 0 4) ((cl-lib (0 5))) "Play chess in GNU Emacs" tar ((:keywords "games") (:url . "http://elpa.gnu.org/packages/chess.html")) "gnu"])
