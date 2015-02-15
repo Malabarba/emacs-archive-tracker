@@ -42,6 +42,7 @@
   (edit-indirect . [(0 1 2) ((emacs (24 3))) "Edit regions in separate buffers" single ((:url . "https://github.com/Fanael/edit-indirect")) "melpa-stable"])
   (egg . [(1 0 9) nil "Emacs Got Git - Emacs interface to Git" tar ((:keywords "git" "version control" "release management")) "melpa-stable"])
   (el-init . [(0 1 4) ((emacs (24)) (cl-lib (0 5)) (anaphora (1 0 0))) "A loader inspired by init-loader" single nil "melpa-stable"])
+  (el-init-viewer . [(0 1 0) ((emacs (24)) (cl-lib (0 5)) (ctable (0 1 2)) (dash (2 10 0)) (anaphora (1 0 0)) (el-init (0 1 4))) "Record viewer for el-init" single nil "melpa-stable"])
   (elscreen-mew . [(1 0 1) ((elscreen (20120413 807))) "ElScreen Add-On for Mew" single ((:url . "https://github.com/masutaka/elscreen-mew")) "melpa-stable"])
   (elscreen-persist . [(0 1 1) ((elscreen (1 4 6)) (revive (2 1 9))) "persist the elscreen across sessions" single ((:keywords "elscreen" "frames")) "melpa-stable"])
   (erc-youtube . [(0 -3) ((erc (5 3))) "Show received youtube urls in the ERC buffer" single ((:keywords "multimedia")) "melpa-stable"])
