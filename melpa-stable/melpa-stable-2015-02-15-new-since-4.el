@@ -154,7 +154,7 @@
   (pophint . [(0 9 3) ((popup (0 5 0)) (log4e (0 2 0)) (yaxception (0 1))) "Provide navigation using pop-up tips, like Firefox's Vimperator Hint Mode" tar ((:url . "https://github.com/aki2o/emacs-pophint") (:keywords "popup")) "melpa-stable"])
   (pos-tip . [(0 4 6) nil "Show tooltip at point" single ((:keywords "tooltip")) "melpa-stable"])
   (pt . [(0 0 3) nil "A front-end for pt, The Platinum Searcher." single ((:url . "https://github.com/bling/pt.el") (:keywords "pt" "ack" "ag" "grep" "search")) "melpa-stable"])
-  (purpose . [(1 1) ((emacs (24 4)) (let-alist (1 0 3))) "Handle buffers and windows by their purposes" tar ((:url . "https://github.com/bmag/emacs-purpose") (:keywords "frames")) "melpa-stable"])
+  (purpose . [(1 1 1) ((emacs (24 4)) (let-alist (1 0 3))) "Handle buffers and windows by their purposes" tar ((:url . "https://github.com/bmag/emacs-purpose") (:keywords "frames")) "melpa-stable"])
   (rake . [(0 3 0) ((f (0 13 0)) (dash (1 5 0)) (cl-lib (0 5))) "Run rake commands" single ((:url . "https://github.com/asok/rake.el") (:keywords "rake" "ruby")) "melpa-stable"])
   (real-auto-save . [(0 4) nil "enable real auto save" single nil "melpa-stable"])
   (realgud . [(1 1) ((load-relative (1 0)) (list-utils (0 4 2)) (loc-changes (1 1)) (test-simple (1 0))) "A modular front-end for interacting with external debuggers" tar ((:url . "http://github.com/rocky/emacs-dbgr")) "melpa-stable"])

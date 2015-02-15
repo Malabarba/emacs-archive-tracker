@@ -474,7 +474,7 @@
   (ido-load-library . [(20140611 900) ((persistent-soft (0 8 8)) (pcache (0 2 3))) "Load-library alternative using ido-completing-read" single ((:url . "http://github.com/rolandwalker/ido-load-library") (:keywords "maint" "completion")) "melpa"])
   (ido-sort-mtime . [(20131117 530) nil "Sort Ido's file list by modification time" single ((:keywords "convenience" "files")) "melpa"])
   (ido-ubiquitous . [(20141210 1353) ((emacs (24 1))) "Use ido (nearly) everywhere." single ((:url . "https://github.com/DarwinAwardWinner/ido-ubiquitous") (:keywords "convenience" "completion" "ido")) "melpa"])
-  (ido-vertical-mode . [(20150214 2052) nil "Makes ido-mode display vertically." single ((:url . "https://github.com/gempesaw/ido-vertical-mode.el") (:keywords "convenience")) "melpa"])
+  (ido-vertical-mode . [(20150215 913) nil "Makes ido-mode display vertically." single ((:url . "https://github.com/gempesaw/ido-vertical-mode.el") (:keywords "convenience")) "melpa"])
   (idomenu . [(20141123 1320) nil "imenu tag selection a la ido" single nil "melpa"])
   (iedit . [(20150108 1653) nil "Edit multiple regions in the same way simultaneously." tar ((:url . "http://www.emacswiki.org/emacs/Iedit") (:keywords "occurrence" "region" "simultaneous" "refactoring")) "melpa"])
   (iflipb . [(20130331 1108) nil "interactively flip between recently visited buffers" single ((:url . "http://hg.rosdahl.net/iflipb")) "melpa"])
