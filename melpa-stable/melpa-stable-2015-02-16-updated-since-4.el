@@ -48,7 +48,7 @@
   (evil-jumper . [(0 2 0) ((evil (0))) "Jump like vimmers do!" single ((:url . "https://github.com/bling/evil-jumper") (:keywords "evil" "vim" "jumplist" "jump" "list")) "melpa-stable"])
   (evil-matchit . [(1 4 3) nil "Vim matchit ported into Emacs (requires EVIL)" tar nil "melpa-stable"])
   (evil-nerd-commenter . [(1 5 12) nil "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" tar nil "melpa-stable"])
-  (evil-search-highlight-persist . [(1 3) ((highlight (0))) "Persistent highlights after search" single nil "melpa-stable"])
+  (evil-search-highlight-persist . [(1 4) ((highlight (0))) "Persistent highlights after search" single nil "melpa-stable"])
   (evil-space . [(0 0 3) ((evil (1 0 0))) "Repeat motion in Evil. Correct the behaviour of what SPC should do." single ((:url . "http://github.com/linktohack/evil-space") (:keywords "space" "repeat" "motion")) "melpa-stable"])
   (evil-visualstar . [(0 1 0) ((evil (0))) "Starts a * or # search from the visual selection" single ((:url . "https://github.com/bling/evil-visualstar") (:keywords "evil" "vim" "visualstar")) "melpa-stable"])
   (eww-lnum . [(1 1) nil "Conkeror-like functionality for eww" single ((:url . "https://github.com/m00natic/eww-lnum") (:keywords "eww" "browse" "conkeror")) "melpa-stable"])

@@ -382,7 +382,7 @@
 	    ((:url . "http://elpa.gnu.org/packages/omn-mode.html")
 	     (:keywords))])
  (org .
-      [(20150209)
+      [(20150216)
        nil "Outline-based notes management and organizer" tar nil])
  (osc .
       [(0 1)
@@ -482,6 +482,11 @@
 		      nil "temp buffer browse mode" single
 		      ((:url . "http://elpa.gnu.org/packages/temp-buffer-browse.html")
 		       (:keywords "convenience"))])
+ (test-simple .
+	      [(1 1)
+	       nil "Simple Unit Test Framework for Emacs Lisp" single
+	       ((:url . "http://github.com/rocky/emacs-test-simple")
+		(:keywords "unit-test"))])
  (trie .
        [(0 2 6)
 	((tNFA

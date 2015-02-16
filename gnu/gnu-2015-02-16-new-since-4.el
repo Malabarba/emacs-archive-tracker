@@ -6,6 +6,7 @@
   (web-server . [(0 1 1) ((emacs (24 3))) "Emacs Web Server" tar ((:keywords "http" "server" "network") (:url . "https://github.com/eschulte/emacs-web-server")) "gnu"])
   (wcheck-mode . [(2014 6 21) nil "General interface for text checkers" single ((:url . "https://github.com/tlikonen/wcheck-mode") (:keywords "text" "spell" "check" "languages" "ispell")) "gnu"])
   (w3 . [(4 0 49) nil "Fully customizable, largely undocumented web browser for Emacs" tar ((:keywords "faces" "help" "comm" "news" "mail" "processes" "mouse" "hypermedia") (:url . "http://elpa.gnu.org/packages/w3.html")) "gnu"])
+  (test-simple . [(1 1) nil "Simple Unit Test Framework for Emacs Lisp" single ((:url . "http://github.com/rocky/emacs-test-simple") (:keywords "unit-test")) "gnu"])
   (temp-buffer-browse . [(1 4) nil "temp buffer browse mode" single ((:url . "http://elpa.gnu.org/packages/temp-buffer-browse.html") (:keywords "convenience")) "gnu"])
   (svg . [(0 1) ((emacs (25))) "svg image creation functions" single ((:url . "http://elpa.gnu.org/packages/svg.html") (:keywords "image")) "gnu"])
   (seq . [(1 2) nil "Sequence manipulation functions" single ((:url . "http://elpa.gnu.org/packages/seq.html") (:keywords "sequences")) "gnu"])
