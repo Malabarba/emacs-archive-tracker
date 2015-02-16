@@ -1,4 +1,5 @@
 '(
+  (ac-clang . [(1 1) ((emacs (24)) (cl-lib (0 5)) (auto-complete (1 4 0)) (yasnippet (0 8 0)) (dropdown-list (1 45))) "Auto Completion source by libclang for GNU Emacs" single ((:url . "https://github.com/yaruopooner/ac-clang") (:keywords "completion" "convenience")) "melpa-stable"])
   (ac-html . [(0 22) ((auto-complete (1 4))) "auto complete source for html tags and attributes" tar ((:url . "https://github.com/cheunghy/ac-html") (:keywords "html" "auto-complete" "rails" "ruby")) "melpa-stable"])
   (ace-isearch . [(0 1 0) ((ace-jump-mode (2 0)) (helm-swoop (1 4)) (emacs (24))) "A seamless bridge between isearch and ace-jump-mode" single ((:url . "https://github.com/tam17aki/ace-isearch")) "melpa-stable"])
   (ace-jump-buffer . [(0 3 1) ((ace-jump-mode (1 0)) (dash (2 4 0))) "fast buffer switching extension to `ace-jump-mode'" single ((:url . "https://github.com/waymondo/ace-jump-buffer")) "melpa-stable"])
@@ -126,6 +127,7 @@
   (metaweblog . [(0 1 1) ((xml-rpc (1 6 8))) "An emacs library to access metaweblog based weblogs" tar nil "melpa-stable"])
   (monokai-theme . [(1 0 0) nil "A fruity color theme for Emacs." single ((:url . "http://github.com/oneKelvinSmith/monokai-emacs")) "melpa-stable"])
   (moz-controller . [(1 0) ((moz (0))) "Control Firefox from Emacs" single ((:url . "https://github.com/RenWenshan/emacs-moz-controller")) "melpa-stable"])
+  (mpv . [(0 1 0) ((cl-lib (0 5)) (emacs (24)) (json (1 3)) (names (0 5 4)) (org (8 0))) "control mpv for easy note-taking" single ((:url . "https://github.com/kljohann/mpv.el") (:keywords "tools" "multimedia")) "melpa-stable"])
   (mwim . [(0 1) nil "Move to the beginning/end of line or code" single ((:url . "https://gitorious.org/alezost-emacs/mwim") (:keywords "convenience")) "melpa-stable"])
   (narrowed-page-navigation . [(0 1 0) ((emacs (24)) (cl-lib (0 5))) "A minor mode for showing one page at a time" single ((:keywords "outlines")) "melpa-stable"])
   (omnisharp . [(3 8) ((json (1 2)) (flycheck (0 21)) (dash (20141201 2206)) (auto-complete (1 4)) (popup (0 5 1)) (csharp-mode (0 8 7)) (cl-lib (0 5))) "Omnicompletion (intellisense) and more for C#" tar ((:url . "https://github.com/sp3ctum/omnisharp-emacs") (:keywords "csharp" "c#" "ide" "auto-complete" "intellisense")) "melpa-stable"])
