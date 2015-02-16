@@ -134,7 +134,7 @@
   (project-explorer . [(0 13 5) ((cl-lib (0 3)) (es-lib (0 3)) (es-windows (0 1)) (emacs (24))) "A project explorer sidebar" single ((:url . "https://github.com/sabof/project-explorer")) "melpa-stable"])
   (psci . [(0 0 6) ((purescript-mode (13 10)) (dash (2 9 0)) (s (1 9 0)) (f (0 17 1)) (deferred (0 3 2))) "Major mode for purescript repl psci" tar ((:url . "https://github.com/ardumont/emacs-psci") (:keywords "purescript" "psci" "repl" "major" "mode")) "melpa-stable"])
   (punctuality-logger . [(0 8) nil "Punctuality logger for Emacs" single ((:url . "https://gitlab.com/elzair/punctuality-logger") (:keywords "reminder" "calendar")) "melpa-stable"])
-  (pungi . [(0 9 9) ((jedi (0 2 0 -3 2)) (pyvenv (1 5))) "Integrates jedi with virtualenv and buildout python environments" single ((:keywords "convenience")) "melpa-stable"])
+  (pungi . [(1 0) ((jedi (0 2 0 -3 2)) (pyvenv (1 5))) "Integrates jedi with virtualenv and buildout python environments" single ((:keywords "convenience")) "melpa-stable"])
   (pyvenv . [(1 5) nil "Python virtual environment interface" single ((:url . "http://github.com/jorgenschaefer/pyvenv") (:keywords "python" "virtualenv" "tools")) "melpa-stable"])
   (quickrun . [(2 2 2) ((emacs (24)) (cl-lib (0 5))) "Run commands quickly" single ((:url . "https://github.com/syohex/emacs-quickrun")) "melpa-stable"])
   (rainbow-delimiters . [(2 1) nil "Highlight brackets according to their depth" single ((:url . "https://github.com/Fanael/rainbow-delimiters") (:keywords "faces" "convenience" "lisp" "tools")) "melpa-stable"])
