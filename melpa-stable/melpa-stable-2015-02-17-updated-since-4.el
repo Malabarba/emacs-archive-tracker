@@ -11,7 +11,7 @@
   (ansible . [(0 0 3) ((s (1 9 0)) (f (0 16 2))) "Ansible minor mode" tar ((:url . "http://101000lab.org")) "melpa-stable"])
   (ansible-doc . [(0 3) ((emacs (24 1))) "Ansible documentation Minor Mode" single ((:url . "https://github.com/lunaryorn/ansible-doc.el") (:keywords "tools" "help")) "melpa-stable"])
   (anti-zenburn-theme . [(2 2) nil "Low-contrast Zenburn-inverted theme" single ((:url . "https://github.com/m00natic/anti-zenburn-theme")) "melpa-stable"])
-  (anzu . [(0 50) ((cl-lib (0 5)) (emacs (24))) "Show number of matches in mode-line while searching" single ((:url . "https://github.com/syohex/emacs-anzu")) "melpa-stable"])
+  (anzu . [(0 51) ((cl-lib (0 5)) (emacs (24))) "Show number of matches in mode-line while searching" single ((:url . "https://github.com/syohex/emacs-anzu")) "melpa-stable"])
   (auto-complete-sage . [(0 0 2) ((auto-complete (1 4 0)) (sage-shell-mode (0 0 4))) "An auto-complete source for sage-shell-mode." single ((:url . "https://github.com/stakemori/auto-complete-sage") (:keywords "sage" "math" "auto-complete")) "melpa-stable"])
   (browse-kill-ring . [(2 0 0) nil "interactively insert items from kill-ring" single ((:url . "https://github.com/browse-kill-ring/browse-kill-ring") (:keywords "convenience")) "melpa-stable"])
   (cfengine-code-style . [(3 6 4) nil "C code style for CFEngine project." single ((:url . "https://github.com/cfengine/core")) "melpa-stable"])
