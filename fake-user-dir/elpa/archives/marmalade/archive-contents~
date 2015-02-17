@@ -1,12 +1,4 @@
 (1
- (picpocket .
-	    [(2)
-	     nil "Image viewer" single])
- (synosaurus .
-	     [(0 1 0)
-	      ((cl-lib
-		(0 5)))
-	      "An extensible thesaurus supporting lookup and substitution." tar])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -543,6 +535,11 @@
  (syntactic-sugar .
 		  [(0 9 4)
 		   nil "Effect-free forms such as if/then/else" single])
+ (synosaurus .
+	     [(0 1 0)
+	      ((cl-lib
+		(0 5)))
+	      "An extensible thesaurus supporting lookup and substitution." tar])
  (synonyms .
 	   [(1 0)
 	    nil "Look up synonyms for a word or phrase in a thesaurus." single])
@@ -1348,6 +1345,9 @@
  (pinboard .
 	   [(0 0 1)
 	    nil "get stuff from pinboard" single])
+ (picpocket .
+	    [(2)
+	     nil "Image viewer" single])
  (pickup .
 	 [(0 0 3)
 	  nil "pickup file." single])
