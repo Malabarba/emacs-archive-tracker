@@ -1,4 +1,7 @@
 (1
+ (picpocket .
+	    [(2)
+	     nil "Image viewer" single])
  (synosaurus .
 	     [(0 1 0)
 	      ((cl-lib
@@ -1527,7 +1530,7 @@
 	     [(0 0 8)
 	      nil "export html and meta data used by static blog like nikola from org file" tar])
  (org2jekyll .
-	     [(0 1 2)
+	     [(0 1 4)
 	      ((dash
 		(2 10 0))
 	       (dash-functional
