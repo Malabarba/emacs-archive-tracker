@@ -180,7 +180,7 @@
 	     nil "show text parts of image files" single
 	     ((:url . "http://user42.tuxfamily.org/imagetext/index.html"))])
  (info-lookmore .
-		[(5)
+		[(6)
 		 nil "more things for info-look.el" single
 		 ((:url . "http://user42.tuxfamily.org/info-lookmore/index.html"))])
  (ispell-stopwords .
