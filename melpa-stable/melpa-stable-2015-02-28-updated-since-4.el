@@ -28,7 +28,7 @@
   (color-theme-sanityinc-tomorrow . [(1 15) nil "A version of Chris Kempson's various Tomorrow themes" tar nil "melpa-stable"])
   (colorsarenice-theme . [(1 0 19) ((emacs (24))) "A colorful color theme." tar nil "melpa-stable"])
   (company . [(0 8 11) ((emacs (24 1)) (cl-lib (0 5))) "Modular text completion framework" tar ((:url . "http://company-mode.github.io/") (:keywords "abbrev" "convenience" "matching")) "melpa-stable"])
-  (company-ghc . [(0 1 9) ((cl-lib (0 5)) (company (0 8 0)) (ghc (4 1 1)) (emacs (24))) "company-mode ghc-mod backend" single ((:url . "https://github.com/iquiw/company-ghc") (:keywords "haskell" "completion")) "melpa-stable"])
+  (company-ghc . [(0 1 10) ((cl-lib (0 5)) (company (0 8 0)) (ghc (4 1 1)) (emacs (24))) "company-mode ghc-mod backend" single ((:url . "https://github.com/iquiw/company-ghc") (:keywords "haskell" "completion")) "melpa-stable"])
   (conkeror-minor-mode . [(1 6 2) nil "Mode for editing conkeror javascript files." single ((:url . "http://github.com/Bruce-Connor/conkeror-minor-mode") (:keywords "programming" "tools")) "melpa-stable"])
   (cperl-mode . [(6 3) nil "Perl code editing commands for Emacs" single ((:keywords "languages" "perl")) "melpa-stable"])
   (cpputils-cmake . [(0 5 0) nil "Easy real time C++ syntax check and intellisense if you use CMake" tar nil "melpa-stable"])

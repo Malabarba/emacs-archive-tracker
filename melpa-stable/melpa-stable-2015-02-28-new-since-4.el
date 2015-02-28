@@ -55,7 +55,7 @@
   (eval-in-repl . [(0 5 1) ((dash (0 0 0)) (paredit (0 0 0))) "Consistent ESS-like eval interface for various REPLs" tar nil "melpa-stable"])
   (evil-anzu . [(0 3) ((evil (1 0 0)) (anzu (0 46))) "anzu for evil-mode" single ((:url . "https://github.com/syohex/emacs-evil-anzu")) "melpa-stable"])
   (evil-commentary . [(0 0 2) ((evil (1 0 0))) "Comment stuff out. A port of vim-commentary." single ((:url . "http://github.com/linktohack/evil-commentary") (:keywords "evil" "comment" "commentary" "evil-commentary")) "melpa-stable"])
-  (evil-escape . [(2 10) ((emacs (24)) (evil (1 0 9))) "Escape from anything with a customizable key sequence" single ((:url . "https://github.com/syl20bnr/evil-escape") (:keywords "convenience" "editing" "evil")) "melpa-stable"])
+  (evil-escape . [(2 11) ((emacs (24)) (evil (1 0 9))) "Escape from anything with a customizable key sequence" single ((:url . "https://github.com/syl20bnr/evil-escape") (:keywords "convenience" "editing" "evil")) "melpa-stable"])
   (evil-iedit-state . [(1 0) ((evil (1 0 9)) (iedit (0 97))) "Evil states to interface iedit mode." single ((:url . "https://github.com/syl20bnr/evil-iedit-state") (:keywords "convenience" "editing" "evil" "iedit" "mnemonic")) "melpa-stable"])
   (evil-snipe . [(1 0) nil "emulate vim-sneak & vim-seek" single ((:url . "https://github.com/hlissner/evil-snipe") (:keywords "emulation" "vim" "evil" "sneak" "seek")) "melpa-stable"])
   (evil-tutor . [(1 0) ((evil (1 0 9))) "Vimtutor adapted to Evil and wrapped in a major-mode" tar ((:url . "https://github.com/syl20bnr/evil-tutor") (:keywords "convenience" "editing" "evil")) "melpa-stable"])

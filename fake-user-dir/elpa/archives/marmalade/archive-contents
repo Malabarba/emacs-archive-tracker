@@ -3286,14 +3286,12 @@
 			    (0)))
 			  "evil textobjects based on indentation" single])
  (evil-escape .
-	      [(1 6 0)
+	      [(2 11)
 	       ((emacs
 		 (24))
 		(evil
-		 (1 0 9))
-		(key-chord
-		 (0 6)))
-	       "Customizable key sequence to escape from insert state and everything else." single])
+		 (1 0 9)))
+	       "Escape from anything with a customizable key sequence" single])
  (evil .
        [(1 0 8)
 	((undo-tree
