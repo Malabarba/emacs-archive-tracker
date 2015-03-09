@@ -443,7 +443,7 @@
 	     [(12)
 	      nil "A theme loosely based on Tron: Legacy colors" single])
  (tracking .
-	   [(1 5)
+	   [(1 6)
 	    ((shorten
 	      (0 3)))
 	    "Buffer modification tracking" single])
@@ -873,7 +873,7 @@
 	   [(1 1)
 	    nil "Show the css of the html attribute the cursor is on" single])
  (shorten .
-	  [(0 3)
+	  [(1 6)
 	   nil "component-wise string shortener" single])
  (shoes-off .
 	    [(0 1 8)
@@ -1783,6 +1783,9 @@
  (mwe-log-commands .
 		   [(20041106)
 		    nil "log keyboard commands to buffer" single])
+ (mvn-help .
+	   [(0 0 1)
+	    nil "maven help tools" single])
  (mv-shell .
 	   [(1 2)
 	    nil "keep buffers in sync with filename throughout 'mv'commands in shell-mode." single])
@@ -2088,9 +2091,9 @@
       [(0 0 2)
        nil "lxc integration with Emacs" single])
  (lui .
-      [(1 5)
+      [(1 6)
        ((tracking
-	 (1 5)))
+	 (1 6)))
        "Linewise User Interface" tar])
  (lua-mode .
 	   [(20110428)
@@ -2190,7 +2193,7 @@
 	   [(20120706)
 	    nil "Add legalese to your program files" single])
  (lcs .
-      [(1 5)
+      [(1 6)
        nil "find out the longest common sequence" single])
  (layout-restore .
 		 [(0 4)
@@ -4099,11 +4102,11 @@
 	      [(0 0 2)
 	       nil "Major mode for editing Citrus files" single])
  (circe .
-	[(1 5)
+	[(1 6)
 	 ((lui
-	   (1 5))
+	   (1 6))
 	  (lcs
-	   (1 5)))
+	   (1 1)))
 	 "Client for IRC in Emacs" tar])
  (cider .
 	[(0 8 2)

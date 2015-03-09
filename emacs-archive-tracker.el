@@ -48,8 +48,6 @@
 (setq user-emacs-directory (expand-file-name "./fake-user-dir"))
 (make-directory user-emacs-directory :parents)
 
-(setq debug-on-error t)
-
 (require 'cl-lib)
 
 (defconst eat/version "0.7" "Version of the emacs-archive-tracker.el package.")
@@ -164,14 +162,15 @@
     (make-directory dirname :parents)
     ;; Get packages
     (eat/-log "Fetching list for %s." name)
+    (package-initialize)
     (package-refresh-contents)
     ;; Count them
     (set c 0)
     (set sc 0)
     (set tc 0)
     (dolist (cur package-archive-contents)
-      (set c (1+ (eval c)))
-      (let ((type (elt (cdr cur) 3)))
+      (set c (1+ (symbol-value c)))
+      (let ((type (package-desc-kind (cadr cur))))
         (cond                ;we use cond because case is not built-in
          ((equal type 'tar)    (set tc (1+ (eval tc))))
          ((equal type 'single) (set sc (1+ (eval sc))))
@@ -180,9 +179,9 @@
           (kill-emacs 1)))))
     ;; Print the counts
     (append-to-file (format "%s %s %s %s %s\n"
-                            (format-time-string "%s")
-                            (format-time-string "%Y-%m-%dT%R")
-                            (eval c) (eval sc) (eval tc))
+                      (format-time-string "%s")
+                      (format-time-string "%Y-%m-%dT%R")
+                      (eval c) (eval sc) (eval tc))
                     nil datafile)
     ;; Print the packages
     ;; we only print them once a day
@@ -271,15 +270,21 @@
 (require 'package)
 (eat/-log "Packages dir is %s" package-user-dir)
 
+(defun eat/source-name-to-total-count (src)
+  (format "%s " (eval (intern (concat "eat/" (car src) "-count")))))
+
+
+;;; Here we start the script
+(setq debug-on-error t)
+(prefer-coding-system       'utf-8)
+(set-default-coding-systems 'utf-8)
+
 (if (/= 0 (or (string-match (expand-file-name "./")
                             (expand-file-name package-user-dir)) 1))
-    (eat/-log "That's not inside the current directory! I'm quitting.")
+    (eat/-log (message "That's not inside the current directory! I'm quitting."))
 
   ;; (defun eat/-compare-last (name days) "")
   (eat/-log "Running %s%s" eat/directory eat/pull-script)
-
-  (defun eat/source-name-to-total-count (src)
-    (format "%s " (eval (intern (concat "eat/" (car src) "-count")))))
 
   (if (< 0 (shell-command
             (format "cd %s && ./%s" eat/directory eat/pull-script)))
@@ -296,18 +301,18 @@
     (eat/-log "Saving global data in %s" eat/data-file)
     (append-to-file
      (eval (format "%s %s %s %s %s %s\n"
-                   (format-time-string "%s")
-                   (format-time-string "%Y-%m-%dT%R")
-                   eat/ALL-count
-                   eat/ALL-single-count
-                   eat/ALL-tar-count
-                   (mapconcat 'eat/source-name-to-total-count eat/sources "")))
+             (format-time-string "%s")
+             (format-time-string "%Y-%m-%dT%R")
+             eat/ALL-count
+             eat/ALL-single-count
+             eat/ALL-tar-count
+             (mapconcat #'eat/source-name-to-total-count eat/sources "")))
      nil eat/data-file)
 
     (defun eat/format-list-entry (src &optional n)
       (format "<li><strong>%s</strong>: %s</li>"
-              (capitalize (or (car-safe src) src))
-              (or n (eat/source-name-to-total-count src))))
+        (capitalize (or (car-safe src) src))
+        (or n (eat/source-name-to-total-count src))))
     
     (with-temp-file eat/table-file
       (set-buffer-file-coding-system 'no-conversion)
