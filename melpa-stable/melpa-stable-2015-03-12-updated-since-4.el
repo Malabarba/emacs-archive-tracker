@@ -495,7 +495,7 @@
   (packed [cl-struct-package-desc packed (0 4 0) "package manager agnostic Emacs Lisp package utilities" ((cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/tarsius/packed") (:keywords "compile" "convenience" "lisp" "package" "library")) nil])
   (page-break-lines [cl-struct-package-desc page-break-lines (0 10) "Display ugly ^L page breaks as tidy horizontal lines" nil single "melpa-stable" nil ((:url . "https://github.com/purcell/page-break-lines") (:keywords "convenience" "faces")) nil])
   (pallet [cl-struct-package-desc pallet (0 9 1) "A package management tool for Emacs, using Cask." ((s (1 9 0)) (f (0 17 1)) (cask (0 7))) tar "melpa-stable" nil nil nil])
-  (pandoc-mode [cl-struct-package-desc pandoc-mode (2 10) "Minor mode for interacting with Pandoc" nil tar "melpa-stable" nil ((:keywords "text" "pandoc")) nil])
+  (pandoc-mode [cl-struct-package-desc pandoc-mode (2 11) "Minor mode for interacting with Pandoc" nil tar "melpa-stable" nil ((:keywords "text" "pandoc")) nil])
   (pangu-spacing [cl-struct-package-desc pangu-spacing (0 4) "Minor-mode to add space between Chinese and English characters." nil single "melpa-stable" nil ((:url . "http://github.com/coldnew/pangu-spacing")) nil])
   (paradox [cl-struct-package-desc paradox (2 0) "A modern Packages Menu. Colored, with package ratings, and customizable." ((emacs (24 4)) (dash (2 6 0)) (cl-lib (0 5)) (json (1 3)) (let-alist (1 0 3))) tar "melpa-stable" nil ((:url . "http://github.com/Bruce-Connor/paradox") (:keywords "package" "packages" "mode-line")) nil])
   (paredit [cl-struct-package-desc paredit (24) "minor mode for editing parentheses" nil single "melpa-stable" nil ((:keywords "lisp")) nil])
