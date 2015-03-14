@@ -496,7 +496,7 @@
   (mote-mode [cl-struct-package-desc mote-mode (1 0 0) "Mote minor mode" ((ruby-mode (1 1))) single "marmalade" nil nil nil])
   (move-text [cl-struct-package-desc move-text (1 0) "Move current line or region with M-up or M-down." nil single "marmalade" nil nil nil])
   (multi-eshell [cl-struct-package-desc multi-eshell (0 0 1) "makes it easier to use multiple shells within emacs" nil single "marmalade" nil nil nil])
-  (multi-project [cl-struct-package-desc multi-project (0 0 16) "Easily work with multiple projects." nil single "marmalade" nil nil nil])
+  (multi-project [cl-struct-package-desc multi-project (0 0 17) "Easily work with multiple projects." nil single "marmalade" nil nil nil])
   (multi-term [cl-struct-package-desc multi-term (0 8 8) "Managing multiple terminal buffers in Emacs." nil single "marmalade" nil nil nil])
   (multi-web-mode [cl-struct-package-desc multi-web-mode (0 1) "multiple major mode support for web editing" nil single "marmalade" nil nil nil])
   (multiple-cursors [cl-struct-package-desc multiple-cursors (1 3 0) "Multiple cursors for Emacs." nil tar "marmalade" nil nil nil])

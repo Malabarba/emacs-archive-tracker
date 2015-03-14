@@ -1811,7 +1811,7 @@
 	     [(0 8 8)
 	      nil "Managing multiple terminal buffers in Emacs." single])
  (multi-project .
-		[(0 0 16)
+		[(0 0 17)
 		 nil "Easily work with multiple projects." single])
  (multi-eshell .
 	       [(0 0 1)
