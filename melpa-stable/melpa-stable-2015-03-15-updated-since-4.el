@@ -520,7 +520,7 @@
   (plenv [cl-struct-package-desc plenv (0 32) "A plenv wrapper for Emacs" nil single "melpa-stable" nil ((:keywords "emacs" "perl")) nil])
   (popup [cl-struct-package-desc popup (0 5 2) "Visual Popup User Interface" ((cl-lib (0 3))) single "melpa-stable" nil ((:keywords "lisp")) nil])
   (popup-complete [cl-struct-package-desc popup-complete (0 2) "completion with popup" ((popup (0 5 0))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-popup-complete")) nil])
-  (popwin [cl-struct-package-desc popwin (0 6 2) "Popup Window Manager." nil single "melpa-stable" nil ((:keywords "convenience")) nil])
+  (popwin [cl-struct-package-desc popwin (1 0 0) "Popup Window Manager." nil single "melpa-stable" nil ((:keywords "convenience")) nil])
   (pov-mode [cl-struct-package-desc pov-mode (3 3) "Major mode for editing POV-Ray scene files." nil tar "melpa-stable" nil nil nil])
   (powerline [cl-struct-package-desc powerline (2 2) "Rewrite of Powerline" ((cl-lib (0 2))) tar "melpa-stable" nil ((:url . "http://github.com/milkypostman/powerline/") (:keywords "mode-line")) nil])
   (pretty-mode [cl-struct-package-desc pretty-mode (2 0 3) "Redisplay parts of the buffer as pretty symbols." nil single "melpa-stable" nil ((:url . "https://github.com/akatov/pretty-mode") (:keywords "pretty" "unicode" "symbols")) nil])
