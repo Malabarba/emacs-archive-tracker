@@ -85,7 +85,7 @@
   (cmake-ide [cl-struct-package-desc cmake-ide (0 2) "No description available." nil single "melpa-stable" nil nil nil])
   (cmake-mode [cl-struct-package-desc cmake-mode (3 2 1) "major-mode for editing CMake sources" nil single "melpa-stable" nil nil nil])
   (codic [cl-struct-package-desc codic (0 2) "Search Codic (codic.jp) naming dictionaries" ((cl-lib (0 5))) tar "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-codic")) nil])
-  (coffee-mode [cl-struct-package-desc coffee-mode (0 5 9) "Major mode to edit CoffeeScript files in Emacs" ((emacs (24 1)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "http://github.com/defunkt/coffee-mode") (:keywords "coffeescript" "major" "mode")) nil])
+  (coffee-mode [cl-struct-package-desc coffee-mode (0 6 0) "Major mode to edit CoffeeScript files in Emacs" ((emacs (24 1)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "http://github.com/defunkt/coffee-mode") (:keywords "coffeescript" "major" "mode")) nil])
   (color-theme-sanityinc-solarized [cl-struct-package-desc color-theme-sanityinc-solarized (2 28) "A version of Ethan Schoonover's Solarized themes" nil tar "melpa-stable" nil nil nil])
   (color-theme-sanityinc-tomorrow [cl-struct-package-desc color-theme-sanityinc-tomorrow (1 15) "A version of Chris Kempson's various Tomorrow themes" nil tar "melpa-stable" nil nil nil])
   (colorsarenice-theme [cl-struct-package-desc colorsarenice-theme (1 0 19) "A colorful color theme." ((emacs (24))) tar "melpa-stable" nil nil nil])
