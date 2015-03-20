@@ -1566,9 +1566,9 @@
 	      (1 6 8)))
 	    "Blog from Org mode to wordpress" tar])
  (org-trello .
-	     [(0 6 9 2)
+	     [(0 6 9 3)
 	      ((request-deferred
-		(0 1 0))
+		(0 2 0))
 	       (deferred
 		   (0 3 2))
 	       (s
