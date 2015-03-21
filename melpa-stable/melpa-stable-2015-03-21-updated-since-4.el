@@ -261,7 +261,7 @@
   (ghc [cl-struct-package-desc ghc (5 2 1 2) "Sub mode for Haskell mode" nil tar "melpa-stable" nil nil nil])
   (gist [cl-struct-package-desc gist (1 2 1) "Emacs integration for gist.github.com" ((eieio (1 4)) (gh (0 8 1)) (tabulated-list (0))) single "melpa-stable" nil ((:keywords "gist" "git" "github" "paste" "pastie" "pastebin")) nil])
   (git [cl-struct-package-desc git (0 1 1) "An Elisp API for programmatically using Git" ((s (1 7 0)) (dash (2 2 0)) (f (0 10 0))) single "melpa-stable" nil ((:url . "http://github.com/rejeep/git.el") (:keywords "git")) nil])
-  (git-auto-commit-mode [cl-struct-package-desc git-auto-commit-mode (4 3 0) "Emacs Minor mode to automatically commit and push" nil single "melpa-stable" nil ((:url . "http://ryuslash.org/projects/git-auto-commit-mode/") (:keywords "vc")) nil])
+  (git-auto-commit-mode [cl-struct-package-desc git-auto-commit-mode (4 3 2) "Emacs Minor mode to automatically commit and push" nil single "melpa-stable" nil ((:url . "http://ryuslash.org/projects/git-auto-commit-mode/") (:keywords "vc")) nil])
   (git-commit-mode [cl-struct-package-desc git-commit-mode (0 15 0) "Major mode for editing git commit messages" nil single "melpa-stable" nil ((:url . "https://github.com/magit/git-modes") (:keywords "convenience" "vc" "git")) nil])
   (git-gutter+ [cl-struct-package-desc git-gutter+ (0 2) "Manage Git hunks straight from the buffer" nil single "melpa-stable" nil ((:url . "https://github.com/nonsequitur/git-gutter-plus")) nil])
   (git-gutter [cl-struct-package-desc git-gutter (0 80) "Port of Sublime Text plugin GitGutter" ((cl-lib (0 5)) (emacs (24))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-git-gutter")) nil])

@@ -2813,7 +2813,7 @@
 	     [(0 1)
 	      nil "Major mode for editing git commit messages" single])
  (git-auto-commit-mode .
-		       [(4 3 0)
+		       [(4 3 2)
 			nil "Emacs Minor mode to automatically commit and push" single])
  (gist .
        [(1 2 1)

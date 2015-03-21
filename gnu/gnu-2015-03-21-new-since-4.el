@@ -6,7 +6,7 @@
   (web-server [cl-struct-package-desc web-server (0 1 1) "Emacs Web Server" ((emacs (24 3))) tar "gnu" nil ((:keywords "http" "server" "network") (:url . "https://github.com/eschulte/emacs-web-server")) nil])
   (wcheck-mode [cl-struct-package-desc wcheck-mode (2014 6 21) "General interface for text checkers" nil single "gnu" nil ((:url . "https://github.com/tlikonen/wcheck-mode") (:keywords "text" "spell" "check" "languages" "ispell")) nil])
   (w3 [cl-struct-package-desc w3 (4 0 49) "Fully customizable, largely undocumented web browser for Emacs" nil tar "gnu" nil ((:keywords "faces" "help" "comm" "news" "mail" "processes" "mouse" "hypermedia") (:url . "http://elpa.gnu.org/packages/w3.html")) nil])
-  (timerfunctions [cl-struct-package-desc timerfunctions (1 4 2) "Enhanced versions of some timer.el functions" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/timerfunctions.html") (:keywords)) nil])
+  (timerfunctions [cl-struct-package-desc timerfunctions (1 4 2) "Enhanced versions of some timer.el functions" ((cl-lib (0 5))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/timerfunctions.html") (:keywords)) nil])
   (test-simple [cl-struct-package-desc test-simple (1 1) "Simple Unit Test Framework for Emacs Lisp" nil single "gnu" nil ((:url . "http://github.com/rocky/emacs-test-simple") (:keywords "unit-test")) nil])
   (temp-buffer-browse [cl-struct-package-desc temp-buffer-browse (1 4) "temp buffer browse mode" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/temp-buffer-browse.html") (:keywords "convenience")) nil])
   (svg [cl-struct-package-desc svg (0 1) "svg image creation functions" ((emacs (25))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/svg.html") (:keywords "image")) nil])

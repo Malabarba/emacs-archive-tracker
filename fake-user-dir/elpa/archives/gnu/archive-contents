@@ -506,7 +506,9 @@
 		(:keywords "unit-test"))])
  (timerfunctions .
 		 [(1 4 2)
-		  nil "Enhanced versions of some timer.el functions" single
+		  ((cl-lib
+		    (0 5)))
+		  "Enhanced versions of some timer.el functions" single
 		  ((:url . "http://elpa.gnu.org/packages/timerfunctions.html")
 		   (:keywords))])
  (trie .
