@@ -84,7 +84,7 @@
   (gnus-x-gm-raw [cl-struct-package-desc gnus-x-gm-raw (0 0 1) "Search mail of Gmail using X-GM-RAW as web interface" ((log4e (0 2 0)) (yaxception (0 1))) single "melpa-stable" nil ((:url . "https://github.com/aki2o/gnus-x-gm-raw") (:keywords "gnus")) nil])
   (go-autocomplete [cl-struct-package-desc go-autocomplete (20150303) "auto-complete-mode backend for go-mode" ((auto-complete (1 4 0))) single "melpa-stable" nil ((:keywords "languages")) nil])
   (go-errcheck [cl-struct-package-desc go-errcheck (1 0 0) "errcheck integration for go-mode" nil single "melpa-stable" nil nil nil])
-  (go-mode [cl-struct-package-desc go-mode (1 1 0) "Major mode for the Go programming language" nil tar "melpa-stable" nil ((:url . "https://github.com/dominikh/go-mode.el") (:keywords "languages" "go")) nil])
+  (go-mode [cl-struct-package-desc go-mode (1 2 0) "Major mode for the Go programming language" nil tar "melpa-stable" nil ((:url . "https://github.com/dominikh/go-mode.el") (:keywords "languages" "go")) nil])
   (gotham-theme [cl-struct-package-desc gotham-theme (1 0) "A very dark Emacs color theme." nil single "melpa-stable" nil ((:url . "https://github.com/wasamasa/gotham-theme")) nil])
   (goto-last-change [cl-struct-package-desc goto-last-change (1 2 1) "Move point through buffer-undo-list positions" nil single "melpa-stable" nil ((:url . "https://github.com/camdez/goto-last-change.el") (:keywords "convenience")) nil])
   (graphviz-dot-mode [cl-struct-package-desc graphviz-dot-mode (0 4) "Mode for the dot-language used by graphviz (att)." nil single "melpa-stable" nil ((:url . "http://ppareit.github.com/graphviz-dot-mode/") (:keywords "mode" "dot" "dot-language" "dotlanguage" "graphviz" "graphs" "att")) nil])
