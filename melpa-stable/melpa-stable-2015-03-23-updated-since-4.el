@@ -468,7 +468,7 @@
   (ob-translate [cl-struct-package-desc ob-translate (0 1 2) "Translation of text blocks in org-mode." ((google-translate (0 4)) (org (8))) single "melpa-stable" nil ((:url . "https://github.com/krisajenkins/ob-translate") (:keywords "org" "babel" "translate" "translation")) nil])
   (ocp-indent [cl-struct-package-desc ocp-indent (1 5) "automatic indentation with ocp-indent" nil single "melpa-stable" nil ((:url . "http://www.typerex.org/ocp-indent.html") (:keywords "ocaml" "languages")) nil])
   (octomacs [cl-struct-package-desc octomacs (0 0 1) "Octopress interface for Emacs" nil single "melpa-stable" nil ((:url . "http://technosorcery.net")) nil])
-  (olivetti [cl-struct-package-desc olivetti (1 0 1) "Minor mode for a nice writing environment" nil single "melpa-stable" nil ((:keywords "wp")) nil])
+  (olivetti [cl-struct-package-desc olivetti (1 1 0) "Minor mode for a nice writing environment" nil single "melpa-stable" nil ((:keywords "wp")) nil])
   (operate-on-number [cl-struct-package-desc operate-on-number (1 1 0) "Operate on number at point with arithmetic functions" nil single "melpa-stable" nil ((:url . "https://github.com/knu/operate-on-number.el") (:keywords "editing")) nil])
   (org-agenda-property [cl-struct-package-desc org-agenda-property (1 3 1) "Display org properties in the agenda buffer." ((emacs (24 2))) single "melpa-stable" nil ((:url . "http://github.com/Bruce-Connor/org-agenda-property") (:keywords "calendar")) nil])
   (org-bullets [cl-struct-package-desc org-bullets (0 2 4) "Show bullets in org-mode as UTF-8 characters" nil single "melpa-stable" nil ((:url . "https://github.com/sabof/org-bullets")) nil])
