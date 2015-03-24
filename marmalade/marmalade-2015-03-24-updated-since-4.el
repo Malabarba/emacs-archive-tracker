@@ -821,7 +821,7 @@
   (web [cl-struct-package-desc web (0 5 2) "useful HTTP client" ((dash (2 9 0)) (s (1 5 0))) single "marmalade" nil nil nil])
   (web-mode [cl-struct-package-desc web-mode (8 0 4) "major mode for editing html templates" nil single "marmalade" nil nil nil])
   (websocket [cl-struct-package-desc websocket (1 0) "Emacs WebSocket client and server" nil single "marmalade" nil nil nil])
-  (weechat [cl-struct-package-desc weechat (0 2 1) "Chat via WeeChat's relay protocol in Emacs" ((s (1 3 1)) (cl-lib (0 2)) (emacs (24)) (tracking (1 2))) tar "marmalade" nil nil nil])
+  (weechat [cl-struct-package-desc weechat (0 2 2) "Chat via WeeChat's relay protocol in Emacs" ((s (1 3 1)) (cl-lib (0 2)) (emacs (24)) (tracking (1 2))) tar "marmalade" nil nil nil])
   (wget [cl-struct-package-desc wget (1 94) "Emacs-wget is an interface program of GNU wget on Emacs." nil tar "marmalade" nil nil nil])
   (wgrep [cl-struct-package-desc wgrep (2 1 3) "Writable grep buffer and apply the changes to files" nil single "marmalade" nil nil nil])
   (wgrep-ack [cl-struct-package-desc wgrep-ack (0 1 1) "Writable ack-and-a-half buffer and apply the changes to files" ((wgrep (2 1 1))) single "marmalade" nil nil nil])
