@@ -258,4 +258,5 @@
   (youdao-dictionary [cl-struct-package-desc youdao-dictionary (0 2) "Youdao Dictionary interface for Emacs" ((popup (0 5 0)) (chinese-word-at-point (0 2)) (names (0 5)) (emacs (24))) single "melpa-stable" nil ((:url . "https://github.com/xuchunyang/youdao-dictionary.el") (:keywords "convenience" "chinese" "dictionary")) nil])
   (zombie-trellys-mode [cl-struct-package-desc zombie-trellys-mode (0 2 1) "A minor mode for interaction with Zombie Trellys" ((emacs (24)) (cl-lib (0 5)) (haskell-mode (1 5))) single "melpa-stable" nil ((:keywords "languages")) nil])
   (zop-to-char [cl-struct-package-desc zop-to-char (1 0) "A replacement of zap-to-char." ((cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/thierryvolpiatto/zop-to-char")) nil])
+  (zotelo [cl-struct-package-desc zotelo (1 3) "Manage Zotero collections from emacs" nil single "melpa-stable" nil ((:url . "https://github.com/vitoshka/zotelo") (:keywords "zotero" "emacs" "reftex" "bibtex" "mozrepl" "bibliography manager")) nil])
  )
