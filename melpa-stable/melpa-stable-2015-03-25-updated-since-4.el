@@ -146,7 +146,7 @@
   (ein [cl-struct-package-desc ein (0 2 0) "Emacs IPython Notebook" ((websocket (0 9)) (auto-complete (1 4))) tar "melpa-stable" nil nil nil])
   (el-autoyas [cl-struct-package-desc el-autoyas (0 5) "Automatically create Emacs-Lisp Yasnippets" nil tar "melpa-stable" nil ((:url . "https://github.com/mlf176f2/el-autoyas.el") (:keywords "emacs" "lisp" "mode" "yasnippet")) nil])
   (el-get [cl-struct-package-desc el-get (5 1) "Manage the external elisp bits and pieces you depend upon" nil tar "melpa-stable" nil ((:url . "http://www.emacswiki.org/emacs/el-get") (:keywords "emacs" "package" "elisp" "install" "elpa" "git" "git-svn" "bzr" "cvs" "svn" "darcs" "hg" "apt-get" "fink" "pacman" "http" "http-tar" "emacswiki")) nil])
-  (el-mock [cl-struct-package-desc el-mock (1 25 0) "Tiny Mock and Stub framework in Emacs Lisp" nil single "melpa-stable" nil ((:url . "http://github.com/rejeep/el-mock.el") (:keywords "lisp" "testing" "unittest")) nil])
+  (el-mock [cl-struct-package-desc el-mock (1 25 1) "Tiny Mock and Stub framework in Emacs Lisp" nil single "melpa-stable" nil ((:url . "http://github.com/rejeep/el-mock.el") (:keywords "lisp" "testing" "unittest")) nil])
   (el-spice [cl-struct-package-desc el-spice (0 2 2) "Extra spice for emacs lisp programming" ((thingatpt+ (0))) tar "melpa-stable" nil ((:url . "https://github.com/vedang/el-spice") (:keywords "configuration")) nil])
   (el-x [cl-struct-package-desc el-x (0 3 0) "main entry point for el-x package" nil tar "melpa-stable" nil ((:keywords "lisp")) nil])
   (elfeed [cl-struct-package-desc elfeed (1 1 2) "an Emacs Atom/RSS feed reader" ((emacs (24 1))) tar "melpa-stable" nil nil nil])
