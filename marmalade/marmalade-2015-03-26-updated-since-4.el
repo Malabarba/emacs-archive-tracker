@@ -419,7 +419,7 @@
   (json-mode [cl-struct-package-desc json-mode (1 2 0) "Major mode for editing JSON files" nil single "marmalade" nil nil nil])
   (jump [cl-struct-package-desc jump (2 3) "build functions which contextually jump between files" ((findr (0 7)) (inflections (1 1))) single "marmalade" nil nil nil])
   (jump-char [cl-struct-package-desc jump-char (0 1) "navigation by char" nil single "marmalade" nil nil nil])
-  (kanban [cl-struct-package-desc kanban (0 1 3) "Parse org-todo headlines to use org-tables as Kanban tables" nil single "marmalade" nil nil nil])
+  (kanban [cl-struct-package-desc kanban (0 1 4) "Parse org-todo headlines to use org-tables as Kanban tables" nil single "marmalade" nil nil nil])
   (key-choices [cl-struct-package-desc key-choices (0 201) "Key Choices -- Also Viper has different colors in different modes" ((color-theme-vim-insert-mode (0 1)) (color-theme-emacs-revert-theme (0 1))) single "marmalade" nil nil nil])
   (key-chord [cl-struct-package-desc key-chord (0 5 20080915) "map pairs of simultaneously pressed keys to commands" nil single "marmalade" nil nil nil])
   (key-combo [cl-struct-package-desc key-combo (1 5 1) "map key sequence to commands" nil single "marmalade" nil nil nil])
