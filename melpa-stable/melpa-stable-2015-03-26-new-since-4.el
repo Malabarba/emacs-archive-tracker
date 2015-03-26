@@ -150,7 +150,7 @@
   (log4e [cl-struct-package-desc log4e (0 3 0) "provide logging framework for elisp" nil single "melpa-stable" nil ((:url . "https://github.com/aki2o/log4e") (:keywords "log")) nil])
   (lui [cl-struct-package-desc lui (1 5) "Linewise User Interface" ((tracking (0))) tar "melpa-stable" nil nil nil])
   (magit-gerrit [cl-struct-package-desc magit-gerrit (0 1) "Magit plugin for Gerrit Code Review" ((magit (1 2 0))) single "melpa-stable" nil ((:url . "https://github.com/terranpro/magit-gerrit")) nil])
-  (marcopolo [cl-struct-package-desc marcopolo (0 2 0) "Emacs client for Docker API" ((s (1 9 0)) (dash (2 9 0)) (pkg-info (0 5 0)) (request (0 1 0))) tar "melpa-stable" nil ((:url . "https://github.com/nlamirault/marcopolo") (:keywords "docker")) nil])
+  (marcopolo [cl-struct-package-desc marcopolo (0 3 0) "Emacs client for Docker API" ((s (1 9 0)) (dash (2 9 0)) (pkg-info (0 5 0)) (request (0 1 0))) tar "melpa-stable" nil ((:url . "https://github.com/nlamirault/marcopolo") (:keywords "docker")) nil])
   (markup-faces [cl-struct-package-desc markup-faces (1 0 0) "collection of faces for markup language modes" nil single "melpa-stable" nil ((:url . "https://github.com/sensorflo/markup-faces") (:keywords "wp" "faces")) nil])
   (marshal [cl-struct-package-desc marshal (0 4 0) "eieio extension for automatic (un)marshalling" ((eieio (1 4)) (json (1 4))) single "melpa-stable" nil ((:url . "https://github.com/sigma/marshal.el") (:keywords "eieio")) nil])
   (maven-test-mode [cl-struct-package-desc maven-test-mode (0 1 5) "Utilities for navigating test files and running maven test tasks." ((s (1 9)) (emacs (24))) single "melpa-stable" nil ((:url . "http://github.com/rranelli/maven-test-mode") (:keywords "java" "maven" "test")) nil])
