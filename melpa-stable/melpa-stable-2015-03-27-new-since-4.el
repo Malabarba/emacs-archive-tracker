@@ -56,6 +56,7 @@
   (el-init [cl-struct-package-desc el-init (0 1 4) "A loader inspired by init-loader" ((emacs (24)) (cl-lib (0 5)) (anaphora (1 0 0))) single "melpa-stable" nil nil nil])
   (el-init-viewer [cl-struct-package-desc el-init-viewer (0 1 0) "Record viewer for el-init" ((emacs (24)) (cl-lib (0 5)) (ctable (0 1 2)) (dash (2 10 0)) (anaphora (1 0 0)) (el-init (0 1 4))) single "melpa-stable" nil nil nil])
   (eldoc-eval [cl-struct-package-desc eldoc-eval (1 0) "Enable eldoc support when minibuffer is in use." nil single "melpa-stable" nil nil nil])
+  (elixir-yasnippets [cl-struct-package-desc elixir-yasnippets (0 0 1) "Yasnippets for Elixir" ((yasnippet (0 8 0))) tar "melpa-stable" nil nil nil])
   (elscreen-mew [cl-struct-package-desc elscreen-mew (1 0 1) "ElScreen Add-On for Mew" ((elscreen (20120413 807))) single "melpa-stable" nil ((:url . "https://github.com/masutaka/elscreen-mew")) nil])
   (elscreen-persist [cl-struct-package-desc elscreen-persist (0 1 1) "persist the elscreen across sessions" ((elscreen (1 4 6)) (revive (2 1 9))) single "melpa-stable" nil ((:keywords "elscreen" "frames")) nil])
   (erc-youtube [cl-struct-package-desc erc-youtube (0 -3) "Show received youtube urls in the ERC buffer" ((erc (5 3))) single "melpa-stable" nil ((:keywords "multimedia")) nil])
