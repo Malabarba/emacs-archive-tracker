@@ -1,4 +1,7 @@
 (1
+ (buttercup .
+	    [(1 0)
+	     nil "Behavior-Driven Emacs Lisp Testing" tar])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
