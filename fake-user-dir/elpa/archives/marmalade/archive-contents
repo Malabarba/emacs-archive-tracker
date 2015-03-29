@@ -1,7 +1,4 @@
 (1
- (buttercup .
-	    [(1 0)
-	     nil "Behavior-Driven Emacs Lisp Testing" tar])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -4174,6 +4171,9 @@
  (button-lock .
 	      [(1 0 2)
 	       nil "Clickable text defined by regular expression" single])
+ (buttercup .
+	    [(1 0)
+	     nil "Behavior-Driven Emacs Lisp Testing" tar])
  (butler .
 	 [(0 2 0)
 	  ((deferred
