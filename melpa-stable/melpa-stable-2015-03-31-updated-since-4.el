@@ -280,7 +280,7 @@
   (gnuplot [cl-struct-package-desc gnuplot (0 7 0) "drive gnuplot from within emacs" nil tar "melpa-stable" nil ((:keywords "gnuplot" "plotting")) nil])
   (gnus-desktop-notify [cl-struct-package-desc gnus-desktop-notify (1 4) "Gnus Desktop Notification global minor mode" ((gnus (1 0))) single "melpa-stable" nil ((:url . "http://www.thregr.org/~wavexx/hacks/gnus-desktop-notify/")) nil])
   (go-direx [cl-struct-package-desc go-direx (0 4) "Tree style source code viewer for Go language" ((direx (1 0 0)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-go-direx")) nil])
-  (go-eldoc [cl-struct-package-desc go-eldoc (0 22) "eldoc for go-mode" ((go-mode (1 0 0)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-go-eldoc")) nil])
+  (go-eldoc [cl-struct-package-desc go-eldoc (0 23) "eldoc for go-mode" ((go-mode (1 0 0)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-go-eldoc")) nil])
   (golden-ratio [cl-struct-package-desc golden-ratio (0 0 4) "Automatic resizing of Emacs windows to the golden ratio" nil single "melpa-stable" nil ((:keywords "window" "resizing")) nil])
   (google-this [cl-struct-package-desc google-this (1 9) "A set of functions and bindings to google under point." ((emacs (24 1))) single "melpa-stable" nil ((:url . "http://github.com/Bruce-Connor/emacs-google-this") (:keywords "convenience" "hypermedia")) nil])
   (google-translate [cl-struct-package-desc google-translate (0 10 6) "Emacs interface to Google Translate." nil tar "melpa-stable" nil nil nil])

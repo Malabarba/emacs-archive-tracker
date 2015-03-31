@@ -534,7 +534,7 @@
   (org-dotemacs [cl-struct-package-desc org-dotemacs (0 3) "Store your emacs config as an org file, and choose which bits to load." ((org (7 9 3)) (cl-lib (1 0))) single "marmalade" nil nil nil])
   (org-ehtml [cl-struct-package-desc org-ehtml (0 20131014) "Export Org-mode files as editable web pages" ((elnode (20130416 1626)) (org-plus-contrib (20131007))) tar "marmalade" nil nil nil])
   (org-email [cl-struct-package-desc org-email (3 0 1) "use org for an email database" ((shadchen (1 2)) (dash (2 9 0)) (noflet (0 0 12))) single "marmalade" nil nil nil])
-  (org-journal [cl-struct-package-desc org-journal (1 7 0) "a simple org-mode based journaling mode" nil single "marmalade" nil nil nil])
+  (org-journal [cl-struct-package-desc org-journal (1 7 1) "a simple org-mode based journaling mode" nil single "marmalade" nil nil nil])
   (org-magit [cl-struct-package-desc org-magit (0 2 2) "basic support for magit links" ((magit (1 2 0)) (org (6 1))) single "marmalade" nil nil nil])
   (org-mime [cl-struct-package-desc org-mime (20120112) "org html export for text/html MIME emails" nil single "marmalade" nil nil nil])
   (org-outlook [cl-struct-package-desc org-outlook (0 3) "Outlook org" nil single "marmalade" nil nil nil])

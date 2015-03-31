@@ -1080,7 +1080,7 @@
   (sage-shell-mode [cl-struct-package-desc sage-shell-mode (20150328 526) "A front-end for Sage Math" ((cl-lib (0 5)) (deferred (0 3 1))) tar "melpa" nil ((:url . "https://github.com/stakemori/sage-shell-mode") (:keywords "sage" "math")) nil])
   (sane-term [cl-struct-package-desc sane-term (20150106 1200) "Multi Term is crazy. This is not." ((emacs (24 1))) single "melpa" nil ((:url . "http://github.com/adamrt/sane-term")) nil])
   (sbt-mode [cl-struct-package-desc sbt-mode (20141110 1116) "Major mode for sbt >= 0.12 with scala >= 2.9" ((scala-mode2 (0 22))) tar "melpa" nil nil nil])
-  (scad-mode [cl-struct-package-desc scad-mode (20140607 2045) "Major mode for editing SCAD files" nil single "melpa" nil ((:url . "https://raw.github.com/openscad/openscad/master/contrib/scad-mode.el") (:keywords "languages")) nil])
+  (scad-mode [cl-struct-package-desc scad-mode (20150330 2029) "A major mode for editing OpenSCAD code" nil single "melpa" nil ((:url . "https://raw.github.com/openscad/openscad/master/contrib/scad-mode.el") (:keywords "languages")) nil])
   (scala-outline-popup [cl-struct-package-desc scala-outline-popup (20141215 953) "scala file summary popup" ((dash (2 9 0)) (popup (0 5 2)) (scala-mode2 (0 22))) single "melpa" nil ((:url . "https://github.com/ancane/scala-outline-popup.el") (:keywords "scala" "structure" "summary")) nil])
   (scratch-ext [cl-struct-package-desc scratch-ext (20140103 2116) "Extensions for *scratch*" nil single "melpa" nil ((:url . "https://github.com/kyanagi/scratch-ext-el")) nil])
   (search-web [cl-struct-package-desc search-web (20150312 403) "Post web search queries using `browse-url'." nil single "melpa" nil nil nil])
