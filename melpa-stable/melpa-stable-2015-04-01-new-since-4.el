@@ -54,7 +54,7 @@
   (e2wm-term [cl-struct-package-desc e2wm-term (0 0 5) "Perspective of e2wm.el for work in terminal" ((e2wm (1 2)) (log4e (0 2 0)) (yaxception (0 3 2))) single "melpa-stable" nil ((:url . "https://github.com/aki2o/e2wm-term") (:keywords "tools" "window manager")) nil])
   (edit-indirect [cl-struct-package-desc edit-indirect (0 1 2) "Edit regions in separate buffers" ((emacs (24 3))) single "melpa-stable" nil ((:url . "https://github.com/Fanael/edit-indirect")) nil])
   (egg [cl-struct-package-desc egg (1 0 9) "Emacs Got Git - Emacs interface to Git" nil tar "melpa-stable" nil ((:keywords "git" "version control" "release management")) nil])
-  (el-init [cl-struct-package-desc el-init (0 1 4) "A loader inspired by init-loader" ((emacs (24)) (cl-lib (0 5)) (anaphora (1 0 0))) single "melpa-stable" nil nil nil])
+  (el-init [cl-struct-package-desc el-init (0 1 5) "A loader inspired by init-loader" ((emacs (24)) (cl-lib (0 5)) (anaphora (1 0 0))) single "melpa-stable" nil ((:url . "https://github.com/HKey/el-init")) nil])
   (el-init-viewer [cl-struct-package-desc el-init-viewer (0 1 0) "Record viewer for el-init" ((emacs (24)) (cl-lib (0 5)) (ctable (0 1 2)) (dash (2 10 0)) (anaphora (1 0 0)) (el-init (0 1 4))) single "melpa-stable" nil nil nil])
   (eldoc-eval [cl-struct-package-desc eldoc-eval (1 0) "Enable eldoc support when minibuffer is in use." nil single "melpa-stable" nil nil nil])
   (elixir-yasnippets [cl-struct-package-desc elixir-yasnippets (0 0 1) "Yasnippets for Elixir" ((yasnippet (0 8 0))) tar "melpa-stable" nil nil nil])

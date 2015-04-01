@@ -312,7 +312,7 @@
   (gitconfig-mode [cl-struct-package-desc gitconfig-mode (0 3) "Major mode for editing .gitconfig files" nil single "marmalade" nil nil nil])
   (github-browse-file [cl-struct-package-desc github-browse-file (0 4 0) "View the file you're editing on GitHub" ((cl-lib (0 5))) single "marmalade" nil nil nil])
   (github-theme [cl-struct-package-desc github-theme (0 0 3) "Github color theme for GNU Emacs 24" nil single "marmalade" nil nil nil])
-  (gitignore-mode [cl-struct-package-desc gitignore-mode (0 1) "Major mode for editing .gitconfig files" nil single "marmalade" nil nil nil])
+  (gitignore-mode [cl-struct-package-desc gitignore-mode (1 0 0) "Major mode for editing .gitignore files" nil single "marmalade" nil nil nil])
   (gitty [cl-struct-package-desc gitty (1 0) "vc-mode extension for fast git interaction" nil single "marmalade" nil nil nil])
   (gnomenm [cl-struct-package-desc gnomenm (0 0 3) "Emacs interface to Gnome nmcli command" nil single "marmalade" nil nil nil])
   (gnugo [cl-struct-package-desc gnugo (2 2 12) "Play a game of Go against gnugo" nil single "marmalade" nil nil nil])

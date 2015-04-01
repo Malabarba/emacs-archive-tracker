@@ -1,4 +1,7 @@
 (1
+ (gitattributes-mode .
+		     [(1 0 0)
+		      nil "Major mode for editing .gitattributes files" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -2768,8 +2771,8 @@
 	[(1 0)
 	 nil "vc-mode extension for fast git interaction" single])
  (gitignore-mode .
-		 [(0 1)
-		  nil "Major mode for editing .gitconfig files" single])
+		 [(1 0 0)
+		  nil "Major mode for editing .gitignore files" single])
  (github-theme .
 	       [(0 0 3)
 		nil "Github color theme for GNU Emacs 24" single])
