@@ -660,7 +660,7 @@
   (rubyinterpol [cl-struct-package-desc rubyinterpol (0 1) "Ruby-like String Interpolation for format" nil single "marmalade" nil nil nil])
   (rudel [cl-struct-package-desc rudel (0 3) "A collaborative editing framework for Emacs" ((eieio (1 4))) tar "marmalade" nil nil nil])
   (rust-mode [cl-struct-package-desc rust-mode (0 1 0) "A major emacs mode for editing Rust source code" ((cm-mode (0 1 0))) single "marmalade" nil nil nil])
-  (rvm [cl-struct-package-desc rvm (1 3 0) "Emacs integration for rvm" nil single "marmalade" nil nil nil])
+  (rvm [cl-struct-package-desc rvm (1 4 0) "Emacs integration for rvm" nil single "marmalade" nil nil nil])
   (rw-hunspell [cl-struct-package-desc rw-hunspell (0 2) "special functions for Hunspell in ispell.el" nil single "marmalade" nil nil nil])
   (rw-ispell [cl-struct-package-desc rw-ispell (0 1) "additional functions for ispell.el" nil single "marmalade" nil nil nil])
   (rw-language-and-country-codes [cl-struct-package-desc rw-language-and-country-codes (0 1) "Language & Country Codes" nil single "marmalade" nil nil nil])
