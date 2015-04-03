@@ -598,7 +598,7 @@
   (solarized-theme [cl-struct-package-desc solarized-theme (1 2 1) "The Solarized color theme, ported to Emacs." ((dash (2 6 0))) tar "melpa-stable" nil nil nil])
   (sourcemap [cl-struct-package-desc sourcemap (0 2) "Sourcemap parser" ((cl-lib (0 5)) (emacs (24))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-sourcemap")) nil])
   (sourcetalk [cl-struct-package-desc sourcetalk (1 2 0) "SourceTalk (http://sourcetalk.net) plugin for Emacs" ((request (0 2 0))) single "melpa-stable" nil ((:url . "https://github.com/malroc/sourcetalk_emacs") (:keywords "sourcetalk" "code" "discussion")) nil])
-  (sparql-mode [cl-struct-package-desc sparql-mode (0 10 0) "Edit and interactively evaluate SPARQL queries." nil tar "melpa-stable" nil ((:url . "https://github.com/ljos/sparql-mode")) nil])
+  (sparql-mode [cl-struct-package-desc sparql-mode (0 10 1) "Edit and interactively evaluate SPARQL queries." ((cl-lib (0 5))) tar "melpa-stable" nil ((:url . "https://github.com/ljos/sparql-mode")) nil])
   (sprintly-mode [cl-struct-package-desc sprintly-mode (0 0 4) "Major mode for dealing with sprint.ly" ((furl (0 0 2))) single "melpa-stable" nil ((:url . "https://github.com/sprintly/sprintly-mode")) nil])
   (stan-mode [cl-struct-package-desc stan-mode (4 0 0) "Major mode for editing Stan files" ((auto-complete (1 4 0))) tar "melpa-stable" nil ((:url . "http://github.com/stan-dev/stan-mode") (:keywords "languanges")) nil])
   (stan-snippets [cl-struct-package-desc stan-snippets (4 0 0) "Yasnippets for Stan" ((yasnippet (0 8 0)) (stan-mode (4 0 0))) tar "melpa-stable" nil ((:url . "http://github.com/stan-dev/stan-mode") (:keywords "languages")) nil])

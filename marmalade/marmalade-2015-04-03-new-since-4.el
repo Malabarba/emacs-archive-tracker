@@ -259,4 +259,5 @@
   (zenburn [cl-struct-package-desc zenburn (0 1) "A low contrast colour theme for Emacs" nil single "marmalade" nil nil nil])
   (zone-matrix [cl-struct-package-desc zone-matrix (0 0 1) "Matrix themed Zone mode" nil tar "marmalade" nil nil nil])
   (git-rebase-mode [cl-struct-package-desc git-rebase-mode (1 0 0) "Major mode for editing git rebase files" nil single "marmalade" nil nil nil])
+  (jammer [cl-struct-package-desc jammer (0 0 2) "Punish yourself for using Emacs inefficiently" nil single "marmalade" nil nil nil])
  )

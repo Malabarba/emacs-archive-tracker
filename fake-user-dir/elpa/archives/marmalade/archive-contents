@@ -1,4 +1,7 @@
 (1
+ (jammer .
+	 [(0 0 2)
+	  nil "Punish yourself for using Emacs inefficiently" single])
  (git-rebase-mode .
 		  [(1 0 0)
 		   nil "Major mode for editing git rebase files" single])
