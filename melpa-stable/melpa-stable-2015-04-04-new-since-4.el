@@ -162,6 +162,7 @@
   (marshal [cl-struct-package-desc marshal (0 4 0) "eieio extension for automatic (un)marshalling" ((eieio (1 4)) (json (1 4))) single "melpa-stable" nil ((:url . "https://github.com/sigma/marshal.el") (:keywords "eieio")) nil])
   (maven-test-mode [cl-struct-package-desc maven-test-mode (0 1 5) "Utilities for navigating test files and running maven test tasks." ((s (1 9)) (emacs (24))) single "melpa-stable" nil ((:url . "http://github.com/rranelli/maven-test-mode") (:keywords "java" "maven" "test")) nil])
   (mbe [cl-struct-package-desc mbe (0 1) "Macros by Example" ((emacs (24)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/ijp/mbe.el") (:keywords "tools" "macros")) nil])
+  (mediawiki [cl-struct-package-desc mediawiki (2 2 5) "mediawiki frontend" nil single "melpa-stable" nil ((:url . "http://github.com/hexmode/mediawiki-el") (:keywords "mediawiki" "wikipedia" "network" "wiki")) nil])
   (metaweblog [cl-struct-package-desc metaweblog (0 1 1) "An emacs library to access metaweblog based weblogs" ((xml-rpc (1 6 8))) tar "melpa-stable" nil nil nil])
   (monokai-theme [cl-struct-package-desc monokai-theme (1 0 0) "A fruity color theme for Emacs." nil single "melpa-stable" nil ((:url . "http://github.com/oneKelvinSmith/monokai-emacs")) nil])
   (moz-controller [cl-struct-package-desc moz-controller (1 0) "Control Firefox from Emacs" ((moz (0))) single "melpa-stable" nil ((:url . "https://github.com/RenWenshan/emacs-moz-controller")) nil])

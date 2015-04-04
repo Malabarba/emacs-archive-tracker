@@ -455,6 +455,7 @@
   (nix-mode [cl-struct-package-desc nix-mode (1 8) "Major mode for editing Nix expressions" nil single "melpa-stable" nil ((:url . "https://github.com/NixOS/nix/tree/master/misc/emacs")) nil])
   (nodejs-repl [cl-struct-package-desc nodejs-repl (0 0 2) "Run Node.js REPL" nil single "melpa-stable" nil nil nil])
   (nose [cl-struct-package-desc nose (0 1 1) "Easy Python test running in Emacs" nil single "melpa-stable" nil ((:keywords "nose" "python" "testing")) nil])
+  (notmuch [cl-struct-package-desc notmuch (0 19) "No description available." nil tar "melpa-stable" nil nil nil])
   (nrepl-ritz [cl-struct-package-desc nrepl-ritz (0 6 0) "nrepl extensions for ritz" ((nrepl (0 1 5))) single "melpa-stable" nil ((:url . "https://github.com/pallet/ritz") (:keywords "languages" "lisp" "nrepl")) nil])
   (nrepl-sync [cl-struct-package-desc nrepl-sync (0 3 1) "connect to nrepl port and eval .sync.clj." ((cider (0 6))) single "melpa-stable" nil ((:url . "https://github.com/phillord/lein-sync")) nil])
   (nsis-mode [cl-struct-package-desc nsis-mode (0 44) "NSIS-mode" nil tar "melpa-stable" nil ((:url . "http://github.com/mlf176f2/nsis-mode") (:keywords "nsis")) nil])
