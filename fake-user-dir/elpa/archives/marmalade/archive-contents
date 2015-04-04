@@ -1,10 +1,4 @@
 (1
- (jammer .
-	 [(0 0 2)
-	  nil "Punish yourself for using Emacs inefficiently" single])
- (git-rebase-mode .
-		  [(1 0 0)
-		   nil "Major mode for editing git rebase files" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -1627,7 +1621,7 @@
 	       (6 1)))
 	     "basic support for magit links" single])
  (org-journal .
-	      [(1 7 1)
+	      [(1 7 2)
 	       nil "a simple org-mode based journaling mode" single])
  (org-gnome .
 	    [(0 1)
@@ -2350,6 +2344,9 @@
  (jasmin .
 	 [(1 2)
 	  nil "major editing mode for Jasmin Java bytecode assembler files" single])
+ (jammer .
+	 [(0 0 2)
+	  nil "Punish yourself for using Emacs inefficiently" single])
  (jam-mode .
 	   [(0 3)
 	    nil "Font-lock support for Jam files" single])
@@ -2802,6 +2799,9 @@
  (gitattributes-mode .
 		     [(1 0 0)
 		      nil "Major mode for editing .gitattributes files" single])
+ (git-rebase-mode .
+		  [(1 0 0)
+		   nil "Major mode for editing git rebase files" single])
  (git-gutter-fringe .
 		    [(0 12)
 		     ((git-gutter
@@ -2828,7 +2828,7 @@
 	     [(0 1)
 	      nil "Major mode for editing git commit messages" single])
  (git-auto-commit-mode .
-		       [(4 3 2)
+		       [(4 4 0)
 			nil "Emacs Minor mode to automatically commit and push" single])
  (gist .
        [(1 2 1)
@@ -3106,15 +3106,15 @@
 			(0 15)))
 		      "A flycheck checker for Haskell using hdevtools" single])
  (flycheck-haskell .
-		   [(0 4)
+		   [(0 6)
 		    ((flycheck
-		      (0 16))
+		      (0 22))
 		     (haskell-mode
 		      (13 7))
 		     (dash
 		      (2 4 0))
-		     (f
-		      (0 11 0)))
+		     (let-alist
+		      (1 0 1)))
 		    "Flycheck: Cabal projects and sandboxes" tar])
  (flycheck-color-mode-line .
 			   [(0 3)
