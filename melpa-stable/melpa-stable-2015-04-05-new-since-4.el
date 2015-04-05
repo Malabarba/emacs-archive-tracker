@@ -226,7 +226,7 @@
   (shelldoc [cl-struct-package-desc shelldoc (0 0 5) "shell command editing support with man page." ((cl-lib (0 3)) (s (1 9 0))) single "melpa-stable" nil ((:url . "http://github.com/mhayashi1120/Emacs-shelldoc/raw/master/shelldoc.el") (:keywords "applications")) nil])
   (shelltest-mode [cl-struct-package-desc shelltest-mode (1 1) "Major mode for shelltestrunner" nil single "melpa-stable" nil ((:url . "https://github.com/rtrn/shelltest-mode") (:keywords "languages")) nil])
   (shorten [cl-struct-package-desc shorten (1 6) "component-wise string shortener" nil single "melpa-stable" nil ((:url . "https://github.com/jorgenschaefer/circe/blob/master/lisp/shorten.el") (:keywords "extensions")) nil])
-  (simplenote2 [cl-struct-package-desc simplenote2 (2 2 1) "Interact with simple-note.appspot.com" ((request-deferred (0 2 0))) single "melpa-stable" nil ((:keywords "simplenote")) nil])
+  (simplenote2 [cl-struct-package-desc simplenote2 (2 2 2) "Interact with simple-note.appspot.com" ((request-deferred (0 2 0))) single "melpa-stable" nil ((:keywords "simplenote")) nil])
   (sly-company [cl-struct-package-desc sly-company (0 8) "sly completion backend for company mode" ((sly (1 0 0 -3)) (company (0 7)) (emacs (24 3))) single "melpa-stable" nil ((:keywords "convenience" "lisp" "abbrev")) nil])
   (smartparens [cl-struct-package-desc smartparens (1 6 3) "Automatic insertion, wrapping and paredit-like navigation with user defined pairs." ((cl-lib (0 3)) (dash (2 6 0))) tar "melpa-stable" nil nil nil])
   (smooth-scrolling [cl-struct-package-desc smooth-scrolling (1 0 4) "Make emacs scroll smoothly" nil single "melpa-stable" nil ((:url . "http://github.com/aspiers/smooth-scrolling/") (:keywords "convenience")) nil])
