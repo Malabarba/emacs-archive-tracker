@@ -1,5 +1,5 @@
 '(
-  (2048-game [cl-struct-package-desc 2048-game (20150403 2034) "play 2048 in Emacs" nil single "melpa" nil ((:url . "https://bitbucket.org/zck/2048.el")) nil])
+  (2048-game [cl-struct-package-desc 2048-game (20150404 2113) "play 2048 in Emacs" nil single "melpa" nil ((:url . "https://bitbucket.org/zck/2048.el")) nil])
   (4clojure [cl-struct-package-desc 4clojure (20131014 1507) "Open and evaluate 4clojure.com questions" ((json (1 2)) (request (0 2 0))) single "melpa" nil ((:keywords "languages" "data")) nil])
   (@ [cl-struct-package-desc @ (20140707 520) "multiple-inheritance prototype-based objects DSL" ((queue (0 1)) (emacs (24))) tar "melpa" nil ((:url . "https://github.com/skeeto/at-el")) nil])
   (abc-mode [cl-struct-package-desc abc-mode (20140225 944) "Major mode for editing abc music files" nil single "melpa" nil ((:keywords "local" "docs")) nil])
@@ -502,7 +502,7 @@
   (iplayer [cl-struct-package-desc iplayer (20150101 255) "Browse and download BBC TV/radio shows" nil single "melpa" nil ((:url . "https://github.com/csrhodes/iplayer-el") (:keywords "multimedia" "bbc")) nil])
   (ir-black-theme [cl-struct-package-desc ir-black-theme (20130302 2355) "Port of ir-black theme" nil single "melpa" nil ((:keywords "faces")) nil])
   (irfc [cl-struct-package-desc irfc (20130824 1207) "Interface for IETF RFC document." nil single "melpa" nil ((:url . "http://www.emacswiki.org/emacs/download/irfc.el") (:keywords "rfc" "ietf")) nil])
-  (isearch+ [cl-struct-package-desc isearch+ (20150402 2331) "Extensions to `isearch.el' (incremental search)." nil single "melpa" nil ((:url . "http://www.emacswiki.org/isearch+.el") (:keywords "help" "matching" "internal" "local")) nil])
+  (isearch+ [cl-struct-package-desc isearch+ (20150404 330) "Extensions to `isearch.el' (incremental search)." nil single "melpa" nil ((:url . "http://www.emacswiki.org/isearch+.el") (:keywords "help" "matching" "internal" "local")) nil])
   (isearch-symbol-at-point [cl-struct-package-desc isearch-symbol-at-point (20130728 1521) "Use isearch to search for the symbol at point" nil single "melpa" nil ((:url . "https://github.com/re5et/isearch-symbol-at-point") (:keywords "isearch")) nil])
   (isend-mode [cl-struct-package-desc isend-mode (20130419 258) "Interactively send parts of an Emacs buffer to an interpreter" nil single "melpa" nil ((:url . "https://github.com/ffevotte/isend-mode.el")) nil])
   (itail [cl-struct-package-desc itail (20150301 2247) "An interactive tail mode" nil single "melpa" nil ((:url . "https://github.com/re5et/itail") (:keywords "tail")) nil])
