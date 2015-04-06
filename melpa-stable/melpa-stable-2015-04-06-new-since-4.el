@@ -195,7 +195,7 @@
   (package+ [cl-struct-package-desc package+ (1 1 0) "Extensions for the package library." nil single "melpa-stable" nil ((:url . "TBA") (:keywords "extensions" "tools")) nil])
   (parenface [cl-struct-package-desc parenface (1 0 3) "Provide a face for parens in lispy modes." nil tar "melpa-stable" nil nil nil])
   (parsebib [cl-struct-package-desc parsebib (1 0 4) "A library for parsing bib files" ((emacs (24 3))) single "melpa-stable" nil ((:keywords "text" "bibtex")) nil])
-  (paxedit [cl-struct-package-desc paxedit (1 1 5) "Structured, Context Driven LISP Editing and Refactoring" ((cl-lib (0 5)) (paredit (23))) single "melpa-stable" nil ((:url . "https://github.com/promethial/paxedit") (:keywords "lisp" "refactoring" "context")) nil])
+  (paxedit [cl-struct-package-desc paxedit (1 1 6) "Structured, Context Driven LISP Editing and Refactoring" ((cl-lib (0 5)) (paredit (23))) single "melpa-stable" nil ((:url . "https://github.com/promethial/paxedit") (:keywords "lisp" "refactoring" "context")) nil])
   (pcomplete-extension [cl-struct-package-desc pcomplete-extension (1 0) "additional completion for pcomplete" ((emacs (24)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/thierryvolpiatto/pcomplete-extension")) nil])
   (pcsv [cl-struct-package-desc pcsv (1 3 6) "Parser of csv" nil single "melpa-stable" nil ((:url . "https://github.com/mhayashi1120/Emacs-pcsv/raw/master/pcsv.el") (:keywords "data")) nil])
   (pdf-tools [cl-struct-package-desc pdf-tools (0 50) "Support library for PDF documents." ((emacs (24 3)) (tablist (0 50))) tar "melpa-stable" nil ((:keywords "files" "multimedia")) nil])

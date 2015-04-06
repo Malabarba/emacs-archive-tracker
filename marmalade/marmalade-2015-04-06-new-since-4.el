@@ -90,7 +90,7 @@
   (gerrit-download [cl-struct-package-desc gerrit-download (0 2) "Show gerrit reviews in a diff buffer." ((magit (20130828 1540))) single "marmalade" nil nil nil])
   (git-draft [cl-struct-package-desc git-draft (0 0 2) "draft git commit messages" ((dash (2 9 0))) single "marmalade" nil nil nil])
   (git-rebase-mode [cl-struct-package-desc git-rebase-mode (1 0 0) "Major mode for editing git rebase files" nil single "marmalade" nil nil nil])
-  (gitattributes-mode [cl-struct-package-desc gitattributes-mode (1 0 0) "Major mode for editing .gitattributes files" nil single "marmalade" nil nil nil])
+  (gitattributes-mode [cl-struct-package-desc gitattributes-mode (1 1 0) "Major mode for editing .gitattributes files" nil single "marmalade" nil nil nil])
   (gitattributes-whitespace [cl-struct-package-desc gitattributes-whitespace (1 20141128) "configure whitespace settings from gitattributes" nil single "marmalade" nil nil nil])
   (gnus-summary-ext [cl-struct-package-desc gnus-summary-ext (0 1) "Extra limit and process mark commands for the gnus summary buffer" ((macro-utils (1 0))) single "marmalade" nil nil nil])
   (god-mode [cl-struct-package-desc god-mode (2 12 0) "God-like command entering minor mode" nil single "marmalade" nil nil nil])

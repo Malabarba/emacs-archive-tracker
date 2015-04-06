@@ -2777,7 +2777,7 @@
 	[(1 0)
 	 nil "vc-mode extension for fast git interaction" single])
  (gitignore-mode .
-		 [(1 0 0)
+		 [(1 1 0)
 		  nil "Major mode for editing .gitignore files" single])
  (github-theme .
 	       [(0 0 3)
@@ -2797,7 +2797,7 @@
 			   [(1 20141128)
 			    nil "configure whitespace settings from gitattributes" single])
  (gitattributes-mode .
-		     [(1 0 0)
+		     [(1 1 0)
 		      nil "Major mode for editing .gitattributes files" single])
  (git-rebase-mode .
 		  [(1 0 0)
