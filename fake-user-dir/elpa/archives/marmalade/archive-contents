@@ -3135,17 +3135,17 @@
 		   (2 4 0)))
 		 "Cask support in Flycheck" single])
  (flycheck .
-	   [(0 22)
-	    ((dash
-	      (2 4 0))
-	     (pkg-info
-	      (0 4))
-	     (let-alist
-	      (1 0 1))
+	   [(0 23)
+	    ((emacs
+	      (24 1))
 	     (cl-lib
 	      (0 3))
-	     (emacs
-	      (24 1)))
+	     (let-alist
+	      (1 0 1))
+	     (pkg-info
+	      (0 4))
+	     (dash
+	      (2 4 0)))
 	    "Modern on-the-fly syntax checking for GNU Emacs" tar])
  (flx-ido .
 	  [(0 2)
