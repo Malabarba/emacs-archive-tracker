@@ -49,7 +49,7 @@
   (direx [cl-struct-package-desc direx (1 0 0) "Simple Directory Explorer" nil tar "melpa-stable" nil ((:keywords "convenience")) nil])
   (direx-grep [cl-struct-package-desc direx-grep (0 1 0) "Grep node of direx.el using incremental search like anything.el/helm.el" ((direx (0 1 -3))) single "melpa-stable" nil ((:url . "https://github.com/aki2o/direx-grep") (:keywords "convenience")) nil])
   (discover-my-major [cl-struct-package-desc discover-my-major (1 0) "Discover key bindings and their meaning for the current Emacs major mode" ((makey (0 2))) single "melpa-stable" nil ((:url . "https://github.com/steckerhalter/discover-my-major") (:keywords "discover" "help" "major-mode" "keys")) nil])
-  (dockerfile-mode [cl-struct-package-desc dockerfile-mode (1 0) "Major mode for editing Docker's Dockerfiles" nil single "melpa-stable" nil nil nil])
+  (dockerfile-mode [cl-struct-package-desc dockerfile-mode (1 1) "Major mode for editing Docker's Dockerfiles" nil single "melpa-stable" nil nil nil])
   (downplay-mode [cl-struct-package-desc downplay-mode (0 1) "focus attention on a region of the buffer" nil single "melpa-stable" nil ((:url . "https://github.com/tobias/downplay-mode/")) nil])
   (dyalog-mode [cl-struct-package-desc dyalog-mode (0 3) "Major mode for editing Dyalog APL source code" nil single "melpa-stable" nil ((:url . "http://bitbucket.org/harsman/dyalog-mode") (:keywords "languages")) nil])
   (e2wm-direx [cl-struct-package-desc e2wm-direx (0 0 5) "Plugin of e2wm.el for direx.el" ((e2wm (1 2)) (direx (0 1 -3))) single "melpa-stable" nil ((:url . "https://github.com/aki2o/e2wm-direx") (:keywords "tools" "window manager" "convenience")) nil])

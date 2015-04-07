@@ -641,7 +641,7 @@
   (tumble [cl-struct-package-desc tumble (1 5) "an Tumblr mode for Emacs" nil single "melpa-stable" nil ((:keywords "tumblr")) nil])
   (tup-mode [cl-struct-package-desc tup-mode (1 3 1) "Major mode for editing files for Tup" nil single "melpa-stable" nil ((:url . "https://github.com/ejmr/tup-mode")) nil])
   (twilight-anti-bright-theme [cl-struct-package-desc twilight-anti-bright-theme (0 3 0) "A soothing Emacs 24 light-on-dark theme" nil single "melpa-stable" nil ((:url . "https://github.com/jimeh/twilight-anti-bright-theme.el") (:keywords "themes")) nil])
-  (twittering-mode [cl-struct-package-desc twittering-mode (2 0 0) "Major mode for Twitter" nil single "melpa-stable" nil ((:url . "http://twmode.sf.net/") (:keywords "twitter" "web")) nil])
+  (twittering-mode [cl-struct-package-desc twittering-mode (3 0 0) "Major mode for Twitter" nil single "melpa-stable" nil ((:url . "http://twmode.sf.net/") (:keywords "twitter" "web")) nil])
   (typo [cl-struct-package-desc typo (1 1) "Minor mode for typographic editing" nil single "melpa-stable" nil ((:url . "https://github.com/jorgenschaefer/typoel") (:keywords "convenience" "wp")) nil])
   (ucs-utils [cl-struct-package-desc ucs-utils (0 8 0) "Utilities for Unicode characters" ((persistent-soft (0 8 8)) (pcache (0 2 3)) (list-utils (0 4 2))) tar "melpa-stable" nil ((:url . "http://github.com/rolandwalker/ucs-utils") (:keywords "i18n" "extensions")) nil])
   (undercover [cl-struct-package-desc undercover (0 4 0) "Test coverage library for Emacs" ((emacs (24)) (dash (2 0 0)) (shut-up (0 3 2))) single "melpa-stable" nil ((:url . "https://github.com/sviridov/undercover.el") (:keywords "lisp" "tests" "coverage" "tools")) nil])
