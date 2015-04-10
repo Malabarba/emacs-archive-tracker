@@ -1,4 +1,7 @@
 (1
+ (firestarter .
+	      [(0 0 1)
+	       nil "Execute (shell) commands on save" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
