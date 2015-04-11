@@ -562,7 +562,7 @@
   (rvm [cl-struct-package-desc rvm (1 4 0) "Emacs integration for rvm" nil single "melpa-stable" nil ((:url . "http://www.emacswiki.org/emacs/RvmEl") (:keywords "ruby" "rvm")) nil])
   (s [cl-struct-package-desc s (1 9 0) "The long lost Emacs string manipulation library." nil single "melpa-stable" nil ((:keywords "strings")) nil])
   (sackspace [cl-struct-package-desc sackspace (0 8 2) "A better backspace" nil single "melpa-stable" nil ((:url . "http://github.com/cofi/sackspace.el") (:keywords "delete" "convenience")) nil])
-  (sage-shell-mode [cl-struct-package-desc sage-shell-mode (0 0 7 1) "A front-end for Sage Math" ((cl-lib (0 5)) (deferred (0 3 1))) tar "melpa-stable" nil ((:url . "https://github.com/stakemori/sage-shell-mode") (:keywords "sage" "math")) nil])
+  (sage-shell-mode [cl-struct-package-desc sage-shell-mode (0 0 7 2) "A front-end for Sage Math" ((cl-lib (0 5)) (deferred (0 3 1))) tar "melpa-stable" nil ((:url . "https://github.com/stakemori/sage-shell-mode") (:keywords "sage" "math")) nil])
   (sass-mode [cl-struct-package-desc sass-mode (3 0 18) "Major mode for editing Sass files" ((haml-mode (3 0 15))) single "melpa-stable" nil ((:url . "http://github.com/nex3/haml/tree/master") (:keywords "markup" "language" "css")) nil])
   (sauron [cl-struct-package-desc sauron (0 10) "Track (erc/org/dbus/...) events and react to them." nil tar "melpa-stable" nil nil nil])
   (save-sexp [cl-struct-package-desc save-sexp (0 2 0) "save variables in files using setter forms like `setq'" nil tar "melpa-stable" nil ((:url . "https://github.com/tarsius/save-sexp") (:keywords "convenience")) nil])
