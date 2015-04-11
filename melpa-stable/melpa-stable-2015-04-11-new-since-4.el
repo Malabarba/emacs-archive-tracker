@@ -19,6 +19,7 @@
   (auto-complete-pcmp [cl-struct-package-desc auto-complete-pcmp (0 0 2) "Provide auto-complete sources using pcomplete results" ((auto-complete (1 4 0)) (log4e (0 2 0)) (yaxception (0 1))) single "melpa-stable" nil ((:url . "https://github.com/aki2o/auto-complete-pcmp") (:keywords "completion")) nil])
   (auto-package-update [cl-struct-package-desc auto-package-update (1 3) "Automatically update Emacs packages." ((emacs (24 3)) (dash (2 1 0))) single "melpa-stable" nil ((:url . "http://github.com/rranelli/auto-package-update.el") (:keywords "package" "update")) nil])
   (autodisass-java-bytecode [cl-struct-package-desc autodisass-java-bytecode (1 2) "Automatically disassemble Java bytecode" ((javap-mode (9))) tar "melpa-stable" nil nil nil])
+  (autodisass-llvm-bitcode [cl-struct-package-desc autodisass-llvm-bitcode (1 1) "Automatically disassemble LLVM bitcode" nil tar "melpa-stable" nil nil nil])
   (bash-completion [cl-struct-package-desc bash-completion (2 0 0) "BASH completion for the shell buffer" nil tar "melpa-stable" nil nil nil])
   (bbdb- [cl-struct-package-desc bbdb- (0 0 2) "provide interface for more easily search/choice than BBDB." ((bbdb (20140123 1541)) (log4e (0 2 0)) (yaxception (0 1))) single "melpa-stable" nil ((:url . "https://github.com/aki2o/bbdb-") (:keywords "bbdb" "news" "mail")) nil])
   (bongo [cl-struct-package-desc bongo (1 0) "play music with Emacs" nil tar "melpa-stable" nil nil nil])
