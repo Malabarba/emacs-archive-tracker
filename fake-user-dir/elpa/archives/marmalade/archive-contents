@@ -1367,7 +1367,7 @@
 	   [(0 0 1)
 	    nil "get stuff from pinboard" single])
  (picpocket .
-	    [(8)
+	    [(9)
 	     nil "Image viewer" single])
  (pickup .
 	 [(0 0 3)
