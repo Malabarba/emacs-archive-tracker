@@ -460,7 +460,7 @@
   (macro-utils [cl-struct-package-desc macro-utils (1 0) "Utilities for writing macros." nil single "marmalade" nil nil nil])
   (macrostep [cl-struct-package-desc macrostep (0 8) "interactive macro stepper for Emacs Lisp" nil single "marmalade" nil nil nil])
   (mactag [cl-struct-package-desc mactag (0 0 1) "Mode for automatically handle multiple tags files with Mactag rubygem" nil single "marmalade" nil nil nil])
-  (magit [cl-struct-package-desc magit (1 4 0) "Control Git from Emacs." ((cl-lib (0 5)) (git-commit-mode (1 0 0)) (git-rebase-mode (1 0 0))) tar "marmalade" nil nil nil])
+  (magit [cl-struct-package-desc magit (1 4 1) "Control Git from Emacs." ((cl-lib (0 5)) (git-commit-mode (1 0 0)) (git-rebase-mode (1 0 0))) tar "marmalade" nil nil nil])
   (magit-gh-pulls [cl-struct-package-desc magit-gh-pulls (0 3) "GitHub pull requests extension for Magit" ((gh (0 4 3)) (magit (1 1 0))) single "marmalade" nil nil nil])
   (magit-simple-keys [cl-struct-package-desc magit-simple-keys (1 0 0) "simple keybindings for Magit" ((magit (1 0 0))) single "marmalade" nil nil nil])
   (maildir [cl-struct-package-desc maildir (0 0 28) "Simple maildir based MUA." ((kv (0 0 17)) (dash (2 3 0)) (s (1 9 0)) (noflet (0 0 8))) tar "marmalade" nil nil nil])

@@ -2066,7 +2066,7 @@
 		     (1 2 0)))
 		   "completing-read over all files in Git" single])
  (magit .
-	[(1 4 0)
+	[(1 4 1)
 	 ((cl-lib
 	   (0 5))
 	  (git-commit-mode

@@ -397,7 +397,7 @@
   (m-buffer [cl-struct-package-desc m-buffer (0 10) "List-Oriented, Functional Buffer Manipulation" ((dash (2 8 0)) (emacs (24 3))) tar "melpa-stable" nil nil nil])
   (macro-math [cl-struct-package-desc macro-math (1 0) "in-buffer mathematical operations" nil single "melpa-stable" nil ((:url . "http://nschum.de/src/emacs/macro-math/") (:keywords "convenience")) nil])
   (macrostep [cl-struct-package-desc macrostep (0 8) "interactive macro stepper for Emacs Lisp" nil single "melpa-stable" nil ((:url . "https://github.com/joddie/macrostep") (:keywords "lisp" "languages" "macro" "debugging")) nil])
-  (magit [cl-struct-package-desc magit (1 4 0) "control Git from Emacs" ((cl-lib (0 5)) (git-commit-mode (1 0 0)) (git-rebase-mode (1 0 0))) tar "melpa-stable" nil ((:keywords "vc" "tools")) nil])
+  (magit [cl-struct-package-desc magit (1 4 1) "control Git from Emacs" ((cl-lib (0 5)) (git-commit-mode (1 0 0)) (git-rebase-mode (1 0 0))) tar "melpa-stable" nil ((:keywords "vc" "tools")) nil])
   (magit-annex [cl-struct-package-desc magit-annex (0 10 0) "Use git annex within magit" ((cl-lib (0 3)) (magit (1 2 0))) single "melpa-stable" nil ((:url . "https://github.com/kyleam/magit-annex") (:keywords "magit" "git-annex")) nil])
   (magit-find-file [cl-struct-package-desc magit-find-file (2 0 0) "completing-read over all files in Git" ((magit (1 2 0)) (dash (2 8 0))) single "melpa-stable" nil ((:url . "https://github.com/bradleywright/magit-find-file.el") (:keywords "git")) nil])
   (magit-gh-pulls [cl-struct-package-desc magit-gh-pulls (0 3) "GitHub pull requests extension for Magit" ((gh (0 4 3)) (magit (1 1 0))) single "melpa-stable" nil ((:keywords "tools")) nil])
