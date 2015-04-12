@@ -68,7 +68,7 @@
   (elixir-yasnippets [cl-struct-package-desc elixir-yasnippets (0 0 1) "Yasnippets for Elixir" ((yasnippet (0 8 0))) tar "melpa-stable" nil nil nil])
   (elscreen-mew [cl-struct-package-desc elscreen-mew (1 0 1) "ElScreen Add-On for Mew" ((elscreen (20120413 807))) single "melpa-stable" nil ((:url . "https://github.com/masutaka/elscreen-mew")) nil])
   (elscreen-persist [cl-struct-package-desc elscreen-persist (0 1 1) "persist the elscreen across sessions" ((elscreen (1 4 6)) (revive (2 19))) single "melpa-stable" nil ((:keywords "elscreen" "frames")) nil])
-  (emms-player-mpv [cl-struct-package-desc emms-player-mpv (0 0 2) "mpv support for EMMS" ((emms (0))) single "melpa-stable" nil ((:url . "https://github.com/dochang/emms-player-mpv/") (:keywords "emms" "mpv")) nil])
+  (emms-player-mpv [cl-struct-package-desc emms-player-mpv (0 0 4) "mpv support for EMMS" ((emms (0))) single "melpa-stable" nil ((:url . "https://github.com/dochang/emms-player-mpv/") (:keywords "emms" "mpv")) nil])
   (erc-youtube [cl-struct-package-desc erc-youtube (0 -3) "Show received youtube urls in the ERC buffer" ((erc (5 3))) single "melpa-stable" nil ((:keywords "multimedia")) nil])
   (erefactor [cl-struct-package-desc erefactor (0 6 13) "Emacs-Lisp refactoring utilities" nil single "melpa-stable" nil ((:url . "https://github.com/mhayashi1120/Emacs-erefactor/raw/master/erefactor.el") (:keywords "extensions" "tools" "maint")) nil])
   (es-lib [cl-struct-package-desc es-lib (0 4) "A collection of emacs utilities" ((cl-lib (0 3))) tar "melpa-stable" nil ((:url . "https://github.com/sabof/es-lib")) nil])

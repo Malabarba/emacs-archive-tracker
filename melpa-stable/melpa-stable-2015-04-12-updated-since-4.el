@@ -394,7 +394,7 @@
   (logito [cl-struct-package-desc logito (0 1) "logging library for Emacs" ((eieio (1 3))) single "melpa-stable" nil ((:keywords "lisp" "tool")) nil])
   (love-minor-mode [cl-struct-package-desc love-minor-mode (1 1) "Minor mode for working on L\303\226VE projects" nil single "melpa-stable" nil ((:url . "https://github.com/ejmr/love-minor-mode")) nil])
   (lua-mode [cl-struct-package-desc lua-mode (20140514) "a major-mode for editing Lua scripts" nil single "melpa-stable" nil ((:url . "http://immerrr.github.com/lua-mode") (:keywords "languages" "processes" "tools")) nil])
-  (m-buffer [cl-struct-package-desc m-buffer (0 10) "List-Oriented, Functional Buffer Manipulation" ((dash (2 8 0)) (emacs (24 3))) tar "melpa-stable" nil nil nil])
+  (m-buffer [cl-struct-package-desc m-buffer (0 11) "List-Oriented, Functional Buffer Manipulation" ((dash (2 8 0)) (emacs (24 3))) tar "melpa-stable" nil nil nil])
   (macro-math [cl-struct-package-desc macro-math (1 0) "in-buffer mathematical operations" nil single "melpa-stable" nil ((:url . "http://nschum.de/src/emacs/macro-math/") (:keywords "convenience")) nil])
   (macrostep [cl-struct-package-desc macrostep (0 8) "interactive macro stepper for Emacs Lisp" nil single "melpa-stable" nil ((:url . "https://github.com/joddie/macrostep") (:keywords "lisp" "languages" "macro" "debugging")) nil])
   (magit [cl-struct-package-desc magit (1 4 1) "control Git from Emacs" ((cl-lib (0 5)) (git-commit-mode (1 0 0)) (git-rebase-mode (1 0 0))) tar "melpa-stable" nil ((:keywords "vc" "tools")) nil])
