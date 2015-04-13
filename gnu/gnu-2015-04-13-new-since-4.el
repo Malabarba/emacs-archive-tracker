@@ -1,7 +1,7 @@
 '(
   (xpm [cl-struct-package-desc xpm (1 0 3) "edit XPM images" nil tar "gnu" nil ((:keywords "multimedia" "xpm") (:url . "http://www.gnuvola.org/software/xpm/")) nil])
   (wpuzzle [cl-struct-package-desc wpuzzle (1 1) "find as many word in a given time" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/wpuzzle.html") (:keywords)) nil])
-  (wisi [cl-struct-package-desc wisi (1 1 0) "Utilities for implementing an indentation/navigation engine using a generalized LALR parser" ((cl-lib (0 4)) (emacs (24 2))) tar "gnu" nil ((:keywords "parser" "indentation" "navigation") (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) nil])
+  (wisi [cl-struct-package-desc wisi (1 1 1) "Utilities for implementing an indentation/navigation engine using a generalized LALR parser" ((cl-lib (0 4)) (emacs (24 2))) tar "gnu" nil ((:keywords "parser" "indentation" "navigation") (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) nil])
   (websocket [cl-struct-package-desc websocket (1 4) "Emacs WebSocket client and server" nil tar "gnu" nil ((:keywords "communication" "websocket" "server") (:url . "http://elpa.gnu.org/packages/websocket.html")) nil])
   (web-server [cl-struct-package-desc web-server (0 1 1) "Emacs Web Server" ((emacs (24 3))) tar "gnu" nil ((:keywords "http" "server" "network") (:url . "https://github.com/eschulte/emacs-web-server")) nil])
   (wcheck-mode [cl-struct-package-desc wcheck-mode (2014 6 21) "General interface for text checkers" nil single "gnu" nil ((:url . "https://github.com/tlikonen/wcheck-mode") (:keywords "text" "spell" "check" "languages" "ispell")) nil])
@@ -51,6 +51,6 @@
   (aggressive-indent [cl-struct-package-desc aggressive-indent (1 0 1) "Minor mode to aggressively keep your code always indented" ((emacs (24 1)) (names (20150125 9)) (cl-lib (0 5))) single "gnu" nil ((:url . "http://github.com/Malabarba/aggressive-indent-mode") (:keywords "indent" "lisp" "maint" "tools")) nil])
   (adjust-parens [cl-struct-package-desc adjust-parens (3 0) "Indent and dedent Lisp code, automatically adjust close parens" nil tar "gnu" nil ((:url . "http://elpa.gnu.org/packages/adjust-parens.html")) nil])
   (ada-ref-man [cl-struct-package-desc ada-ref-man (2012 0) "Ada Reference Manual 2012" nil tar "gnu" nil ((:keywords "languages" "ada") (:url . "http://stephe-leake.org/ada/arm.html")) nil])
-  (ada-mode [cl-struct-package-desc ada-mode (5 1 7) "major-mode for editing Ada sources" ((wisi (1 1 0)) (cl-lib (0 4)) (emacs (24 2))) tar "gnu" nil ((:keywords "languages" "ada") (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) nil])
+  (ada-mode [cl-struct-package-desc ada-mode (5 1 8) "major-mode for editing Ada sources" ((wisi (1 1 1)) (cl-lib (0 4)) (emacs (24 2))) tar "gnu" nil ((:keywords "languages" "ada") (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) nil])
   (ace-window [cl-struct-package-desc ace-window (0 8 0) "Quickly switch windows." nil tar "gnu" nil ((:keywords "window" "location") (:url . "https://github.com/abo-abo/ace-window")) nil])
  )
