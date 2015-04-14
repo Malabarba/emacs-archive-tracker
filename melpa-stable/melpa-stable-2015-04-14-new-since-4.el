@@ -146,7 +146,7 @@
   (ivy [cl-struct-package-desc ivy (0 2 0) "Incremental Vertical completYon" ((emacs (24 1))) single "melpa-stable" nil ((:url . "https://github.com/abo-abo/swiper") (:keywords "matching")) nil])
   (jade-mode [cl-struct-package-desc jade-mode (1 0 0) "Major mode for editing .jade files" nil single "melpa-stable" nil ((:url . "https://github.com/brianc/jade-mode")) nil])
   (jammer [cl-struct-package-desc jammer (0 0 2) "Punish yourself for using Emacs inefficiently" nil single "melpa-stable" nil ((:url . "https://github.com/wasamasa/jammer") (:keywords "games")) nil])
-  (japanlaw [cl-struct-package-desc japanlaw (0 8 12) "Japan law from law.e-gov.go.jp" nil single "melpa-stable" nil ((:keywords "docs" "help")) nil])
+  (japanlaw [cl-struct-package-desc japanlaw (0 9 0) "Japan law from law.e-gov.go.jp" nil single "melpa-stable" nil ((:keywords "docs" "help")) nil])
   (jedi-core [cl-struct-package-desc jedi-core (0 2 3) "Common code of jedi.el and company-jedi.el" ((emacs (24)) (epc (0 1 0)) (python-environment (0 0 2)) (cl-lib (0 5))) tar "melpa-stable" nil nil nil])
   (json-reformat [cl-struct-package-desc json-reformat (0 0 3) "Reformatting tool for JSON" nil single "melpa-stable" nil ((:url . "https://github.com/gongo/json-reformat") (:keywords "json")) nil])
   (jvm-mode [cl-struct-package-desc jvm-mode (0 1 0) "Monitor and manage your JVMs" ((dash (2 6 0)) (emacs (24))) single "melpa-stable" nil ((:url . "https://github.com/martintrojer/jvm-mode.el") (:keywords "convenience")) nil])
