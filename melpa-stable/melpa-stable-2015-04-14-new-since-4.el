@@ -143,6 +143,7 @@
   (inlineR [cl-struct-package-desc inlineR (1 0) "insert Tag for inline image of R graphics" nil single "melpa-stable" nil ((:url . "https://github.com/myuhe/inlineR.el") (:keywords "convenience" "iimage.el" "cacoo.el")) nil])
   (interleave [cl-struct-package-desc interleave (0 4 0) "Interleaving text books since 2015" nil single "melpa-stable" nil ((:url . "https://github.com/rudolfochrist/interleave")) nil])
   (iplayer [cl-struct-package-desc iplayer (0 1) "Browse and download BBC TV/radio shows" nil single "melpa-stable" nil ((:url . "https://github.com/csrhodes/iplayer-el") (:keywords "multimedia" "bbc")) nil])
+  (isgd [cl-struct-package-desc isgd (1 1) "Shorten URLs using the isgd.com shortener service" nil single "melpa-stable" nil ((:url . "https://github.com/chmouel/isgd.el")) nil])
   (ivy [cl-struct-package-desc ivy (0 2 0) "Incremental Vertical completYon" ((emacs (24 1))) single "melpa-stable" nil ((:url . "https://github.com/abo-abo/swiper") (:keywords "matching")) nil])
   (jade-mode [cl-struct-package-desc jade-mode (1 0 0) "Major mode for editing .jade files" nil single "melpa-stable" nil ((:url . "https://github.com/brianc/jade-mode")) nil])
   (jammer [cl-struct-package-desc jammer (0 0 2) "Punish yourself for using Emacs inefficiently" nil single "melpa-stable" nil ((:url . "https://github.com/wasamasa/jammer") (:keywords "games")) nil])
