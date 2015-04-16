@@ -476,7 +476,7 @@
   (ido-ubiquitous [cl-struct-package-desc ido-ubiquitous (20150412 1842) "Use ido (nearly) everywhere." ((emacs (24 1)) (ido-completing-read+ (3 0))) single "melpa" nil ((:url . "https://github.com/DarwinAwardWinner/ido-ubiquitous") (:keywords "convenience" "completion" "ido")) nil])
   (ido-vertical-mode [cl-struct-package-desc ido-vertical-mode (20150215 913) "Makes ido-mode display vertically." nil single "melpa" nil ((:url . "https://github.com/gempesaw/ido-vertical-mode.el") (:keywords "convenience")) nil])
   (idomenu [cl-struct-package-desc idomenu (20141123 1320) "imenu tag selection a la ido" nil single "melpa" nil nil nil])
-  (iedit [cl-struct-package-desc iedit (20150108 1653) "Edit multiple regions in the same way simultaneously." nil tar "melpa" nil ((:url . "http://www.emacswiki.org/emacs/Iedit") (:keywords "occurrence" "region" "simultaneous" "refactoring")) nil])
+  (iedit [cl-struct-package-desc iedit (20150415 1804) "Edit multiple regions in the same way simultaneously." nil tar "melpa" nil ((:url . "http://www.emacswiki.org/emacs/Iedit") (:keywords "occurrence" "region" "simultaneous" "refactoring")) nil])
   (iflipb [cl-struct-package-desc iflipb (20130331 1108) "interactively flip between recently visited buffers" nil single "melpa" nil ((:url . "http://hg.rosdahl.net/iflipb")) nil])
   (ignoramus [cl-struct-package-desc ignoramus (20150216 1342) "Ignore backups, build files, et al." nil single "melpa" nil ((:url . "http://github.com/rolandwalker/ignoramus") (:keywords "convenience" "tools")) nil])
   (igrep [cl-struct-package-desc igrep (20130824 1207) "An improved interface to `grep` and `find`" nil single "melpa" nil ((:keywords "tools" "processes" "search")) nil])
