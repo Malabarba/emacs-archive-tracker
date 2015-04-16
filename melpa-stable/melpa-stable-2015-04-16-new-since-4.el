@@ -147,7 +147,7 @@
   (imgix [cl-struct-package-desc imgix (1 0 0) "Major mode for editing images in emacs via imgix" ((json (1 2)) (ht (2 0)) (s (1 9 0)) (dash (2 9 0)) (cl-lib (0 5))) tar "melpa-stable" nil ((:keywords "images" "image processing" "image editing" "sepia" "blur")) nil])
   (inf-clojure [cl-struct-package-desc inf-clojure (1 1 0) "an inferior-clojure mode" ((emacs (24 1)) (clojure-mode (4 0))) single "melpa-stable" nil ((:url . "http://github.com/clojure-emacs/inf-clojure") (:keywords "processes" "clojure")) nil])
   (inlineR [cl-struct-package-desc inlineR (1 0) "insert Tag for inline image of R graphics" nil single "melpa-stable" nil ((:url . "https://github.com/myuhe/inlineR.el") (:keywords "convenience" "iimage.el" "cacoo.el")) nil])
-  (interleave [cl-struct-package-desc interleave (0 4 0) "Interleaving text books since 2015" nil single "melpa-stable" nil ((:url . "https://github.com/rudolfochrist/interleave")) nil])
+  (interleave [cl-struct-package-desc interleave (0 5 0) "Interleaving text books since 2015" nil single "melpa-stable" nil ((:url . "https://github.com/rudolfochrist/interleave")) nil])
   (iplayer [cl-struct-package-desc iplayer (0 1) "Browse and download BBC TV/radio shows" nil single "melpa-stable" nil ((:url . "https://github.com/csrhodes/iplayer-el") (:keywords "multimedia" "bbc")) nil])
   (isgd [cl-struct-package-desc isgd (1 1) "Shorten URLs using the isgd.com shortener service" nil single "melpa-stable" nil ((:url . "https://github.com/chmouel/isgd.el")) nil])
   (ivy [cl-struct-package-desc ivy (0 2 0) "Incremental Vertical completYon" ((emacs (24 1))) single "melpa-stable" nil ((:url . "https://github.com/abo-abo/swiper") (:keywords "matching")) nil])
