@@ -31,7 +31,7 @@
   (buttercup [cl-struct-package-desc buttercup (1 0) "Behavior-Driven Emacs Lisp Testing" nil tar "melpa-stable" nil nil nil])
   (caskxy [cl-struct-package-desc caskxy (0 0 5) "Control Cask in Emacs" ((log4e (0 2 0)) (yaxception (0 1))) single "melpa-stable" nil ((:url . "https://github.com/aki2o/caskxy") (:keywords "convenience")) nil])
   (checkbox [cl-struct-package-desc checkbox (0 2 1) "Quick manipulation of textual checkboxes" ((emacs (24)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "http://github.com/camdez/checkbox.el") (:keywords "convenience")) nil])
-  (chinese-word-at-point [cl-struct-package-desc chinese-word-at-point (0 2 1) "Add `chinese-word' thing to `thing-at-point'" ((cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/xuchunyang/chinese-word-at-point.el") (:keywords "convenience" "chinese")) nil])
+  (chinese-word-at-point [cl-struct-package-desc chinese-word-at-point (0 2 2) "Add `chinese-word' thing to `thing-at-point'" ((cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/xuchunyang/chinese-word-at-point.el") (:keywords "convenience" "chinese")) nil])
   (cider-eval-sexp-fu [cl-struct-package-desc cider-eval-sexp-fu (1 0) "Briefly highlights an evaluated sexps." ((emacs (24)) (highlight (0)) (eval-sexp-fu (0 4 0))) single "melpa-stable" nil ((:keywords "languages" "clojure" "cider")) nil])
   (cil-mode [cl-struct-package-desc cil-mode (0 3) "Common Intermediate Language mode" nil single "melpa-stable" nil ((:url . "https://github.com/ForNeVeR/cil-mode") (:keywords "languages")) nil])
   (circe [cl-struct-package-desc circe (1 6) "Client for IRC in Emacs" ((lui (1 6)) (lcs (1 1))) tar "melpa-stable" nil nil nil])
