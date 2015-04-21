@@ -10,7 +10,7 @@
   (timerfunctions [cl-struct-package-desc timerfunctions (1 4 2) "Enhanced versions of some timer.el functions" ((cl-lib (0 5))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/timerfunctions.html") (:keywords)) nil])
   (test-simple [cl-struct-package-desc test-simple (1 1) "Simple Unit Test Framework for Emacs Lisp" nil single "gnu" nil ((:url . "http://github.com/rocky/emacs-test-simple") (:keywords "unit-test")) nil])
   (temp-buffer-browse [cl-struct-package-desc temp-buffer-browse (1 4) "temp buffer browse mode" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/temp-buffer-browse.html") (:keywords "convenience")) nil])
-  (swiper [cl-struct-package-desc swiper (0 2 1) "Isearch with an overview. Oh, man!" ((emacs (24 1))) tar "gnu" nil ((:keywords "matching") (:url . "https://github.com/abo-abo/swiper")) nil])
+  (swiper [cl-struct-package-desc swiper (0 3 0) "Isearch with an overview. Oh, man!" ((emacs (24 1))) tar "gnu" nil ((:keywords "matching") (:url . "https://github.com/abo-abo/swiper")) nil])
   (svg [cl-struct-package-desc svg (0 1) "svg image creation functions" ((emacs (25))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/svg.html") (:keywords "image")) nil])
   (spinner [cl-struct-package-desc spinner (1 2) "Add spinners and progress-bars to the mode-line for ongoing operations" ((cl-lib (0 5))) single "gnu" nil ((:url . "https://github.com/Malabarba/spinner.el") (:keywords "processes" "mode-line")) nil])
   (seq [cl-struct-package-desc seq (1 4) "Sequence manipulation functions" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/seq.html") (:keywords "sequences")) nil])

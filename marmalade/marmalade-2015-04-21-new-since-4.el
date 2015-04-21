@@ -95,7 +95,7 @@
   (gitattributes-whitespace [cl-struct-package-desc gitattributes-whitespace (1 20141128) "configure whitespace settings from gitattributes" nil single "marmalade" nil nil nil])
   (gnus-summary-ext [cl-struct-package-desc gnus-summary-ext (0 1) "Extra limit and process mark commands for the gnus summary buffer" ((macro-utils (1 0))) single "marmalade" nil nil nil])
   (god-mode [cl-struct-package-desc god-mode (2 12 0) "God-like command entering minor mode" nil single "marmalade" nil nil nil])
-  (gotham-theme [cl-struct-package-desc gotham-theme (1 0) "A very dark Emacs color theme." nil single "marmalade" nil nil nil])
+  (gotham-theme [cl-struct-package-desc gotham-theme (1 1 1) "A very dark Emacs color theme." nil single "marmalade" nil nil nil])
   (goto-chg [cl-struct-package-desc goto-chg (1 6) "goto last change" nil single "marmalade" nil nil nil])
   (gratuitous-dark-theme [cl-struct-package-desc gratuitous-dark-theme (1 3) "A theme originally by 'cofi' from #emacs, Freenode. It is a combination of Monokai and several other themes. The modeline has been modelled after AwesomeWM because it looks cool." nil single "marmalade" nil nil nil])
   (guile-scheme [cl-struct-package-desc guile-scheme (0 1) "Guile Scheme editing mode" nil single "marmalade" nil nil nil])
