@@ -623,7 +623,7 @@
   (swift-mode [cl-struct-package-desc swift-mode (0 3 0) "Major-mode for Apple's Swift programming language." ((emacs (24 1))) single "melpa-stable" nil ((:keywords "languages" "swift")) nil])
   (syntactic-sugar [cl-struct-package-desc syntactic-sugar (0 9 4) "Effect-free forms such as if/then/else" nil single "melpa-stable" nil ((:url . "http://github.com/rolandwalker/syntactic-sugar") (:keywords "extensions")) nil])
   (system-specific-settings [cl-struct-package-desc system-specific-settings (0 2) "Apply settings only on certain systems" nil single "melpa-stable" nil ((:url . "https://github.com/DarwinAwardWinner/emacs-system-specific-settings") (:keywords "configuration")) nil])
-  (tabbar-ruler [cl-struct-package-desc tabbar-ruler (0 40) "Pretty tabbar, autohide, use both tabbar/ruler" ((tabbar (2 0 1))) tar "melpa-stable" nil ((:url . "http://github.com/mlf176f2/tabbar-ruler.el") (:keywords "tabbar" "ruler mode" "menu" "tool bar.")) nil])
+  (tabbar-ruler [cl-struct-package-desc tabbar-ruler (0 43) "Pretty tabbar, autohide, use both tabbar/ruler" ((tabbar (2 0 1))) tar "melpa-stable" nil ((:url . "http://github.com/mlf176f2/tabbar-ruler.el") (:keywords "tabbar" "ruler mode" "menu" "tool bar.")) nil])
   (tagedit [cl-struct-package-desc tagedit (1 4 0) "Some paredit-like features for html-mode" ((s (1 3 1)) (dash (1 0 3))) single "melpa-stable" nil ((:keywords "convenience")) nil])
   (tempbuf [cl-struct-package-desc tempbuf (1 4) "kill unused buffers in the background" nil single "melpa-stable" nil ((:keywords "convenience")) nil])
   (tern [cl-struct-package-desc tern (0 10 0) "Tern-powered JavaScript integration" ((json (1 2)) (cl-lib (0 5)) (emacs (24))) single "melpa-stable" nil ((:url . "http://ternjs.net/")) nil])
