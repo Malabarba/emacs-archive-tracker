@@ -3183,7 +3183,7 @@
 	    [(0)
 	     nil "Resize a frame.  In particular, fit a frame to its buffers." single])
  (firestarter .
-	      [(0 0 2)
+	      [(0 1 0)
 	       nil "Execute (shell) commands on save" single])
  (fiplr .
 	[(0 1 3)
