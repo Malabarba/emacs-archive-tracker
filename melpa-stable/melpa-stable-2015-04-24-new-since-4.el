@@ -170,7 +170,7 @@
   (karma [cl-struct-package-desc karma (0 1 0) "Karma Test Runner Emacs Integration" nil single "melpa-stable" nil ((:url . "http://github.com/tonini/karma.el") (:keywords "javascript" "js" "karma" "testing")) nil])
   (keyfreq [cl-struct-package-desc keyfreq (1 5) "track command frequencies" nil single "melpa-stable" nil nil nil])
   (keyset [cl-struct-package-desc keyset (0 1 2) "A small library for structuring key bindings." ((dash (2 8 0)) (cl-lib (0 5))) single "melpa-stable" nil nil nil])
-  (kurecolor [cl-struct-package-desc kurecolor (1 2 1) "color editing goodies for Emacs" ((emacs (24 1)) (s (1 0))) single "melpa-stable" nil nil nil])
+  (kurecolor [cl-struct-package-desc kurecolor (1 2 2) "color editing goodies for Emacs" ((emacs (24 1)) (s (1 0))) single "melpa-stable" nil nil nil])
   (latex-math-preview [cl-struct-package-desc latex-math-preview (0 7 0) "preview LaTeX mathematical expressions." nil single "melpa-stable" nil ((:url . "http://www.emacswiki.org/latex-math-preview.el") (:keywords "latex" "tex")) nil])
   (lentic [cl-struct-package-desc lentic (0 7) "One buffer as a view of another" ((emacs (24 4)) (m-buffer (0 8)) (dash (2 5 0)) (f (0 17 2))) tar "melpa-stable" nil nil nil])
   (lice [cl-struct-package-desc lice (0 2) "License And Header Template" nil tar "melpa-stable" nil ((:url . "https://github.com/buzztaiki/lice-el") (:keywords "template" "license" "tools")) nil])
