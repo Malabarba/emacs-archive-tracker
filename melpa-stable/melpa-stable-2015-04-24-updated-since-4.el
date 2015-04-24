@@ -662,7 +662,7 @@
   (wacspace [cl-struct-package-desc wacspace (0 4 2) "The WACky WorkSPACE manager for emACS" ((dash (1 2 0)) (cl-lib (0 2))) tar "melpa-stable" nil nil nil])
   (wc-goal-mode [cl-struct-package-desc wc-goal-mode (2 1) "Running word count with goals (minor mode)" nil single "melpa-stable" nil ((:url . "https://github.com/bnbeckwith/wc-goal-mode")) nil])
   (wcheck-mode [cl-struct-package-desc wcheck-mode (2014 6 21) "General interface for text checkers" nil tar "melpa-stable" nil nil nil])
-  (web-mode [cl-struct-package-desc web-mode (11) "major mode for editing web templates" nil single "melpa-stable" nil ((:url . "http://web-mode.org") (:keywords "languages")) nil])
+  (web-mode [cl-struct-package-desc web-mode (11 1) "major mode for editing web templates" nil single "melpa-stable" nil ((:url . "http://web-mode.org") (:keywords "languages")) nil])
   (weechat [cl-struct-package-desc weechat (0 2 2) "Chat via WeeChat's relay protocol in Emacs" ((s (1 3 1)) (cl-lib (0 2)) (emacs (24)) (tracking (1 2))) tar "melpa-stable" nil nil nil])
   (whitespace-cleanup-mode [cl-struct-package-desc whitespace-cleanup-mode (0 10) "Intelligently call whitespace-cleanup on save" nil single "melpa-stable" nil ((:url . "https://github.com/purcell/whitespace-cleanup-mode") (:keywords "convenience")) nil])
   (wiki-nav [cl-struct-package-desc wiki-nav (1 0 2) "Simple file navigation using [[WikiStrings]]" ((button-lock (1 0 2)) (nav-flash (1 0 0))) single "melpa-stable" nil ((:url . "http://github.com/rolandwalker/button-lock") (:keywords "mouse" "button" "hypermedia" "navigation")) nil])
