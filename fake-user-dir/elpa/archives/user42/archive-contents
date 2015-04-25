@@ -8,15 +8,15 @@
 	      nil "double entry journal accounting" single
 	      ((:url . "http://user42.tuxfamily.org/accjournal/index.html"))])
  (align-let .
-	    [(12)
+	    [(13)
 	     nil "align expressions in a lisp \"let\"" single
 	     ((:url . "http://user42.tuxfamily.org/align-let/index.html"))])
  (arc-lzh-exe .
-	      [(7)
+	      [(8)
 	       nil "archive-mode support for LHa self-extracting .exe" single
 	       ((:url . "http://user42.tuxfamily.org/arc-lzh-exe/index.html"))])
  (areabrowse .
-	     [(3)
+	     [(4)
 	      nil "browse diku mud .are area files" single
 	      ((:url . "http://user42.tuxfamily.org/areabrowse/index.html"))])
  (aumix-mode .
@@ -28,7 +28,7 @@
 		     nil "byte compile warnings for simplifications" single
 		     ((:url . "http://user42.tuxfamily.org/bytecomp-simplify/index.html"))])
  (checkdoc-autoload .
-		    [(2)
+		    [(3)
 		     nil "check for various autoload cookies" single
 		     ((:url . "http://user42.tuxfamily.org/checkdoc-autoload/index.html"))])
  (checkdoc-batch .
@@ -36,11 +36,11 @@
 		  nil "batch report of M-x checkdoc things" single
 		  ((:url . "http://user42.tuxfamily.org/checkdoc-batch/index.html"))])
  (checkdoc-keywords .
-		    [(6)
+		    [(7)
 		     nil "check for known values in Keywords header" single
 		     ((:url . "http://user42.tuxfamily.org/checkdoc-keywords/index.html"))])
  (checkdoc-url-buttonize .
-			 [(1)
+			 [(2)
 			  nil "check URL `' linking in docstrings" single
 			  ((:url . "http://user42.tuxfamily.org/checkdoc-url-buttonize/index.html"))])
  (cl-loop-aplist .
@@ -48,23 +48,23 @@
 		  nil "cl loop macro alist and plist support" single
 		  ((:url . "http://user42.tuxfamily.org/cl-loop-aplist/index.html"))])
  (compilation-always-kill .
-			  [(5)
+			  [(6)
 			   nil "kill compilation without prompting" single
 			   ((:url . "http://user42.tuxfamily.org/compilation-always-kill/index.html"))])
  (compilation-emacs21-batch .
-			    [(4)
+			    [(5)
 			     nil "error regexps for emacs21 byte compiler" single
 			     ((:url . "http://user42.tuxfamily.org/compilation-emacs21-batch/index.html"))])
  (compilation-ledger .
-		     [(1)
+		     [(2)
 		      nil "error regexps for ledger" single
 		      ((:url . "http://user42.tuxfamily.org/compilation-ledger/index.html"))])
  (compilation-onewin .
-		     [(3)
+		     [(4)
 		      nil "whole-frame window for compile buffer" single
 		      ((:url . "http://user42.tuxfamily.org/compilation-onewin/index.html"))])
  (compilation-perl .
-		   [(13)
+		   [(14)
 		    nil "extra error regexps for Perl" single
 		    ((:url . "http://user42.tuxfamily.org/compilation-perl/index.html"))])
  (compilation-recenter-end .
@@ -76,11 +76,11 @@
 		       nil "error regexps for weblint" single
 		       ((:url . "http://user42.tuxfamily.org/compilation-weblint/index.html"))])
  (compile-command-default .
-			  [(12)
+			  [(13)
 			   nil "establish a default for M-x compile" single
 			   ((:url . "http://user42.tuxfamily.org/compile-command-default/index.html"))])
  (completion-ignored-build .
-			   [(11)
+			   [(12)
 			    nil "some built completion-ignored-extensions" single
 			    ((:url . "http://user42.tuxfamily.org/completion-ignored-build/index.html"))])
  (copyright-both-ends .
@@ -88,23 +88,23 @@
 		       nil "update copyright at start and end of file" single
 		       ((:url . "http://user42.tuxfamily.org/copyright-both-ends/index.html"))])
  (diff-save-buffer .
-		   [(13)
+		   [(14)
 		    nil "default filename when saving a diff." single
 		    ((:url . "http://user42.tuxfamily.org/diff-save-buffer/index.html"))])
  (dired-visit-history .
-		      [(3)
+		      [(4)
 		       nil "add dired visited files to find-file history" single
 		       ((:url . "http://user42.tuxfamily.org/dired-visit-history/index.html"))])
  (do-not-edit .
-	      [(14)
+	      [(15)
 	       nil "read-only buffer for generated files" single
 	       ((:url . "http://user42.tuxfamily.org/do-not-edit/index.html"))])
  (elisp-docstring-preview .
-			  [(4)
+			  [(5)
 			   nil "preview Emacs Lisp docstring" single
 			   ((:url . "http://user42.tuxfamily.org/elisp-docstring-preview/index.html"))])
  (ffap-I-option .
-		[(1)
+		[(2)
 		 nil "recognise -I/usr/include/foo" single
 		 ((:url . "http://user42.tuxfamily.org/ffap-I-option/index.html"))])
  (ffap-gcc-path .
@@ -116,15 +116,15 @@
 	     nil "find href URL/link anywhere in the tag" single
 	     ((:url . "http://user42.tuxfamily.org/ffap-href/index.html"))])
  (ffap-include-start .
-		     [(10)
+		     [(11)
 		      nil "recognise C #include when at start of line" single
 		      ((:url . "http://user42.tuxfamily.org/ffap-include-start/index.html"))])
  (ffap-makefile-vars .
-		     [(4)
+		     [(5)
 		      nil "find file with makefile variables expanded" single
 		      ((:url . "http://user42.tuxfamily.org/ffap-makefile-vars/index.html"))])
  (ffap-mml .
-	   [(8)
+	   [(9)
 	    nil "find Gnus message MML attached file at point" single
 	    ((:url . "http://user42.tuxfamily.org/ffap-mml/index.html"))])
  (ffap-perl-module .
@@ -136,11 +136,11 @@
 	      nil "follow Perl pod F<filename>" single
 	      ((:url . "http://user42.tuxfamily.org/ffap-pod-F/index.html"))])
  (ffap-rfc-directories .
-		       [(8)
-			nil "look for RFCs in local directories too" single
+		       [(9)
+			nil "look for RFCs in local directories too (for Emacs 22)" single
 			((:url . "http://user42.tuxfamily.org/ffap-rfc-directories/index.html"))])
  (ffap-rfc-space .
-		 [(10)
+		 [(11)
 		  nil "recognise RFC with a space, like \"RFC 1234\"" single
 		  ((:url . "http://user42.tuxfamily.org/ffap-rfc-space/index.html"))])
  (filladapt-pat .
@@ -148,15 +148,15 @@
 		 nil "add or remove some filladapt patterns" single
 		 ((:url . "http://user42.tuxfamily.org/filladapt-pat/index.html"))])
  (formfeed-hline .
-		 [(4)
+		 [(5)
 		  nil "display formfeed with horizontal line" single
 		  ((:url . "http://user42.tuxfamily.org/formfeed-hline/index.html"))])
  (gtk-look .
-	   [(26)
+	   [(27)
 	    nil "lookup Gtk and Gnome documentation." single
 	    ((:url . "http://user42.tuxfamily.org/gtk-look/index.html"))])
  (gutenberg-coding .
-		   [(14)
+		   [(15)
 		    nil "coding system for Project Gutenberg EBooks." single
 		    ((:url . "http://user42.tuxfamily.org/gutenberg-coding/index.html"))])
  (help-xref-elfiles .
@@ -164,7 +164,7 @@
 		     nil "buttonize foo.el and .emacs filenames in docstrings" single
 		     ((:url . "http://user42.tuxfamily.org/help-xref-elfiles/index.html"))])
  (html-coding .
-	      [(12)
+	      [(13)
 	       nil "coding system from meta in html files (for Emacs 21)" single
 	       ((:url . "http://user42.tuxfamily.org/html-coding/index.html"))])
  (html-sizes .
@@ -176,7 +176,7 @@
 		     nil "smarter html-href-anchor reading" single
 		     ((:url . "http://www.geocities.com/user42_kevin/html-smarter-href/"))])
  (imagetext .
-	    [(10)
+	    [(11)
 	     nil "show text parts of image files" single
 	     ((:url . "http://user42.tuxfamily.org/imagetext/index.html"))])
  (info-lookmore .
@@ -184,31 +184,31 @@
 		 nil "more things for info-look.el" single
 		 ((:url . "http://user42.tuxfamily.org/info-lookmore/index.html"))])
  (ispell-stopwords .
-		   [(8)
+		   [(9)
 		    nil "use perl POD \"=for stopwords\" in ispell" single
 		    ((:url . "http://user42.tuxfamily.org/ispell-stopwords/index.html"))])
  (jka-compr-dictzip .
-		    [(1)
+		    [(2)
 		     nil "dictzip .dz for jka-compr" single
 		     ((:url . "http://user42.tuxfamily.org/jka-compr-dictzip/index.html"))])
  (localedef-overlay .
-		    [(3)
+		    [(4)
 		     nil "mode for glibc locale definition files" single
 		     ((:url . "http://user42.tuxfamily.org/localedef-overlay/index.html"))])
  (mailcap-mode .
-	       [(3)
+	       [(4)
 		nil "mailcap file editing mode" single
 		((:url . "http://user42.tuxfamily.org/mailcap-mode/index.html"))])
  (make-mode-fillindent .
-		       [(4)
+		       [(5)
 			nil "filling indented makefile comments" single
 			((:url . "http://user42.tuxfamily.org/make-mode-fillindent/index.html"))])
  (makeinfo-info .
-		[(8)
+		[(9)
 		 nil "use Info-mode with makeinfo-buffer." single
 		 ((:url . "http://user42.tuxfamily.org/makeinfo-info/index.html"))])
  (man-completion .
-		 [(33)
+		 [(34)
 		  nil "completion for M-x man" single
 		  ((:url . "http://user42.tuxfamily.org/man-completion/index.html"))])
  (man-preview .
@@ -220,11 +220,11 @@
 		     nil "automated mine sweeping for mine-sweeper.el" single
 		     ((:url . "http://user42.tuxfamily.org/mine-sweeper-auto/index.html"))])
  (mo-mode .
-	  [(13)
+	  [(14)
 	   nil "view and edit gettext .mo message files" single
 	   ((:url . "http://user42.tuxfamily.org/mo-mode/index.html"))])
  (nobreak-fade .
-	       [(8)
+	       [(9)
 		nil "some functions for `fill-nobreak-predicate'" single
 		((:url . "http://user42.tuxfamily.org/nobreak-fade/index.html"))])
  (nroff-filladapt .
@@ -232,11 +232,11 @@
 		   nil "nroff comment prefixes for filladapt" single
 		   ((:url . "http://user42.tuxfamily.org/nroff-filladapt/index.html"))])
  (oeis .
-       [(6)
+       [(7)
 	nil "helpers for the Online Encyclopedia of Integer Sequences" single
 	((:url . "http://user42.tuxfamily.org/oeis-el/index.html"))])
  (parasep .
-	  [(4)
+	  [(5)
 	   nil "more paragraph separators" single
 	   ((:url . "http://user42.tuxfamily.org/parasep/index.html"))])
  (pcf2bdf .
@@ -244,11 +244,11 @@
 	   nil "view .pcf compiled font files as bdf" single
 	   ((:url . "http://user42.tuxfamily.org/pcf2bdf/index.html"))])
  (perl-env-substitute .
-		      [(1)
+		      [(2)
 		       nil "Perl style $ENV{VARNAME} in substitute-in-filename" single
 		       ((:url . "http://user42.tuxfamily.org/perl-env-substitute/index.html"))])
  (perl-pod-coding .
-		  [(7)
+		  [(8)
 		   nil "coding system from =encoding in perl files" single
 		   ((:url . "http://user42.tuxfamily.org/perl-pod-coding/index.html"))])
  (perl-pod-gt .
@@ -256,15 +256,15 @@
 	       nil "helpers for Perl POD <> markup" single
 	       ((:url . "http://user42.tuxfamily.org/perl-pod-gt/index.html"))])
  (perl-pod-preview .
-		   [(16)
+		   [(17)
 		    nil "preview perl pod documentation" single
 		    ((:url . "http://user42.tuxfamily.org/perl-pod-preview/index.html"))])
  (perl-quote .
-	     [(4)
+	     [(5)
 	      nil "helpers for Perl quoted strings" single
 	      ((:url . "http://user42.tuxfamily.org/perl-quote/index.html"))])
  (perl-use-utf8-coding .
-		       [(4)
+		       [(5)
 			nil "coding system from \"use utf8\" in perl code" single
 			((:url . "http://user42.tuxfamily.org/perl-use-utf8-coding/index.html"))])
  (pst-format .
@@ -272,15 +272,15 @@
 	      nil "view perl Storable files as human readable text" single
 	      ((:url . "http://user42.tuxfamily.org/pst-format/index.html"))])
  (quick-yes .
-	    [(8)
+	    [(9)
 	     nil "M-y to answer \"yes\" to `yes-or-no-p'." single
 	     ((:url . "http://user42.tuxfamily.org/quick-yes/index.html"))])
  (scroll-1 .
-	   [(8)
+	   [(9)
 	    nil "bind j and k to scroll the window up and down" single
 	    ((:url . "http://user42.tuxfamily.org/scroll-1/index.html"))])
  (sh-autoconf .
-	      [(7)
+	      [(8)
 	       nil "autoconf flavour for sh-mode" single
 	       ((:url . "http://user42.tuxfamily.org/sh-autoconf/index.html"))])
  (sqlite-dump .
@@ -296,11 +296,11 @@
 	      nil "view XTide .tcd tide constituent database files" single
 	      ((:url . "http://user42.tuxfamily.org/tcd-format/index.html"))])
  (tex-math-preview .
-		   [(15)
+		   [(16)
 		    nil "preview TeX math expressions." single
 		    ((:url . "http://user42.tuxfamily.org/tex-math-preview/index.html"))])
  (texinfo-nobreak .
-		  [(6)
+		  [(7)
 		   nil "texinfo line break workarounds" single
 		   ((:url . "http://user42.tuxfamily.org/texinfo-nobreak/index.html"))])
  (texinfo-warn .
@@ -308,7 +308,7 @@
 		nil "warn about tabs and more in texinfo" single
 		((:url . "http://user42.tuxfamily.org/texinfo-warn/index.html"))])
  (tty-format .
-	     [(9)
+	     [(10)
 	      nil "text file backspacing and ANSI SGR as faces" single
 	      ((:url . "http://user42.tuxfamily.org/tty-format/index.html"))])
  (unicode-disp .
@@ -316,11 +316,11 @@
 		nil "display-table fallbacks for some unicode chars" single
 		((:url . "http://user42.tuxfamily.org/unicode-disp/index.html"))])
  (upstr .
-	[(3)
+	[(4)
 	 nil "up-list out of a string or TeX maths too" single
 	 ((:url . "http://user42.tuxfamily.org/upstr/index.html"))])
  (variable-at-point-tick .
-			 [(3)
+			 [(4)
 			  nil "variable-at-point on a 'foo (for Emacs 23)" single
 			  ((:url . "http://user42.tuxfamily.org/variable-at-point-tick/index.html"))])
  (weblint .
@@ -328,11 +328,11 @@
 	   nil "run the weblint program" single
 	   ((:url . "http://user42.tuxfamily.org/weblint/index.html"))])
  (wx-look .
-	  [(5)
+	  [(6)
 	   nil "lookup wxWidgets functions in its manual." single
 	   ((:url . "http://user42.tuxfamily.org/wx-look/index.html"))])
  (xml-coding .
-	     [(8)
+	     [(9)
 	      nil "coding system from tag in xml files (for Emacs 21)" single
 	      ((:url . "http://user42.tuxfamily.org/xml-coding/index.html"))])
  (xtide .
