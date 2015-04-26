@@ -511,7 +511,7 @@
   (jade-mode [cl-struct-package-desc jade-mode (20150402 2053) "Major mode for editing .jade files" nil single "melpa" nil ((:url . "https://github.com/brianc/jade-mode")) nil])
   (japanlaw [cl-struct-package-desc japanlaw (20150411 526) "Japan law from law.e-gov.go.jp" nil single "melpa" nil ((:keywords "docs" "help")) nil])
   (jaunte [cl-struct-package-desc jaunte (20130413 219) "Emacs Hit a Hint" nil single "melpa" nil nil nil])
-  (javadoc-lookup [cl-struct-package-desc javadoc-lookup (20150423 1847) "Javadoc Emacs integration with Maven" ((cl-lib (0 3))) tar "melpa" nil ((:url . "https://github.com/skeeto/javadoc-lookup")) nil])
+  (javadoc-lookup [cl-struct-package-desc javadoc-lookup (20150425 1003) "Javadoc Emacs integration with Maven" ((cl-lib (0 3))) tar "melpa" nil ((:url . "https://github.com/skeeto/javadoc-lookup")) nil])
   (javap-mode [cl-struct-package-desc javap-mode (20120223 1408) "Javap major mode" nil single "melpa" nil ((:url . "http://github.com/hiredman/javap-mode")) nil])
   (jedi [cl-struct-package-desc jedi (20150413 2208) "a Python auto-completion for Emacs" ((emacs (24)) (jedi-core (0 2 2)) (auto-complete (1 4))) single "melpa" nil nil nil])
   (jenkins-watch [cl-struct-package-desc jenkins-watch (20121004 1626) "Watch continuous integration build status" nil single "melpa" nil ((:url . "https://github.com/ataylor284/jenkins-watch")) nil])
