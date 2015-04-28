@@ -268,7 +268,7 @@
   (git-link [cl-struct-package-desc git-link (0 1 0) "Get the GitHub/Bitbucket/Gitorious URL for a buffer location" nil single "melpa-stable" nil ((:url . "http://github.com/sshaw/git-link") (:keywords "git")) nil])
   (git-messenger [cl-struct-package-desc git-messenger (0 16) "Pop up last commit information of current line" ((popup (0 5 0)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-git-messenger")) nil])
   (git-rebase-mode [cl-struct-package-desc git-rebase-mode (1 0 0) "Major mode for editing git rebase files" nil single "melpa-stable" nil ((:url . "https://github.com/magit/git-modes") (:keywords "convenience" "vc" "git")) nil])
-  (git-timemachine [cl-struct-package-desc git-timemachine (2 3) "Walk through git revisions of a file" nil single "melpa-stable" nil ((:url . "https://github.com/pidu/git-timemachine") (:keywords "git")) nil])
+  (git-timemachine [cl-struct-package-desc git-timemachine (2 4) "Walk through git revisions of a file" nil single "melpa-stable" nil ((:url . "https://github.com/pidu/git-timemachine") (:keywords "git")) nil])
   (gitattributes-mode [cl-struct-package-desc gitattributes-mode (1 1 0) "Major mode for editing .gitattributes files" nil single "melpa-stable" nil ((:url . "https://github.com/magit/git-modes") (:keywords "convenience" "vc" "git")) nil])
   (gitconfig [cl-struct-package-desc gitconfig (1 0 0) "Emacs lisp interface to work with git-config variables" nil single "melpa-stable" nil ((:keywords "git" "gitconfig" "git-config")) nil])
   (gitconfig-mode [cl-struct-package-desc gitconfig-mode (1 1 0) "Major mode for editing .gitconfig files" nil single "melpa-stable" nil ((:url . "https://github.com/magit/git-modes") (:keywords "convenience" "vc" "git")) nil])
