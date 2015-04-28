@@ -4440,13 +4440,6 @@
 	      (auto-complete
 	       (1 4)))
 	     "Auto-complete backend for geiser" tar])
- (ac-cider-compliment .
-		      [(0 1 0)
-		       ((cider
-			 (0 5 0))
-			(auto-complete
-			 (1 4)))
-		       "auto-complete sources for Clojure using" single])
  (ac-cider .
 	   [(0 2 0)
 	    ((cider

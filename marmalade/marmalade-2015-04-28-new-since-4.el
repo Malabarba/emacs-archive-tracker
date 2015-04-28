@@ -1,7 +1,6 @@
 '(
   (ac-R [cl-struct-package-desc ac-R (0 2) "Autocompletion routines for R" nil single "marmalade" nil nil nil])
   (ac-cider [cl-struct-package-desc ac-cider (0 2 0) "Clojure auto-complete sources using CIDER" ((cider (0 8 0)) (auto-complete (1 4)) (cl-lib (0 3))) single "marmalade" nil nil nil])
-  (ac-cider-compliment [cl-struct-package-desc ac-cider-compliment (0 1 0) "auto-complete sources for Clojure using" ((cider (0 5 0)) (auto-complete (1 4))) single "marmalade" nil nil nil])
   (ac-geiser [cl-struct-package-desc ac-geiser (0 1) "Auto-complete backend for geiser" ((geiser (0 5)) (auto-complete (1 4))) tar "marmalade" nil nil nil])
   (ac-inf-ruby [cl-struct-package-desc ac-inf-ruby (0 4) "Enable auto-complete in inf-ruby sessions" ((inf-ruby (2 3 2)) (auto-complete (1 4))) single "marmalade" nil nil nil])
   (ac-python [cl-struct-package-desc ac-python (20110519) "Simple Python Completion Source for Auto-Complete" ((auto-complete (1 4))) single "marmalade" nil nil nil])
