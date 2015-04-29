@@ -4088,7 +4088,7 @@
 	 [(0 1 0)
 	  nil "eldoc mode for clojure" single])
  (clj-refactor .
-	       [(0 13 0)
+	       [(1 0 4)
 		((s
 		  (1 8 0))
 		 (dash
@@ -4096,11 +4096,11 @@
 		 (yasnippet
 		  (0 6 1))
 		 (paredit
-		  (22))
+		  (25 -2))
 		 (multiple-cursors
 		  (1 2 2))
 		 (cider
-		  (0 6 0)))
+		  (0 8 1)))
 		"A collection of clojure refactoring functions" single])
  (clj-mode .
 	   [(0 9)

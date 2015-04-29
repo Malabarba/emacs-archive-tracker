@@ -65,7 +65,7 @@
   (cl-format [cl-struct-package-desc cl-format (1 1) "CL format routine." nil tar "marmalade" nil nil nil])
   (clips-mode [cl-struct-package-desc clips-mode (0 7) "Major mode for editing CLIPS code and REPL" nil tar "marmalade" nil nil nil])
   (clj-mode [cl-struct-package-desc clj-mode (0 9) "basic Major mode (clj) for Clojure code" nil single "marmalade" nil nil nil])
-  (clj-refactor [cl-struct-package-desc clj-refactor (0 13 0) "A collection of clojure refactoring functions" ((s (1 8 0)) (dash (2 4 0)) (yasnippet (0 6 1)) (paredit (22)) (multiple-cursors (1 2 2)) (cider (0 6 0))) single "marmalade" nil nil nil])
+  (clj-refactor [cl-struct-package-desc clj-refactor (1 0 4) "A collection of clojure refactoring functions" ((s (1 8 0)) (dash (2 4 0)) (yasnippet (0 6 1)) (paredit (25 -2)) (multiple-cursors (1 2 2)) (cider (0 8 1))) single "marmalade" nil nil nil])
   (cljdoc [cl-struct-package-desc cljdoc (0 1 0) "eldoc mode for clojure" nil single "marmalade" nil nil nil])
   (cljsbuild-mode [cl-struct-package-desc cljsbuild-mode (0 2 0) "A minor mode for the ClojureScript 'lein cljsbuild' command" nil single "marmalade" nil nil nil])
   (clojure-here [cl-struct-package-desc clojure-here (0 11) "Clojure process in a buffer" nil single "marmalade" nil nil nil])
