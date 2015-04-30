@@ -509,10 +509,8 @@
 	   ((:keywords "games")
 	    (:url . "http://elpa.gnu.org/packages/sokoban.html"))])
  (spinner .
-	  [(1 2)
-	   ((cl-lib
-	     (0 5)))
-	   "Add spinners and progress-bars to the mode-line for ongoing operations" single
+	  [(1 3)
+	   nil "Add spinners and progress-bars to the mode-line for ongoing operations" single
 	   ((:url . "https://github.com/Malabarba/spinner.el")
 	    (:keywords "processes" "mode-line"))])
  (svg .
