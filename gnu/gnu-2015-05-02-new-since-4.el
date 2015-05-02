@@ -27,7 +27,7 @@
   (let-alist [cl-struct-package-desc let-alist (1 0 3) "Easily let-bind values of an assoc-list by their names" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/let-alist.html") (:keywords "extensions" "lisp")) nil])
   (javaimp [cl-struct-package-desc javaimp (0 5) "Add and reorder Java import statements in Maven projects" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/javaimp.html") (:keywords "java" "maven" "programming")) nil])
   (iterators [cl-struct-package-desc iterators (0 1) "Functions for working with iterators" ((emacs (25))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/iterators.html") (:keywords "extensions" "elisp")) nil])
-  (hydra [cl-struct-package-desc hydra (0 13 1) "Make bindings that stick around." ((cl-lib (0 5))) tar "gnu" nil ((:keywords "bindings") (:url . "https://github.com/abo-abo/hydra")) nil])
+  (hydra [cl-struct-package-desc hydra (0 13 2) "Make bindings that stick around." ((cl-lib (0 5))) tar "gnu" nil ((:keywords "bindings") (:url . "https://github.com/abo-abo/hydra")) nil])
   (gnugo [cl-struct-package-desc gnugo (3 0 0) "play GNU Go in a buffer" ((ascii-art-to-unicode (1 5)) (xpm (1 0 1)) (cl-lib (0 5))) tar "gnu" nil ((:keywords "games" "processes") (:url . "http://www.gnuvola.org/software/gnugo/")) nil])
   (gnorb [cl-struct-package-desc gnorb (1 1 0) "Glue code between Gnus, Org, and BBDB" ((cl-lib (0 5))) tar "gnu" nil ((:keywords "mail" "org" "gnus" "bbdb" "todo" "task") (:url . "https://github.com/girzel/gnorb")) nil])
   (flylisp [cl-struct-package-desc flylisp (0 2) "Color unbalanced parentheses and parentheses inconsistent with indentation" ((emacs (24 1)) (cl-lib (0 4))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/flylisp.html") (:keywords)) nil])
