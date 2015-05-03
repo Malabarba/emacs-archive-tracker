@@ -1178,7 +1178,7 @@
 	       [(1 1)
 		nil "Python Pyvirtualenv support" single])
  (pyvenv .
-	 [(1 4)
+	 [(1 7)
 	  nil "Python virtual environment interface" single])
  (python-pylint .
 		[(1 1)
@@ -3254,7 +3254,7 @@
        (2 2 0)))
      "Modern API for working with files and directories" single])
  (eyebrowse .
-	    [(0 4 0)
+	    [(0 4 3)
 	     ((dash
 	       (2 7 0)))
 	     "Easy window config switching" single])

@@ -198,7 +198,7 @@
   (expand-region [cl-struct-package-desc expand-region (0 10 0) "Increase selected region by semantic units." nil tar "melpa-stable" nil nil nil])
   (express [cl-struct-package-desc express (0 6 0) "Alternatives to `message'" ((string-utils (0 3 2))) single "melpa-stable" nil ((:url . "http://github.com/rolandwalker/express") (:keywords "extensions" "message" "interface")) nil])
   (extend-dnd [cl-struct-package-desc extend-dnd (0 5) "R drag and Drop" nil tar "melpa-stable" nil ((:url . "https://github.com/mlf176f2/extend-dnd") (:keywords "extend" "drag and drop")) nil])
-  (eyebrowse [cl-struct-package-desc eyebrowse (0 4 2) "Easy window config switching" ((dash (2 7 0))) single "melpa-stable" nil ((:url . "https://github.com/wasamasa/eyebrowse") (:keywords "convenience")) nil])
+  (eyebrowse [cl-struct-package-desc eyebrowse (0 4 3) "Easy window config switching" ((dash (2 7 0))) single "melpa-stable" nil ((:url . "https://github.com/wasamasa/eyebrowse") (:keywords "convenience")) nil])
   (f [cl-struct-package-desc f (0 17 2) "Modern API for working with files and directories" ((s (1 7 0)) (dash (2 2 0))) single "melpa-stable" nil ((:url . "http://github.com/rejeep/f.el") (:keywords "files" "directories")) nil])
   (fabric [cl-struct-package-desc fabric (0 2 0) "Launch Fabric using Emacs" nil tar "melpa-stable" nil ((:url . "https://github.com/nlamirault/fabric.el") (:keywords "python" "fabric")) nil])
   (factlog [cl-struct-package-desc factlog (0 0 1) "File activity logger" nil single "melpa-stable" nil nil nil])
