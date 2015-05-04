@@ -64,7 +64,7 @@
   (evil-indent-textobject [cl-struct-package-desc evil-indent-textobject (0 2) "evil textobjects based on indentation" ((evil (0))) single "marmalade" nil nil nil])
   (evil-matchit [cl-struct-package-desc evil-matchit (1 3 0) "Vim matchit ported into Emacs (requires EVIL)" nil tar "marmalade" nil nil nil])
   (exercism [cl-struct-package-desc exercism (0 0 1) "An Emacs mode for submitting current file to exercism.io" nil single "marmalade" nil nil nil])
-  (eyebrowse [cl-struct-package-desc eyebrowse (0 4 3) "Easy window config switching" ((dash (2 7 0))) single "marmalade" nil nil nil])
+  (eyebrowse [cl-struct-package-desc eyebrowse (0 4 4) "Easy window config switching" ((dash (2 7 0))) single "marmalade" nil nil nil])
   (f [cl-struct-package-desc f (0 11 0) "Modern API for working with files and directories" ((s (1 7 0)) (dash (2 2 0))) single "marmalade" nil nil nil])
   (fancy-battery [cl-struct-package-desc fancy-battery (0 2) "Fancy battery display" ((emacs (24 1))) single "marmalade" nil nil nil])
   (file-format [cl-struct-package-desc file-format (0 0 4) "templates with files as the source" ((s (1 5 0))) single "marmalade" nil nil nil])
