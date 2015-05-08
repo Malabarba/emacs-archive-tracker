@@ -169,7 +169,7 @@
   (epl [cl-struct-package-desc epl (0 7) "Emacs Package Library" ((cl-lib (0 3))) single "melpa-stable" nil ((:url . "http://github.com/cask/epl") (:keywords "convenience")) nil])
   (erc-crypt [cl-struct-package-desc erc-crypt (1 0) "Symmetric Encryption for ERC" nil single "melpa-stable" nil ((:keywords "application")) nil])
   (erc-hl-nicks [cl-struct-package-desc erc-hl-nicks (1 3 0) "ERC nick highlighter that ignores uniquifying chars when colorizing" nil single "melpa-stable" nil ((:url . "http://www.github.com/leathekd/erc-hl-nicks")) nil])
-  (ercn [cl-struct-package-desc ercn (1 0 2) "Flexible ERC notifications" nil single "melpa-stable" nil ((:url . "http://www.github.com/leathekd/ercn")) nil])
+  (ercn [cl-struct-package-desc ercn (1 1 1) "Flexible ERC notifications" nil single "melpa-stable" nil ((:url . "http://www.github.com/leathekd/ercn")) nil])
   (ergoemacs-mode [cl-struct-package-desc ergoemacs-mode (5 14 7 3 1) "Emacs mode based on common modern interface and ergonomics." ((emacs (24 1)) (undo-tree (0 6 5))) tar "melpa-stable" nil ((:url . "https://github.com/ergoemacs/ergoemacs-mode") (:keywords "convenience")) nil])
   (ert-async [cl-struct-package-desc ert-async (0 1 1) "Async support for ERT" nil single "melpa-stable" nil ((:url . "http://github.com/rejeep/ert-async.el") (:keywords "test")) nil])
   (ert-junit [cl-struct-package-desc ert-junit (0 1 1) "JUnit XML reports from ert results" ((ert (0))) single "melpa-stable" nil ((:url . "http://bitbucket.org/olanilsson/ert-junit") (:keywords "tools" "test" "unittest" "ert")) nil])

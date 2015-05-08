@@ -1621,7 +1621,7 @@
 	       (6 1)))
 	     "basic support for magit links" single])
  (org-journal .
-	      [(1 8 0)
+	      [(1 8 1)
 	       nil "a simple org-mode based journaling mode" single])
  (org-gnome .
 	    [(0 1)
