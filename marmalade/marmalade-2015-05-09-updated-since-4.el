@@ -542,7 +542,7 @@
   (org-protocol-jekyll [cl-struct-package-desc org-protocol-jekyll (0 1) "Jekyll's handler for org-protocol" nil single "marmalade" nil nil nil])
   (org-readme [cl-struct-package-desc org-readme (20130322 926) "Integrates Readme.org and Commentary/Change-logs." ((http-post-simple (1 0)) (yaoddmuse (0 1 1)) (header2 (21 0)) (lib-requires (21 0))) single "marmalade" nil nil nil])
   (org-table-comment [cl-struct-package-desc org-table-comment (0 2) "Org table comment modes." nil single "marmalade" nil nil nil])
-  (org-trello [cl-struct-package-desc org-trello (0 6 9 4) "Minor mode to synchronize org-mode buffer and trello board" ((request-deferred (0 2 0)) (deferred (0 3 2)) (s (1 9 0)) (dash (2 8 0)) (emacs (24))) tar "marmalade" nil nil nil])
+  (org-trello [cl-struct-package-desc org-trello (0 6 9 5) "Minor mode to synchronize org-mode buffer and trello board" ((request-deferred (0 2 0)) (deferred (0 3 2)) (s (1 9 0)) (dash (2 8 0)) (emacs (24))) tar "marmalade" nil nil nil])
   (org2blog [cl-struct-package-desc org2blog (0 5) "Blog from Org mode to wordpress" ((org (7 7)) (xml-rpc (1 6 8))) tar "marmalade" nil nil nil])
   (osx-browse [cl-struct-package-desc osx-browse (0 8 8) "Web browsing helpers for OS X" ((string-utils (0 3 2)) (browse-url-dwim (0 6 6))) single "marmalade" nil nil nil])
   (osx-location [cl-struct-package-desc osx-location (0 2) "Watch and respond to changes in geographical location on OS X" nil tar "marmalade" nil nil nil])

@@ -24,6 +24,7 @@
   (auto-yasnippet [cl-struct-package-desc auto-yasnippet (0 3 0) "Quickly create disposable yasnippets" ((yasnippet (0 8 0))) single "melpa-stable" nil ((:url . "https://github.com/abo-abo/auto-yasnippet")) nil])
   (autodisass-java-bytecode [cl-struct-package-desc autodisass-java-bytecode (1 2) "Automatically disassemble Java bytecode" ((javap-mode (9))) tar "melpa-stable" nil nil nil])
   (autodisass-llvm-bitcode [cl-struct-package-desc autodisass-llvm-bitcode (1 1) "Automatically disassemble LLVM bitcode" nil tar "melpa-stable" nil nil nil])
+  (avy [cl-struct-package-desc avy (0 2 0) "set-based completion" ((emacs (24 1)) (cl-lib (0 5))) tar "melpa-stable" nil ((:url . "https://github.com/abo-abo/avy") (:keywords "point" "location")) nil])
   (bash-completion [cl-struct-package-desc bash-completion (2 0 0) "BASH completion for the shell buffer" nil tar "melpa-stable" nil nil nil])
   (bbdb- [cl-struct-package-desc bbdb- (0 0 2) "provide interface for more easily search/choice than BBDB." ((bbdb (20140123 1541)) (log4e (0 2 0)) (yaxception (0 1))) single "melpa-stable" nil ((:url . "https://github.com/aki2o/bbdb-") (:keywords "bbdb" "news" "mail")) nil])
   (bing-dict [cl-struct-package-desc bing-dict (0 1) "Minimalists' English-Chinese Bing dictionary" nil single "melpa-stable" nil ((:url . "https://github.com/cute-jumper/bing-dict.el") (:keywords "extensions")) nil])

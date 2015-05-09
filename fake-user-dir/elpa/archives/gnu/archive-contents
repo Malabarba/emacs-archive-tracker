@@ -1,9 +1,11 @@
 (1
  (ace-window .
-	     [(0 8 0)
-	      nil "Quickly switch windows." tar
-	      ((:keywords "window" "location")
-	       (:url . "https://github.com/abo-abo/ace-window"))])
+	     [(0 8 1)
+	      ((avy
+		(0 1 0)))
+	      "Quickly switch windows." single
+	      ((:url . "https://github.com/abo-abo/ace-window")
+	       (:keywords "window" "location"))])
  (ack .
       [(1 3)
        nil "Interface to ack-like source code search tools" tar
