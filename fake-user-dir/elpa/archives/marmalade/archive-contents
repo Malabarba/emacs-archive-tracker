@@ -1390,8 +1390,10 @@
      [(0 12)
       nil "Emacs Lisp interface to the PostgreSQL RDBMS" single])
  (perspective .
-	      [(1 10)
-	       nil "switch between named \"perspectives\" of the editor" single])
+	      [(1 12)
+	       ((cl-lib
+		 (0 5)))
+	       "switch between named \"perspectives\" of the editor" single])
  (persistent-soft .
 		  [(0 8 8)
 		   ((pcache
@@ -2898,7 +2900,7 @@
 	[(0 1)
 	 nil "Fuzzy Matching" single])
  (furl .
-       [(0 0 2)
+       [(0 0 3)
 	nil "Friendly URL retrieval" single])
  (fullscreen-mode .
 		  [(0 0 1)
