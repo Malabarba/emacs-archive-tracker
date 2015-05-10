@@ -45,6 +45,7 @@
   (chess [cl-struct-package-desc chess (2 0 4) "Play chess in GNU Emacs" ((cl-lib (0 5))) tar "gnu" nil ((:keywords "games") (:url . "http://elpa.gnu.org/packages/chess.html")) nil])
   (caps-lock [cl-struct-package-desc caps-lock (1 0) "Caps-lock as a minor mode" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/caps-lock.html") (:keywords)) nil])
   (bug-hunter [cl-struct-package-desc bug-hunter (0 2) "Hunt down errors in elisp files" ((seq (1 3)) (cl-lib (0 5))) single "gnu" nil ((:url . "http://github.com/Malabarba/elisp-bug-hunter") (:keywords "lisp")) nil])
+  (avy [cl-struct-package-desc avy (0 2 0) "set-based completion" ((emacs (24 1)) (cl-lib (0 5))) tar "gnu" nil ((:keywords "point" "location") (:url . "https://github.com/abo-abo/avy")) nil])
   (auto-overlays [cl-struct-package-desc auto-overlays (0 10 9) "Automatic regexp-delimited overlays" nil tar "gnu" nil ((:keywords "extensions") (:url . "http://www.dr-qubit.org/emacs.php")) nil])
   (aumix-mode [cl-struct-package-desc aumix-mode (7) "run the aumix program in a buffer" nil single "gnu" nil ((:url . "http://user42.tuxfamily.org/aumix-mode/index.html") (:keywords "multimedia" "mixer" "aumix")) nil])
   (ascii-art-to-unicode [cl-struct-package-desc ascii-art-to-unicode (1 9) "a small artist adjunct" nil single "gnu" nil ((:url . "http://www.gnuvola.org/software/aa2u/") (:keywords "ascii" "unicode" "box-drawing")) nil])
