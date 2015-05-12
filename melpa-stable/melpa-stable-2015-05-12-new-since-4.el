@@ -281,7 +281,7 @@
   (synosaurus [cl-struct-package-desc synosaurus (0 1 0) "An extensible thesaurus supporting lookup and substitution." ((cl-lib (0 5))) tar "melpa-stable" nil ((:url . "https://github.com/rootzlevel/synosaurus")) nil])
   (syntax-subword [cl-struct-package-desc syntax-subword (0 2) "make operations on words more fine-grained" nil single "melpa-stable" nil nil nil])
   (systemd [cl-struct-package-desc systemd (1 2) "Major mode for editing systemd units" nil tar "melpa-stable" nil ((:keywords "tools" "unix")) nil])
-  (ta [cl-struct-package-desc ta (1 2) "A tool to deal with Chinese homophonic characters" ((emacs (24 3)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "http://github.com/kuanyui/ta.el") (:keywords "tools")) nil])
+  (ta [cl-struct-package-desc ta (1 3) "A tool to deal with Chinese homophonic characters" ((emacs (24 3)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "http://github.com/kuanyui/ta.el") (:keywords "tools")) nil])
   (tablist [cl-struct-package-desc tablist (0 50) "Extended tabulated-list-mode" ((emacs (24 3))) tar "melpa-stable" nil ((:keywords "extensions" "lisp")) nil])
   (tabulated-list [cl-struct-package-desc tabulated-list (0) "generic major mode for tabulated lists." nil single "melpa-stable" nil ((:keywords "extensions" "lisp")) nil])
   (term-alert [cl-struct-package-desc term-alert (1 0) "Get notifications when commands complete in the Emacs terminal emulator" ((term-cmd (1 0)) (alert (1 1))) single "melpa-stable" nil ((:url . "https://github.com/CallumCameron/term-alert") (:keywords "notifications" "processes")) nil])
