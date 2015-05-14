@@ -2931,7 +2931,7 @@
 	 [(0 1 3)
 	  nil "Send text to http://fpaste.org" single])
  (form-feed .
-	    [(0 1 5)
+	    [(0 1 8)
 	     nil "Display ^L glyphs as horizontal lines" single])
  (fooddice .
 	   [(0 1)
