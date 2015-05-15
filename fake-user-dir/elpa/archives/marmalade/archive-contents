@@ -1550,7 +1550,7 @@
 	     [(0 0 8)
 	      nil "export html and meta data used by static blog like nikola from org file" tar])
  (org2jekyll .
-	     [(0 1 4)
+	     [(0 1 5)
 	      ((dash
 		(2 10 0))
 	       (dash-functional
