@@ -97,7 +97,7 @@
   (fcitx [cl-struct-package-desc fcitx (0 1 1) "Make fcitx better in Emacs" nil single "melpa-stable" nil ((:keywords "extensions")) nil])
   (feature-mode [cl-struct-package-desc feature-mode (0 4) "Major mode for editing Gherkin (i.e. Cucumber) user stories" nil tar "melpa-stable" nil nil nil])
   (find-by-pinyin-dired [cl-struct-package-desc find-by-pinyin-dired (0 0 2) "Find file by first Pinyin characters of Chinese Hanzi" nil tar "melpa-stable" nil nil nil])
-  (firestarter [cl-struct-package-desc firestarter (0 1 2) "Execute (shell) commands on save" nil single "melpa-stable" nil ((:url . "https://github.com/wasamasa/firestarter") (:keywords "convenience")) nil])
+  (firestarter [cl-struct-package-desc firestarter (0 1 3) "Execute (shell) commands on save" nil single "melpa-stable" nil ((:url . "https://github.com/wasamasa/firestarter") (:keywords "convenience")) nil])
   (flycheck-clojure [cl-struct-package-desc flycheck-clojure (0 1 3) "Flycheck: Clojure support" ((cider (0 8 1)) (flycheck (0 22 -3 1)) (let-alist (1 0 1)) (emacs (24))) single "melpa-stable" nil ((:url . "https://github.com/clojure-emacs/squiggly-clojure")) nil])
   (flycheck-ocaml [cl-struct-package-desc flycheck-ocaml (0 2) "Flycheck: OCaml support" ((emacs (24 1)) (flycheck (0 22 -3 1)) (merlin (2 0)) (let-alist (1 0 3))) single "melpa-stable" nil ((:url . "https://github.com/flycheck/flycheck-ocaml") (:keywords "convenience" "tools" "languages")) nil])
   (flycheck-package [cl-struct-package-desc flycheck-package (0 6) "A Flycheck checker for elisp package authors" ((cl-lib (0 5)) (flycheck (0 22)) (emacs (24))) single "melpa-stable" nil ((:keywords "lisp")) nil])

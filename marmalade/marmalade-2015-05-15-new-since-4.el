@@ -70,7 +70,7 @@
   (file-format [cl-struct-package-desc file-format (0 0 4) "templates with files as the source" ((s (1 5 0))) single "marmalade" nil nil nil])
   (finalize [cl-struct-package-desc finalize (1 0 0) "finalizers for Emacs Lisp" ((emacs (24 1)) (cl-lib (0 3)) (eieio (1 4))) tar "marmalade" nil nil nil])
   (fiplr [cl-struct-package-desc fiplr (0 1 3) "Fuzzy finder for files in a project." nil single "marmalade" nil nil nil])
-  (firestarter [cl-struct-package-desc firestarter (0 1 2) "Execute (shell) commands on save" nil single "marmalade" nil nil nil])
+  (firestarter [cl-struct-package-desc firestarter (0 1 3) "Execute (shell) commands on save" nil single "marmalade" nil nil nil])
   (fit-frame [cl-struct-package-desc fit-frame (0) "Resize a frame.  In particular, fit a frame to its buffers." nil single "marmalade" nil nil nil])
   (fixme-mode [cl-struct-package-desc fixme-mode (1 0 2) "fixme minor mode to highlight warning words" nil single "marmalade" nil nil nil])
   (flatland-theme [cl-struct-package-desc flatland-theme (0 1 2) "A simple theme for Emacs." nil single "marmalade" nil nil nil])

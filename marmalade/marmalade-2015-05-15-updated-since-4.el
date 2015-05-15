@@ -136,7 +136,7 @@
   (cycbuf [cl-struct-package-desc cycbuf (0 5 0) "Cycle buffers code by Martin Pohlack, inspired by" nil single "marmalade" nil nil nil])
   (cygwin-mount [cl-struct-package-desc cygwin-mount (2001) "Teach EMACS about cygwin styles and mount points." nil single "marmalade" nil nil nil])
   (d-mode [cl-struct-package-desc d-mode (2 0 4) "D Programming Language mode for (X)Emacs" nil tar "marmalade" nil nil nil])
-  (dart-mode [cl-struct-package-desc dart-mode (0 11) "Major mode for editing Dart files" nil single "marmalade" nil nil nil])
+  (dart-mode [cl-struct-package-desc dart-mode (0 12) "Major mode for editing Dart files" ((cl-lib (0 5)) (dash (2 10 0)) (flycheck (0 24))) single "marmalade" nil nil nil])
   (dash [cl-struct-package-desc dash (2 10 0) "A modern list library for Emacs" nil single "marmalade" nil nil nil])
   (db [cl-struct-package-desc db (0 0 7) "A database for EmacsLisp" ((kv (0 0 19))) single "marmalade" nil nil nil])
   (db-pg [cl-struct-package-desc db-pg (0 0 3) "A PostgreSQL adapter for emacs-db" ((pg (0 12)) (db (0 0 6))) single "marmalade" nil nil nil])

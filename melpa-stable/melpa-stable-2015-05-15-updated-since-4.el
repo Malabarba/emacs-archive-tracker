@@ -108,7 +108,7 @@
   (cyberpunk-theme [cl-struct-package-desc cyberpunk-theme (1 12) "Cyberpunk Color Theme" nil single "melpa-stable" nil ((:keywords "color" "theme" "cyberpunk")) nil])
   (cython-mode [cl-struct-package-desc cython-mode (0 22) "Major mode for editing Cython files" nil single "melpa-stable" nil nil nil])
   (d-mode [cl-struct-package-desc d-mode (2 0 6) "D Programming Language mode for (X)Emacs" nil single "melpa-stable" nil ((:keywords "d" "programming" "language" "emacs" "cc-mode")) nil])
-  (dart-mode [cl-struct-package-desc dart-mode (0 9) "Major mode for editing Dart files" nil single "melpa-stable" nil ((:url . "http://code.google.com/p/dart-mode") (:keywords "language")) nil])
+  (dart-mode [cl-struct-package-desc dart-mode (0 12) "Major mode for editing Dart files" ((cl-lib (0 5)) (dash (2 10 0)) (flycheck (0 24))) single "melpa-stable" nil ((:url . "http://code.google.com/p/dart-mode") (:keywords "language")) nil])
   (dash [cl-struct-package-desc dash (2 10 0) "A modern list library for Emacs" nil single "melpa-stable" nil ((:keywords "lists")) nil])
   (dash-functional [cl-struct-package-desc dash-functional (2 10 0) "Collection of useful combinators for Emacs Lisp" ((dash (2 0 0)) (emacs (24))) single "melpa-stable" nil ((:keywords "lisp" "functions" "combinators")) nil])
   (dedicated [cl-struct-package-desc dedicated (1 0 0) "A very simple minor mode for dedicated buffers" nil single "melpa-stable" nil ((:keywords "dedicated" "buffer")) nil])

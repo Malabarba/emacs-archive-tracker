@@ -147,7 +147,7 @@
   (cyberpunk-theme [cl-struct-package-desc cyberpunk-theme (20150326 1914) "Cyberpunk Color Theme" nil single "melpa" nil ((:keywords "color" "theme" "cyberpunk")) nil])
   (d-mode [cl-struct-package-desc d-mode (20150408 2205) "D Programming Language major mode for (X)Emacs" nil single "melpa" nil ((:keywords "d" "programming" "language" "emacs" "cc-mode")) nil])
   (darcsum [cl-struct-package-desc darcsum (20140315 2110) "a pcl-cvs like interface for managing darcs patches" nil tar "melpa" nil ((:keywords "completion" "convenience" "tools" "vc")) nil])
-  (dart-mode [cl-struct-package-desc dart-mode (20150114 1709) "Major mode for editing Dart files" nil single "melpa" nil ((:url . "http://code.google.com/p/dart-mode") (:keywords "language")) nil])
+  (dart-mode [cl-struct-package-desc dart-mode (20150514 1633) "Major mode for editing Dart files" ((cl-lib (0 5)) (dash (2 10 0)) (flycheck (0 24))) single "melpa" nil ((:url . "http://code.google.com/p/dart-mode") (:keywords "language")) nil])
   (dash [cl-struct-package-desc dash (20150513 1027) "A modern list library for Emacs" nil single "melpa" nil ((:keywords "lists")) nil])
   (dash-at-point [cl-struct-package-desc dash-at-point (20140626 35) "Search the word at point with Dash" nil single "melpa" nil ((:url . "https://github.com/stanaka/dash-at-point")) nil])
   (datomic-snippets [cl-struct-package-desc datomic-snippets (20130707 1315) "Yasnippets for Datomic" ((s (1 4 0)) (dash (1 2 0)) (yasnippet (0 6 1))) tar "melpa" nil nil nil])
