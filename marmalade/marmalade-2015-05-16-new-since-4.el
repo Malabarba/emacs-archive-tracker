@@ -4,7 +4,7 @@
   (ac-geiser [cl-struct-package-desc ac-geiser (0 1) "Auto-complete backend for geiser" ((geiser (0 5)) (auto-complete (1 4))) tar "marmalade" nil nil nil])
   (ac-inf-ruby [cl-struct-package-desc ac-inf-ruby (0 4) "Enable auto-complete in inf-ruby sessions" ((inf-ruby (2 3 2)) (auto-complete (1 4))) single "marmalade" nil nil nil])
   (ac-python [cl-struct-package-desc ac-python (20110519) "Simple Python Completion Source for Auto-Complete" ((auto-complete (1 4))) single "marmalade" nil nil nil])
-  (alchemist [cl-struct-package-desc alchemist (0 13 0) "Elixir tooling integration into emacs" ((emacs (24))) tar "marmalade" nil nil nil])
+  (alchemist [cl-struct-package-desc alchemist (0 14 0) "Elixir tooling integration into Emacs" ((emacs (24))) tar "marmalade" nil nil nil])
   (ample-zen-theme [cl-struct-package-desc ample-zen-theme (0 3) "AmpleZen Theme for Emacs 24" nil single "marmalade" nil nil nil])
   (ansible-doc [cl-struct-package-desc ansible-doc (0 3) "Ansible documentation Minor Mode" ((emacs (24 1))) single "marmalade" nil nil nil])
   (anzu [cl-struct-package-desc anzu (0 22) "Show number of matches in mode-line while searching" nil single "marmalade" nil nil nil])
