@@ -1,9 +1,4 @@
 (1
- (osx-trash .
-	    [(0 1)
-	     ((emacs
-	       (24 1)))
-	     "System trash for OS X" tar])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -900,7 +895,7 @@
 	   [(1 4)
 	    nil "pattern matching for elisp" single])
  (shackle .
-	  [(0 2 1)
+	  [(0 3 0)
 	   ((cl-lib
 	     (0 5)))
 	   "Enforce rules for popups" single])
@@ -1536,6 +1531,11 @@
  (otp .
       [(1 0)
        nil "a one-time password creator" single])
+ (osx-trash .
+	    [(0 1)
+	     ((emacs
+	       (24 1)))
+	     "System trash for OS X" tar])
  (osx-pseudo-daemon .
 		    [(1 0)
 		     nil "Daemon mode that plays nice with OSX." single])
