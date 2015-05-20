@@ -34,7 +34,7 @@
   (anything-sage [cl-struct-package-desc anything-sage (0 0 1) "An anything extension for sage-shell-mode." ((cl-lib (0 5)) (anything (1 3 9)) (sage-shell-mode (0 0 1))) single "melpa-stable" nil ((:url . "https://github.com/stakemori/anything-sage") (:keywords "sage" "math" "anything")) nil])
   (anzu [cl-struct-package-desc anzu (0 53) "Show number of matches in mode-line while searching" ((cl-lib (0 5)) (emacs (24))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-anzu")) nil])
   (apples-mode [cl-struct-package-desc apples-mode (0 0 2) "Major mode for editing and executing AppleScript code" nil tar "melpa-stable" nil ((:keywords "applescript" "languages")) nil])
-  (async [cl-struct-package-desc async (1 2) "Asynchronous processing in Emacs" nil tar "melpa-stable" nil nil nil])
+  (async [cl-struct-package-desc async (1 3) "Asynchronous processing in Emacs" nil tar "melpa-stable" nil nil nil])
   (aurel [cl-struct-package-desc aurel (0 6) "Search, get info, vote and download AUR packages" nil single "melpa-stable" nil ((:url . "https://github.com/alezost/aurel") (:keywords "tools")) nil])
   (auto-compile [cl-struct-package-desc auto-compile (1 2 3) "automatically compile Emacs Lisp libraries" ((cl-lib (0 5)) (dash (2 1)) (packed (0 3 5))) single "melpa-stable" nil ((:url . "https://github.com/tarsius/auto-compile") (:keywords "compile" "convenience" "lisp")) nil])
   (auto-complete [cl-struct-package-desc auto-complete (1 5 0) "Auto Completion for GNU Emacs" ((popup (0 5 0)) (cl-lib (0 5))) tar "melpa-stable" nil nil nil])

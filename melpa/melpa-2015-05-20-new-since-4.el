@@ -341,7 +341,7 @@
   (el-spy [cl-struct-package-desc el-spy (20131226 1208) "Mocking framework for Emacs lisp. It also support spy, proxy." nil single "melpa" nil ((:url . "https://github.com/uk-ar/el-spy") (:keywords "test")) nil])
   (el2markdown [cl-struct-package-desc el2markdown (20150516 1338) "Convert commentary section of elisp files to markdown." nil single "melpa" nil ((:url . "https://github.com/Lindydancer/el2markdown")) nil])
   (electric-spacing [cl-struct-package-desc electric-spacing (20150326 1453) "Insert operators with surrounding spaces smartly" nil single "melpa" nil nil nil])
-  (elfeed [cl-struct-package-desc elfeed (20150427 727) "an Emacs Atom/RSS feed reader" ((emacs (24 3))) tar "melpa" nil nil nil])
+  (elfeed [cl-struct-package-desc elfeed (20150519 1850) "an Emacs Atom/RSS feed reader" ((emacs (24 3))) tar "melpa" nil nil nil])
   (elfeed-org [cl-struct-package-desc elfeed-org (20150412 145) "Configure elfeed with one or more org-mode files" ((elfeed (1 1 1)) (org (8 2 7)) (dash (2 10 0)) (s (1 9 0))) single "melpa" nil ((:url . "https://github.com/remyhonig/elfeed-org") (:keywords "news")) nil])
   (elfeed-web [cl-struct-package-desc elfeed-web (20140702 1626) "web interface to Elfeed" ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) tar "melpa" nil nil nil])
   (elhome [cl-struct-package-desc elhome (20131202 1108) "A framework for a \"home\" Emacs configuration" ((initsplit (20120630))) tar "melpa" nil ((:url . "http://github.com/demyanrogozhin/elhome") (:keywords "lisp")) nil])
