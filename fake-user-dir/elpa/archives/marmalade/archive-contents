@@ -1532,7 +1532,7 @@
       [(1 0)
        nil "a one-time password creator" single])
  (osx-trash .
-	    [(0 1)
+	    [(0 1 1)
 	     ((emacs
 	       (24 1)))
 	     "System trash for OS X" tar])

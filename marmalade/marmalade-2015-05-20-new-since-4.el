@@ -180,7 +180,7 @@
   (org2jekyll [cl-struct-package-desc org2jekyll (0 1 5) "Minor mode to publish org-mode post to jekyll without specific yaml" ((dash (2 10 0)) (dash-functional (1 2 0)) (s (1 9 0)) (deferred (0 3 1))) single "marmalade" nil nil nil])
   (org2nikola [cl-struct-package-desc org2nikola (0 0 8) "export html and meta data used by static blog like nikola from org file" nil tar "marmalade" nil nil nil])
   (osx-pseudo-daemon [cl-struct-package-desc osx-pseudo-daemon (1 0) "Daemon mode that plays nice with OSX." nil single "marmalade" nil nil nil])
-  (osx-trash [cl-struct-package-desc osx-trash (0 1) "System trash for OS X" ((emacs (24 1))) tar "marmalade" nil nil nil])
+  (osx-trash [cl-struct-package-desc osx-trash (0 1 1) "System trash for OS X" ((emacs (24 1))) tar "marmalade" nil nil nil])
   (outlined-elisp-mode [cl-struct-package-desc outlined-elisp-mode (1 0 5) "outline-minor-mode settings for emacs lisp" nil single "marmalade" nil nil nil])
   (overseer [cl-struct-package-desc overseer (0 1 0) "Ert-runner Integration Into Emacs." ((emacs (24)) (dash (2 10 0)) (pkg-info (0 4))) single "marmalade" nil nil nil])
   (palimpsest [cl-struct-package-desc palimpsest (0 8) "Various deletion strategies when editing" nil single "marmalade" nil nil nil])
