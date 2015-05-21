@@ -123,7 +123,7 @@
   (color-theme-buffer-local [cl-struct-package-desc color-theme-buffer-local (20120702 1336) "Install color-themes by buffer." nil single "melpa" nil ((:url . "http://github.com/vic/color-theme-buffer-local") (:keywords "faces")) nil])
   (color-theme-sanityinc-solarized [cl-struct-package-desc color-theme-sanityinc-solarized (20150328 1301) "A version of Ethan Schoonover's Solarized themes" nil tar "melpa" nil nil nil])
   (color-theme-sanityinc-tomorrow [cl-struct-package-desc color-theme-sanityinc-tomorrow (20150328 1259) "A version of Chris Kempson's various Tomorrow themes" nil tar "melpa" nil nil nil])
-  (color-theme-solarized [cl-struct-package-desc color-theme-solarized (20150514 947) "Solarized themes for Emacs" ((color-theme (6 5 5))) tar "melpa" nil nil nil])
+  (color-theme-solarized [cl-struct-package-desc color-theme-solarized (20150520 1840) "Solarized themes for Emacs" ((color-theme (6 5 5))) tar "melpa" nil nil nil])
   (column-marker [cl-struct-package-desc column-marker (20121128 843) "Highlight certain character columns" nil single "melpa" nil ((:keywords "tools" "convenience" "highlight")) nil])
   (commander [cl-struct-package-desc commander (20140120 1052) "Emacs command line parser" ((s (1 6 0)) (dash (2 0 0)) (cl-lib (0 3)) (f (0 6 1))) single "melpa" nil ((:url . "http://github.com/rejeep/commander.el") (:keywords "cli" "argv")) nil])
   (company [cl-struct-package-desc company (20150516 1441) "Modular text completion framework" ((emacs (24 1)) (cl-lib (0 5))) tar "melpa" nil ((:url . "http://company-mode.github.io/") (:keywords "abbrev" "convenience" "matching")) nil])

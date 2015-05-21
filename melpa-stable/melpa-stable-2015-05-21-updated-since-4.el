@@ -487,6 +487,7 @@
   (outorg [cl-struct-package-desc outorg (2 0) "Org-style comment editing" nil single "melpa-stable" nil ((:url . "https://github.com/tj64/outorg")) nil])
   (outshine [cl-struct-package-desc outshine (2 0) "outline with outshine outshines outline" nil single "melpa-stable" nil ((:url . "https://github.com/tj64/outshine")) nil])
   (pabbrev [cl-struct-package-desc pabbrev (4 1) "Predictive abbreviation expansion" nil single "melpa-stable" nil nil nil])
+  (package-safe-delete [cl-struct-package-desc package-safe-delete (0 1 7) "Safely delete package.el packages" ((emacs (24)) (epl (0 7 -3))) single "melpa-stable" nil ((:url . "https://github.com/Fanael/package-safe-delete")) nil])
   (package-utils [cl-struct-package-desc package-utils (0 3 0) "Extensions for package.el" ((epl (0 7 -3))) single "melpa-stable" nil ((:url . "https://github.com/Silex/package-utils") (:keywords "package" "convenience")) nil])
   (packed [cl-struct-package-desc packed (0 4 0) "package manager agnostic Emacs Lisp package utilities" ((cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/tarsius/packed") (:keywords "compile" "convenience" "lisp" "package" "library")) nil])
   (page-break-lines [cl-struct-package-desc page-break-lines (0 10) "Display ugly ^L page breaks as tidy horizontal lines" nil single "melpa-stable" nil ((:url . "https://github.com/purcell/page-break-lines") (:keywords "convenience" "faces")) nil])
