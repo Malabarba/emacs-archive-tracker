@@ -186,7 +186,7 @@
   (evil-jumper [cl-struct-package-desc evil-jumper (0 2 0) "Jump like vimmers do!" ((evil (0))) single "melpa-stable" nil ((:url . "https://github.com/bling/evil-jumper") (:keywords "evil" "vim" "jumplist" "jump" "list")) nil])
   (evil-leader [cl-struct-package-desc evil-leader (0 4 3) "let there be <leader>" ((evil (0))) single "melpa-stable" nil ((:url . "http://github.com/cofi/evil-leader") (:keywords "evil" "vim-emulation" "leader")) nil])
   (evil-matchit [cl-struct-package-desc evil-matchit (1 5 1) "Vim matchit ported into Emacs (requires EVIL)" nil tar "melpa-stable" nil nil nil])
-  (evil-nerd-commenter [cl-struct-package-desc evil-nerd-commenter (1 5 13) "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" nil tar "melpa-stable" nil nil nil])
+  (evil-nerd-commenter [cl-struct-package-desc evil-nerd-commenter (1 5 14) "Comment/uncomment lines efficiently. Like Nerd Commenter in Vim" nil tar "melpa-stable" nil nil nil])
   (evil-numbers [cl-struct-package-desc evil-numbers (0 4) "increment/decrement numbers like in vim" nil single "melpa-stable" nil ((:url . "http://github.com/cofi/evil-numbers") (:keywords "numbers" "increment" "decrement" "octal" "hex" "binary")) nil])
   (evil-org [cl-struct-package-desc evil-org (0 1 1) "evil keybindings for org-mode" ((evil (0)) (org (0))) single "melpa-stable" nil ((:url . "https://github.com/edwtjo/evil-org-mode.git") (:keywords "evil" "vim-emulation" "org-mode" "key-bindings" "presets")) nil])
   (evil-search-highlight-persist [cl-struct-package-desc evil-search-highlight-persist (1 4) "Persistent highlights after search" ((highlight (0))) single "melpa-stable" nil nil nil])
