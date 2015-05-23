@@ -56,7 +56,7 @@
   (bog [cl-struct-package-desc bog (1 0 0) "Extensions for research notes in Org mode" ((cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/kyleam/bog") (:keywords "bib" "outlines")) nil])
   (browse-kill-ring [cl-struct-package-desc browse-kill-ring (2 0 0) "interactively insert items from kill-ring" nil single "melpa-stable" nil ((:url . "https://github.com/browse-kill-ring/browse-kill-ring") (:keywords "convenience")) nil])
   (browse-url-dwim [cl-struct-package-desc browse-url-dwim (0 6 8) "Context-sensitive external browse URL or Internet search" ((string-utils (0 3 2))) single "melpa-stable" nil ((:url . "http://github.com/rolandwalker/browse-url-dwim") (:keywords "hypermedia")) nil])
-  (buffer-move [cl-struct-package-desc buffer-move (0 6 1) "" nil single "melpa-stable" nil ((:url . "https://github.com/lukhas/buffer-move") (:keywords "lisp" "convenience")) nil])
+  (buffer-move [cl-struct-package-desc buffer-move (0 6 2) "" nil single "melpa-stable" nil ((:url . "https://github.com/lukhas/buffer-move") (:keywords "lisp" "convenience")) nil])
   (buffer-utils [cl-struct-package-desc buffer-utils (0 1 0) "Buffer-manipulation utility functions" nil single "melpa-stable" nil ((:url . "http://github.com/rolandwalker/buffer-utils") (:keywords "extensions")) nil])
   (bufshow [cl-struct-package-desc bufshow (0 1 0) "No description available." nil single "melpa-stable" nil nil nil])
   (bug-reference-github [cl-struct-package-desc bug-reference-github (0 2 0) "Automatically set `bug-reference-url-format' in Github repositories." nil single "melpa-stable" nil ((:url . "https://github.com/arnested/bug-reference-github") (:keywords "programming" "tools")) nil])
