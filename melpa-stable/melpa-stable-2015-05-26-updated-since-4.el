@@ -151,7 +151,7 @@
   (elfeed [cl-struct-package-desc elfeed (1 1 2) "an Emacs Atom/RSS feed reader" ((emacs (24 1))) tar "melpa-stable" nil nil nil])
   (elfeed-web [cl-struct-package-desc elfeed-web (1 1 2) "web interface to Elfeed" ((simple-httpd (1 4 3)) (elfeed (1 0 1)) (emacs (24 1))) tar "melpa-stable" nil nil nil])
   (elisp-slime-nav [cl-struct-package-desc elisp-slime-nav (0 8) "Make M-. and M-, work in elisp like they do in slime" ((cl-lib (0 2))) single "melpa-stable" nil ((:url . "https://github.com/purcell/elisp-slime-nav") (:keywords "navigation" "slime" "elisp" "emacs-lisp")) nil])
-  (elixir-mode [cl-struct-package-desc elixir-mode (2 2 2) "Major mode for editing Elixir files" nil tar "melpa-stable" nil ((:url . "https://github.com/elixir-lang/emacs-elixir") (:keywords "languages" "elixir")) nil])
+  (elixir-mode [cl-struct-package-desc elixir-mode (2 2 3) "Major mode for editing Elixir files" nil tar "melpa-stable" nil ((:url . "https://github.com/elixir-lang/emacs-elixir") (:keywords "languages" "elixir")) nil])
   (elmacro [cl-struct-package-desc elmacro (0 3 0) "Convert keyboard macros to elisp" ((s (1 9 0)) (dash (1 5 0)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/Silex/elmacro") (:keywords "macro" "elisp" "convenience")) nil])
   (elmine [cl-struct-package-desc elmine (0 3) "No description available." nil single "melpa-stable" nil nil nil])
   (elpa-audit [cl-struct-package-desc elpa-audit (0 4) "Handy functions for inspecting and comparing package archives" nil single "melpa-stable" nil ((:url . "https://github.com/purcell/elpa-audit") (:keywords "maint")) nil])

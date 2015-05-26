@@ -212,7 +212,7 @@
   (nasm-mode [cl-struct-package-desc nasm-mode (1 0 0) "major mode for nasm assembly" ((emacs (24 3))) single "melpa-stable" nil ((:url . "https://github.com/skeeto/nasm-mode")) nil])
   (nginx-mode [cl-struct-package-desc nginx-mode (1 1 3) "major mode for editing nginx config files" nil single "melpa-stable" nil ((:keywords "nginx")) nil])
   (ocodo-svg-modelines [cl-struct-package-desc ocodo-svg-modelines (0 1 4) "A collection of beautiful SVG modelines" ((svg-mode-line-themes (0))) tar "melpa-stable" nil nil nil])
-  (omni-kill [cl-struct-package-desc omni-kill (0 2) "Kill them all the things" nil single "melpa-stable" nil ((:keywords "convenience" "editing" "tools")) nil])
+  (omni-kill [cl-struct-package-desc omni-kill (0 2 1) "Kill them all the things" nil single "melpa-stable" nil ((:keywords "convenience" "editing" "tools")) nil])
   (omni-scratch [cl-struct-package-desc omni-scratch (0 1 1) "Easy and mode-specific draft buffers" nil single "melpa-stable" nil ((:keywords "convenience" "languages" "tools")) nil])
   (omni-tags [cl-struct-package-desc omni-tags (0 1 2) "Highlight and Actions for 'Tags'" ((pcre2el (1 7)) (cl-lib (0 5))) tar "melpa-stable" nil ((:url . "http://github.com/AdrieanKhisbe/omni-tags.el") (:keywords "convenience")) nil])
   (omnisharp [cl-struct-package-desc omnisharp (3 9) "Omnicompletion (intellisense) and more for C#" ((json (1 2)) (flycheck (0 21)) (dash (20141201 2206)) (auto-complete (1 4)) (popup (0 5 1)) (csharp-mode (0 8 7)) (cl-lib (0 5))) tar "melpa-stable" nil ((:url . "https://github.com/sp3ctum/omnisharp-emacs") (:keywords "csharp" "c#" "ide" "auto-complete" "intellisense")) nil])
