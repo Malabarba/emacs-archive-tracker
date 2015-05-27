@@ -406,7 +406,7 @@
   (haste [cl-struct-package-desc haste (20141030 1334) "Emacs client for hastebin (http://hastebin.com/about.md)" ((json (1 2))) single "melpa" nil ((:url . "http://github.com/rlister/emacs-haste-client")) nil])
   (haxe-mode [cl-struct-package-desc haxe-mode (20131004 142) "An Emacs major mode for Haxe" nil single "melpa" nil ((:url . "http://people.debian.org/~jps/misc/haxe-mode.el")) nil])
   (header2 [cl-struct-package-desc header2 (20150104 2210) "Support for creation and update of file headers." nil single "melpa" nil ((:url . "http://www.emacswiki.org/header2.el") (:keywords "tools" "docs" "maint" "abbrev" "local")) nil])
-  (helm [cl-struct-package-desc helm (20150526 836) "Helm is an Emacs incremental and narrowing framework" ((emacs (24)) (cl-lib (0 5)) (async (1 3))) tar "melpa" nil ((:url . "https://emacs-helm.github.io/helm/")) nil])
+  (helm [cl-struct-package-desc helm (20150526 2139) "Helm is an Emacs incremental and narrowing framework" ((emacs (24)) (cl-lib (0 5)) (async (1 3))) tar "melpa" nil ((:url . "https://emacs-helm.github.io/helm/")) nil])
   (helm-R [cl-struct-package-desc helm-R (20120819 1714) "helm-sources and some utilities for GNU R." ((helm (20120517)) (ess (20120509))) single "melpa" nil ((:url . "https://github.com/myuhe/helm-R.el") (:keywords "convenience")) nil])
   (helm-ack [cl-struct-package-desc helm-ack (20141030 526) "Ack command with helm interface" ((helm (1 0)) (cl-lib (0 5))) single "melpa" nil ((:url . "https://github.com/syohex/emacs-helm-ack")) nil])
   (helm-ag [cl-struct-package-desc helm-ag (20150507 324) "the silver searcher with helm interface" ((helm (1 5 6)) (cl-lib (0 5))) single "melpa" nil ((:url . "https://github.com/syohex/emacs-helm-ag")) nil])
