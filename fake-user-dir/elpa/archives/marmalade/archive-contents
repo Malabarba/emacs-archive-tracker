@@ -895,7 +895,7 @@
 	   [(1 4)
 	    nil "pattern matching for elisp" single])
  (shackle .
-	  [(0 4 1)
+	  [(0 5 0)
 	   ((cl-lib
 	     (0 5)))
 	   "Enforce rules for popups" single])
