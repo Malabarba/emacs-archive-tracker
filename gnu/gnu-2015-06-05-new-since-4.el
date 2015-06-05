@@ -54,5 +54,5 @@
   (adjust-parens [cl-struct-package-desc adjust-parens (3 0) "Indent and dedent Lisp code, automatically adjust close parens" nil tar "gnu" nil ((:url . "http://elpa.gnu.org/packages/adjust-parens.html")) nil])
   (ada-ref-man [cl-struct-package-desc ada-ref-man (2012 0) "Ada Reference Manual 2012" nil tar "gnu" nil ((:keywords "languages" "ada") (:url . "http://stephe-leake.org/ada/arm.html")) nil])
   (ada-mode [cl-struct-package-desc ada-mode (5 1 8) "major-mode for editing Ada sources" ((wisi (1 1 1)) (cl-lib (0 4)) (emacs (24 2))) tar "gnu" nil ((:keywords "languages" "ada") (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) nil])
-  (ace-window [cl-struct-package-desc ace-window (0 8 1) "Quickly switch windows." ((avy (0 1 0))) single "gnu" nil ((:url . "https://github.com/abo-abo/ace-window") (:keywords "window" "location")) nil])
+  (ace-window [cl-struct-package-desc ace-window (0 9 0) "Quickly switch windows." ((avy (0 2 0))) single "gnu" nil ((:url . "https://github.com/abo-abo/ace-window") (:keywords "window" "location")) nil])
  )
