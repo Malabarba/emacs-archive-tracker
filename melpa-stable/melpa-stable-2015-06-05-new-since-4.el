@@ -273,7 +273,7 @@
   (scala-mode2 [cl-struct-package-desc scala-mode2 (0 22) "Major mode for editing Scala >= 2.9" nil tar "melpa-stable" nil nil nil])
   (scala-outline-popup [cl-struct-package-desc scala-outline-popup (0 3 4) "scala file summary popup" ((dash (2 9 0)) (popup (0 5 2)) (scala-mode2 (0 22))) single "melpa-stable" nil ((:url . "https://github.com/ancane/scala-outline-popup.el") (:keywords "scala" "structure" "summary")) nil])
   (search-web [cl-struct-package-desc search-web (1 1) "Post web search queries using `browse-url'." nil single "melpa-stable" nil nil nil])
-  (shackle [cl-struct-package-desc shackle (0 5 0) "Enforce rules for popups" ((cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/wasamasa/shackle") (:keywords "convenience")) nil])
+  (shackle [cl-struct-package-desc shackle (0 5 1) "Enforce rules for popups" ((cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/wasamasa/shackle") (:keywords "convenience")) nil])
   (shell-split-string [cl-struct-package-desc shell-split-string (0 1) "Split strings using shell-like syntax" nil single "melpa-stable" nil ((:url . "https://github.com/10sr/shell-split-string-el") (:keywords "utility" "library" "shell" "string")) nil])
   (shell-toggle [cl-struct-package-desc shell-toggle (1 3 1) "Toggle to and from the shell buffer" nil single "melpa-stable" nil ((:url . "https://github.com/knu/shell-toggle.el") (:keywords "processes")) nil])
   (shelldoc [cl-struct-package-desc shelldoc (0 0 5) "shell command editing support with man page." ((cl-lib (0 3)) (s (1 9 0))) single "melpa-stable" nil ((:url . "http://github.com/mhayashi1120/Emacs-shelldoc/raw/master/shelldoc.el") (:keywords "applications")) nil])
