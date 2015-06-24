@@ -97,7 +97,7 @@
   (conkeror-minor-mode [cl-struct-package-desc conkeror-minor-mode (1 6 2) "Mode for editing conkeror javascript files." nil single "melpa-stable" nil ((:url . "http://github.com/Bruce-Connor/conkeror-minor-mode") (:keywords "programming" "tools")) nil])
   (connection [cl-struct-package-desc connection (1 10) "No description available." nil single "melpa-stable" nil nil nil])
   (cperl-mode [cl-struct-package-desc cperl-mode (6 3) "Perl code editing commands for Emacs" nil single "melpa-stable" nil ((:keywords "languages" "perl")) nil])
-  (cpputils-cmake [cl-struct-package-desc cpputils-cmake (0 5 1) "Easy real time C++ syntax check and intellisense if you use CMake" nil tar "melpa-stable" nil nil nil])
+  (cpputils-cmake [cl-struct-package-desc cpputils-cmake (0 5 2) "Easy real time C++ syntax check and intellisense if you use CMake" nil tar "melpa-stable" nil nil nil])
   (creds [cl-struct-package-desc creds (0 0 6 1) "A parser credentials file library (not limited to credentials entries)" ((s (1 9 0)) (dash (2 5 0))) tar "melpa-stable" nil nil nil])
   (crm-custom [cl-struct-package-desc crm-custom (0 4) "Alternate `completing-read-multiple' that uses `completing-read'" nil single "melpa-stable" nil ((:url . "https://github.com/DarwinAwardWinner") (:keywords "completion" "minibuffer" "multiple elements")) nil])
   (cryptol-mode [cl-struct-package-desc cryptol-mode (0 1 0) "Cryptol major mode for Emacs" nil single "melpa-stable" nil ((:url . "http://github.com/thoughtpolice/cryptol-mode") (:keywords "cryptol" "cryptography")) nil])
