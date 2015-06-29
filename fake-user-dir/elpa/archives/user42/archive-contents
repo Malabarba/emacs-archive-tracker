@@ -144,7 +144,7 @@
 		  nil "recognise RFC with a space, like \"RFC 1234\"" single
 		  ((:url . "http://user42.tuxfamily.org/ffap-rfc-space/index.html"))])
  (filladapt-pat .
-		[(5)
+		[(6)
 		 nil "add or remove some filladapt patterns" single
 		 ((:url . "http://user42.tuxfamily.org/filladapt-pat/index.html"))])
  (formfeed-hline .
@@ -168,7 +168,7 @@
 	       nil "coding system from meta in html files (for Emacs 21)" single
 	       ((:url . "http://user42.tuxfamily.org/html-coding/index.html"))])
  (html-sizes .
-	     [(14)
+	     [(15)
 	      nil "maintain file sizes shown for html links" single
 	      ((:url . "http://user42.tuxfamily.org/html-sizes/index.html"))])
  (html-smarter-href .
