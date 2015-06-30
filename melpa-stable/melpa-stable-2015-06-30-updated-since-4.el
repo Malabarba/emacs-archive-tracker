@@ -141,7 +141,7 @@
   (edit-server [cl-struct-package-desc edit-server (1 13) "server that responds to edit requests from Chrome" nil single "melpa-stable" nil ((:url . "https://github.com/stsquad/emacs_chrome")) nil])
   (editorconfig [cl-struct-package-desc editorconfig (0 4) "EditorConfig Emacs extension" nil single "melpa-stable" nil ((:url . "http://github.com/editorconfig/editorconfig-emacs#readme")) nil])
   (edts [cl-struct-package-desc edts (0 1 0) "No description available." nil tar "melpa-stable" nil nil nil])
-  (egison-mode [cl-struct-package-desc egison-mode (3 5 7) "Egison editing mode" nil single "melpa-stable" nil ((:url . "https://github.com/egisatoshi/egison3/blob/master/elisp/egison-mode.el")) nil])
+  (egison-mode [cl-struct-package-desc egison-mode (3 5 8) "Egison editing mode" nil single "melpa-stable" nil ((:url . "https://github.com/egisatoshi/egison3/blob/master/elisp/egison-mode.el")) nil])
   (eide [cl-struct-package-desc eide (2 1 0) "IDE interface" nil tar "melpa-stable" nil nil nil])
   (el-autoyas [cl-struct-package-desc el-autoyas (0 5) "Automatically create Emacs-Lisp Yasnippets" nil tar "melpa-stable" nil ((:url . "https://github.com/mlf176f2/el-autoyas.el") (:keywords "emacs" "lisp" "mode" "yasnippet")) nil])
   (el-get [cl-struct-package-desc el-get (5 1) "Manage the external elisp bits and pieces you depend upon" nil tar "melpa-stable" nil ((:url . "http://www.emacswiki.org/emacs/el-get") (:keywords "emacs" "package" "elisp" "install" "elpa" "git" "git-svn" "bzr" "cvs" "svn" "darcs" "hg" "apt-get" "fink" "pacman" "http" "http-tar" "emacswiki")) nil])
