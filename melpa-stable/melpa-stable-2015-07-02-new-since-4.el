@@ -16,7 +16,7 @@
   (ahk-mode [cl-struct-package-desc ahk-mode (1 5 5) "Major mode for editing AHK (AutoHotkey and AutoHotkey_L)" nil single "melpa-stable" nil ((:url . "https://github.com/ralesi/ahk-mode") (:keywords "ahk" "autohotkey" "hotkey" "keyboard shortcut" "automation")) nil])
   (alert [cl-struct-package-desc alert (1 2) "Growl-style notification system for Emacs" ((gntp (0 1)) (log4e (0 3 0))) single "melpa-stable" nil ((:url . "https://github.com/jwiegley/alert") (:keywords "notification" "emacs" "message")) nil])
   (android-mode [cl-struct-package-desc android-mode (0 4 0) "Minor mode for Android application development" nil single "melpa-stable" nil ((:url . "https://github.com/remvee/android-mode") (:keywords "tools" "processes")) nil])
-  (annotate [cl-struct-package-desc annotate (0 2 2) "annotate files without changing them" nil single "melpa-stable" nil ((:url . "https://github.com/bastibe/annotate.el")) nil])
+  (annotate [cl-struct-package-desc annotate (0 2 3) "annotate files without changing them" nil single "melpa-stable" nil ((:url . "https://github.com/bastibe/annotate.el")) nil])
   (aproject [cl-struct-package-desc aproject (0 3) "Basic project framework for Emacs" nil tar "melpa-stable" nil ((:url . "https://github.com/vietor/aproject") (:keywords "environment" "project")) nil])
   (artbollocks-mode [cl-struct-package-desc artbollocks-mode (1 1 2) "Improve your writing (especially about art)" nil single "melpa-stable" nil ((:url . "https://github.com/sachac/artbollocks-mode")) nil])
   (asilea [cl-struct-package-desc asilea (0 2 1) "Find best compiler options using simulated annealing" ((emacs (24)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/Fanael/asilea")) nil])
