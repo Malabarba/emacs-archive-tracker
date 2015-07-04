@@ -1003,7 +1003,7 @@
   (web [cl-struct-package-desc web (20141231 1201) "useful HTTP client" ((dash (2 9 0)) (s (1 5 0))) single "melpa" nil ((:url . "http://github.com/nicferrier/emacs-web") (:keywords "lisp" "http" "hypermedia")) nil])
   (web-mode [cl-struct-package-desc web-mode (20150701 2324) "major mode for editing web templates" nil single "melpa" nil ((:url . "http://web-mode.org") (:keywords "languages")) nil])
   (weblogger [cl-struct-package-desc weblogger (20110926 918) "Weblog maintenance via XML-RPC APIs" ((xml-rpc (1 6 8))) single "melpa" nil ((:url . "http://launchpad.net/weblogger-el") (:keywords "weblog" "blogger" "cms" "movable" "type" "openweblog" "blog")) nil])
-  (websocket [cl-struct-package-desc websocket (20150621 2206) "Emacs WebSocket client and server" nil single "melpa" nil ((:keywords "communication" "websocket" "server")) nil])
+  (websocket [cl-struct-package-desc websocket (20150626 2049) "Emacs WebSocket client and server" nil single "melpa" nil ((:keywords "communication" "websocket" "server")) nil])
   (weechat [cl-struct-package-desc weechat (20150703 247) "Chat via WeeChat's relay protocol in Emacs" ((s (1 3 1)) (cl-lib (0 2)) (emacs (24)) (tracking (1 2))) tar "melpa" nil nil nil])
   (wgrep [cl-struct-package-desc wgrep (20141016 1656) "Writable grep buffer and apply the changes to files" nil single "melpa" nil ((:url . "http://github.com/mhayashi1120/Emacs-wgrep/raw/master/wgrep.el") (:keywords "grep" "edit" "extensions")) nil])
   (wgrep-ack [cl-struct-package-desc wgrep-ack (20141012 311) "Writable ack-and-a-half buffer and apply the changes to files" ((wgrep (2 1 1))) single "melpa" nil ((:url . "http://github.com/mhayashi1120/Emacs-wgrep/raw/master/wgrep-ack.el") (:keywords "grep" "edit" "extensions")) nil])
