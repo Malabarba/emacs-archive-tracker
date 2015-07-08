@@ -280,7 +280,7 @@
   (go-eldoc [cl-struct-package-desc go-eldoc (0 25) "eldoc for go-mode" ((go-mode (1 0 0)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-go-eldoc")) nil])
   (golden-ratio [cl-struct-package-desc golden-ratio (1 0) "Automatic resizing of Emacs windows to the golden ratio" nil single "melpa-stable" nil ((:keywords "window" "resizing")) nil])
   (google-this [cl-struct-package-desc google-this (1 10) "A set of functions and bindings to google under point." ((emacs (24 1))) single "melpa-stable" nil ((:url . "http://github.com/Malabarba/emacs-google-this") (:keywords "convenience" "hypermedia")) nil])
-  (google-translate [cl-struct-package-desc google-translate (0 11 0) "Emacs interface to Google Translate." nil tar "melpa-stable" nil nil nil])
+  (google-translate [cl-struct-package-desc google-translate (0 11 1) "Emacs interface to Google Translate." nil tar "melpa-stable" nil nil nil])
   (gotest [cl-struct-package-desc gotest (0 3 0) "Launch GO unit tests" ((s (1 9 0)) (f (0 17 2)) (go-mode (1 0 0))) single "melpa-stable" nil ((:url . "https://github.com/nlamirault/gotest.el") (:keywords "languages" "go" "tests")) nil])
   (goto-gem [cl-struct-package-desc goto-gem (1 2) "Open dired in gem directory" ((s (1 9 0))) single "melpa-stable" nil ((:keywords "gemfile" "convenience")) nil])
   (gradle-mode [cl-struct-package-desc gradle-mode (0 5 5) "Gradle integration with Emacs' compile" ((s (1 8 0))) single "melpa-stable" nil ((:url . "http://github.com/jacobono/emacs-gradle-mode") (:keywords "gradle")) nil])
