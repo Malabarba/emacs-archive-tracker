@@ -468,7 +468,7 @@
   (org-agenda-property [cl-struct-package-desc org-agenda-property (1 3 1) "Display org properties in the agenda buffer." ((emacs (24 2))) single "melpa-stable" nil ((:url . "http://github.com/Bruce-Connor/org-agenda-property") (:keywords "calendar")) nil])
   (org-bullets [cl-struct-package-desc org-bullets (0 2 4) "Show bullets in org-mode as UTF-8 characters" nil single "melpa-stable" nil ((:url . "https://github.com/sabof/org-bullets")) nil])
   (org-elisp-help [cl-struct-package-desc org-elisp-help (0 1 0) "org links to emacs-lisp documentation" ((cl-lib (0 2)) (org (8 0))) single "melpa-stable" nil ((:url . "http://tarsius.github.com/org-elisp-help") (:keywords "org" "remember" "lisp")) nil])
-  (org-journal [cl-struct-package-desc org-journal (1 9 5) "a simple org-mode based journaling mode" nil single "melpa-stable" nil ((:url . "http://github.com/bastibe/org-journal")) nil])
+  (org-journal [cl-struct-package-desc org-journal (1 9 6) "a simple org-mode based journaling mode" nil single "melpa-stable" nil ((:url . "http://github.com/bastibe/org-journal")) nil])
   (org-mac-iCal [cl-struct-package-desc org-mac-iCal (7 9 3 5) "Imports events from iCal.app to the Emacs diary" nil single "melpa-stable" nil ((:keywords "outlines" "calendar")) nil])
   (org-outlook [cl-struct-package-desc org-outlook (0 11) "Outlook org" nil tar "melpa-stable" nil ((:url . "https://github.com/mlf176f2/org-outlook.el") (:keywords "org-outlook")) nil])
   (org-page [cl-struct-package-desc org-page (0 41) "a static site generator based on org mode" ((ht (1 5)) (mustache (0 22)) (htmlize (1 47)) (org (8))) tar "melpa-stable" nil nil nil])
