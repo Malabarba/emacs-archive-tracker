@@ -534,7 +534,7 @@
   (pyvenv [cl-struct-package-desc pyvenv (1 7) "Python virtual environment interface" nil single "melpa-stable" nil ((:url . "http://github.com/jorgenschaefer/pyvenv") (:keywords "python" "virtualenv" "tools")) nil])
   (qiita [cl-struct-package-desc qiita (0 0 1) "No description available." nil single "melpa-stable" nil nil nil])
   (qml-mode [cl-struct-package-desc qml-mode (0 1) "Major mode for editing QT Declarative (QML) code." nil single "melpa-stable" nil ((:url . "https://github.com/coldnew/qml-mode") (:keywords "qml" "qt" "qt declarative")) nil])
-  (quickrun [cl-struct-package-desc quickrun (2 2 3) "Run commands quickly" ((emacs (24)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-quickrun")) nil])
+  (quickrun [cl-struct-package-desc quickrun (2 2 4) "Run commands quickly" ((emacs (24)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-quickrun")) nil])
   (r-autoyas [cl-struct-package-desc r-autoyas (0 28) "Provides automatically created yasnippets for R function argument lists." nil tar "melpa-stable" nil ((:url . "https://github.com/mlf176f2/r-autoyas.el") (:keywords "r" "yasnippet")) nil])
   (rainbow-delimiters [cl-struct-package-desc rainbow-delimiters (2 1 1) "Highlight brackets according to their depth" nil single "melpa-stable" nil ((:url . "https://github.com/Fanael/rainbow-delimiters") (:keywords "faces" "convenience" "lisp" "tools")) nil])
   (rainbow-identifiers [cl-struct-package-desc rainbow-identifiers (0 2 2) "Highlight identifiers according to their names" ((emacs (24))) single "melpa-stable" nil ((:url . "https://github.com/Fanael/rainbow-identifiers")) nil])

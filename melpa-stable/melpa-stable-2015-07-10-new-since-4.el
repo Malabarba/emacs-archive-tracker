@@ -200,6 +200,7 @@
   (kurecolor [cl-struct-package-desc kurecolor (1 2 2) "color editing goodies for Emacs" ((emacs (24 1)) (s (1 0))) single "melpa-stable" nil nil nil])
   (latex-math-preview [cl-struct-package-desc latex-math-preview (0 7 0) "preview LaTeX mathematical expressions." nil single "melpa-stable" nil ((:url . "http://www.emacswiki.org/latex-math-preview.el") (:keywords "latex" "tex")) nil])
   (lentic [cl-struct-package-desc lentic (0 10) "One buffer as a view of another" ((emacs (24 4)) (m-buffer (0 13)) (dash (2 5 0)) (f (0 17 2)) (s (1 9 0))) tar "melpa-stable" nil nil nil])
+  (letcheck [cl-struct-package-desc letcheck (0 3) "Check the erroneous assignments in let forms" nil single "melpa-stable" nil ((:url . "https://github.com/Fuco1/letcheck") (:keywords "convenience")) nil])
   (lice [cl-struct-package-desc lice (0 2) "License And Header Template" nil tar "melpa-stable" nil ((:url . "https://github.com/buzztaiki/lice-el") (:keywords "template" "license" "tools")) nil])
   (list-unicode-display [cl-struct-package-desc list-unicode-display (0 1) "Search for and list unicode characters by name" ((cl-lib (0 5))) single "melpa-stable" nil ((:keywords "convenience")) nil])
   (lit-mode [cl-struct-package-desc lit-mode (0 1 1) "Major mode for lit" nil single "melpa-stable" nil ((:keywords "languages" "tools")) nil])
