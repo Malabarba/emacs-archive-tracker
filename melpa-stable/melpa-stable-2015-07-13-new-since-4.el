@@ -117,6 +117,7 @@
   (flycheck-package [cl-struct-package-desc flycheck-package (0 6) "A Flycheck checker for elisp package authors" ((cl-lib (0 5)) (flycheck (0 22)) (emacs (24))) single "melpa-stable" nil ((:keywords "lisp")) nil])
   (flycheck-ycmd [cl-struct-package-desc flycheck-ycmd (0 9) "flycheck integration for ycmd" ((emacs (24)) (dash (1 2 0)) (flycheck (0 22)) (ycmd (20141217 453))) single "melpa-stable" nil ((:url . "https://github.com/abingham/emacs-ycmd")) nil])
   (fontawesome [cl-struct-package-desc fontawesome (0 2) "fontawesome utility" ((helm (1 7 2)) (cl-lib (0 5))) tar "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-fontawesome")) nil])
+  (foreman-mode [cl-struct-package-desc foreman-mode (0 0 1) "View and manage Procfile-based applications" ((s (1 9 0)) (dash (2 10 0)) (dash-functional (1 2 0)) (f (0 17 2)) (emacs (24))) single "melpa-stable" nil ((:url . "http://github.com/zweifisch/foreman-mode") (:keywords "foreman")) nil])
   (form-feed [cl-struct-package-desc form-feed (0 1 9) "Display ^L glyphs as horizontal lines" nil single "melpa-stable" nil ((:url . "https://github.com/wasamasa/form-feed") (:keywords "faces")) nil])
   (format-sql [cl-struct-package-desc format-sql (0 4) "Use format-sql to make your SQL readable in directly Emacs." nil single "melpa-stable" nil ((:url . "https://github.com/paetzke/format-sql.el")) nil])
   (fullframe [cl-struct-package-desc fullframe (0 1 0) "Generalized automatic execution in a single frame" ((cl-lib (0 5))) single "melpa-stable" nil ((:keywords "fullscreen")) nil])
