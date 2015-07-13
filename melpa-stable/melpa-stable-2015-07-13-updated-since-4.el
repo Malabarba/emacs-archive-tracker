@@ -302,7 +302,7 @@
   (helm-backup [cl-struct-package-desc helm-backup (0 2 0) "Backup each file change using git" ((helm (1 5 5)) (s (1 8 0))) single "melpa-stable" nil ((:url . "http://github.com/antham/helm-backup") (:keywords "backup")) nil])
   (helm-dash [cl-struct-package-desc helm-dash (1 1 0) "Helm extension to search dash docsets" ((helm (0 0 0))) single "melpa-stable" nil ((:url . "http://github.com/areina/helm-dash") (:keywords "docs")) nil])
   (helm-descbinds [cl-struct-package-desc helm-descbinds (1 7 1) "Yet Another `describe-bindings' with `helm'." nil single "melpa-stable" nil ((:keywords "helm" "help")) nil])
-  (helm-ghq [cl-struct-package-desc helm-ghq (1 4 3) "ghq with helm interface" ((helm (1 6 5))) single "melpa-stable" nil ((:url . "https://github.com/masutaka/emacs-helm-ghq")) nil])
+  (helm-ghq [cl-struct-package-desc helm-ghq (1 4 4) "ghq with helm interface" ((helm (1 6 5))) single "melpa-stable" nil ((:url . "https://github.com/masutaka/emacs-helm-ghq")) nil])
   (helm-github-stars [cl-struct-package-desc helm-github-stars (1 3 2) "Helm integration for your starred repositories on github" ((helm (1 6 8)) (emacs (24 4))) single "melpa-stable" nil ((:url . "https://github.com/Sliim/helm-github-stars") (:keywords "helm" "github" "stars")) nil])
   (helm-gtags [cl-struct-package-desc helm-gtags (1 4 7) "GNU GLOBAL helm interface" ((helm (1 5 6)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-helm-gtags")) nil])
   (helm-hayoo [cl-struct-package-desc helm-hayoo (0 0 5) "Source and configured helm for searching hayoo" ((helm (1 6 0)) (json (1 2)) (haskell-mode (13 7))) single "melpa-stable" nil ((:keywords "helm")) nil])
