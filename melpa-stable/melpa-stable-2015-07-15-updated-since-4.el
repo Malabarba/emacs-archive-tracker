@@ -113,7 +113,7 @@
   (dash-functional [cl-struct-package-desc dash-functional (2 11 0) "Collection of useful combinators for Emacs Lisp" ((dash (2 0 0)) (emacs (24))) single "melpa-stable" nil ((:keywords "lisp" "functions" "combinators")) nil])
   (dedicated [cl-struct-package-desc dedicated (1 0 0) "A very simple minor mode for dedicated buffers" nil single "melpa-stable" nil ((:keywords "dedicated" "buffer")) nil])
   (deferred [cl-struct-package-desc deferred (0 3 2) "Simple asynchronous functions for emacs lisp" nil single "melpa-stable" nil ((:url . "https://github.com/kiwanami/emacs-deferred") (:keywords "deferred" "async")) nil])
-  (deft [cl-struct-package-desc deft (0 5 1) "quickly browse, filter, and edit plain text notes" nil single "melpa-stable" nil ((:url . "http://jblevins.org/projects/deft/") (:keywords "plain text" "notes" "simplenote" "notational velocity")) nil])
+  (deft [cl-struct-package-desc deft (0 6) "quickly browse, filter, and edit plain text notes" nil single "melpa-stable" nil ((:url . "http://jblevins.org/projects/deft/") (:keywords "plain text" "notes" "simplenote" "notational velocity")) nil])
   (demangle-mode [cl-struct-package-desc demangle-mode (1 0) "Automatically demangle C++ symbols" ((emacs (24)) (cl-lib (0 1))) single "melpa-stable" nil ((:keywords "c" "tools")) nil])
   (desktop-registry [cl-struct-package-desc desktop-registry (1 2 0) "Keep a central registry of desktop files" nil single "melpa-stable" nil ((:url . "http://projects.ryuslash.org/desktop-registry/") (:keywords "convenience")) nil])
   (dictionary [cl-struct-package-desc dictionary (1 10) "No description available." nil single "melpa-stable" nil nil nil])
