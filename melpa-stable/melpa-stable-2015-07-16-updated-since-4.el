@@ -345,7 +345,7 @@
   (iflipb [cl-struct-package-desc iflipb (1 2) "interactively flip between recently visited buffers" nil single "melpa-stable" nil ((:url . "http://hg.rosdahl.net/iflipb")) nil])
   (ignoramus [cl-struct-package-desc ignoramus (0 7 0) "Ignore backups, build files, et al." nil single "melpa-stable" nil ((:url . "http://github.com/rolandwalker/ignoramus") (:keywords "convenience" "tools")) nil])
   (immutant-server [cl-struct-package-desc immutant-server (1 2 0) "Run your Immutant server in Emacs" nil single "melpa-stable" nil ((:url . "http://www.github.com/leathekd/immutant-server.el")) nil])
-  (import-popwin [cl-struct-package-desc import-popwin (0 8) "popwin buffer near by import statements with popwin" ((popwin (0 6)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-import-popwin")) nil])
+  (import-popwin [cl-struct-package-desc import-popwin (0 9) "popwin buffer near by import statements with popwin" ((popwin (0 6)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-import-popwin")) nil])
   (inf-ruby [cl-struct-package-desc inf-ruby (2 4 0) "Run a Ruby process in a buffer" nil single "melpa-stable" nil ((:url . "http://github.com/nonsequitur/inf-ruby") (:keywords "languages" "ruby")) nil])
   (inflections [cl-struct-package-desc inflections (2 3) "convert english words between singular and plural" nil single "melpa-stable" nil ((:url . "https://github.com/eschulte/jump.el") (:keywords "ruby" "rails" "languages" "oop")) nil])
   (init-loader [cl-struct-package-desc init-loader (0 2) "Loader for configuration files" nil single "melpa-stable" nil ((:url . "https://github.com/emacs-jp/init-loader/")) nil])

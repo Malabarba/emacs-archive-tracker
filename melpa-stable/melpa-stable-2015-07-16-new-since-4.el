@@ -349,7 +349,7 @@
   (voca-builder [cl-struct-package-desc voca-builder (0 2 0) "No description available." nil single "melpa-stable" nil nil nil])
   (web-completion-data [cl-struct-package-desc web-completion-data (0 1) "Shared completion data for ac-html and company-web" nil tar "melpa-stable" nil ((:url . "https://github.com/osv/web-completion-data") (:keywords "html" "auto-complete" "company")) nil])
   (weibo [cl-struct-package-desc weibo (1 0) "No description available." nil tar "melpa-stable" nil nil nil])
-  (which-key [cl-struct-package-desc which-key (0 2) "Display available keybindings in popup" ((emacs (24 3)) (s (1 9 0)) (dash (2 11 0))) single "melpa-stable" nil ((:url . "https://github.com/justbur/emacs-which-key")) nil])
+  (which-key [cl-struct-package-desc which-key (0 2 1) "Display available keybindings in popup" ((emacs (24 3)) (s (1 9 0)) (dash (2 11 0))) single "melpa-stable" nil ((:url . "https://github.com/justbur/emacs-which-key")) nil])
   (whole-line-or-region [cl-struct-package-desc whole-line-or-region (1 3 1) "operate on current line if region undefined" nil single "melpa-stable" nil ((:keywords "kill" "yank" "cut" "copy" "paste" "whole" "lines")) nil])
   (win-switch [cl-struct-package-desc win-switch (1 1) "fast, dynamic bindings for window-switching/resizing" nil single "melpa-stable" nil ((:url . "http://www.stat.cmu.edu/~genovese/emacs/win-switch/") (:keywords "window" "switch" "key bindings" "ergonomic" "efficient")) nil])
   (window-purpose [cl-struct-package-desc window-purpose (1 4) "Purpose-based window management for Emacs" ((emacs (24)) (cl-lib (0 5)) (let-alist (1 0 3)) (imenu-list (0 1))) tar "melpa-stable" nil ((:url . "https://github.com/bmag/emacs-purpose") (:keywords "frames")) nil])
