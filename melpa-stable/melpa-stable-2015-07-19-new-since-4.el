@@ -157,7 +157,7 @@
   (helm-ghc [cl-struct-package-desc helm-ghc (0 1 0) "A Helm datasource for ghc-mod errors" ((emacs (24)) (cl-lib (0 5)) (helm (1 6 4)) (ghc (5 2 1 0))) single "melpa-stable" nil ((:keywords "languages" "helm")) nil])
   (helm-gitlab [cl-struct-package-desc helm-gitlab (0 5 0) "Helm interface to Gitlab" ((s (1 9 0)) (dash (2 9 0)) (helm (1 0)) (gitlab (0))) single "melpa-stable" nil ((:url . "https://github.com/nlamirault/emacs-gitlab") (:keywords "gitlab" "helm")) nil])
   (helm-hatena-bookmark [cl-struct-package-desc helm-hatena-bookmark (2 0 3) "Hatena::Bookmark with helm interface" ((helm (1 6 9))) single "melpa-stable" nil ((:url . "https://github.com/masutaka/emacs-helm-hatena-bookmark")) nil])
-  (helm-ls-git [cl-struct-package-desc helm-ls-git (1 7 5 18 1) "list git files." ((helm (1 5))) single "melpa-stable" nil nil nil])
+  (helm-ls-git [cl-struct-package-desc helm-ls-git (1 7 6) "list git files." ((helm (1 5))) single "melpa-stable" nil nil nil])
   (helm-make [cl-struct-package-desc helm-make (0 1 0) "Select a Makefile target with helm" ((helm (1 5 3)) (projectile (0 11 0))) single "melpa-stable" nil ((:url . "https://github.com/abo-abo/helm-make") (:keywords "makefile")) nil])
   (helm-mode-manager [cl-struct-package-desc helm-mode-manager (1 0 0) "Select and toggle major and minor modes with helm" ((helm (1 5 3))) single "melpa-stable" nil ((:url . "https://github.com/istib/helm-mode-manager")) nil])
   (helm-mt [cl-struct-package-desc helm-mt (0 4) "helm multi-term management." ((emacs (24)) (helm (0 0)) (multi-term (0 0)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/dfdeshom/helm-mt") (:keywords "helm" "multi-term")) nil])
