@@ -442,7 +442,7 @@
   (multiple-cursors [cl-struct-package-desc multiple-cursors (1 3 0) "Multiple cursors for Emacs." nil tar "melpa-stable" nil nil nil])
   (mustache-mode [cl-struct-package-desc mustache-mode (1 3) "A major mode for editing Mustache files." nil single "melpa-stable" nil nil nil])
   (mykie [cl-struct-package-desc mykie (0 3 1) "Command multiplexer: Register multiple functions to a keybind" ((emacs (24 3)) (cl-lib (0 5))) tar "melpa-stable" nil ((:url . "https://github.com/yuutayamada/mykie-el") (:keywords "emacs" "configuration" "keybind")) nil])
-  (names [cl-struct-package-desc names (20150618 0) "Namespaces for emacs-lisp. Avoid name clobbering without hiding symbols." ((emacs (24 1)) (cl-lib (0 5))) tar "melpa-stable" nil ((:url . "http://github.com/Bruce-Connor/names") (:keywords "extensions" "lisp")) nil])
+  (names [cl-struct-package-desc names (20150723 0) "Namespaces for emacs-lisp. Avoid name clobbering without hiding symbols." ((emacs (24 1)) (cl-lib (0 5))) tar "melpa-stable" nil ((:url . "http://github.com/Bruce-Connor/names") (:keywords "extensions" "lisp")) nil])
   (nav-flash [cl-struct-package-desc nav-flash (1 1 0) "Briefly highlight the current line" nil single "melpa-stable" nil ((:url . "http://github.com/rolandwalker/nav-flash") (:keywords "extensions" "navigation" "interface")) nil])
   (navi-mode [cl-struct-package-desc navi-mode (2 0) "major-mode for easy buffer-navigation" nil single "melpa-stable" nil ((:url . "https://github.com/tj64/navi")) nil])
   (navorski [cl-struct-package-desc navorski (0 2 7) "Helping you live in the terminal, like Viktor did." ((s (1 9 0)) (dash (1 5 0)) (multi-term (0 8 14))) single "melpa-stable" nil ((:keywords "terminal")) nil])
