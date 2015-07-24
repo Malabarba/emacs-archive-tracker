@@ -22,7 +22,7 @@
   (pinentry [cl-struct-package-desc pinentry (0 1) "GnuPG Pinentry server implementation" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/pinentry.html") (:keywords "gnupg")) nil])
   (pabbrev [cl-struct-package-desc pabbrev (4 2) "Predictive abbreviation expansion" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/pabbrev.html") (:keywords)) nil])
   (osc [cl-struct-package-desc osc (0 1) "Open Sound Control protocol library" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/osc.html") (:keywords "comm" "processes" "multimedia")) nil])
-  (names [cl-struct-package-desc names (20150618 0) "Namespaces for emacs-lisp. Avoid name clobbering without hiding symbols." ((emacs (24 1)) (cl-lib (0 5))) tar "gnu" nil ((:keywords "extensions" "lisp") (:url . "http://github.com/Bruce-Connor/names")) nil])
+  (names [cl-struct-package-desc names (20150723 0) "Namespaces for emacs-lisp. Avoid name clobbering without hiding symbols." ((emacs (24 1)) (cl-lib (0 5))) tar "gnu" nil ((:keywords "extensions" "lisp") (:url . "http://github.com/Bruce-Connor/names")) nil])
   (minibuffer-line [cl-struct-package-desc minibuffer-line (0 1) "Display status info in the minibuffer window" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/minibuffer-line.html") (:keywords)) nil])
   (metar [cl-struct-package-desc metar (0 1) "Retrieve and decode METAR weather information" ((cl-lib (0 5))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/metar.html") (:keywords "comm")) nil])
   (loc-changes [cl-struct-package-desc loc-changes (1 2) "keep track of positions even after buffer changes" nil single "gnu" nil ((:url . "http://github.com/rocky/emacs-loc-changes") (:keywords)) nil])
