@@ -241,6 +241,7 @@
   (narrowed-page-navigation [cl-struct-package-desc narrowed-page-navigation (0 1 0) "A minor mode for showing one page at a time" ((emacs (24)) (cl-lib (0 5))) single "melpa-stable" nil ((:keywords "outlines")) nil])
   (nasm-mode [cl-struct-package-desc nasm-mode (1 0 1) "NASM x86 assembly major mode" ((emacs (24 3))) single "melpa-stable" nil ((:url . "https://github.com/skeeto/nasm-mode")) nil])
   (nginx-mode [cl-struct-package-desc nginx-mode (1 1 3) "major mode for editing nginx config files" nil single "melpa-stable" nil ((:keywords "nginx")) nil])
+  (nixos-options [cl-struct-package-desc nixos-options (0 0 1) "Interface for browsing and completing NixOS options." ((emacs (24)) (json (1 4))) single "melpa-stable" nil ((:url . "http://www.github.com/travisbhartwell/nix-emacs/") (:keywords "unix")) nil])
   (notmuch-labeler [cl-struct-package-desc notmuch-labeler (0 1) "Improve notmuch way of displaying labels" ((notmuch (0))) tar "melpa-stable" nil ((:url . "https://github.com/DamienCassou/notmuch-labeler") (:keywords "emacs" "package" "elisp" "notmuch" "emails")) nil])
   (ocodo-svg-modelines [cl-struct-package-desc ocodo-svg-modelines (0 1 4) "A collection of beautiful SVG modelines" ((svg-mode-line-themes (0))) tar "melpa-stable" nil nil nil])
   (omni-kill [cl-struct-package-desc omni-kill (0 2 3) "Kill all the things" nil single "melpa-stable" nil ((:keywords "convenience" "editing" "tools")) nil])
