@@ -17,7 +17,7 @@
   (rainbow-mode [cl-struct-package-desc rainbow-mode (0 11) "Colorize color names in buffers" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/rainbow-mode.html") (:keywords "faces")) nil])
   (queue [cl-struct-package-desc queue (0 1 1) "Queue data structure" nil single "gnu" nil ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "extensions" "data structures" "queue")) nil])
   (quarter-plane [cl-struct-package-desc quarter-plane (0 1) "Minor mode for quarter-plane style editing" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/quarter-plane.html") (:keywords "convenience" "wp")) nil])
-  (org [cl-struct-package-desc org (20150720) "Outline-based notes management and organizer" nil tar "gnu" nil nil nil])
+  (org [cl-struct-package-desc org (20150727) "Outline-based notes management and organizer" nil tar "gnu" nil nil nil])
   (omn-mode [cl-struct-package-desc omn-mode (1 0) "Support for OWL Manchester Notation" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/omn-mode.html") (:keywords)) nil])
   (oauth2 [cl-struct-package-desc oauth2 (0 10) "OAuth 2.0 Authorization Protocol" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/oauth2.html") (:keywords "comm")) nil])
   (num3-mode [cl-struct-package-desc num3-mode (1 2) "highlight groups of digits in long numbers" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/num3-mode.html") (:keywords "faces" "minor-mode")) nil])
