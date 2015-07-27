@@ -32,6 +32,7 @@
   (avy-zap [cl-struct-package-desc avy-zap (0 1 2) "Zap to char using `avy'" ((avy (0 2 0))) single "melpa-stable" nil ((:url . "https://github.com/cute-jumper/avy-zap") (:keywords "extensions")) nil])
   (bash-completion [cl-struct-package-desc bash-completion (2 0 0) "BASH completion for the shell buffer" nil tar "melpa-stable" nil nil nil])
   (bbdb- [cl-struct-package-desc bbdb- (0 0 2) "provide interface for more easily search/choice than BBDB." ((bbdb (20140123 1541)) (log4e (0 2 0)) (yaxception (0 1))) single "melpa-stable" nil ((:url . "https://github.com/aki2o/bbdb-") (:keywords "bbdb" "news" "mail")) nil])
+  (better-defaults [cl-struct-package-desc better-defaults (0 1 2) "Fixing weird quirks and poor defaults" nil single "melpa-stable" nil ((:url . "https://github.com/technomancy/better-defaults") (:keywords "convenience")) nil])
   (bing-dict [cl-struct-package-desc bing-dict (0 2 1) "Minimalists' English-Chinese Bing dictionary" nil single "melpa-stable" nil ((:url . "https://github.com/cute-jumper/bing-dict.el") (:keywords "extensions")) nil])
   (bongo [cl-struct-package-desc bongo (1 0) "play music with Emacs" nil tar "melpa-stable" nil nil nil])
   (boon [cl-struct-package-desc boon (0 1) "Ergonomic Command Mode for Emacs." ((emacs (24 3)) (expand-region (0 10 0))) tar "melpa-stable" nil nil nil])
