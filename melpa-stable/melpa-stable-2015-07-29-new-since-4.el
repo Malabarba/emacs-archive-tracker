@@ -303,6 +303,7 @@
   (py-isort [cl-struct-package-desc py-isort (0 8) "Use isort to sort the imports in a Python buffer" nil single "melpa-stable" nil ((:url . "http://paetzke.me/project/py-isort.el")) nil])
   (py-yapf [cl-struct-package-desc py-yapf (0 2) "Use yapf to beautify a Python buffer" nil single "melpa-stable" nil ((:url . "https://github.com/paetzke/py-yapf.el")) nil])
   (quasi-monochrome-theme [cl-struct-package-desc quasi-monochrome-theme (1 0) "High contrast quasi monochrome color theme" nil single "melpa-stable" nil ((:url . "https://github.com/lbolla/emacs-quasi-monochrome") (:keywords "color-theme" "monochrome" "high contrast")) nil])
+  (racer [cl-struct-package-desc racer (1 0 0) "Rust completion via racer with company" ((emacs (24 3)) (company (0 8 0)) (rust-mode (0 2 0))) single "melpa-stable" nil ((:url . "https://github.com/phildawes/racer") (:keywords "abbrev" "convenience" "matching" "rust" "tools")) nil])
   (rainbow-blocks [cl-struct-package-desc rainbow-blocks (1 0 0) "Block syntax highlighting for lisp code" nil single "melpa-stable" nil ((:url . "https://github.com/istib/rainbow-blocks")) nil])
   (rake [cl-struct-package-desc rake (0 3 3) "Run rake commands" ((f (0 13 0)) (dash (1 5 0)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/asok/rake.el") (:keywords "rake" "ruby")) nil])
   (ranger [cl-struct-package-desc ranger (0 9) "Make dired more like ranger" ((cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/ralesi/ranger") (:keywords "files" "convenience")) nil])
