@@ -1,0 +1,1156 @@
+  abc-mode                     20140225.944       available  Major mode for editing abc music files
+  ac-cake                      1.0.0              available  CakePHP Minor Mode auto-complete.el source
+  ac-cake2                     1.0.1              available  CakePHP 2 Minor Mode auto-complete.el source
+  ac-cider                     0.2.1              available  Clojure auto-complete sources using CIDER
+  ac-clang                     1.5.0              available  Auto Completion source by libclang for GNU Emacs
+  ac-dcd                       0.4                available  Auto Completion source for dcd for GNU Emacs
+  ac-etags                     0.6                available  etags/ctags completion source for auto-complete
+  ac-geiser                    0.1                available  Auto-complete backend for geiser
+  ac-haskell-process           0.7                available  Haskell auto-complete source which uses the current haskell process
+  ac-html                      0.31               available  auto complete source for html tags and attributes
+  ac-html-bootstrap            0.9.3              available  auto complete bootstrap3/fontawesome classes for `ac-html' and `company-web'
+  ac-html-csswatcher           0.1.4              available  css/less class/id completion with `ac-html' or `company-web'
+  ac-inf-ruby                  0.4                available  Enable auto-complete in inf-ruby sessions
+  ac-ispell                    0.7                available  ispell completion source for auto-complete
+  ac-mozc                      0.0.4              available  auto-complete sources for Japanese input using Mozc
+  ac-octave                    0.4                available  An auto-complete source for Octave
+  ac-slime                     0.8                available  An auto-complete source using slime completions
+  ace-flyspell                 0.1.2              available  Jump to and correct spelling errors using `ace-jump-mode' and flyspell
+  ace-isearch                  0.1.3              available  A seamless bridge between isearch, ace-jump-mode, avy and helm-swoop
+  ace-jump-buffer              0.3.1              available  fast buffer switching extension to `ace-jump-mode'
+  ace-jump-helm-line           0.3.3              available  Ace-jump to a candidate in helm window
+  ace-jump-mode                2.0                available  a quick cursor location minor mode for emacs
+  ace-jump-zap                 0.1.1              available  Character zapping, `ace-jump-mode` style
+  ace-link                     0.3.0              available  Quickly follow links using `ace-jump-mode'
+  ace-pinyin                   0.2.2              available  Jump to Chinese characters using ace-jump-char-mode or avy-goto-char
+  ace-popup-menu               0.1.0              available  Replace GUI popup menu in Emacs with something more efficient
+  ace-window                   0.9.0              available  Quickly switch windows.
+  actionscript-mode            7.2.2              available  A simple mode for editing Actionscript 3 files
+  adoc-mode                    0.6.4              available  a major-mode for editing AsciiDoc files in Emacs
+  aes                          0.8                available  Implementation of AES
+  ag                           0.46               available  A front-end for ag ('the silver searcher'), the C ack replacement.
+  aggressive-indent            1.1                available  Minor mode to aggressively keep your code always indented
+  ahk-mode                     1.5.5              available  Major mode for editing AHK (AutoHotkey and AutoHotkey_L)
+  alchemist                    1.3.1              available  Elixir tooling integration into Emacs
+  alect-themes                 0.7                available  Configurable light, dark and black themes for Emacs 24 or later
+  alert                        1.2                available  Growl-style notification system for Emacs
+  anaconda-mode                0.1.0              available  No description available.
+  anaphora                     1.0.0              available  anaphoric macros providing implicit temp variables
+  android-mode                 0.4.0              available  Minor mode for Android application development
+  angular-snippets             0.2.3              available  Yasnippets for AngularJS
+  annotate                     0.2.3              available  annotate files without changing them
+  ansi                         0.4.1              available  Turn string into ansi strings
+  ansible                      0.0.3              available  Ansible minor mode
+  ansible-doc                  0.3                available  Ansible documentation Minor Mode
+  anti-zenburn-theme           2.2                available  Low-contrast Zenburn-inverted theme
+  anyins                       0.1.1              available  Insert content at multiple places from shell command or kill-ring
+  anything                     1.3.9              available  open anything / QuickSilver-like candidate-selection framework
+  anything-exuberant-ctags     0.1.2              available  Exuberant ctags anything.el interface
+  anything-replace-string      0.9.2              available  `replace-string' and `query-replace' `anything.el' interface
+  anything-sage                0.0.1              available  An anything extension for sage-shell-mode.
+  anzu                         0.54               available  Show number of matches in mode-line while searching
+  apples-mode                  0.0.2              available  Major mode for editing and executing AppleScript code
+  aproject                     0.3                available  Basic project framework for Emacs
+  artbollocks-mode             1.1.2              available  Improve your writing (especially about art)
+  asilea                       0.2.1              available  Find best compiler options using simulated annealing
+  async                        1.3                available  Asynchronous processing in Emacs
+  aurel                        0.7                available  Search, get info, vote and download AUR packages
+  aurora-config-mode           0.0.2              available  Major mode for Apache Aurora configuration files
+  auto-compile                 1.2.4              available  automatically compile Emacs Lisp libraries
+  auto-complete                1.5.0              available  Auto Completion for GNU Emacs
+  auto-complete-clang-async    0.5                available  Auto Completion source for clang for GNU Emacs
+  auto-complete-exuberant-c... 0.0.7              available  Exuberant ctags auto-complete.el source
+  auto-complete-nxml           0.5.0              available  do completion by auto-complete.el on nXML-mode
+  auto-complete-pcmp           0.0.2              available  Provide auto-complete sources using pcomplete results
+  auto-complete-sage           0.0.4.1            available  An auto-complete source for sage-shell-mode.
+  auto-dictionary              1.1                available  automatic dictionary switcher for flyspell
+  auto-indent-mode             0.126              available  Auto indent Minor mode
+  auto-package-update          1.4                available  Automatically update Emacs packages.
+  auto-yasnippet               0.3.0              available  Quickly create disposable yasnippets
+  autodisass-llvm-bitcode      1.1                available  Automatically disassemble LLVM bitcode
+  autopair                     0.6.1              available  Automagically pair braces and quotes like TextMate
+  avy                          0.3.0              available  set-based completion
+  avy-zap                      0.1.2              available  Zap to char using `avy'
+  babel                        1.4                available  interface to web translation services such as Babelfish
+  back-button                  0.6.6              available  Visual navigation through mark rings
+  bash-completion              2.0.0              available  BASH completion for the shell buffer
+  bbcode-mode                  2.0.0              available  Major mode for writing BBCode markup
+  bbdb-vcard                   0.3                available  vCard import/export for BBDB
+  beeminder                    1.0.0              available  Emacs interface for Beeminder
+  better-defaults              0.1.2              available  Fixing weird quirks and poor defaults
+  bind-key                     20140601           available  A simple way to manage personal keybindings
+  bing-dict                    0.2.1              available  Minimalists' English-Chinese Bing dictionary
+  birds-of-paradise-plus-theme 0.1.1              available  A brown/orange light-on-dark theme for Emacs 24 (deftheme).
+  bog                          1.0.0              available  Extensions for research notes in Org mode
+  bongo                        1.0                available  play music with Emacs
+  boon                         0.1                available  Ergonomic Command Mode for Emacs.
+  boxquote                     1.22               available  Quote text with a semi-box.
+  browse-kill-ring             2.0.0              available  interactively insert items from kill-ring
+  browse-url-dwim              0.6.8              available  Context-sensitive external browse URL or Internet search
+  buffer-move                  0.6.2              available  
+  buffer-utils                 0.1.0              available  Buffer-manipulation utility functions
+  bufshow                      0.1.0              available  No description available.
+  bug-reference-github         0.2.0              available  Automatically set `bug-reference-url-format' in Github repositories.
+  bundler                      1.1.0              available  Interact with Bundler from Emacs
+  bury-successful-compilation  0.1                available  Bury the *compilation* buffer after successful compilation
+  buttercup                    1.1                available  Behavior-Driven Emacs Lisp Testing
+  button-lock                  1.0.2              available  Clickable text defined by regular expression
+  cacoo                        2.1.2              available  Minor mode for Cacoo : http://cacoo.com
+  cake                         1.4.3              available  CakePHP Minor Mode
+  cake-inflector               1.1.1              available  Lazy porting CakePHP infrector.php to el
+  calfw                        1.4                available  Calendar view framework on Emacs
+  cask-package-toolset         0.6.5              available  Toolsettize your package
+  caskxy                       0.0.5              available  Control Cask in Emacs
+  cdlatex                      4.7                available  Fast input methods for LaTeX environments and math
+  cfengine-code-style          3.7.0.2.1          available  C code style for CFEngine project.
+  charmap                      0.0.1              available  Unicode table for Emacs
+  checkbox                     0.2.1              available  Quick manipulation of textual checkboxes
+  chinese-word-at-point        0.2.3              available  Add `chinese-word' thing to `thing-at-point'
+  cider-eval-sexp-fu           1.0                available  Briefly highlights an evaluated sexps.
+  cil-mode                     0.3                available  Common Intermediate Language mode
+  cl-lib-highlight             1.0.0              available  full cl-lib font-lock highlighting
+  clips-mode                   0.7                available  Major mode for editing CLIPS code and REPL
+  clj-refactor                 1.1.0              available  A collection of clojure refactoring functions
+  cljr-helm                    0.7                available  Wraps clojure refactor commands with helm
+  clocker                      0.0.10             available  Note taker and clock-in enforcer
+  clojure-cheatsheet           0.3.0              available  The Clojure Cheatsheet for Emacs
+  clojure-mode                 4.1.0              available  Major mode for Clojure code
+  clojure-mode-extra-font-l... 4.1.0              available  Extra font-locking for Clojure mode
+  clojure-quick-repls          0.1.0              available  Quickly create Clojure and ClojureScript repls for a project.
+  clojure-snippets             1.0.0              available  Yasnippets for clojure
+  cm-mode                      1.1                available  Minor mode for CriticMarkup
+  cmake-ide                    0.2                available  No description available.
+  cmake-mode                   3.3.0              available  major-mode for editing CMake sources
+  cmake-project                0.7                available  Integrates CMake build process with Emacs
+  codic                        0.2                available  Search Codic (codic.jp) naming dictionaries
+  coffee-mode                  0.6.0              available  Major mode to edit CoffeeScript files in Emacs
+  color-theme-sanityinc-sol... 2.29               available  A version of Ethan Schoonover's Solarized themes
+  color-theme-sanityinc-tom... 1.16               available  A version of Chris Kempson's various Tomorrow themes
+  colorsarenice-theme          1.0.20             available  A colorful color theme.
+  commander                    0.7.0              available  Emacs command line parser
+  common-lisp-snippets         0.1.0              available  Yasnippets for Common Lisp
+  company                      0.8.12             available  Modular text completion framework
+  company-cabal                0.1.1              available  company-mode cabal backend
+  company-ghc                  0.2.0              available  company-mode ghc-mod backend
+  company-go                   20150303           available  company-mode backend for Go (using gocode)
+  company-irony                0.1.0              available  company-mode completion back-end for irony-mode
+  company-jedi                 0.3                available  company-mode completion back-end for Python JEDI
+  company-nixos-options        0.0.1              available  Company Backend for nixos-options
+  company-quickhelp            1.1.2              available  Popup documentation for completion candidates
+  company-restclient           0.0.2              available  company-mode completion back-end for restclient-mode
+  company-tern                 0.2.0              available  Tern backend for company-mode
+  company-web                  0.9                available  Company version of ac-html, complete for web,html,emmet,jade,slim modes
+  company-ycmd                 0.9                available  company-mode backend for ycmd
+  concurrent                   0.3.2              available  Concurrent utility functions for emacs lisp
+  conkeror-minor-mode          1.6.2              available  Mode for editing conkeror javascript files.
+  connection                   1.10               available  No description available.
+  corral                       0.2                available  Incrementally wrap delimiters around s-expressions
+  counsel                      0.5.0              available  Various completion functions using Ivy
+  cperl-mode                   6.3                available  Perl code editing commands for Emacs
+  cpputils-cmake               0.5.2              available  Easy real time C++ syntax check and intellisense if you use CMake
+  creds                        0.0.6.1            available  A parser credentials file library (not limited to credentials entries)
+  crm-custom                   0.4                available  Alternate `completing-read-multiple' that uses `completing-read'
+  cryptol-mode                 0.1.0              available  Cryptol major mode for Emacs
+  csharp-mode                  0.8.10             available  C# mode derived mode
+  ctable                       0.1.2              available  Table component for Emacs Lisp
+  ctags                        1.1.1              available  No description available.
+  ctags-update                 0.2.0              available  (auto) update TAGS in parent directory using exuberant-ctags
+  cuda-mode                    1.0.0              available  NVIDIA CUDA Major Mode
+  cyberpunk-theme              1.13               available  Cyberpunk Color Theme
+  cython-mode                  0.23.2.2           available  Major mode for editing Cython files
+  d-mode                       2.0.6              available  D Programming Language mode for (X)Emacs
+  darktooth-theme              0.1.27             available  Color theme for Emacs, when soothe and gruvbox collide
+  dash                         2.11.0             available  A modern list library for Emacs
+  dash-functional              2.11.0             available  Collection of useful combinators for Emacs Lisp
+  date-at-point                0.1                available  Add `date' to `thing-at-point' function
+  date-field                   0.0.1              available  Date widget
+  dedicated                    1.0.0              available  A very simple minor mode for dedicated buffers
+  default-text-scale           0.1                available  Easily adjust the font size in all frames
+  deferred                     0.3.2              available  Simple asynchronous functions for emacs lisp
+  define-word                  0.1.0              available  display the definition of word at point.
+  deft                         0.6                available  quickly browse, filter, and edit plain text notes
+  demangle-mode                1.0                available  Automatically demangle C++ symbols
+  desktop-registry             1.2.0              available  Keep a central registry of desktop files
+  dictionary                   1.10               available  No description available.
+  digistar-mode                0.4                available  major mode for Digistar scripts
+  dim-autoload                 1.1.3              available  dim complete autoload cookie lines
+  diminish                     0.44               available  Diminished modes are minor modes with no modeline display
+  dired-efap                   0.8                available  Edit Filename At Point in a dired buffer
+  dired-fdclone                1.5.2              available  dired functions and settings to mimic FDclone
+  dired-imenu                  0.5.0              available  imenu binding for dired mode
+  dired-k                      0.14               available  highlight dired buffer by file size, modified time, git status
+  direx                        1.0.0              available  Simple Directory Explorer
+  direx-grep                   0.1.0              available  Grep node of direx.el using incremental search like anything.el/helm.el
+  discover                     0.3                available  discover more of Emacs
+  discover-my-major            1.0                available  Discover key bindings and their meaning for the current Emacs major mode
+  dispass                      1.1.2              available  Emacs wrapper for DisPass
+  dockerfile-mode              1.1                available  Major mode for editing Docker's Dockerfiles
+  downplay-mode                0.1                available  focus attention on a region of the buffer
+  drag-stuff                   0.1.0              available  Drag stuff (lines, words, region, etc...) around
+  drupal-mode                  0.6.1              available  Advanced minor mode for Drupal development
+  drupal-spell                 0.2.2              available  Aspell extra dictionary for Drupal
+  ducpel                       0.1                available  Logic game with sokoban elements
+  dyalog-mode                  0.3                available  Major mode for editing Dyalog APL source code
+  dynamic-fonts                0.6.4              available  Set faces based on available fonts
+  e2wm                         1.3                available  simple window manager for emacs
+  e2wm-R                       0.4                available  some e2wm plugin and perspective for GNU R
+  e2wm-direx                   0.0.5              available  Plugin of e2wm.el for direx.el
+  e2wm-pkgex4pl                0.0.1              available  Plugin of e2wm.el for package explorer of Perl
+  e2wm-sww                     0.0.2              available  Plugin of e2wm.el to switch plugin quickly
+  e2wm-term                    0.0.5              available  Perspective of e2wm.el for work in terminal
+  easy-kill                    0.9.3              available  kill & mark things easily
+  easy-repeat                  0.2                available  Repeat easily
+  ebib                         2.3                available  a BibTeX database manager
+  ecb                          2alpha24           available  a code browser for Emacs
+  ecukes                       0.6.15             available  Cucumber for Emacs.
+  edit-indirect                0.1.2              available  Edit regions in separate buffers
+  edit-list                    0.3                available  edit a single list
+  edit-server                  1.13               available  server that responds to edit requests from Chrome
+  editorconfig                 0.4                available  EditorConfig Emacs extension
+  edn                          1.1.2              available  Support for reading and writing the edn data format from elisp
+  edts                         0.1.0              available  No description available.
+  egg                          1.0.9              available  Emacs Got Git - Emacs interface to Git
+  egison-mode                  3.5.8              available  Egison editing mode
+  eide                         2.1.0              available  IDE interface
+  el-autoyas                   0.5                available  Automatically create Emacs-Lisp Yasnippets
+  el-get                       5.1                available  Manage the external elisp bits and pieces you depend upon
+  el-init                      0.2.0              available  A loader inspired by init-loader
+  el-init-viewer               0.1.0              available  Record viewer for el-init
+  el-mock                      1.25.1             available  Tiny Mock and Stub framework in Emacs Lisp
+  el-spice                     0.2.2              available  Extra spice for emacs lisp programming
+  el-x                         0.3.0              available  main entry point for el-x package
+  eldoc-eval                   1.1                available  Enable eldoc support when minibuffer is in use.
+  elfeed                       1.1.2              available  an Emacs Atom/RSS feed reader
+  elfeed-web                   1.1.2              available  web interface to Elfeed
+  elisp-slime-nav              0.8                available  Make M-. and M-, work in elisp like they do in slime
+  elixir-mode                  2.2.5              available  Major mode for editing Elixir files
+  elixir-yasnippets            0.0.1              available  Yasnippets for Elixir
+  elmacro                      0.3.0              available  Convert keyboard macros to elisp
+  elmine                       0.3                available  No description available.
+  elpa-audit                   0.4                available  Handy functions for inspecting and comparing package archives
+  elpa-mirror                  1.1.5              available  ELPA mirror from locally installed packages is easy
+  elpy                         1.8.1              available  Emacs Python Development Environment
+  elx                          0.10.0             available  extract information from Emacs Lisp libraries
+  emacs-eclim                  0.3                available  An interface to the Eclipse IDE.
+  emacs-setup                  1.0                available  Package for maintaining your emacs configuration. Clean up your .emacs!
+  emacsagist                   1.0.0              available  Search Packagist.org packages without leaving Emacs
+  emacsc                       1.2.20131027       available  helper for emacsc(1)
+  emacsql                      1.0.2              available  high-level SQL database front-end
+  emamux                       0.13               available  Interact with tmux
+  emmet-mode                   1.0.8              available  Unofficial Emmet's support for emacs
+  emms-player-mpv              0.0.5              available  mpv support for EMMS
+  emoji-cheat-sheet-plus       1.2.1              available  emoji-cheat-sheet for emacs
+  enotify                      0.1.3              available  No description available.
+  epc                          0.1.0              available  A RPC stack for the Emacs Lisp
+  epl                          71.4.8098          available  Emacs Package Library
+  erc-crypt                    1.0                available  Symmetric Encryption for ERC
+  erc-hl-nicks                 1.3.0              available  ERC nick highlighter that ignores uniquifying chars when colorizing
+  erc-youtube                  0alpha             available  Show received youtube urls in the ERC buffer
+  ercn                         1.1.1              available  Flexible ERC notifications
+  erefactor                    0.7.0              available  Emacs-Lisp refactoring utilities
+  ert-async                    0.1.1              available  Async support for ERT
+  ert-junit                    0.1.1              available  JUnit XML reports from ert results
+  ert-runner                   0.7.0              available  Opinionated Ert testing workflow
+  es-lib                       0.4                available  A collection of emacs utilities
+  es-mode                      4.0.0              available  A major mode for editing Elasticsearch queries
+  es-windows                   0.3                available  Window-management utilities
+  eshell-autojump              0.2                available  autojump command for Eshell
+  espuds                       0.3.2              available  Ecukes step definitions
+  ess                          15.3               available  No description available.
+  ess-smart-underscore         0.79               available  Ess Smart Underscore
+  esup                         0.4                available  the Emacs StartUp Profiler (ESUP)
+  eval-in-repl                 0.6.0              available  Consistent ESS-like eval interface for various REPLs
+  eval-sexp-fu                 0.4.0              available  Tiny functionality enhancements for evaluating sexps.
+  evil-anzu                    0.3                available  anzu for evil-mode
+  evil-args                    1.0                available  Motions and text objects for delimited arguments in Evil.
+  evil-commentary              1.0.0              available  Comment stuff out. A port of vim-commentary.
+  evil-escape                  2.28               available  Escape from anything with a customizable key sequence
+  evil-jumper                  0.2.0              available  Jump like vimmers do!
+  evil-leader                  0.4.3              available  let there be <leader>
+  evil-lisp-state              7.1                available  An evil state to edit Lisp code
+  evil-mark-replace            0.0.4              available  replace the thing in marked area
+  evil-matchit                 2.1                available  Vim matchit ported into Emacs (requires EVIL)
+  evil-nerd-commenter          2.0                available  Comment/uncomment lines efficiently. Like Nerd Commenter in Vim
+  evil-numbers                 0.4                available  increment/decrement numbers like in vim
+  evil-org                     0.1.1              available  evil keybindings for org-mode
+  evil-rsi                     1.0.0              available  Use emacs motion keys in evil, inspired by vim-rsi
+  evil-search-highlight-per... 1.5                available  Persistent highlights after search
+  evil-snipe                   1.0                available  emulate vim-sneak & vim-seek
+  evil-space                   0.0.6              available  Repeat motion in Evil. Correct the behaviour of what SPC should do.
+  evil-tutor                   1.0                available  Vimtutor adapted to Evil and wrapped in a major-mode
+  evil-visual-mark-mode        0.0.3              available  Display evil marks on buffer
+  evil-visualstar              0.1.0              available  Starts a * or # search from the visual selection
+  evm                          0.4.2              available  Emacs Version Manager
+  eww-lnum                     1.1                available  Conkeror-like functionality for eww
+  exec-path-from-shell         1.9                available  Get environment variables such as $PATH from the shell
+  expand-region                0.10.0             available  Increase selected region by semantic units.
+  express                      0.6.0              available  Alternatives to `message'
+  extend-dnd                   0.5                available  R drag and Drop
+  eyebrowse                    0.6.6              available  Easy window config switching
+  f                            0.17.2             available  Modern API for working with files and directories
+  fabric                       0.2.0              available  Launch Fabric using Emacs
+  factlog                      0.0.1              available  File activity logger
+  fancy-battery                0.2                available  Fancy battery display
+  fancy-narrow                 0.9.4              available  narrow-to-region with more eye candy.
+  fasm-mode                    0.1.11             available  Fasm major mode
+  fastnav                      1.0.7              available  Fast navigation and editing routines.
+  fcitx                        0.1.4              available  Make fcitx better in Emacs
+  feature-mode                 0.4                available  Major mode for editing Gherkin (i.e. Cucumber) user stories
+  fill-column-indicator        1.81               available  Graphically indicate the fill column
+  finalize                     1.0.0              available  finalizers for Emacs Lisp
+  find-by-pinyin-dired         0.0.2              available  Find file by first Pinyin characters of Chinese Hanzi
+  find-file-in-project         3.5                available  Find files in a project quickly.
+  find-file-in-repository      1.2                available  Quickly find files in a git, mercurial or other repository
+  fiplr                        0.2.4              available  Fuzzy Search for Files in Projects
+  firestarter                  0.2.2              available  Execute (shell) commands on save
+  fix-word                     0.1.1              available  Convenient word transformation
+  fixmee                       0.8.6              available  Quickly navigate to FIXME notices in code
+  floobits                     1.5.23             available  Floobits plugin for real-time collaborative editing
+  flx                          0.5                available  fuzzy matching with good sorting
+  flx-ido                      0.5                available  flx integration for ido
+  flycheck                     0.23               available  Modern on-the-fly syntax checking for GNU Emacs
+  flycheck-cask                0.2.1              available  Cask support in Flycheck
+  flycheck-clojure             0.1.3              available  Flycheck: Clojure support
+  flycheck-color-mode-line     0.3                available  Change mode line color with Flycheck status
+  flycheck-haskell             0.7.2              available  Flycheck: Cabal projects and sandboxes
+  flycheck-hdevtools           0.3                available  A flycheck checker for Haskell using hdevtools
+  flycheck-ledger              0.4                available  Flycheck integration for ledger files
+  flycheck-ocaml               0.2                available  Flycheck: OCaml support
+  flycheck-package             0.6                available  A Flycheck checker for elisp package authors
+  flycheck-tip                 0.5.0              available  Show flycheck/flymake errors by tooltip
+  flymake-coffee               0.12               available  A flymake handler for coffee script
+  flymake-css                  0.3                available  Flymake support for css using csslint
+  flymake-easy                 0.10               available  Helpers for easily building flymake checkers
+  flymake-gjshint              0.0.6              available  A flymake handler for javascript using both jshint and gjslint
+  flymake-haml                 0.8                available  A flymake handler for haml files
+  flymake-haskell-multi        0.3                available  Syntax-check haskell-mode using both ghc and hlint
+  flymake-hlint                0.2                available  A flymake handler for haskell-mode files using hlint
+  flymake-jslint               0.23               available  Flymake support for javascript using jslint
+  flymake-json                 0.1                available  A flymake handler for json using jsonlint
+  flymake-perlcritic           1.0.3              available  Flymake handler for Perl to invoke Perl::Critic
+  flymake-php                  0.5                available  A flymake handler for php-mode files
+  flymake-python-pyflakes      0.9                available  A flymake handler for python-mode files using pyflakes (or flake8)
+  flymake-ruby                 0.8                available  A flymake handler for ruby-mode files
+  flymake-sass                 0.6                available  Flymake handler for sass files
+  flymake-shell                0.8                available  A flymake syntax-checker for shell scripts
+  flyspell-lazy                0.6.10             available  Improve flyspell responsiveness using idle timers
+  fm                           1.0                available  follow mode for compilation/output buffers
+  fold-dwim                    1.2                available  No description available.
+  fold-dwim-org                0.6                available  Fold DWIM bound to org key-strokes.
+  fold-this                    0.3.0              available  Just fold this region please
+  font-utils                   0.7.2              available  Utility functions for working with fonts
+  fontawesome                  0.2                available  fontawesome utility
+  foreman-mode                 0.0.1              available  View and manage Procfile-based applications
+  form-feed                    0.1.9              available  Display ^L glyphs as horizontal lines
+  format-sql                   0.4                available  Use format-sql to make your SQL readable in directly Emacs.
+  fountain-mode                1.5.0              available  Major mode for screenwriting in Fountain markup
+  frame-restore                0.5                available  Restore Emacs frame
+  fringe-helper                1.0.1              available  helper functions for fringe bitmaps
+  fsharp-mode                  1.5.4              available  F# mode for Emacs
+  fuel                         0.96               available  No description available.
+  full-ack                     1.0                available  a front-end for ack
+  fullframe                    0.1.0              available  Generalized automatic execution in a single frame
+  fuzzy                        0.1                available  Fuzzy Matching
+  fvwm-mode                    1.6.4              available  major mode for editing Fvwm configuration files
+  fwb-cmds                     0.4.0              available  misc frame, window and buffer commands
+  gather                       1.1.0              available  Gather string in buffer.
+  geiser                       0.7                available  GNU Emacs and Scheme talk to each other
+  genrnc                       0.1.0              available  generate RELAX NG Compact Schema from RELAX NG Schema, XML Schema and DTD.
+  german-holidays              0.1.1              available  German holidays for Emacs calendar
+  ggo-mode                     20130521           available  Gengetopt major mode
+  ggtags                       0.8.10             available  emacs frontend to GNU Global source code tagging system
+  gh                           0.9.2              available  A GitHub library for Emacs
+  ghc                          5.2.1.2            available  Sub mode for Haskell mode
+  ghc-imported-from            0.1.2              available  Haskell documentation lookup with ghc-imported-from
+  gist                         1.2.1              available  Emacs integration for gist.github.com
+  git                          0.1.1              available  An Elisp API for programmatically using Git
+  git-auto-commit-mode         4.4.0              available  Emacs Minor mode to automatically commit and push
+  git-commit                   2.1.0              available  Edit Git commit messages
+  git-gutter                   0.83               available  Port of Sublime Text plugin GitGutter
+  git-gutter+                  0.3                available  Manage Git hunks straight from the buffer
+  git-gutter-fringe            0.22               available  Fringe version of git-gutter.el
+  git-lens                     0.3                available  Show new, deleted or modified files in branch
+  git-link                     0.2.1              available  Get the GitHub/Bitbucket/Gitorious URL for a buffer location
+  git-messenger                0.16               available  Pop up last commit information of current line
+  git-ps1-mode                 0.1.1              available  Global minor-mode to print __git_ps1
+  git-timemachine              2.7                available  Walk through git revisions of a file
+  git-wip-timemachine          1.0                available  Walk through git-wip revisions of a file
+  gitattributes-mode           1.2.0              available  Major mode for editing .gitattributes files
+  gitconfig                    1.0.0              available  Emacs lisp interface to work with git-config variables
+  gitconfig-mode               1.2.0              available  Major mode for editing .gitconfig files
+  github-clone                 0.2                available  Fork and clone github repos
+  gitignore-mode               1.2.0              available  Major mode for editing .gitignore files
+  gitlab                       0.5.0              available  Emacs client for Gitlab
+  gmail-message-mode           1.3.2              available  A major-mode for editing gmail messages using markdown syntax.
+  gntp                         0.1                available  Growl Notification Protocol for Emacs
+  gnuplot                      0.7.0              available  drive gnuplot from within emacs
+  gnus-desktop-notify          1.4                available  Gnus Desktop Notification global minor mode
+  gnus-x-gm-raw                0.0.1              available  Search mail of Gmail using X-GM-RAW as web interface
+  go-autocomplete              20150303           available  auto-complete-mode backend for go-mode
+  go-direx                     0.4                available  Tree style source code viewer for Go language
+  go-eldoc                     0.25               available  eldoc for go-mode
+  go-errcheck                  1.1.1              available  errcheck integration for go-mode
+  go-mode                      1.3.1              available  Major mode for the Go programming language
+  golden-ratio                 1.0                available  Automatic resizing of Emacs windows to the golden ratio
+  google-this                  1.10               available  A set of functions and bindings to google under point.
+  google-translate             0.11.1             available  Emacs interface to Google Translate.
+  gotest                       0.3.0              available  Launch GO unit tests
+  gotham-theme                 1.1.3              available  A very dark Emacs color theme.
+  goto-gem                     1.2                available  Open dired in gem directory
+  goto-last-change             1.2.1              available  Move point through buffer-undo-list positions
+  gradle-mode                  0.5.5              available  Gradle integration with Emacs' compile
+  grails-projectile-mode       1.1.1              available  Grails mode with Projectile for projects management.
+  grandshell-theme             1.0                available  Dark color theme for Emacs > 24 with intensive colors.
+  graphviz-dot-mode            0.4                available  Mode for the dot-language used by graphviz (att).
+  grapnel                      0.5.3              available  HTTP request lib with flexible callback dispatch
+  grass-mode                   0.1                available  Provides Emacs modes for interacting with the GRASS GIS program
+  grin                         1.0                available  run grin and grind (python replacements for grep and find) putting hits in a grep buffer
+  grizzl                       0.1.1              available  Fuzzy Search Library & Completing Read
+  gruber-darker-theme          0.6                available  Gruber Darker color theme for Emacs 24.
+  grunt                        1.0.0              available  Some glue to stick Emacs and Gruntfiles together
+  gscholar-bibtex              0.3                available  Retrieve BibTeX from Google Scholar and other online sources(ACM, IEEE, DBLP)
+  guide-key                    1.2.5              available  Guide the following key bindings automatically and dynamically
+  guide-key-tip                0.0.1              available  Show guide-key.el hints using pos-tip.el
+  guru-mode                    0.2                available  Become an Emacs guru
+  hackernews                   0.2                available  Access the hackernews aggregator from Emacs
+  ham-mode                     1.1.1              available  Html As Markdown. Transparently edit an html file using markdown.
+  haml-mode                    3.1.9              available  Major mode for editing Haml files
+  hardhat                      0.4.4              available  Protect against clobbering user-writable files
+  haskell-emacs                2.4.0              available  Write emacs extensions in haskell
+  haskell-emacs-base           2.4.0              available  Haskell functions from Prelude
+  haskell-emacs-text           2.4.0              available  Haskell functions from Data.Text
+  haskell-mode                 13.14.2            available  A Haskell editing mode
+  helm                         1.7.5              available  Helm is an Emacs incremental and narrowing framework
+  helm-ack                     0.13               available  Ack command with helm interface
+  helm-ag                      0.40               available  the silver searcher with helm interface
+  helm-aws                     1.0.0              available  Manage AWS EC2 server instances directly from Emacs
+  helm-backup                  0.2.0              available  Backup each file change using git
+  helm-bundle-show             1.1.0              available  bundle show with helm interface
+  helm-circe                   0.3                available  helm circe buffer management.
+  helm-commandlinefu           0.3                available  Search and browse commandlinefu.com from helm
+  helm-core                    1.7.5              available  Development files for Helm
+  helm-cscope                  0.1.1              available  Helm interface for xcscope.el.
+  helm-dash                    1.1.0              available  Helm extension to search dash docsets
+  helm-descbinds               1.7.1              available  Yet Another `describe-bindings' with `helm'.
+  helm-firefox                 1.0                available  Firefox bookmarks
+  helm-ghc                     0.1.0              available  A Helm datasource for ghc-mod errors
+  helm-ghq                     1.4.4              available  ghq with helm interface
+  helm-github-stars            1.3.2              available  Helm integration for your starred repositories on github
+  helm-gitlab                  0.5.0              available  Helm interface to Gitlab
+  helm-gtags                   1.4.7              available  GNU GLOBAL helm interface
+  helm-hatena-bookmark         2.0.3              available  Hatena::Bookmark with helm interface
+  helm-hayoo                   0.0.5              available  Source and configured helm for searching hayoo
+  helm-ls-git                  1.7.6              available  list git files.
+  helm-make                    0.1.0              available  Select a Makefile target with helm
+  helm-mode-manager            1.0.0              available  Select and toggle major and minor modes with helm
+  helm-mt                      0.4                available  helm multi-term management.
+  helm-nixos-options           0.0.1              available  Helm Interface for nixos-options
+  helm-open-github             0.13               available  Utilities of Opening Github Page
+  helm-package                 0.2                available  Listing ELPA packages with helm interface
+  helm-pages                   0.1.1              available  Pages in current buffer as Helm datasource
+  helm-perldoc                 0.7                available  perldoc with helm interface
+  helm-proc                    0.0.4              available  Helm interface for managing system processes
+  helm-project-persist         1.0.0              available  Helm integration for project-persist package
+  helm-projectile              0.12.0             available  Helm integration for Projectile
+  helm-pydoc                   0.6                available  pydoc with helm interface
+  helm-robe                    0.1                available  completing read function for robe
+  helm-rubygems-org            0.0.1              available  Use helm to search rubygems.org
+  helm-sage                    0.0.3              available  A helm extension for sage-shell-mode.
+  helm-swoop                   1.5.1              available  Efficiently hopping squeezed lines powered by helm interface
+  helm-themes                  0.5                available  Color theme selection with helm interface
+  helm-unicode                 0.0.2              available  Helm command for unicode characters.
+  helm-w32-launcher            0.1.6              available  Start Menu entry launcher using Helm
+  helm-zhihu-daily             0.2                available  Helm interface for 知乎日报 (http://daily.zhihu.com)
+  hi2                          1.0                available  indentation module for Haskell Mode
+  highlight-blocks             0.1.15             available  Highlight the blocks point is in
+  highlight-defined            0.1.5              available  Syntax highlighting of known Elisp symbols
+  highlight-indentation        0.7.0              available  Minor modes for highlighting indentation
+  highlight-numbers            0.2.1              available  Highlight numbers in source code
+  highlight-parentheses        1.1.0              available  highlight surrounding parentheses
+  highlight-quoted             0.1                available  Highlight Lisp quotes and quoted symbols
+  highlight-symbol             1.3                available  automatic and manual symbol highlighting
+  hindent                      5.4.3              available  Indent haskell code using the "hindent" program
+  hippie-expand-slime          0.1                available  Hook slime's completion into hippie-expand
+  hippie-namespace             0.5.8              available  Special treatment for namespace prefixes in hippie-expand
+  history                      1.0.0              available  History utility for source code navigation
+  historyf                     0.0.8              available  file history library like browser
+  hl-anything                  0.0.9              available  Highlight symbols, selections, enclosing parens and more.
+  hl-sentence                  3                  available  highlight a sentence based on customizable face
+  hl-sexp                      1.0.0              available  highlight the current sexp
+  hl-todo                      1.4.3              available  highlight TODO keywords
+  hookify                      0.2.1              available  Interactive commands to create temporary hooks
+  html-to-markdown             1.5                available  HTML to Markdown converter written in Emacs-lisp.
+  httpcode                     0.1                available  explains the meaning of an HTTP status code
+  httprepl                     1.1                available  An HTTP REPL
+  hyde                         0.2                available  No description available.
+  hydra                        0.13.0             available  Make bindings that stick around.
+  ibuffer-projectile           0.2                available  Group ibuffer's list by projectile root
+  ibuffer-vc                   0.10               available  Group ibuffer's list by VC project, or show VC status
+  identica-mode                1.3.1              available  Major mode API client for status.net open microblogging
+  idle-highlight-mode          1.1.3              available  highlight the word the point is on
+  ido-complete-space-or-hyphen 1.1                available  No description available.
+  ido-completing-read+         3.6                available  A completing-read-function using ido
+  ido-load-library             0.2.0              available  Load-library alternative using ido-completing-read
+  ido-ubiquitous               3.6                available  Use ido (nearly) everywhere.
+  ido-vertical-mode            0.1.6              available  Makes ido-mode display vertically.
+  ido-yes-or-no                1.2                available  Use Ido to answer yes-or-no questions
+  idomenu                      0.1                available  imenu tag selection with ido
+  idris-mode                   0.9.18             available  Major mode for editing Idris code
+  iflipb                       1.3                available  interactively flip between recently visited buffers
+  ignoramus                    0.7.0              available  Ignore backups, build files, et al.
+  image+                       0.6.2              available  Image manipulate extensions for Emacs
+  image-archive                0.0.7              available  Image thumbnails in archive file with non-blocking
+  image-dired+                 0.7.2              available  Image-dired extensions
+  imenu-anywhere               0.9.0              available  ido/helm imenu tag selection across all buffers with the same mode
+  imenu-list                   0.4                available  Show imenu entries in a seperate buffer
+  imenus                       0.1                available  Imenu for multiple buffers
+  immutant-server              1.2.0              available  Run your Immutant server in Emacs
+  import-popwin                0.9                available  popwin buffer near by import statements with popwin
+  inf-clojure                  1.2.0              available  an inferior-clojure mode
+  inf-ruby                     2.4.0              available  Run a Ruby process in a buffer
+  inflections                  2.3                available  convert english words between singular and plural
+  init-loader                  0.2                available  Loader for configuration files
+  initsplit                    1.6                available  No description available.
+  inline-crypt                 0.1.4              available  Simple inline encryption via openssl
+  inlineR                      1.0                available  insert Tag for inline image of R graphics
+  insert-shebang               0.9.4              available  Insert shebang line automatically.
+  instapaper                   0.9.5              available  No description available.
+  interleave                   1.0.0              available  Interleaving text books since 2015
+  iplayer                      0.1                available  Browse and download BBC TV/radio shows
+  ir-black-theme               1.0.1              available  Port of ir-black theme
+  irony                        0.1.2              available  C/C++ minor mode powered by libclang
+  isgd                         1.1                available  Shorten URLs using the isgd.com shortener service
+  ix                           0.7                available  Emacs client for http://ix.io pastebin
+  j-mode                       1.1.1              available  Major mode for editing J programs
+  jabber                       0.8.92             available  A Jabber client for Emacs.
+  jade-mode                    1.0.0              available  Major mode for editing .jade files
+  jammer                       0.0.3              available  Punish yourself for using Emacs inefficiently
+  japanlaw                     0.9.1              available  Japan law from law.e-gov.go.jp
+  jedi                         0.2.5              available  a Python auto-completion for Emacs
+  jedi-core                    0.2.5              available  Common code of jedi.el and company-jedi.el
+  js2-closure                  1.4                available  Google Closure dependency manager
+  js2-mode                     20150713           available  Improved JavaScript editing mode
+  js3-mode                     1.1.0              available  An improved JavaScript editing mode
+  jsfmt                        0.2.0              available  No description available.
+  json-mode                    1.1.0              available  Major mode for editing JSON files
+  json-reformat                0.0.3              available  Reformatting tool for JSON
+  jsx-mode                     0.1.10             available  major mode for JSX
+  julia-mode                   0.3.11             available  No description available.
+  jump-to-line                 0.2.0              available  Jump to line number at point.
+  jvm-mode                     0.2.0              available  Monitor and manage your JVMs
+  kaesar                       0.9.0              available  Another AES algorithm encrypt/decrypt string with password.
+  kaesar-file                  0.9.0              available  Encrypt/Decrypt file by AES with password.
+  kaesar-mode                  0.9.0              available  Encrypt/Decrypt buffer by AES with password.
+  kakapo-mode                  1.1                available  TABS (hard or soft) for indentation (leading whitespace), and SPACES for alignment.
+  karma                        0.1.0              available  Karma Test Runner Emacs Integration
+  key-combo                    1.6                available  map key sequence to commands
+  keychain-environment         2.2.0              available  load keychain environment variables
+  keydef                       1.15               available  a simpler way to define keys, with kbd syntax
+  keyfreq                      1.5                available  track command frequencies
+  keymap-utils                 0.5.1              available  keymap utilities
+  keyset                       0.1.2              available  A small library for structuring key bindings.
+  kibit-helper                 0.1.1              available  Conveniently use the Kibit Leiningen plugin from Emacs
+  kill-or-bury-alive           0.1.0              available  Precise control over buffer killing in Emacs
+  kill-ring-search             1.1                available  incremental search for the kill ring
+  killer                       0.2.2              available  kill and delete text
+  kivy-mode                    1.9.0              available  Emacs major mode for editing Kivy files
+  know-your-http-well          0.2.0              available  Look up the meaning of HTTP headers, methods, relations, status codes
+  kurecolor                    1.2.2              available  color editing goodies for Emacs
+  langtool                     1.4.1              available  Grammar check utility using LanguageTool
+  latex-math-preview           0.7.0              available  preview LaTeX mathematical expressions.
+  ledger-mode                  3.1                available  Helper code for use with the "ledger" command-line tool
+  less-css-mode                0.20               available  Major mode for editing LESS CSS files (lesscss.org)
+  letcheck                     0.4                available  Check the erroneous assignments in let forms
+  lfe-mode                     0.9.2              available  Lisp Flavoured Erlang mode
+  lice                         0.2                available  License And Header Template
+  lingr                        0.2                available  Lingr Client for GNU Emacs
+  link                         1.10               available  No description available.
+  linum-relative               0.4                available  display relative line number in emacs.
+  lispyscript-mode             0.3.5              available  Major mode for LispyScript code.
+  list-unicode-display         0.1                available  Search for and list unicode characters by name
+  list-utils                   0.4.2              available  List-manipulation utility functions
+  lit-mode                     0.1.1              available  Major mode for lit
+  literate-coffee-mode         0.4                available  major-mode for Literate CoffeeScript
+  live-code-talks              0.2.1              available  Support for slides with live code in them
+  load-relative                1.0                available  relative file load (within a multi-file Emacs package)
+  loc-changes                  1.1                available  Helps users and programs keep track of positions even after buffer changes.
+  log4e                        0.3.0              available  provide logging framework for elisp
+  log4j-mode                   1.3                available  major mode for viewing log files
+  logalimacs                   1.0.0              available  Front-end to logaling-command for Ruby gems
+  logito                       0.1                available  logging library for Emacs
+  love-minor-mode              1.1                available  Minor mode for working on LÖVE projects
+  lua-mode                     20140514           available  a major-mode for editing Lua scripts
+  m-buffer                     0.12               available  List-Oriented, Functional Buffer Manipulation
+  macro-math                   1.0                available  in-buffer mathematical operations
+  macrostep                    0.8                available  interactive macro stepper for Emacs Lisp
+  magit                        2.1.0              available  A Git porcelain inside Emacs
+  magit-annex                  1.0.0              available  Control git-annex from Magit
+  magit-find-file              2.1.0              available  completing-read over all files in Git
+  magit-gerrit                 0.2                available  Magit plugin for Gerrit Code Review
+  magit-gh-pulls               0.3                available  GitHub pull requests extension for Magit
+  magit-gitflow                2.0.0              available  gitflow extension for magit
+  magit-popup                  2.1.0              available  Define prefix-infix-suffix command combos
+  magit-stgit                  2.1.0              available  StGit extension for Magit
+  magit-svn                    2.1.0              available  Git-Svn extension for Magit
+  magit-topgit                 2.1.0              available  TopGit extension for Magit
+  magit-tramp                  0.1.0              available  git method for TRAMP
+  make-color                   0.4                available  Alternative to picking color - update fg/bg color by pressing r/g/b/... keys
+  makey                        0.3                available  interactive commandline mode
+  malabar-mode                 20140303.946       available  A better Java mode for Emacs
+  malinka                      0.3.1              available  A C/C++ project configuration package for Emacs
+  mallard-mode                 0.3.0              available  Major mode for editing Mallard files
+  map-progress                 0.5.0              available  mapping macros that report progress
+  map-regexp                   0.3.0              available  map over matches of a regular expression
+  marcopolo                    0.3.0              available  Emacs client for Docker API
+  mark-tools                   0.3                available  Some simple tools to access the mark-ring in Emacs
+  markdown-mode                2.0                available  Emacs Major mode for Markdown-formatted text files
+  markdown-toc                 0.0.8              available  A simple TOC generator for markdown file
+  markup-faces                 1.0.0              available  collection of faces for markup language modes
+  marshal                      0.4.0              available  eieio extension for automatic (un)marshalling
+  maven-test-mode              0.1.5              available  Utilities for navigating test files and running maven test tasks.
+  maxframe                     0.5                available  No description available.
+  mbe                          0.1                available  Macros by Example
+  mc-extras                    1.2.1              available  Extra functions for multiple-cursors mode.
+  mediawiki                    2.2.5              available  mediawiki frontend
+  mentor                       0.1                available  Control rtorrent from GNU Emacs
+  merlin                       2.2                available  Mode for Merlin, an assistant for OCaml.
+  mew                          6.6                available  Messaging in the Emacs World
+  mhc                          1.0.3              available  No description available.
+  migemo                       1.9.1              available  Japanese incremental search through dynamic pattern expansion
+  milkode                      0.4                available  Command line search and direct jump with Milkode
+  minibuffer-complete-cycle    1.25.20130814      available  Cycle through the *Completions* buffer
+  minibuffer-cua               1.0.0              available  Make CUA mode's S-up/S-down work in minibuffer
+  miniedit                     2.0                available  Enhanced editing for minibuffer fields.
+  minimal-session-saver        0.6.2              available  Very lean session saver
+  minitest                     0.8.0              available  An Emacs mode for ruby minitest files
+  mmm-mako                     1.1                available  MMM submode class for Mako Templates
+  mmm-mode                     0.5.4              available  Allow Multiple Major Modes in a buffer
+  mmt                          0.1.0              available  Missing macro tools for Emacs Lisp
+  mocker                       0.3.0              available  mocking framework for emacs
+  mode-icons                   0.1.0              available  Show icons for modes
+  mode-line-debug              1.2.2              available  show status of `debug-on-error' in the mode-line
+  monokai-theme                1.0.0              available  A fruity color theme for Emacs.
+  monroe                       0.2.0              available  Yet another client for nREPL
+  morlock                      0.4.0              available  more font-lock keywords for elisp
+  move-dup                     0.2.1              available  Eclipse-like moving and duplicating lines or rectangles.
+  mowedline                    0.2.8              available  elisp utilities for using mowedline
+  moz                          1.1.0              available  Lets current buffer interact with inferior mozilla.
+  moz-controller               1.0                available  Control Firefox from Emacs
+  msvc                         1.2.2              available  Microsoft Visual C/C++ mode
+  multi                        2.0.1              available  Clojure-style multi-methods for emacs lisp
+  multi-web-mode               0.2.1              available  multiple major mode support for web editing
+  multiple-cursors             1.3.0              available  Multiple cursors for Emacs.
+  mustache-mode                1.3                available  A major mode for editing Mustache files.
+  mwim                         0.1                available  Move to the beginning/end of line or code
+  mykie                        0.3.1              available  Command multiplexer: Register multiple functions to a keybind
+  names                        20150723.0         available  Namespaces for emacs-lisp. Avoid name clobbering without hiding symbols.
+  narrow-reindent              0.2.0              available  Defines a minor mode to left-align narrowed regions.
+  narrowed-page-navigation     0.1.0              available  A minor mode for showing one page at a time
+  nasm-mode                    1.0.1              available  NASM x86 assembly major mode
+  nav-flash                    1.1.0              available  Briefly highlight the current line
+  navi-mode                    2.0                available  major-mode for easy buffer-navigation
+  ncl-mode                     0.99.1             available  Major Mode for editing NCL scripts and other goodies
+  nemerle                      1.2                available  major mode for editing nemerle programs
+  neotree                      0.2.1              available  A tree plugin like NerdTree for Vim
+  nginx-mode                   1.1.3              available  major mode for editing nginx config files
+  ninja-mode                   1.6.0              available  Major mode for editing .ninja files
+  nix-mode                     1.9                available  Major mode for editing Nix expressions
+  nixos-options                0.0.1              available  Interface for browsing and completing NixOS options.
+  nodejs-repl                  0.0.2              available  Run Node.js REPL
+  nose                         0.1.1              available  Easy Python test running in Emacs
+  notmuch                      0.20.2             available  No description available.
+  notmuch-labeler              0.1                available  Improve notmuch way of displaying labels
+  nrepl-sync                   0.3.1              available  connect to nrepl port and eval .sync.clj.
+  nsis-mode                    0.44               available  NSIS-mode
+  nvm                          0.0.3              available  Manage Node versions within Emacs
+  o-blog                       2.0                available  
+  ocodo-svg-modelines          0.1.4              available  A collection of beautiful SVG modelines
+  ocp-indent                   1.5                available  automatic indentation with ocp-indent
+  octicons                     0.1                available  octicons utility
+  octomacs                     0.0.1              available  Octopress interface for Emacs
+  olivetti                     1.2.0              available  Minor mode for a nice writing environment
+  omni-kill                    0.2.3              available  Kill all the things
+  omni-scratch                 0.1.1              available  Easy and mode-specific draft buffers
+  opam                         0.1                available  OPAM tools
+  operate-on-number            1.1.0              available  Operate on number at point with arithmetic functions
+  org-ac                       0.0.2              available  Some auto-complete sources for org-mode
+  org-agenda-property          1.3.1              available  Display org properties in the agenda buffer.
+  org-autolist                 0.12               available  Improved list management in org-mode
+  org-bullets                  0.2.4              available  Show bullets in org-mode as UTF-8 characters
+  org-journal                  1.9.6              available  a simple org-mode based journaling mode
+  org-linkany                  0.0.2              available  Insert link using anything.el/helm.el on org-mode
+  org-mac-iCal                 7.9.3.5            available  Imports events from iCal.app to the Emacs diary
+  org-outlook                  0.11               available  Outlook org
+  org-pomodoro                 2.0.2              available  Pomodoro implementation for org-mode.
+  org-protocol-jekyll          0.1                available  Jekyll's handler for org-protocol
+  org-repo-todo                0.0.2              available  Simple repository todo management with org-mode
+  org-table-comment            0.2.0              available  Org table comment modes.
+  org-toodledo                 2.1.0              available  No description available.
+  org2jekyll                   0.1.7              available  Minor mode to publish org-mode post to jekyll without specific yaml
+  osx-browse                   0.8.8              available  Web browsing helpers for OS X
+  osx-dictionary               0.2.1              available  Interface for OSX Dictionary.app
+  osx-location                 0.4                available  Watch and respond to changes in geographical location on OS X
+  osx-plist                    1.0.0              available  Apple plist file parser
+  osx-trash                    0.1.1              available  System trash for OS X
+  outorg                       2.0                available  Org-style comment editing
+  outshine                     2.0                available  outline with outshine outshines outline
+  ov                           1.0.6              available  Overlay library for Emacs Lisp
+  overseer                     0.3.0              available  Ert-runner Integration Into Emacs
+  owdriver                     0.0.6              available  Quickly perform various actions on other windows
+  ox-twbs                      0.1.0              available  Bootstrap compatible HTML Back-End for Org
+  pabbrev                      4.1                available  Predictive abbreviation expansion
+  package+                     1.1.0              available  Extensions for the package library.
+  package-safe-delete          0.1.7              available  Safely delete package.el packages
+  package-utils                0.3.0              available  Extensions for package.el
+  packed                       0.5.0              available  package manager agnostic Emacs Lisp package utilities
+  page-break-lines             0.10               available  Display ugly ^L page breaks as tidy horizontal lines
+  pallet                       0.9.2              available  A package management tool for Emacs, using Cask.
+  pandoc-mode                  2.13.1             available  Minor mode for interacting with Pandoc
+  pangu-spacing                0.4                available  Minor-mode to add space between Chinese and English characters.
+  paredit                      24                 available  minor mode for editing parentheses
+  paredit-everywhere           0.4                available  Enable some paredit features in non-lisp buffers
+  paren-face                   0.1.1              available  a face for parentheses in lisp modes
+  parenface                    1.0.3              available  Provide a face for parens in lispy modes.
+  parent-mode                  2.1                available  get major mode's parent modes
+  parsebib                     1.0.4              available  A library for parsing bib files
+  passthword                   1.4                available  Simple password manager
+  password-store               1.6.5              available  Password store (pass) support
+  pastehub                     0.5.2              available  A client for the PasteHub cloud service
+  paxedit                      1.1.6              available  Structured, Context Driven LISP Editing and Refactoring
+  pcache                       0.3.1              available  persistent caching for Emacs
+  pcomplete-extension          1.0                available  additional completion for pcomplete
+  pcsv                         1.3.6              available  Parser of csv
+  pdf-tools                    0.60               available  Support library for PDF documents.
+  peg                          0.6                available  Parsing Expression Grammars in Emacs Lisp
+  per-buffer-theme             1.1                available  Change theme according to buffer name or major mode.
+  persistent-scratch           0.2.2              available  Preserve the scratch buffer across Emacs sessions
+  persistent-soft              0.8.10             available  Persistent storage, returning nil on failure
+  persp-mode                   1.1.2              available  "perspectives" shared among frames + save/load - bugs.
+  persp-projectile             0.12.0             available  Perspective integration with Projectile
+  perspective                  1.12               available  switch between named "perspectives" of the editor
+  ph                           0.1.0              available  A global minor mode for managing multiple projects.
+  php-auto-yasnippets          2.3.1              available  Creates snippets for PHP functions
+  php-mode                     1.17.0             available  Major mode for editing PHP code
+  phpcbf                       0.9.2              available  Format PHP code in Emacs using PHP_CodeSniffer's phpcbf
+  phpunit                      0.4.0              available  Launch PHP unit tests using phpunit
+  pinyin-search                1.1.0              available  Search Chinese by Pinyin
+  pip-requirements             0.4                available  A major mode for editing pip requirements files.
+  pixiv-novel-mode             0.0.3              available  Major mode for pixiv novel
+  pkg-info                     0.6                available  Information about packages
+  pkgbuild-mode                0.13               available  Interface to the ArchLinux package manager
+  plenv                        0.32               available  A plenv wrapper for Emacs
+  plsense                      0.4.6              available  provide interface for PlSense that is a development tool for Perl.
+  plsense-direx                0.2.0              available  Perl Package Explorer
+  pophint                      0.9.3              available  Provide navigation using pop-up tips, like Firefox's Vimperator Hint Mode
+  popup                        0.5.3              available  Visual Popup User Interface
+  popup-complete               0.2                available  completion with popup
+  popwin                       1.0.0              available  Popup Window Manager.
+  pos-tip                      0.4.6              available  Show tooltip at point
+  pov-mode                     3.3                available  Major mode for editing POV-Ray scene files.
+  powerline                    2.2                available  Rewrite of Powerline
+  pretty-mode                  2.0.3              available  Redisplay parts of the buffer as pretty symbols.
+  processing-mode              1.0                available  Major mode for Processing 2.0
+  prodigy                      0.6.0              available  Manage external services from within Emacs
+  project-explorer             0.14.3             available  A project explorer sidebar
+  project-persist              0.3.2              available  A minor mode to allow loading and saving of project settings.
+  project-persist-drawer       0.0.3              available  Use a project drawer with project-persist.
+  project-root                 0.7                available  Define a project root and take actions based upon it.
+  projectile                   0.12.0             available  Manage and navigate projects in Emacs easily
+  projectile-rails             0.5.0              available  Minor mode for Rails projects based on projectile-mode
+  projekt                      0.1                available  some kind of staging for CVS
+  prop-menu                    0.1.2              available  Create and display a context menu based on text and overlay properties
+  psci                         0.0.6              available  Major mode for purescript repl psci
+  psession                     1.1                available  Persistent save of elisp objects.
+  pt                           0.0.3              available  A front-end for pt, The Platinum Searcher.
+  punctuality-logger           0.8                available  Punctuality logger for Emacs
+  pungi                        1.1                available  Integrates jedi with virtualenv and buildout python environments
+  puppet-mode                  0.3                available  Major mode for Puppet manifests
+  purescript-mode              13.10              available  No description available.
+  pushbullet                   0.5.2              available  Emacs client for the PushBullet Android app
+  py-autopep8                  0.7.0              available  Use autopep8 to beautify a Python buffer
+  py-isort                     0.8                available  Use isort to sort the imports in a Python buffer
+  py-yapf                      0.2                available  Use yapf to beautify a Python buffer
+  python-environment           0.0.2              available  virtualenv API for Emacs Lisp
+  pyvenv                       1.7                available  Python virtual environment interface
+  qiita                        0.0.1              available  No description available.
+  qml-mode                     0.1                available  Major mode for editing QT Declarative (QML) code.
+  quasi-monochrome-theme       1.0                available  High contrast quasi monochrome color theme
+  quickrun                     2.2.4              available  Run commands quickly
+  r-autoyas                    0.28               available  Provides automatically created yasnippets for R function argument lists.
+  rainbow-blocks               1.0.0              available  Block syntax highlighting for lisp code
+  rainbow-delimiters           2.1.1              available  Highlight brackets according to their depth
+  rainbow-identifiers          0.2.2              available  Highlight identifiers according to their names
+  rake                         0.3.3              available  Run rake commands
+  ranger                       0.9.4              available  Make dired more like ranger
+  rase                         1.1                available  Run At Sun Event daemon
+  rbenv                        0.0.3              available  Emacs integration for rbenv
+  rcirc-styles                 1.1                available  support mIRC-style color and attribute codes
+  rdf-prefix                   1.0                available  Prefix lookup for RDF
+  real-auto-save               0.4                available  enable real auto save
+  realgud                      1.2                available  A modular front-end for interacting with external debuggers
+  rect+                        1.0.10             available  Extensions to rect.el
+  rectangle-utils              1.0                available  Some useful rectangle functions.
+  redpen-paragraph             0.22               available  RedPen interface.
+  relative-line-numbers        0.3.1              available  Display relative line numbers on the margin
+  relax                        0.2                available  For browsing and interacting with CouchDB
+  repeatable-motion            0.1                available  Make repeatable versions of motions
+  req-package                  0.9                available  A use-package wrapper for package runtime dependencies management
+  request                      0.1.0              available  Compatible layer for URL request in Emacs
+  request-deferred             0.1.0              available  Wrap request.el by deferred
+  reveal-in-finder             0.3.1              available  Reveal the file associated with the buffer in the OS X Finder
+  reverse-theme                0.3                available  Reverse theme for Emacs
+  rich-minority                0.1.1              available  Clean-up and Beautify the list of minor-modes.
+  rinari                       2.11               available  Rinari Is Not A Rails IDE
+  rnc-mode                     1.0.6              available  A major mode for editing RELAX NG Compact syntax.
+  roguel-ike                   0.1.0              available  A coffee-break roguelike
+  rsense                       0.3                available  RSense client for Emacs
+  rspec-mode                   1.11               available  Enhance ruby-mode for RSpec
+  rtags                        2.0                available  No description available.
+  ruby-compilation             2.11               available  run a ruby process in a compilation buffer
+  ruby-end                     0.4.1              available  Automatic insertion of end blocks for Ruby
+  ruby-hash-syntax             0.4                available  Toggle ruby hash syntax between classic and 1.9 styles
+  ruby-test-mode               1.0                available  Minor mode for Behaviour and Test Driven
+  ruby-tools                   0.1.2              available  Collection of handy functions for ruby-mode.
+  rvm                          1.4.0              available  Emacs integration for rvm
+  s                            1.9.0              available  The long lost Emacs string manipulation library.
+  sackspace                    0.8.2              available  A better backspace
+  sage-shell-mode              0.0.8.9            available  A front-end for Sage Math
+  sass-mode                    3.0.18             available  Major mode for editing Sass files
+  sauron                       0.10               available  Track (erc/org/dbus/...) events and react to them.
+  save-sexp                    0.2.0              available  save variables in files using setter forms like `setq'
+  sbt-mode                     0.1                available  Major mode for sbt >= 0.12 with scala >= 2.9
+  scala-mode2                  0.22               available  Major mode for editing Scala >= 2.9
+  scala-outline-popup          0.3.4              available  scala file summary popup
+  scss-mode                    0.5.0              available  Major mode for editing SCSS files
+  search-web                   1.1                available  Post web search queries using `browse-url'.
+  sekka                        1.6.4              available  A client for Sekka IME server
+  serverspec                   0.0.7              available  Serverspec minor mode
+  session                      2.3.1              available  use variables, registers and buffer places across sessions
+  shackle                      0.7.0              available  Enforce rules for popups
+  shampoo                      0.0.1              available  Shampoo, a remote Smalltalk developemnt
+  shell-pop                    0.6                available  helps you to use shell easily on Emacs. Only one key action to work.
+  shell-split-string           0.1                available  Split strings using shell-like syntax
+  shell-toggle                 1.3.1              available  Toggle to and from the shell buffer
+  shelldoc                     0.0.5              available  shell command editing support with man page.
+  shelltest-mode               1.1                available  Major mode for shelltestrunner
+  shm                          1.0.20             available  Structured Haskell Mode
+  shpec-mode                   0.1.0              available  Minor mode for shpec specification
+  shut-up                      0.3.2              available  Shut up would you!
+  simple-httpd                 1.4.6              available  pure elisp HTTP server
+  simpleclip                   1.0.0              available  Simplified access to the system clipboard
+  simplezen                    0.1.1              available  A simple subset of zencoding-mode for Emacs.
+  skeletor                     1.5.1              available  Provides project skeletons for Emacs
+  skewer-less                  0.2                available  Skewer support for live LESS stylesheet updates
+  skewer-mode                  1.6.2              available  live browser JavaScript, CSS, and HTML interaction
+  slamhound                    1.5.4              available  Rip Clojure namespaces apart and rebuild them.
+  slideview                    0.6.1              available  File slideshow
+  slim-mode                    1.1                available  Major mode for editing Slim files
+  slime                        2.14               available  Superior Lisp Interaction Mode for Emacs
+  slime-company                0.9.1              available  slime completion backend for company mode
+  slime-ritz                   0.6.0              available  slime extensions for ritz
+  slime-volleyball             1.1                available  An SVG Slime Volleyball Game
+  sly                          2.13               available  No description available.
+  sly-company                  0.8                available  sly completion backend for company mode
+  smart-mode-line              2.9                available  A color coded smart mode-line.
+  smart-mode-line-powerline... 2.9                available  smart-mode-line theme that mimics the powerline appearance.
+  smart-tabs-mode              1.0                available  Intelligently indent with tabs, align with spaces!
+  smartparens                  1.6.3              available  Automatic insertion, wrapping and paredit-like navigation with user defined pairs.
+  smartrep                     1.0.0              available  Support sequential operation which omitted prefix keys.
+  smartscan                    0.2                available  Jumps between other symbols found at point
+  smeargle                     0.2                available  Highlighting region by last updated time
+  smex                         3.0                available  M-x interface with Ido-style fuzzy matching.
+  smooth-scrolling             1.0.4              available  Make emacs scroll smoothly
+  solarized-theme              1.2.2              available  The Solarized color theme, ported to Emacs.
+  sotlisp                      1.1                available  Write lisp at the speed of thought.
+  sound-wav                    0.1                available  Play wav file
+  sourcemap                    0.2                available  Sourcemap parser
+  sparkline                    1.0.2              available  Make sparkline images from a list of numbers
+  sparql-mode                  0.10.1             available  Edit and interactively evaluate SPARQL queries.
+  sphinx-doc                   0.1.0              available  Sphinx friendly docstrings for Python functions
+  splitjoin                    0.1                available  splitjoin
+  spotify                      0.3.2              available  Control the spotify application from emacs
+  sqlup-mode                   0.5.1              available  Upcase SQL words for you
+  srefactor                    0.5                available  A refactoring tool based on Semantic parser framework
+  stan-mode                    6.0.0              available  Major mode for editing Stan files
+  stan-snippets                6.0.0              available  Yasnippets for Stan
+  starter-kit                  2.0.3              available  Saner defaults and goodies.
+  starter-kit-bindings         2.0.3              available  Saner defaults and goodies: bindings
+  starter-kit-eshell           2.0.3              available  Saner defaults and goodies: eshell tweaks
+  starter-kit-js               2.0.3              available  Saner defaults and goodies for Javascript
+  starter-kit-lisp             2.0.3              available  Saner defaults and goodies for lisp languages
+  starter-kit-perl             2.0.3              available  Some helpful Perl code
+  starter-kit-ruby             2.0.3              available  Saner defaults and goodies for Ruby
+  stash                        0.4.1              available  lightweight persistent caching
+  stekene-theme                1.0.15             available  Low-contrast (except for strings) theme, in light and dark versions.
+  stgit                        0.17.1             available  No description available.
+  string-edit                  0.1.0              available  Avoid escape nightmares by editing string in separate buffer
+  string-utils                 0.3.2              available  String-manipulation utilities
+  stripe-buffer                0.2.5              available  Use a different background for even and odd lines
+  stumpwm-mode                 0.9.8              available  special lisp mode for evaluating code into running stumpwm
+  stylus-mode                  1.0.0              available  Major mode for editing .jade files
+  subshell-proc                0.1                available  Functions for working with comints
+  sudden-death                 0.2                available  Totsuzen-no-Shi
+  suomalainen-kalenteri        2014.6.15          available  Finnish national and Christian holidays for calendar
+  swift-mode                   0.3.0              available  Major-mode for Apple's Swift programming language.
+  swiper                       0.5.0              available  Isearch with an overview. Oh, man!
+  swiper-helm                  0.1.0              available  Helm version of Swiper.
+  sws-mode                     1.0.0              available  (S)ignificant (W)hite(S)pace mode
+  sx                           0.3                available  StackExchange client. Ask and answer questions on Stack Overflow, Super User, and the likes
+  synosaurus                   0.1.0              available  An extensible thesaurus supporting lookup and substitution.
+  syntactic-sugar              0.9.4              available  Effect-free forms such as if/then/else
+  syntax-subword               0.2                available  make operations on words more fine-grained
+  system-specific-settings     0.2                available  Apply settings only on certain systems
+  systemd                      1.2.1              available  Major mode for editing systemd units
+  ta                           1.5                available  A tool to deal with Chinese homophonic characters
+  tablist                      0.60               available  Extended tabulated-list-mode
+  tabulated-list               0                  available  generic major mode for tabulated lists.
+  tagedit                      1.4.0              available  Some paredit-like features for html-mode
+  tempbuf                      1.4                available  kill unused buffers in the background
+  term-alert                   1.0                available  Get notifications when commands complete in the Emacs terminal emulator
+  term-cmd                     1.0                available  Send commands to Emacs from programs running under term.el
+  term-run                     0.1.4              available  Run arbitrary command in terminal buffer
+  tern                         0.13.0             available  Tern-powered JavaScript integration
+  tern-auto-complete           0.13.0             available  Tern Completion by auto-complete.el
+  tern-django                  0.1.0              available  Create tern projects for django applications.
+  terraform-mode               0.2                available  Major mode for terraform configuration file
+  test-case-mode               1.0                available  unit test front-end
+  test-simple                  1.0                available  Simple Unit Test Framework for Emacs Lisp
+  textmate                     1                  available  No description available.
+  textmate-to-yas              0.21               available  Import Textmate macros into yasnippet syntax
+  theme-changer                2.1.0              available  Sunrise/Sunset Theme Changer for Emacs
+  thrift                       0.9.2              available  Major mode for Apache Thrift files
+  timer-revert                 0.1                available  minor mode to revert buffer for a given time interval.
+  tox                          0.3                available  Launch current python test with tox
+  traad                        0.4                available  emacs interface to the traad refactoring server.
+  transmission                 0.4.1              available  Interface to a Transmission session
+  travis                       0.5.0              available  Emacs client for Travis
+  truthy                       0.2.8              available  Test the content of a value
+  tss                          0.6.0              available  provide a interface for auto-complete.el/flymake.el on typescript-mode.
+  ttrss                        1.7.5              available  Tiny Tiny RSS elisp bindings
+  tumble                       1.5                available  an Tumblr mode for Emacs
+  tup-mode                     1.3.1              available  Major mode for editing files for Tup
+  twilight-anti-bright-theme   0.3.0              available  A soothing Emacs 24 light-on-dark theme
+  twittering-mode              3.0.0              available  Major mode for Twitter
+  typed-clojure-mode           1.0.0              available  Typed Clojure minor mode for Emacs
+  typo                         1.1                available  Minor mode for typographic editing
+  ubuntu-theme                 4.2                available  A theme inspired by the default terminal colors in Ubuntu
+  ucs-utils                    0.8.0              available  Utilities for Unicode characters
+  undercover                   0.5.0              available  Test coverage library for Emacs
+  underwater-theme             1.1.0              available  A gentle, deep blue color theme
+  unfill                       0.1                available  The inverse of fill-paragraph and fill-region
+  unicode-enbox                0.1.4              available  Surround a string with box-drawing characters
+  unicode-fonts                0.4.4              available  Configure Unicode fonts
+  unicode-progress-reporter    0.5.4              available  Progress-reporter with fancy characters
+  unicode-whitespace           0.2.4              available  teach whitespace-mode about fancy characters
+  unkillable-scratch           0.1                available  Disallow buffers from being killed by regexp -- default is *scratch* buffer
+  use-package                  20140601           available  A use-package declaration for simplifying your .emacs
+  utop                         1.18               available  Universal toplevel for OCaml
+  uzumaki                      0.1                available  A simple buffer cycler
+  vagrant                      0.5.2              available  Manage a vagrant box from emacs
+  vbasense                     0.1.1              available  provide a environment like Visual Basic Editor.
+  vcomp                        0.3.1              available  compare version strings
+  vector-utils                 0.1.2              available  Vector-manipulation utility functions
+  vimgolf                      0.10.0             available  VimGolf interface for the One True Editor
+  visual-fill-column           1.4                available  fill-column for visual-line-mode
+  vlf                          1.7                available  View Large Files
+  voca-builder                 0.2.0              available  No description available.
+  wacspace                     0.4.2              available  The WACky WorkSPACE manager for emACS
+  wc-goal-mode                 2.1                available  Running word count with goals (minor mode)
+  wcheck-mode                  2014.6.21          available  General interface for text checkers
+  web-completion-data          0.1                available  Shared completion data for ac-html and company-web
+  web-mode                     12                 available  major mode for editing web templates
+  weechat                      0.2.2              available  Chat via WeeChat's relay protocol in Emacs
+  weibo                        1.0                available  No description available.
+  which-key                    0.5.1              available  Display available keybindings in popup
+  whitespace-cleanup-mode      0.10               available  Intelligently call whitespace-cleanup on save
+  whole-line-or-region         1.3.1              available  operate on current line if region undefined
+  wiki-nav                     1.0.2              available  Simple file navigation using [[WikiStrings]]
+  win-switch                   1.1                available  fast, dynamic bindings for window-switching/resizing
+  window-end-visible           0.1.0              available  Find the last visible point in a window
+  window-layout                1.3                available  window layout manager
+  window-numbering             1.1.2              available  No description available.
+  window-purpose               1.4                available  Purpose-based window management for Emacs
+  windsize                     0.1                available  Simple, intuitive window resizing
+  wisp-mode                    0.8.5              available  Tools for wisp: the Whitespace-to-Lisp preprocessor
+  wispjs-mode                  0.2.0              available  Major mode for Wisp code.
+  with-editor                  2.1.0              available  Use the Emacsclient as $EDITOR
+  wn-mode                      1.4                available  numeric window switching shortcuts
+  wonderland                   0.1.1              available  declarative configuration for Emacsen
+  wordsmith-mode               1.0.0              available  Syntax analysis and NLP text-processing in Emacs (OSX-only)
+  wrap-region                  0.7.3              available  Wrap text with punctation or tag
+  writegood-mode               2.0.2              available  Polish up poor writing on the fly
+  writeroom-mode               2.9                available  Minor mode for distraction-free writing
+  ws-butler                    0.3                available  Unobtrusively remove trailing whitespace.
+  wsd-mode                     0.3.0              available  Emacs major-mode for www.websequencediagrams.com
+  xbm-life                     0.1                available  A XBM version of Conway's Game of Life
+  xcscope                      1.1                available  cscope interface for (X)Emacs
+  xterm-color                  1.0                available  ANSI & XTERM 256 color support
+  xtest                        1.1.0              available  Simple Testing with Emacs & ERT
+  yafolding                    0.1.4              available  Yet another folding extension for Emacs
+  yagist                       0.8.12             available  Yet Another Emacs integration for gist.github.com
+  yaml-mode                    0.0.11             available  Major mode for editing YAML files
+  yascroll                     0.1                available  Yet Another Scroll Bar Mode
+  yasnippet                    0.9.0.1            available  Yet another snippet extension for Emacs.
+  yatemplate                   1.0                available  File templates with yasnippet
+  yatex                        0                  available  No description available.
+  yaxception                   0.3.3              available  Provide framework about exception like Java for Elisp
+  ycmd                         0.9                available  emacs bindings to the ycmd completion server
+  yesql-ghosts                 0.1.0              available  Display ghostly yesql defqueries inline
+  youdao-dictionary            0.2.2              available  Youdao Dictionary interface for Emacs
+  zenburn-theme                2.2                available  A low contrast color theme for Emacs.
+  zombie-trellys-mode          0.2.1              available  A minor mode for interaction with Zombie Trellys
+  zop-to-char                  1.0                available  A replacement of zap-to-char.
+  zotelo                       1.3                available  Manage Zotero collections from emacs
+  zygospore                    0.0.3              available  reversible C-x 1 (delete-other-windows)
+  allout                       2.3                built-in   extensive outline mode for use alone and with other modes
+  allout-widgets               1.0                built-in   Visually highlight allout outline structure.
+  ansi-color                   3.4.2              built-in   translate ANSI escape sequences into faces
+  antlr-mode                   2.2.3              built-in   major mode for ANTLR grammar files
+  artist                       1.2.6              built-in   draw ascii graphics with your mouse
+  bs                           1.17               built-in   menu for selecting and displaying buffers
+  cedet                        2.0                built-in   Setup CEDET environment
+  cfengine                     1.4                built-in   mode for editing Cfengine files
+  chart                        0.2                built-in   Draw charts (bar charts, etc)
+  checkdoc                     0.6.2              built-in   check documentation strings for style requirements
+  cl-generic                   1.0                built-in   CLOS-style generic functions for Elisp
+  cl-lib                       1.0                built-in   Common Lisp extensions for Emacs
+  cwarn                        1.3.1              built-in   highlight suspicious C and C++ constructions
+  delim-col                    2.1                built-in   prettify all columns in a region or rectangle
+  dunnet                       2.1                built-in   text adventure for Emacs
+  ebnf2ps                      4.4                built-in   translate an EBNF to a syntactic chart on PostScript
+  ede                          1.2                built-in   Emacs Development Environment gloss
+  ediff                        2.81.4             built-in   a comprehensive visual interface to diff & patch
+  edmacro                      2.1                built-in   keyboard macro editor
+  eieio                        1.4                built-in   Enhanced Implementation of Emacs Interpreted Objects
+  eieio-core                   1.4                built-in   Core implementation for eieio
+  epg                          1.0.0              built-in   the EasyPG Library
+  erc                          5.3                built-in   An Emacs Internet Relay Chat client
+  eshell                       2.4.2              built-in   the Emacs command shell
+  feedmail                     11                 built-in   assist other email packages to massage outgoing messages
+  find-cmd                     0.6                built-in   Build a valid find(1) command with sexps
+  finder                       1.0                built-in   topic & keyword-based code finder
+  flymake                      0.3                built-in   a universal on-the-fly syntax checker
+  foldout                      1.10               built-in   folding extensions for outline-mode and outline-minor-mode
+  footnote                     0.19               built-in   footnote support for message mode
+  gamegrid                     1.2                built-in   library for implementing grid-based games on Emacs
+  gnus                         5.13               built-in   a newsreader for GNU Emacs
+  hippie-exp                   1.6                built-in   expand text trying various ways to find its expansion
+  htmlfontify                  0.21               built-in   htmlize a buffer/source tree with optional hyperlinks
+  icalendar                    0.19               built-in   iCalendar implementation
+  idlwave                      6.1.22             built-in   IDL editing mode for GNU Emacs
+  image-dired                  0.4.11             built-in   use dired to browse and manipulate your images
+  info-xref                    3                  built-in   check external references in an Info document
+  inversion                    1.3                built-in   When you need something in version XX.XX
+  isearchb                     1.5                built-in   a marriage between iswitchb and isearch
+  js                           9                  built-in   Major mode for editing JavaScript
+  json                         1.4                built-in   JavaScript Object Notation parser / generator
+  let-alist                    1.0.4              built-in   Easily let-bind values of an assoc-list by their names
+  linum                        0.9.24             built-in   display line numbers in the left margin
+  map                          1.0                built-in   Map manipulation functions
+  master                       1.0.2              built-in   make a buffer the master over another buffer
+  md4                          1.0                built-in   MD4 Message Digest Algorithm.
+  meta-mode                    1.0                built-in   major mode for editing Metafont or MetaPost sources
+  mh-e                         8.6                built-in   GNU Emacs interface to the MH mail system
+  mixal-mode                   0.1                built-in   Major mode for the mix asm language.
+  ntlm                         1.0                built-in   NTLM (NT LanManager) authentication support
+  package                      1.0.1              built-in   Simple package system for Emacs
+  pinentry                     0.1                built-in   GnuPG Pinentry server implementation
+  printing                     6.9.3              built-in   printing utilities
+  ps-mode                      1.1.9              built-in   PostScript mode for GNU Emacs
+  ps-print                     7.3.5              built-in   print text from the buffer as PostScript
+  pulse                        1.0                built-in   Pulsing Overlays
+  python                       0.24.5             built-in   Python's flying circus support for Emacs
+  regi                         1.8                built-in   REGular expression Interpreting engine
+  remember                     2.0                built-in   a mode for quickly jotting down things to remember
+  repeat                       0.51               built-in   convenient way to repeat the previous command
+  ruby-mode                    1.2                built-in   Major mode for editing Ruby files
+  ruler-mode                   1.6                built-in   display a ruler in the header line
+  savehist                     24                 built-in   Save minibuffer history
+  semantic                     2.2                built-in   Semantic buffer evaluator.
+  seq                          1.8                built-in   Sequence manipulation functions
+  sh-script                    2.0.6              built-in   shell-script editing commands for Emacs
+  sql                          3.5                built-in   specialized comint.el for SQL interpreters
+  srecode                      1.2                built-in   Semantic buffer evaluator.
+  tabulated-list               1.0                built-in   generic major mode for tabulated lists
+  tetris                       2.1                built-in   implementation of Tetris for Emacs
+  tildify                      4.6.1              built-in   adding hard spaces into texts
+  timeclock                    2.6.1              built-in   mode for keeping track of how much you work
+  vera-mode                    2.28               built-in   major mode for editing Vera files
+  viper                        3.14.1             built-in   A full-featured Vi emulator for Emacs and XEmacs,
+  wdired                       2.0                built-in   Rename files editing their names in dired buffers
+  whitespace                   13.2.2             built-in   minor mode to visualize TAB, (HARD) SPACE, NEWLINE
+  woman                        0.551              built-in   browse UN*X manual pages `wo (without) man'
+  ac-helm                      2.1                incompat   Auto Complete with Helm
+  ac-php                       1.4.2              incompat   Auto Completion source for php for GNU Emacs
+  auto-shell-command           1.0.2              incompat   Run the shell command asynchronously that you specified when you save the file.
+  autodisass-java-bytecode     1.2                incompat   Automatically disassemble Java bytecode
+  bbdb-                        0.0.2              incompat   provide interface for more easily search/choice than BBDB.
+  bbdb2erc                     0.1.3              incompat   make bbdb show if pal is online with ERC, click i to chat
+  butler                       0.2.4              incompat   Emacs client for Jenkins
+  cake2                        2.1.0              incompat   CakePHP2 Minor Mode
+  cask                         0.7.2              incompat   Cask: Project management for Emacs package development
+  cerbere                      0.1.0              incompat   Unit testing in Emacs for several programming languages
+  cider                        0.9.1              incompat   Clojure Interactive Development Environment that Rocks
+  circe                        1.6                incompat   Client for IRC in Emacs
+  ctxmenu                      0.3.0              incompat   Provide a context menu like right-click.
+  dart-mode                    0.13               incompat   Major mode for editing Dart files
+  easy-kill-extras             0.9.4              incompat   Extra functions for easy-kill.
+  ebal                         0.1.1              incompat   Emacs interface to Cabal
+  edbi                         0.1.2              incompat   Emacs Database Interface
+  elscreen-mew                 1.0.1              incompat   ElScreen Add-On for Mew
+  elscreen-persist             0.1.1              incompat   persist the elscreen across sessions
+  emms-player-simple-mpv       0.2.0              incompat   An extension of emms-player-simple.el for mpv JSON IPC
+  ergoemacs-mode               5.14.7.3.1         incompat   Emacs mode based on common modern interface and ergonomics.
+  ess-R-data-view              1.0                incompat   Data viewer for GNU R
+  ess-R-object-popup           1.0                incompat   popup description of R object
+  evil                         1.2.1              incompat   Extensible Vi layer for Emacs.
+  evil-iedit-state             1.0                incompat   Evil states to interface iedit mode.
+  flycheck-dmd-dub             0.9                incompat   Sets flycheck-dmd-include-paths from dub package information
+  flycheck-ycmd                0.9                incompat   flycheck integration for ycmd
+  git-gutter-fringe+           0.1                incompat   Fringe version of git-gutter+.el
+  graphene                     0.9.0              incompat   Friendly Emacs defaults
+  helm-spaces                  0.2                incompat   helm sources for spaces
+  imgix                        1.0.0              incompat   Major mode for editing images in emacs via imgix
+  js2-refactor                 0.7.0              incompat   A JavaScript refactoring library for emacs.
+  jump                         2.3                incompat   build functions which contextually jump between files
+  key-seq                      1.0.0              incompat   map pairs of sequentially pressed keys to commands
+  latex-extra                  1.9                incompat   Adds several useful functionalities to LaTeX-mode.
+  lentic                       0.10               incompat   One buffer as a view of another
+  lispy                        0.26.0             incompat   vi-like Paredit
+  markdown-mode+               0.8                incompat   extra functions for markdown-mode
+  marmalade                    0.0.4              incompat   Elisp interface for the Emacs Lisp package server.
+  metaweblog                   0.1.1              incompat   An emacs library to access metaweblog based weblogs
+  mpv                          0.1.0              incompat   control mpv for easy note-taking
+  navorski                     0.2.7              incompat   Helping you live in the terminal, like Viktor did.
+  ob-sml                       0.2                incompat   org-babel functions for template evaluation
+  ob-translate                 0.1.2              incompat   Translation of text blocks in org-mode.
+  omni-log                     0.1.2              incompat   Logging utilities
+  omni-tags                    0.1.2              incompat   Highlight and Actions for 'Tags'
+  omnisharp                    3.9                incompat   Omnicompletion (intellisense) and more for C#
+  org-elisp-help               0.1.0              incompat   org links to emacs-lisp documentation
+  org-gcal                     0.2                incompat   Org sync with Google Calendar
+  org-link-travis              0.0.1              incompat   Insert/Export the link of Travis CI on org-mode
+  org-multiple-keymap          0.2                incompat   Set keymap to elements, such as timestamp and priority.
+  org-page                     0.41               incompat   a static site generator based on org mode
+  org-pdfview                  0.3                incompat   Support for links to documents in pdfview mode
+  org-readme                   20130322.926       incompat   Integrates Readme.org and Commentary/Change-logs.
+  org-trello                   0.7.1              incompat   Minor mode to synchronize org-mode buffer and trello board
+  org2blog                     0.9.2              incompat   Blog from Org mode to wordpress
+  orgbox                       0.5.0              incompat   Mailbox-like task scheduling Org.
+  orglink                      0.2.2              incompat   use Org Mode links in other modes
+  ox-ioslide                   0.2                incompat   Export org-mode to Google I/O HTML5 slide.
+  paradox                      2.3.4              incompat   A modern Packages Menu. Colored, with package ratings, and customizable.
+  phi-search-mc                2.2.1              incompat   multiple-cursors extension for phi-search
+  ppd-sr-speedbar              0.0.4              incompat   Sr Speedbar adaptor for project-persist-drawer.
+  pyenv-mode                   0.1.0              incompat   Integrate pyenv with python-mode
+  racer                        1.0.0              incompat   Rust completion via racer with company
+  servant                      0.3.0              incompat   ELPA server written in Emacs Lisp
+  simplenote2                  2.2.2              incompat   Interact with simple-note.appspot.com
+  sos                          0.1                incompat   StackOverflow Search
+  sourcetalk                   1.2.0              incompat   SourceTalk (http://sourcetalk.net) plugin for Emacs
+  sprintly-mode                0.0.4              incompat   Major mode for dealing with sprint.ly
+  svg-mode-line-themes         0.1.3              incompat   SVG-based themes for mode-line
+  tabbar-ruler                 0.44               incompat   Pretty tabbar, autohide, use both tabbar/ruler
+  tracking                     1.6                incompat   Buffer modification tracking
+  tuareg                       2.0.9              incompat   OCaml mode for Emacs.
+  vim-region                   0.3.0              incompat   Select region as vim
