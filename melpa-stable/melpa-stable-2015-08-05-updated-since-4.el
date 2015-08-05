@@ -371,7 +371,7 @@
   (key-combo [cl-struct-package-desc key-combo (1 6) "map key sequence to commands" nil single "melpa-stable" nil ((:url . "https://github.com/uk-ar/key-combo") (:keywords "keyboard" "input")) nil])
   (keychain-environment [cl-struct-package-desc keychain-environment (2 2 0) "load keychain environment variables" nil single "melpa-stable" nil ((:url . "https://github.com/tarsius/keychain-environment") (:keywords "gnupg" "pgp" "ssh")) nil])
   (keydef [cl-struct-package-desc keydef (1 15) "a simpler way to define keys, with kbd syntax" nil single "melpa-stable" nil ((:keywords "convenience" "lisp" "customization" "keyboard" "keys")) nil])
-  (keymap-utils [cl-struct-package-desc keymap-utils (0 5 1) "keymap utilities" ((cl-lib (0 3))) single "melpa-stable" nil ((:url . "https://github.com/tarsius/keymap-utils") (:keywords "convenience" "extensions")) nil])
+  (keymap-utils [cl-struct-package-desc keymap-utils (0 5 2) "keymap utilities" ((cl-lib (0 3))) single "melpa-stable" nil ((:url . "https://github.com/tarsius/keymap-utils") (:keywords "convenience" "extensions")) nil])
   (kill-ring-search [cl-struct-package-desc kill-ring-search (1 1) "incremental search for the kill ring" nil single "melpa-stable" nil ((:url . "http://nschum.de/src/emacs/kill-ring-search/") (:keywords "convenience" "matching")) nil])
   (killer [cl-struct-package-desc killer (0 2 2) "kill and delete text" nil single "melpa-stable" nil ((:url . "http://github.com/tarsius/killer") (:keywords "convenience")) nil])
   (kivy-mode [cl-struct-package-desc kivy-mode (1 9 0) "Emacs major mode for editing Kivy files" nil single "melpa-stable" nil nil nil])
