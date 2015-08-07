@@ -377,7 +377,7 @@
   (kivy-mode [cl-struct-package-desc kivy-mode (1 9 0) "Emacs major mode for editing Kivy files" nil single "melpa-stable" nil nil nil])
   (know-your-http-well [cl-struct-package-desc know-your-http-well (0 2 0) "Look up the meaning of HTTP headers, methods, relations, status codes" nil tar "melpa-stable" nil nil nil])
   (langtool [cl-struct-package-desc langtool (1 4 1) "Grammar check utility using LanguageTool" ((cl-lib (0 3))) single "melpa-stable" nil ((:url . "https://github.com/mhayashi1120/Emacs-langtool") (:keywords "docs")) nil])
-  (latex-extra [cl-struct-package-desc latex-extra (1 9) "Adds several useful functionalities to LaTeX-mode." ((auctex (11 86 1)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "http://github.com/Bruce-Connor/latex-extra") (:keywords "tex")) nil])
+  (latex-extra [cl-struct-package-desc latex-extra (1 10) "Adds several useful functionalities to LaTeX-mode." ((auctex (11 86 1)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "http://github.com/Bruce-Connor/latex-extra") (:keywords "tex")) nil])
   (ledger-mode [cl-struct-package-desc ledger-mode (3 1) "Helper code for use with the \"ledger\" command-line tool" nil tar "melpa-stable" nil nil nil])
   (less-css-mode [cl-struct-package-desc less-css-mode (0 20) "Major mode for editing LESS CSS files (lesscss.org)" nil single "melpa-stable" nil ((:url . "https://github.com/purcell/less-css-mode") (:keywords "less" "css" "mode")) nil])
   (lfe-mode [cl-struct-package-desc lfe-mode (0 9 2) "Lisp Flavoured Erlang mode" nil tar "melpa-stable" nil nil nil])
