@@ -62,7 +62,7 @@
            eat/version emacs-version))
 
 (defcustom eat/sources '(("gnu"       . "http://elpa.gnu.org/packages/")
-                         ;; ("marmalade" . "http://marmalade-repo.org/packages/")
+                         ("marmalade" . "http://marmalade-repo.org/packages/")
                          ("melpa"     . "http://melpa.org/packages/")
                          ("melpa-stable" . "http://stable.melpa.org/packages/")
                          ("user42" . "http://download.tuxfamily.org/user42/elpa/packages/"))

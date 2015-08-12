@@ -47,13 +47,17 @@
           information at the <a href="./about.html">About page</a>.</p>
         <h1><a name="net-growth" class="anchor" href="#net-growth"><span class="octicon octicon-link"></span></a>Net Growth</h1>
 
-        <p>The two graphs below display the number of packages added
-          to each repository:</p>
+        <p>The two graphs below display the number of
+        packages <strong>added</strong> to each repository. They show
+        how much a repository has grown since a specific date.</p>
         <p><strong>Since 1 month ago</strong></p>
         <a href="newPackagePlotMonth.png"><img src="newPackagePlotMonth.jpg" alt="Package count as a function of time"></a>
         <p><strong>Since we started counting</strong></p>
         <a href="newPackagePlotEver.png"><img src="newPackagePlotEver.jpg" alt="Package count as a function of time"></a>
-        
+        <p>And this graph shows the total number of packages provided by each repository.</p>
+        <p><strong>Since we started counting</strong></p>
+        <a href="totalPackagePlotEver.png"><img src="totalPackagePlotEver.jpg" alt="Package count as a function of time"></a>
+
         <h1><a name="total-counts" class="anchor" href="#total-counts"><span class="octicon octicon-link"></span></a>
           Current Totals</h1>
         <p>The breakdown of total number of packages for each

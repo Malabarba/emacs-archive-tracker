@@ -1,0 +1,551 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 9.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[     21146,        541]
+NotebookOptionsPosition[     20906,        528]
+NotebookOutlinePosition[     21244,        543]
+CellTagsIndexPosition[     21201,        540]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"Options", "[", "legendMaker", "]"}], "=", 
+    RowBox[{"Join", "[", 
+     RowBox[{
+      RowBox[{"FilterRules", "[", 
+       RowBox[{
+        RowBox[{"Options", "[", "Framed", "]"}], ",", 
+        RowBox[{"Except", "[", 
+         RowBox[{"{", 
+          RowBox[{
+          "ImageSize", ",", "FrameStyle", ",", "Background", ",", 
+           "RoundingRadius", ",", "ImageMargins"}], "}"}], "]"}]}], "]"}], 
+      ",", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"FrameStyle", "\[Rule]", "None"}], ",", 
+        RowBox[{"Background", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{
+           RowBox[{"Opacity", "[", ".7", "]"}], ",", "LightGray"}], "]"}]}], 
+        ",", 
+        RowBox[{"RoundingRadius", "\[Rule]", "10"}], ",", 
+        RowBox[{"ImageMargins", "\[Rule]", "0"}], ",", 
+        RowBox[{"PlotStyle", "\[Rule]", "Automatic"}], ",", 
+        RowBox[{"PlotMarkers", "\[Rule]", "None"}], ",", 
+        RowBox[{"\"\<LegendLineWidth\>\"", "\[Rule]", "35"}], ",", 
+        RowBox[{"\"\<LegendLineAspectRatio\>\"", "\[Rule]", ".3"}], ",", 
+        RowBox[{"\"\<LegendMarkerSize\>\"", "\[Rule]", "8"}], ",", 
+        RowBox[{"\"\<LegendGridOptions\>\"", "\[Rule]", 
+         RowBox[{"{", 
+          RowBox[{
+           RowBox[{"Alignment", "\[Rule]", "Left"}], ",", 
+           RowBox[{"Spacings", "\[Rule]", 
+            RowBox[{"{", 
+             RowBox[{".4", ",", ".1"}], "}"}]}]}], "}"}]}]}], "}"}]}], 
+     "]"}]}], ";"}], "\n"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"legendMaker", "[", 
+     RowBox[{"textLabels_", ",", 
+      RowBox[{"opts", ":", 
+       RowBox[{"OptionsPattern", "[", "]"}]}]}], "]"}], ":=", 
+    RowBox[{"Module", "[", 
+     RowBox[{
+      RowBox[{"{", 
+       RowBox[{"f", ",", "lineDirectives", ",", "markerSymbols", ",", 
+        RowBox[{"n", "=", 
+         RowBox[{"Length", "[", "textLabels", "]"}]}], ",", "x"}], "}"}], ",", 
+      RowBox[{
+       RowBox[{"lineDirectives", "=", 
+        RowBox[{
+         RowBox[{"(", 
+          RowBox[{
+           RowBox[{"(", 
+            RowBox[{"PlotStyle", "/.", 
+             RowBox[{"{", "opts", "}"}]}], ")"}], "/.", 
+           RowBox[{
+            RowBox[{"PlotStyle", "|", "Automatic"}], "\[RuleDelayed]", 
+            RowBox[{"Map", "[", 
+             RowBox[{
+              RowBox[{"ColorData", "[", "1", "]"}], ",", 
+              RowBox[{"Range", "[", "n", "]"}]}], "]"}]}]}], ")"}], "/.", 
+         RowBox[{"None", "\[Rule]", 
+          RowBox[{"{", "None", "}"}]}]}]}], ";", "\[IndentingNewLine]", 
+       RowBox[{"markerSymbols", "=", 
+        RowBox[{
+         RowBox[{"Replace", "[", 
+          RowBox[{
+           RowBox[{
+            RowBox[{"(", 
+             RowBox[{
+              RowBox[{"(", 
+               RowBox[{"PlotMarkers", "/.", 
+                RowBox[{"{", "opts", "}"}]}], ")"}], "/.", 
+              RowBox[{"Automatic", "\[RuleDelayed]", 
+               RowBox[{
+                RowBox[{"(", 
+                 RowBox[{
+                  RowBox[{"Drop", "[", 
+                   RowBox[{
+                    RowBox[{
+                    RowBox[{
+                    RowBox[{"ListPlot", "[", 
+                    RowBox[{
+                    RowBox[{"Transpose", "[", 
+                    RowBox[{"{", 
+                    RowBox[{"Range", "[", "n", "]"}], "}"}], "]"}], ",", 
+                    RowBox[{"PlotMarkers", "\[Rule]", "Automatic"}]}], "]"}], 
+                    "[", 
+                    RowBox[{"[", 
+                    RowBox[{"1", ",", "2"}], "]"}], "]"}], "[", 
+                    RowBox[{"[", "1", "]"}], "]"}], ",", 
+                    RowBox[{"-", "1"}]}], "]"}], "/.", 
+                  RowBox[{
+                   RowBox[{"Inset", "[", 
+                    RowBox[{"x_", ",", "i__"}], "]"}], "\[RuleDelayed]", 
+                   "x"}]}], ")"}], "[", 
+                RowBox[{"[", 
+                 RowBox[{"All", ",", 
+                  RowBox[{"-", "1"}]}], "]"}], "]"}]}]}], ")"}], "/.", 
+            RowBox[{
+             RowBox[{"{", 
+              RowBox[{
+               RowBox[{"Graphics", "[", "gr__", "]"}], ",", "sc_"}], "}"}], 
+             "\[RuleDelayed]", 
+             RowBox[{"Graphics", "[", 
+              RowBox[{"gr", ",", 
+               RowBox[{"ImageSize", "\[Rule]", 
+                RowBox[{"(", 
+                 RowBox[{
+                  RowBox[{
+                   RowBox[{"\"\<LegendMarkerSize\>\"", "/.", 
+                    RowBox[{"{", "opts", "}"}]}], "/.", 
+                   RowBox[{"Options", "[", 
+                    RowBox[{"legendMaker", ",", "\"\<LegendMarkerSize\>\""}], 
+                    "]"}]}], "/.", 
+                  RowBox[{"{", 
+                   RowBox[{"\"\<LegendMarkerSize\>\"", "\[Rule]", "8"}], 
+                   "}"}]}], ")"}]}]}], "]"}]}]}], ",", 
+           RowBox[{
+            RowBox[{"PlotMarkers", "|", "None"}], "\[RuleDelayed]", 
+            RowBox[{"Map", "[", 
+             RowBox[{
+              RowBox[{
+               RowBox[{"Style", "[", 
+                RowBox[{"\"\<\>\"", ",", 
+                 RowBox[{"Opacity", "[", "0", "]"}]}], "]"}], "&"}], ",", 
+              "textLabels"}], "]"}]}]}], "]"}], "/.", 
+         RowBox[{
+          RowBox[{"None", "|", 
+           RowBox[{"{", "}"}]}], "\[Rule]", 
+          RowBox[{"Style", "[", 
+           RowBox[{"\"\<\>\"", ",", 
+            RowBox[{"Opacity", "[", "0", "]"}]}], "]"}]}]}]}], ";", 
+       "\[IndentingNewLine]", 
+       RowBox[{"lineDirectives", "=", 
+        RowBox[{"PadRight", "[", 
+         RowBox[{"lineDirectives", ",", "n", ",", "lineDirectives"}], "]"}]}],
+        ";", "\[IndentingNewLine]", 
+       RowBox[{"markerSymbols", "=", 
+        RowBox[{"PadRight", "[", 
+         RowBox[{"markerSymbols", ",", "n", ",", "markerSymbols"}], "]"}]}], 
+       ";", "\[IndentingNewLine]", 
+       RowBox[{"f", "=", 
+        RowBox[{"Grid", "[", 
+         RowBox[{
+          RowBox[{"MapThread", "[", 
+           RowBox[{
+            RowBox[{
+             RowBox[{"{", 
+              RowBox[{
+               RowBox[{"Graphics", "[", 
+                RowBox[{
+                 RowBox[{"{", 
+                  RowBox[{
+                   RowBox[{"#1", "/.", 
+                    RowBox[{"None", "\[Rule]", 
+                    RowBox[{"{", "}"}]}]}], ",", 
+                   RowBox[{"If", "[", 
+                    RowBox[{
+                    RowBox[{
+                    RowBox[{"#1", "===", 
+                    RowBox[{"{", "None", "}"}]}], "||", 
+                    RowBox[{
+                    RowBox[{"(", 
+                    RowBox[{"PlotStyle", "/.", 
+                    RowBox[{"{", "opts", "}"}]}], ")"}], "===", "None"}]}], 
+                    ",", 
+                    RowBox[{"{", "}"}], ",", 
+                    RowBox[{"Line", "[", 
+                    RowBox[{"{", 
+                    RowBox[{
+                    RowBox[{"{", 
+                    RowBox[{
+                    RowBox[{"-", ".1"}], ",", "0"}], "}"}], ",", 
+                    RowBox[{"{", 
+                    RowBox[{".1", ",", "0"}], "}"}]}], "}"}], "]"}]}], "]"}], 
+                   ",", 
+                   RowBox[{"Inset", "[", 
+                    RowBox[{"#2", ",", 
+                    RowBox[{"{", 
+                    RowBox[{"0", ",", "0"}], "}"}], ",", 
+                    RowBox[{"Background", "\[Rule]", "None"}]}], "]"}]}], 
+                  "}"}], ",", 
+                 RowBox[{"AspectRatio", "\[Rule]", 
+                  RowBox[{"(", 
+                   RowBox[{
+                    RowBox[{
+                    RowBox[{"\"\<LegendLineAspectRatio\>\"", "/.", 
+                    RowBox[{"{", "opts", "}"}]}], "/.", 
+                    RowBox[{"Options", "[", 
+                    RowBox[{
+                    "legendMaker", ",", "\"\<LegendLineAspectRatio\>\""}], 
+                    "]"}]}], "/.", 
+                    RowBox[{"{", 
+                    RowBox[{
+                    "\"\<LegendLineAspectRatio\>\"", "\[Rule]", ".2"}], 
+                    "}"}]}], ")"}]}], ",", 
+                 RowBox[{"ImageSize", "\[Rule]", 
+                  RowBox[{"(", 
+                   RowBox[{
+                    RowBox[{
+                    RowBox[{"\"\<LegendLineWidth\>\"", "/.", 
+                    RowBox[{"{", "opts", "}"}]}], "/.", 
+                    RowBox[{"Options", "[", 
+                    RowBox[{"legendMaker", ",", "\"\<LegendLineWidth\>\""}], 
+                    "]"}]}], "/.", 
+                    RowBox[{"{", 
+                    RowBox[{"\"\<LegendLineWidth\>\"", "\[Rule]", "35"}], 
+                    "}"}]}], ")"}]}], ",", 
+                 RowBox[{"ImagePadding", "\[Rule]", 
+                  RowBox[{"{", 
+                   RowBox[{
+                    RowBox[{"{", 
+                    RowBox[{"1", ",", "1"}], "}"}], ",", 
+                    RowBox[{"{", 
+                    RowBox[{"0", ",", "0"}], "}"}]}], "}"}]}]}], "]"}], ",", 
+               RowBox[{"Text", "[", 
+                RowBox[{"#3", ",", 
+                 RowBox[{"FormatType", "\[Rule]", "TraditionalForm"}]}], 
+                "]"}]}], "}"}], "&"}], ",", 
+            RowBox[{"{", 
+             RowBox[{
+             "lineDirectives", ",", "markerSymbols", ",", "textLabels"}], 
+             "}"}]}], "]"}], ",", 
+          RowBox[{"Sequence", "@", 
+           RowBox[{"Evaluate", "[", 
+            RowBox[{"(", 
+             RowBox[{
+              RowBox[{
+               RowBox[{"\"\<LegendGridOptions\>\"", "/.", 
+                RowBox[{"{", "opts", "}"}]}], "/.", 
+               RowBox[{"Options", "[", 
+                RowBox[{"legendMaker", ",", "\"\<LegendGridOptions\>\""}], 
+                "]"}]}], "/.", 
+              RowBox[{"{", 
+               RowBox[{"\"\<LegendGridOptions\>\"", "\[Rule]", 
+                RowBox[{"{", 
+                 RowBox[{
+                  RowBox[{"Alignment", "\[Rule]", "Left"}], ",", 
+                  RowBox[{"Spacings", "\[Rule]", 
+                   RowBox[{"{", 
+                    RowBox[{".4", ",", ".1"}], "}"}]}]}], "}"}]}], "}"}]}], 
+             ")"}], "]"}]}]}], "]"}]}], ";", "\[IndentingNewLine]", 
+       RowBox[{"Framed", "[", 
+        RowBox[{"f", ",", 
+         RowBox[{"FilterRules", "[", 
+          RowBox[{
+           RowBox[{"{", 
+            RowBox[{"Sequence", "[", 
+             RowBox[{"opts", ",", 
+              RowBox[{"Options", "[", "legendMaker", "]"}]}], "]"}], "}"}], 
+           ",", 
+           RowBox[{"FilterRules", "[", 
+            RowBox[{
+             RowBox[{"Options", "[", "Framed", "]"}], ",", 
+             RowBox[{"Except", "[", "ImageSize", "]"}]}], "]"}]}], "]"}]}], 
+        "]"}]}]}], "]"}]}], ";"}], "\[IndentingNewLine]", 
+  "\n"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"extractStyles", "[", "plot_", "]"}], ":=", 
+   RowBox[{"Module", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{"lines", ",", "markers", ",", 
+       RowBox[{"extract", "=", 
+        RowBox[{"First", "[", 
+         RowBox[{"Normal", "[", "plot", "]"}], "]"}]}]}], "}"}], ",", 
+     RowBox[{"(*", 
+      RowBox[{
+       RowBox[{"In", " ", "a", " ", "plot"}], ",", 
+       RowBox[{
+       "the", " ", "list", " ", "of", " ", "lines", " ", "contains", " ", 
+        "no", " ", "insets"}], ",", 
+       RowBox[{
+       "so", " ", "I", " ", "use", " ", "this", " ", "to", " ", "find", " ", 
+        RowBox[{"it", ":"}]}]}], "*)"}], 
+     RowBox[{
+      RowBox[{"lines", "=", 
+       RowBox[{"Select", "[", 
+        RowBox[{"extract", ",", 
+         RowBox[{
+          RowBox[{"FreeQ", "[", 
+           RowBox[{"#1", ",", "Inset"}], "]"}], "&"}]}], "]"}]}], ";", 
+      "\[IndentingNewLine]", 
+      RowBox[{"(*", 
+       RowBox[{
+        RowBox[{
+        "Most", " ", "plot", " ", "markers", " ", "are", " ", "inside", " ", 
+         "Inset"}], ",", 
+        RowBox[{
+        "except", " ", "for", " ", "Point", " ", "in", " ", "list", " ", 
+         RowBox[{"plots", ":"}]}]}], "*)"}], 
+      RowBox[{"markers", "=", 
+       RowBox[{"Select", "[", 
+        RowBox[{"extract", ",", 
+         RowBox[{
+          RowBox[{"!", 
+           RowBox[{"FreeQ", "[", 
+            RowBox[{"#1", ",", "Inset"}], "]"}]}], "&"}]}], "]"}]}], ";", 
+      "\[IndentingNewLine]", 
+      RowBox[{"(*", 
+       RowBox[{
+       "The", " ", "function", " ", "returns", " ", "a", " ", "list", " ", 
+        "of", " ", 
+        RowBox[{"lists", ":"}]}], "*)"}], 
+      RowBox[{"{", 
+       RowBox[{"(*", 
+        RowBox[{
+        "The", " ", "first", " ", "return", " ", "value", " ", "is", " ", 
+         "the", " ", "list", " ", "of", " ", "line", " ", "plot", " ", 
+         RowBox[{"styles", ":"}]}], "*)"}], 
+       RowBox[{
+        RowBox[{"Replace", "[", 
+         RowBox[{
+          RowBox[{"Cases", "[", 
+           RowBox[{"lines", ",", 
+            RowBox[{
+             RowBox[{"{", 
+              RowBox[{"c__", ",", 
+               RowBox[{"Line", "[", "__", "]"}], ",", "___"}], "}"}], 
+             "\[RuleDelayed]", 
+             RowBox[{"Flatten", "[", 
+              RowBox[{"Directive", "@@", 
+               RowBox[{"Cases", "[", 
+                RowBox[{
+                 RowBox[{"{", "c", "}"}], ",", 
+                 RowBox[{"Except", "[", "_Line", "]"}]}], "]"}]}], "]"}]}], 
+            ",", "Infinity"}], "]"}], ",", 
+          RowBox[{
+           RowBox[{"{", "}"}], "\[Rule]", "None"}]}], "]"}], ",", 
+        RowBox[{"(*", 
+         RowBox[{"Second", " ", "return", " ", 
+          RowBox[{"value", ":", 
+           RowBox[{"marker", " ", "symbols"}]}]}], "*)"}], 
+        RowBox[{"Replace", "[", 
+         RowBox[{
+          RowBox[{"Join", "[", 
+           RowBox[{
+            RowBox[{"Cases", "[", 
+             RowBox[{"markers", ",", 
+              RowBox[{
+               RowBox[{"{", 
+                RowBox[{"c__", ",", 
+                 RowBox[{"Inset", "[", 
+                  RowBox[{"s_", ",", "pos_", ",", "d___"}], "]"}], ",", 
+                 "e___"}], "}"}], "\[RuleDelayed]", 
+               RowBox[{"If", "[", 
+                RowBox[{"(*", 
+                 RowBox[{
+                 "markers", " ", "\"\<s\>\"", " ", "can", " ", "be", " ", 
+                  "strings", " ", "or", " ", "graphics"}], "*)"}], 
+                RowBox[{
+                 RowBox[{
+                  RowBox[{"Head", "[", "s", "]"}], "===", "Graphics"}], ",", 
+                 RowBox[{"(*", 
+                  RowBox[{
+                   RowBox[{
+                   "Append", " ", "scale", " ", "factor", " ", "in", " ", 
+                    "case", " ", 
+                    RowBox[{"it", "'"}], "s", " ", "needed", " ", "later"}], 
+                   ";", "\[IndentingNewLine]", 
+                   RowBox[{"default", " ", "0.01"}]}], "*)"}], 
+                 RowBox[{"{", 
+                  RowBox[{"s", ",", 
+                   RowBox[{
+                    RowBox[{"Last", "[", 
+                    RowBox[{"{", 
+                    RowBox[{".01", ",", "d"}], "}"}], "]"}], "/.", 
+                    RowBox[{
+                    RowBox[{"Scaled", "[", "f_", "]"}], "\[RuleDelayed]", 
+                    RowBox[{"First", "[", "f", "]"}]}]}]}], "}"}], ",", 
+                 RowBox[{"If", "[", 
+                  RowBox[{"(*", 
+                   RowBox[{
+                    RowBox[{"For", " ", "strings"}], ",", 
+                    RowBox[{
+                    "add", " ", "line", " ", "color", " ", "if", " ", "no", 
+                    " ", "color", " ", "specified", " ", "via", " ", "text", 
+                    " ", 
+                    RowBox[{"styles", ":"}]}]}], "*)"}], 
+                  RowBox[{
+                   RowBox[{"FreeQ", "[", 
+                    RowBox[{"s", ",", 
+                    RowBox[{
+                    "CMYKColor", "|", "RGBColor", "|", "GrayLevel", "|", 
+                    "Hue"}]}], "]"}], ",", 
+                   RowBox[{"Style", "[", 
+                    RowBox[{"s", ",", "c"}], "]"}], ",", "s"}], "]"}]}], 
+                "]"}]}], ",", "Infinity"}], "]"}], ",", 
+            RowBox[{"(*", 
+             RowBox[{
+              RowBox[{
+              "\"\<Point\>\"", " ", "counts", " ", "as", " ", "marker", " ", 
+               "but", " ", "appears", " ", "in", " ", 
+               RowBox[{"\"\<lines\>\"", ".", "Filter"}], " ", "out", " ", 
+               "Pointsize"}], "-", 
+              RowBox[{"legends", " ", 
+               RowBox[{"don", "'"}], "t", " ", "need", " ", 
+               RowBox[{"it", ":"}]}]}], "*)"}], 
+            RowBox[{"Cases", "[", 
+             RowBox[{"lines", ",", 
+              RowBox[{
+               RowBox[{"{", 
+                RowBox[{"c___", ",", 
+                 RowBox[{"PointSize", "[", "_", "]"}], ",", "d___", ",", 
+                 RowBox[{"Point", "[", "pt__", "]"}], ",", "___"}], "}"}], 
+               "\[RuleDelayed]", 
+               RowBox[{"{", 
+                RowBox[{
+                 RowBox[{"Graphics", "[", 
+                  RowBox[{"{", 
+                   RowBox[{"c", ",", "d", ",", 
+                    RowBox[{"Point", "[", 
+                    RowBox[{"{", 
+                    RowBox[{"0", ",", "0"}], "}"}], "]"}]}], "}"}], "]"}], 
+                 ",", ".01"}], "}"}]}], ",", "Infinity"}], "]"}]}], "]"}], 
+          ",", 
+          RowBox[{
+           RowBox[{"{", "}"}], "\[Rule]", "None"}]}], "]"}]}], "}"}]}]}], 
+    "]"}]}], "\n"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"Options", "[", "autoLegend", "]"}], "=", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"Alignment", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"Right", ",", "Top"}], "}"}]}], ",", 
+     RowBox[{"Background", "\[Rule]", "White"}], ",", 
+     RowBox[{"AspectRatio", "\[Rule]", "Automatic"}]}], "}"}]}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{"autoLegend", "[", 
+   RowBox[{"plot_Graphics", ",", "labels_", ",", 
+    RowBox[{"opts", ":", 
+     RowBox[{"OptionsPattern", "[", "]"}]}]}], "]"}], ":=", 
+  RowBox[{"Module", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{"lines", ",", "markers", ",", 
+      RowBox[{"align", "=", 
+       RowBox[{"OptionValue", "[", "Alignment", "]"}]}]}], "}"}], ",", 
+    RowBox[{
+     RowBox[{
+      RowBox[{"{", 
+       RowBox[{"lines", ",", "markers"}], "}"}], "=", 
+      RowBox[{"extractStyles", "[", "plot", "]"}]}], ";", 
+     "\[IndentingNewLine]", 
+     RowBox[{"Graphics", "[", 
+      RowBox[{
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"Inset", "[", 
+          RowBox[{"plot", ",", 
+           RowBox[{"{", 
+            RowBox[{
+             RowBox[{"-", "1"}], ",", 
+             RowBox[{"-", "1"}]}], "}"}], ",", 
+           RowBox[{"{", 
+            RowBox[{"Left", ",", "Bottom"}], "}"}], ",", 
+           RowBox[{"Scaled", "[", "1", "]"}]}], "]"}], ",", 
+         RowBox[{"Inset", "[", 
+          RowBox[{
+           RowBox[{"legendMaker", "[", 
+            RowBox[{"labels", ",", 
+             RowBox[{"PlotStyle", "\[Rule]", "lines"}], ",", 
+             RowBox[{"PlotMarkers", "\[Rule]", "markers"}], ",", "opts"}], 
+            "]"}], ",", "align", ",", 
+           RowBox[{"Map", "[", 
+            RowBox[{
+             RowBox[{
+              RowBox[{"If", "[", 
+               RowBox[{
+                RowBox[{"NumericQ", "[", "#", "]"}], ",", "Center", ",", 
+                "#"}], "]"}], "&"}], ",", "align"}], "]"}]}], "]"}]}], "}"}], 
+       ",", 
+       RowBox[{"PlotRange", "\[Rule]", 
+        RowBox[{"{", 
+         RowBox[{
+          RowBox[{"{", 
+           RowBox[{
+            RowBox[{"-", "1"}], ",", "1"}], "}"}], ",", 
+          RowBox[{"{", 
+           RowBox[{
+            RowBox[{"-", "1"}], ",", "1"}], "}"}]}], "}"}]}], ",", 
+       RowBox[{"AspectRatio", "\[Rule]", 
+        RowBox[{"(", 
+         RowBox[{
+          RowBox[{
+           RowBox[{"OptionValue", "[", "AspectRatio", "]"}], "/.", 
+           RowBox[{"Automatic", "\[RuleDelayed]", 
+            RowBox[{"(", 
+             RowBox[{"AspectRatio", "/.", 
+              RowBox[{"Options", "[", 
+               RowBox[{"plot", ",", "AspectRatio"}], "]"}]}], ")"}]}]}], "/.", 
+          RowBox[{"Automatic", "\[RuleDelayed]", 
+           RowBox[{"(", 
+            RowBox[{"AspectRatio", "/.", 
+             RowBox[{"AbsoluteOptions", "[", 
+              RowBox[{"plot", ",", "AspectRatio"}], "]"}]}], ")"}]}]}], 
+         ")"}]}]}], "]"}]}]}], "]"}]}]}], "Input"]
+},
+WindowSize->{740, 867},
+WindowMargins->{{194, Automatic}, {81, Automatic}},
+FrontEndVersion->"9.0 for Linux x86 (64-bit) (November 20, 2012)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[557, 20, 20345, 506, 2215, "Input"]
+}
+]
+*)
+
+(* End of internal cache information *)
+

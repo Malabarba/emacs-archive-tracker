@@ -316,6 +316,7 @@
   (rdf-prefix [cl-struct-package-desc rdf-prefix (1 0) "Prefix lookup for RDF" nil single "melpa-stable" nil ((:keywords "convenience" "abbrev")) nil])
   (real-auto-save [cl-struct-package-desc real-auto-save (0 4) "enable real auto save" nil single "melpa-stable" nil nil nil])
   (realgud [cl-struct-package-desc realgud (1 2) "A modular front-end for interacting with external debuggers" ((load-relative (1 0)) (list-utils (0 4 2)) (loc-changes (1 1)) (test-simple (1 0))) tar "melpa-stable" nil ((:url . "http://github.com/rocky/emacs-dbgr")) nil])
+  (recover-buffers [cl-struct-package-desc recover-buffers (1 0) "revisit all buffers from an auto-save file" nil tar "melpa-stable" nil nil nil])
   (rect+ [cl-struct-package-desc rect+ (1 0 10) "Extensions to rect.el" nil single "melpa-stable" nil ((:url . "https://github.com/mhayashi1120/Emacs-rectplus") (:keywords "extensions" "data" "tools")) nil])
   (rectangle-utils [cl-struct-package-desc rectangle-utils (1 0) "Some useful rectangle functions." ((emacs (24)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/thierryvolpiatto/rectangle-utils")) nil])
   (redpen-paragraph [cl-struct-package-desc redpen-paragraph (0 22) "RedPen interface." ((emacs (24)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/karronoli/redpen-paragraph.el") (:keywords "document" "proofreading" "help")) nil])
