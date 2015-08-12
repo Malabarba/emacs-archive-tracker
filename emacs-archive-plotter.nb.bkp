@@ -10,793 +10,241 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       157,          7]
-NotebookDataLength[    235562,       4702]
-NotebookOptionsPosition[    235105,       4683]
-NotebookOutlinePosition[    235444,       4698]
-CellTagsIndexPosition[    235401,       4695]
+NotebookDataLength[    212785,       4177]
+NotebookOptionsPosition[    212373,       4159]
+NotebookOutlinePosition[    212712,       4174]
+CellTagsIndexPosition[    212669,       4171]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
 Notebook[{
+
+Cell[CellGroupData[{
 Cell[BoxData[{
  RowBox[{
   RowBox[{
-   RowBox[{
-    RowBox[{"Options", "[", "legendMaker", "]"}], "=", 
-    RowBox[{"Join", "[", 
+   RowBox[{"NotebookEvaluate", "[", 
+    RowBox[{"StringJoin", "[", 
      RowBox[{
-      RowBox[{"FilterRules", "[", 
-       RowBox[{
-        RowBox[{"Options", "[", "Framed", "]"}], ",", 
-        RowBox[{"Except", "[", 
-         RowBox[{"{", 
-          RowBox[{
-          "ImageSize", ",", "FrameStyle", ",", "Background", ",", 
-           "RoundingRadius", ",", "ImageMargins"}], "}"}], "]"}]}], "]"}], 
-      ",", 
-      RowBox[{"{", 
-       RowBox[{
-        RowBox[{"FrameStyle", "\[Rule]", "None"}], ",", 
-        RowBox[{"Background", "\[Rule]", 
-         RowBox[{"Directive", "[", 
-          RowBox[{
-           RowBox[{"Opacity", "[", ".7", "]"}], ",", "LightGray"}], "]"}]}], 
-        ",", 
-        RowBox[{"RoundingRadius", "\[Rule]", "10"}], ",", 
-        RowBox[{"ImageMargins", "\[Rule]", "0"}], ",", 
-        RowBox[{"PlotStyle", "\[Rule]", "Automatic"}], ",", 
-        RowBox[{"PlotMarkers", "\[Rule]", "None"}], ",", 
-        RowBox[{"\"\<LegendLineWidth\>\"", "\[Rule]", "35"}], ",", 
-        RowBox[{"\"\<LegendLineAspectRatio\>\"", "\[Rule]", ".3"}], ",", 
-        RowBox[{"\"\<LegendMarkerSize\>\"", "\[Rule]", "8"}], ",", 
-        RowBox[{"\"\<LegendGridOptions\>\"", "\[Rule]", 
-         RowBox[{"{", 
-          RowBox[{
-           RowBox[{"Alignment", "\[Rule]", "Left"}], ",", 
-           RowBox[{"Spacings", "\[Rule]", 
-            RowBox[{"{", 
-             RowBox[{".4", ",", ".1"}], "}"}]}]}], "}"}]}]}], "}"}]}], 
-     "]"}]}], ";"}], "\n"}], "\[IndentingNewLine]", 
+      RowBox[{"Directory", "[", "]"}], ",", " ", "\"\</legendMaker.nb\>\""}], 
+     "]"}], "]"}], ";"}], " "}], "\n", 
  RowBox[{
   RowBox[{
-   RowBox[{
-    RowBox[{"legendMaker", "[", 
-     RowBox[{"textLabels_", ",", 
-      RowBox[{"opts", ":", 
-       RowBox[{"OptionsPattern", "[", "]"}]}]}], "]"}], ":=", 
-    RowBox[{"Module", "[", 
+   RowBox[{"dataDir1", " ", "=", " ", 
+    RowBox[{"StringJoin", "[", 
      RowBox[{
-      RowBox[{"{", 
-       RowBox[{"f", ",", "lineDirectives", ",", "markerSymbols", ",", 
-        RowBox[{"n", "=", 
-         RowBox[{"Length", "[", "textLabels", "]"}]}], ",", "x"}], "}"}], ",", 
-      RowBox[{
-       RowBox[{"lineDirectives", "=", 
-        RowBox[{
-         RowBox[{"(", 
-          RowBox[{
-           RowBox[{"(", 
-            RowBox[{"PlotStyle", "/.", 
-             RowBox[{"{", "opts", "}"}]}], ")"}], "/.", 
-           RowBox[{
-            RowBox[{"PlotStyle", "|", "Automatic"}], "\[RuleDelayed]", 
-            RowBox[{"Map", "[", 
-             RowBox[{
-              RowBox[{"ColorData", "[", "1", "]"}], ",", 
-              RowBox[{"Range", "[", "n", "]"}]}], "]"}]}]}], ")"}], "/.", 
-         RowBox[{"None", "\[Rule]", 
-          RowBox[{"{", "None", "}"}]}]}]}], ";", "\[IndentingNewLine]", 
-       RowBox[{"markerSymbols", "=", 
-        RowBox[{
-         RowBox[{"Replace", "[", 
-          RowBox[{
-           RowBox[{
-            RowBox[{"(", 
-             RowBox[{
-              RowBox[{"(", 
-               RowBox[{"PlotMarkers", "/.", 
-                RowBox[{"{", "opts", "}"}]}], ")"}], "/.", 
-              RowBox[{"Automatic", "\[RuleDelayed]", 
-               RowBox[{
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{"Drop", "[", 
-                   RowBox[{
-                    RowBox[{
-                    RowBox[{
-                    RowBox[{"ListPlot", "[", 
-                    RowBox[{
-                    RowBox[{"Transpose", "[", 
-                    RowBox[{"{", 
-                    RowBox[{"Range", "[", "n", "]"}], "}"}], "]"}], ",", 
-                    RowBox[{"PlotMarkers", "\[Rule]", "Automatic"}]}], "]"}], 
-                    "[", 
-                    RowBox[{"[", 
-                    RowBox[{"1", ",", "2"}], "]"}], "]"}], "[", 
-                    RowBox[{"[", "1", "]"}], "]"}], ",", 
-                    RowBox[{"-", "1"}]}], "]"}], "/.", 
-                  RowBox[{
-                   RowBox[{"Inset", "[", 
-                    RowBox[{"x_", ",", "i__"}], "]"}], "\[RuleDelayed]", 
-                   "x"}]}], ")"}], "[", 
-                RowBox[{"[", 
-                 RowBox[{"All", ",", 
-                  RowBox[{"-", "1"}]}], "]"}], "]"}]}]}], ")"}], "/.", 
-            RowBox[{
-             RowBox[{"{", 
-              RowBox[{
-               RowBox[{"Graphics", "[", "gr__", "]"}], ",", "sc_"}], "}"}], 
-             "\[RuleDelayed]", 
-             RowBox[{"Graphics", "[", 
-              RowBox[{"gr", ",", 
-               RowBox[{"ImageSize", "\[Rule]", 
-                RowBox[{"(", 
-                 RowBox[{
-                  RowBox[{
-                   RowBox[{"\"\<LegendMarkerSize\>\"", "/.", 
-                    RowBox[{"{", "opts", "}"}]}], "/.", 
-                   RowBox[{"Options", "[", 
-                    RowBox[{"legendMaker", ",", "\"\<LegendMarkerSize\>\""}], 
-                    "]"}]}], "/.", 
-                  RowBox[{"{", 
-                   RowBox[{"\"\<LegendMarkerSize\>\"", "\[Rule]", "8"}], 
-                   "}"}]}], ")"}]}]}], "]"}]}]}], ",", 
-           RowBox[{
-            RowBox[{"PlotMarkers", "|", "None"}], "\[RuleDelayed]", 
-            RowBox[{"Map", "[", 
-             RowBox[{
-              RowBox[{
-               RowBox[{"Style", "[", 
-                RowBox[{"\"\<\>\"", ",", 
-                 RowBox[{"Opacity", "[", "0", "]"}]}], "]"}], "&"}], ",", 
-              "textLabels"}], "]"}]}]}], "]"}], "/.", 
-         RowBox[{
-          RowBox[{"None", "|", 
-           RowBox[{"{", "}"}]}], "\[Rule]", 
-          RowBox[{"Style", "[", 
-           RowBox[{"\"\<\>\"", ",", 
-            RowBox[{"Opacity", "[", "0", "]"}]}], "]"}]}]}]}], ";", 
-       "\[IndentingNewLine]", 
-       RowBox[{"lineDirectives", "=", 
-        RowBox[{"PadRight", "[", 
-         RowBox[{"lineDirectives", ",", "n", ",", "lineDirectives"}], "]"}]}],
-        ";", "\[IndentingNewLine]", 
-       RowBox[{"markerSymbols", "=", 
-        RowBox[{"PadRight", "[", 
-         RowBox[{"markerSymbols", ",", "n", ",", "markerSymbols"}], "]"}]}], 
-       ";", "\[IndentingNewLine]", 
-       RowBox[{"f", "=", 
-        RowBox[{"Grid", "[", 
-         RowBox[{
-          RowBox[{"MapThread", "[", 
-           RowBox[{
-            RowBox[{
-             RowBox[{"{", 
-              RowBox[{
-               RowBox[{"Graphics", "[", 
-                RowBox[{
-                 RowBox[{"{", 
-                  RowBox[{
-                   RowBox[{"#1", "/.", 
-                    RowBox[{"None", "\[Rule]", 
-                    RowBox[{"{", "}"}]}]}], ",", 
-                   RowBox[{"If", "[", 
-                    RowBox[{
-                    RowBox[{
-                    RowBox[{"#1", "===", 
-                    RowBox[{"{", "None", "}"}]}], "||", 
-                    RowBox[{
-                    RowBox[{"(", 
-                    RowBox[{"PlotStyle", "/.", 
-                    RowBox[{"{", "opts", "}"}]}], ")"}], "===", "None"}]}], 
-                    ",", 
-                    RowBox[{"{", "}"}], ",", 
-                    RowBox[{"Line", "[", 
-                    RowBox[{"{", 
-                    RowBox[{
-                    RowBox[{"{", 
-                    RowBox[{
-                    RowBox[{"-", ".1"}], ",", "0"}], "}"}], ",", 
-                    RowBox[{"{", 
-                    RowBox[{".1", ",", "0"}], "}"}]}], "}"}], "]"}]}], "]"}], 
-                   ",", 
-                   RowBox[{"Inset", "[", 
-                    RowBox[{"#2", ",", 
-                    RowBox[{"{", 
-                    RowBox[{"0", ",", "0"}], "}"}], ",", 
-                    RowBox[{"Background", "\[Rule]", "None"}]}], "]"}]}], 
-                  "}"}], ",", 
-                 RowBox[{"AspectRatio", "\[Rule]", 
-                  RowBox[{"(", 
-                   RowBox[{
-                    RowBox[{
-                    RowBox[{"\"\<LegendLineAspectRatio\>\"", "/.", 
-                    RowBox[{"{", "opts", "}"}]}], "/.", 
-                    RowBox[{"Options", "[", 
-                    RowBox[{
-                    "legendMaker", ",", "\"\<LegendLineAspectRatio\>\""}], 
-                    "]"}]}], "/.", 
-                    RowBox[{"{", 
-                    RowBox[{
-                    "\"\<LegendLineAspectRatio\>\"", "\[Rule]", ".2"}], 
-                    "}"}]}], ")"}]}], ",", 
-                 RowBox[{"ImageSize", "\[Rule]", 
-                  RowBox[{"(", 
-                   RowBox[{
-                    RowBox[{
-                    RowBox[{"\"\<LegendLineWidth\>\"", "/.", 
-                    RowBox[{"{", "opts", "}"}]}], "/.", 
-                    RowBox[{"Options", "[", 
-                    RowBox[{"legendMaker", ",", "\"\<LegendLineWidth\>\""}], 
-                    "]"}]}], "/.", 
-                    RowBox[{"{", 
-                    RowBox[{"\"\<LegendLineWidth\>\"", "\[Rule]", "35"}], 
-                    "}"}]}], ")"}]}], ",", 
-                 RowBox[{"ImagePadding", "\[Rule]", 
-                  RowBox[{"{", 
-                   RowBox[{
-                    RowBox[{"{", 
-                    RowBox[{"1", ",", "1"}], "}"}], ",", 
-                    RowBox[{"{", 
-                    RowBox[{"0", ",", "0"}], "}"}]}], "}"}]}]}], "]"}], ",", 
-               RowBox[{"Text", "[", 
-                RowBox[{"#3", ",", 
-                 RowBox[{"FormatType", "\[Rule]", "TraditionalForm"}]}], 
-                "]"}]}], "}"}], "&"}], ",", 
-            RowBox[{"{", 
-             RowBox[{
-             "lineDirectives", ",", "markerSymbols", ",", "textLabels"}], 
-             "}"}]}], "]"}], ",", 
-          RowBox[{"Sequence", "@", 
-           RowBox[{"Evaluate", "[", 
-            RowBox[{"(", 
-             RowBox[{
-              RowBox[{
-               RowBox[{"\"\<LegendGridOptions\>\"", "/.", 
-                RowBox[{"{", "opts", "}"}]}], "/.", 
-               RowBox[{"Options", "[", 
-                RowBox[{"legendMaker", ",", "\"\<LegendGridOptions\>\""}], 
-                "]"}]}], "/.", 
-              RowBox[{"{", 
-               RowBox[{"\"\<LegendGridOptions\>\"", "\[Rule]", 
-                RowBox[{"{", 
-                 RowBox[{
-                  RowBox[{"Alignment", "\[Rule]", "Left"}], ",", 
-                  RowBox[{"Spacings", "\[Rule]", 
-                   RowBox[{"{", 
-                    RowBox[{".4", ",", ".1"}], "}"}]}]}], "}"}]}], "}"}]}], 
-             ")"}], "]"}]}]}], "]"}]}], ";", "\[IndentingNewLine]", 
-       RowBox[{"Framed", "[", 
-        RowBox[{"f", ",", 
-         RowBox[{"FilterRules", "[", 
-          RowBox[{
-           RowBox[{"{", 
-            RowBox[{"Sequence", "[", 
-             RowBox[{"opts", ",", 
-              RowBox[{"Options", "[", "legendMaker", "]"}]}], "]"}], "}"}], 
-           ",", 
-           RowBox[{"FilterRules", "[", 
-            RowBox[{
-             RowBox[{"Options", "[", "Framed", "]"}], ",", 
-             RowBox[{"Except", "[", "ImageSize", "]"}]}], "]"}]}], "]"}]}], 
-        "]"}]}]}], "]"}]}], ";"}], "\n", 
-  "\[IndentingNewLine]"}], "\[IndentingNewLine]", 
+      RowBox[{"Directory", "[", "]"}], ",", "  ", "\"\</\>\""}], "]"}]}], 
+   ";"}], " "}], "\n", 
  RowBox[{
   RowBox[{
-   RowBox[{"extractStyles", "[", "plot_", "]"}], ":=", 
-   RowBox[{"Module", "[", 
-    RowBox[{
-     RowBox[{"{", 
-      RowBox[{"lines", ",", "markers", ",", 
-       RowBox[{"extract", "=", 
-        RowBox[{"First", "[", 
-         RowBox[{"Normal", "[", "plot", "]"}], "]"}]}]}], "}"}], ",", 
-     RowBox[{"(*", 
-      RowBox[{
-       RowBox[{"In", " ", "a", " ", "plot"}], ",", 
-       RowBox[{
-       "the", " ", "list", " ", "of", " ", "lines", " ", "contains", " ", 
-        "no", " ", "insets"}], ",", 
-       RowBox[{
-       "so", " ", "I", " ", "use", " ", "this", " ", "to", " ", "find", " ", 
-        RowBox[{"it", ":"}]}]}], "*)"}], 
-     RowBox[{
-      RowBox[{"lines", "=", 
-       RowBox[{"Select", "[", 
-        RowBox[{"extract", ",", 
-         RowBox[{
-          RowBox[{"FreeQ", "[", 
-           RowBox[{"#1", ",", "Inset"}], "]"}], "&"}]}], "]"}]}], ";", 
-      "\[IndentingNewLine]", 
-      RowBox[{"(*", 
-       RowBox[{
-        RowBox[{
-        "Most", " ", "plot", " ", "markers", " ", "are", " ", "inside", " ", 
-         "Inset"}], ",", 
-        RowBox[{
-        "except", " ", "for", " ", "Point", " ", "in", " ", "list", " ", 
-         RowBox[{"plots", ":"}]}]}], "*)"}], 
-      RowBox[{"markers", "=", 
-       RowBox[{"Select", "[", 
-        RowBox[{"extract", ",", 
-         RowBox[{
-          RowBox[{"!", 
-           RowBox[{"FreeQ", "[", 
-            RowBox[{"#1", ",", "Inset"}], "]"}]}], "&"}]}], "]"}]}], ";", 
-      "\[IndentingNewLine]", 
-      RowBox[{"(*", 
-       RowBox[{
-       "The", " ", "function", " ", "returns", " ", "a", " ", "list", " ", 
-        "of", " ", 
-        RowBox[{"lists", ":"}]}], "*)"}], 
-      RowBox[{"{", 
-       RowBox[{"(*", 
-        RowBox[{
-        "The", " ", "first", " ", "return", " ", "value", " ", "is", " ", 
-         "the", " ", "list", " ", "of", " ", "line", " ", "plot", " ", 
-         RowBox[{"styles", ":"}]}], "*)"}], 
-       RowBox[{
-        RowBox[{"Replace", "[", 
-         RowBox[{
-          RowBox[{"Cases", "[", 
-           RowBox[{"lines", ",", 
-            RowBox[{
-             RowBox[{"{", 
-              RowBox[{"c__", ",", 
-               RowBox[{"Line", "[", "__", "]"}], ",", "___"}], "}"}], 
-             "\[RuleDelayed]", 
-             RowBox[{"Flatten", "[", 
-              RowBox[{"Directive", "@@", 
-               RowBox[{"Cases", "[", 
-                RowBox[{
-                 RowBox[{"{", "c", "}"}], ",", 
-                 RowBox[{"Except", "[", "_Line", "]"}]}], "]"}]}], "]"}]}], 
-            ",", "Infinity"}], "]"}], ",", 
-          RowBox[{
-           RowBox[{"{", "}"}], "\[Rule]", "None"}]}], "]"}], ",", 
-        RowBox[{"(*", 
-         RowBox[{"Second", " ", "return", " ", 
-          RowBox[{"value", ":", 
-           RowBox[{"marker", " ", "symbols"}]}]}], "*)"}], 
-        RowBox[{"Replace", "[", 
-         RowBox[{
-          RowBox[{"Join", "[", 
-           RowBox[{
-            RowBox[{"Cases", "[", 
-             RowBox[{"markers", ",", 
-              RowBox[{
-               RowBox[{"{", 
-                RowBox[{"c__", ",", 
-                 RowBox[{"Inset", "[", 
-                  RowBox[{"s_", ",", "pos_", ",", "d___"}], "]"}], ",", 
-                 "e___"}], "}"}], "\[RuleDelayed]", 
-               RowBox[{"If", "[", 
-                RowBox[{"(*", 
-                 RowBox[{
-                 "markers", " ", "\"\<s\>\"", " ", "can", " ", "be", " ", 
-                  "strings", " ", "or", " ", "graphics"}], "*)"}], 
-                RowBox[{
-                 RowBox[{
-                  RowBox[{"Head", "[", "s", "]"}], "===", "Graphics"}], ",", 
-                 RowBox[{"(*", 
-                  RowBox[{
-                   RowBox[{
-                   "Append", " ", "scale", " ", "factor", " ", "in", " ", 
-                    "case", " ", 
-                    RowBox[{"it", "'"}], "s", " ", "needed", " ", "later"}], 
-                   ";", "\[IndentingNewLine]", 
-                   RowBox[{"default", " ", "0.01"}]}], "*)"}], 
-                 RowBox[{"{", 
-                  RowBox[{"s", ",", 
-                   RowBox[{
-                    RowBox[{"Last", "[", 
-                    RowBox[{"{", 
-                    RowBox[{".01", ",", "d"}], "}"}], "]"}], "/.", 
-                    RowBox[{
-                    RowBox[{"Scaled", "[", "f_", "]"}], "\[RuleDelayed]", 
-                    RowBox[{"First", "[", "f", "]"}]}]}]}], "}"}], ",", 
-                 RowBox[{"If", "[", 
-                  RowBox[{"(*", 
-                   RowBox[{
-                    RowBox[{"For", " ", "strings"}], ",", 
-                    RowBox[{
-                    "add", " ", "line", " ", "color", " ", "if", " ", "no", 
-                    " ", "color", " ", "specified", " ", "via", " ", "text", 
-                    " ", 
-                    RowBox[{"styles", ":"}]}]}], "*)"}], 
-                  RowBox[{
-                   RowBox[{"FreeQ", "[", 
-                    RowBox[{"s", ",", 
-                    RowBox[{
-                    "CMYKColor", "|", "RGBColor", "|", "GrayLevel", "|", 
-                    "Hue"}]}], "]"}], ",", 
-                   RowBox[{"Style", "[", 
-                    RowBox[{"s", ",", "c"}], "]"}], ",", "s"}], "]"}]}], 
-                "]"}]}], ",", "Infinity"}], "]"}], ",", 
-            RowBox[{"(*", 
-             RowBox[{
-              RowBox[{
-              "\"\<Point\>\"", " ", "counts", " ", "as", " ", "marker", " ", 
-               "but", " ", "appears", " ", "in", " ", 
-               RowBox[{"\"\<lines\>\"", ".", "Filter"}], " ", "out", " ", 
-               "Pointsize"}], "-", 
-              RowBox[{"legends", " ", 
-               RowBox[{"don", "'"}], "t", " ", "need", " ", 
-               RowBox[{"it", ":"}]}]}], "*)"}], 
-            RowBox[{"Cases", "[", 
-             RowBox[{"lines", ",", 
-              RowBox[{
-               RowBox[{"{", 
-                RowBox[{"c___", ",", 
-                 RowBox[{"PointSize", "[", "_", "]"}], ",", "d___", ",", 
-                 RowBox[{"Point", "[", "pt__", "]"}], ",", "___"}], "}"}], 
-               "\[RuleDelayed]", 
-               RowBox[{"{", 
-                RowBox[{
-                 RowBox[{"Graphics", "[", 
-                  RowBox[{"{", 
-                   RowBox[{"c", ",", "d", ",", 
-                    RowBox[{"Point", "[", 
-                    RowBox[{"{", 
-                    RowBox[{"0", ",", "0"}], "}"}], "]"}]}], "}"}], "]"}], 
-                 ",", ".01"}], "}"}]}], ",", "Infinity"}], "]"}]}], "]"}], 
-          ",", 
-          RowBox[{
-           RowBox[{"{", "}"}], "\[Rule]", "None"}]}], "]"}]}], "}"}]}]}], 
-    "]"}]}], "\n"}], "\[IndentingNewLine]", 
- RowBox[{
-  RowBox[{
-   RowBox[{"Options", "[", "autoLegend", "]"}], "=", 
-   RowBox[{"{", 
-    RowBox[{
-     RowBox[{"Alignment", "\[Rule]", 
-      RowBox[{"{", 
-       RowBox[{"Right", ",", "Top"}], "}"}]}], ",", 
-     RowBox[{"Background", "\[Rule]", "White"}], ",", 
-     RowBox[{"AspectRatio", "\[Rule]", "Automatic"}]}], "}"}]}], 
-  ";"}], "\n", 
- RowBox[{
-  RowBox[{"autoLegend", "[", 
-   RowBox[{"plot_Graphics", ",", "labels_", ",", 
-    RowBox[{"opts", ":", 
-     RowBox[{"OptionsPattern", "[", "]"}]}]}], "]"}], ":=", 
-  RowBox[{"Module", "[", 
-   RowBox[{
+   RowBox[{"leg", " ", "=", " ", 
     RowBox[{"{", 
-     RowBox[{"lines", ",", "markers", ",", 
-      RowBox[{"align", "=", 
-       RowBox[{"OptionValue", "[", "Alignment", "]"}]}]}], "}"}], ",", 
-    RowBox[{
      RowBox[{
-      RowBox[{"{", 
-       RowBox[{"lines", ",", "markers"}], "}"}], "=", 
-      RowBox[{"extractStyles", "[", "plot", "]"}]}], ";", 
-     "\[IndentingNewLine]", 
-     RowBox[{"Graphics", "[", 
+     "\"\<Total\>\"", ",", " ", "\"\<Gnu\>\"", ",", " ", "\"\<Marmalade\>\"", 
+      ",", " ", "\"\<Melpa\>\"", ",", " ", "\"\<Melpa Stable\>\""}], "}"}]}], 
+   ";"}], " ", "\n"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"importWithDate", "[", "n_Integer", "]"}], " ", ":=", " ", 
+    RowBox[{
+     RowBox[{"(", 
       RowBox[{
        RowBox[{"{", 
         RowBox[{
-         RowBox[{"Inset", "[", 
-          RowBox[{"plot", ",", 
-           RowBox[{"{", 
-            RowBox[{
-             RowBox[{"-", "1"}], ",", 
-             RowBox[{"-", "1"}]}], "}"}], ",", 
-           RowBox[{"{", 
-            RowBox[{"Left", ",", "Bottom"}], "}"}], ",", 
-           RowBox[{"Scaled", "[", "1", "]"}]}], "]"}], ",", 
-         RowBox[{"Inset", "[", 
-          RowBox[{
-           RowBox[{"legendMaker", "[", 
-            RowBox[{"labels", ",", 
-             RowBox[{"PlotStyle", "\[Rule]", "lines"}], ",", 
-             RowBox[{"PlotMarkers", "\[Rule]", "markers"}], ",", "opts"}], 
-            "]"}], ",", "align", ",", 
-           RowBox[{"Map", "[", 
-            RowBox[{
+         RowBox[{"DateList", "[", 
+          RowBox[{"{", 
+           RowBox[{
+            RowBox[{"#1", "[", 
+             RowBox[{"[", "1", "]"}], "]"}], ",", " ", 
+            RowBox[{"{", 
              RowBox[{
-              RowBox[{"If", "[", 
-               RowBox[{
-                RowBox[{"NumericQ", "[", "#", "]"}], ",", "Center", ",", 
-                "#"}], "]"}], "&"}], ",", "align"}], "]"}]}], "]"}]}], "}"}], 
-       ",", 
-       RowBox[{"PlotRange", "\[Rule]", 
-        RowBox[{"{", 
-         RowBox[{
-          RowBox[{"{", 
-           RowBox[{
-            RowBox[{"-", "1"}], ",", "1"}], "}"}], ",", 
-          RowBox[{"{", 
-           RowBox[{
-            RowBox[{"-", "1"}], ",", "1"}], "}"}]}], "}"}]}], ",", 
-       RowBox[{"AspectRatio", "\[Rule]", 
-        RowBox[{"(", 
-         RowBox[{
-          RowBox[{
-           RowBox[{"OptionValue", "[", "AspectRatio", "]"}], "/.", 
-           RowBox[{"Automatic", "\[RuleDelayed]", 
-            RowBox[{"(", 
-             RowBox[{"AspectRatio", "/.", 
-              RowBox[{"Options", "[", 
-               RowBox[{"plot", ",", "AspectRatio"}], "]"}]}], ")"}]}]}], "/.", 
-          RowBox[{"Automatic", "\[RuleDelayed]", 
-           RowBox[{"(", 
-            RowBox[{"AspectRatio", "/.", 
-             RowBox[{"AbsoluteOptions", "[", 
-              RowBox[{"plot", ",", "AspectRatio"}], "]"}]}], ")"}]}]}], 
-         ")"}]}]}], "]"}]}]}], "]"}]}]}], "Input",
- CellChangeTimes->{{3.5854827233397913`*^9, 3.58548273638514*^9}, {
-   3.585482877780487*^9, 3.585482897358056*^9}, {3.585482955378525*^9, 
-   3.585482957708852*^9}, {3.585482987940235*^9, 3.585482997668165*^9}, 
-   3.585483063237647*^9, {3.585483323528963*^9, 3.5854833280915403`*^9}, {
-   3.585483389349791*^9, 3.585483496025433*^9}, {3.5854835702946863`*^9, 
-   3.5854835929571257`*^9}, {3.5854844992166147`*^9, 3.585484535948646*^9}, {
-   3.585484658851778*^9, 3.5854846592900047`*^9}, {3.585484997569809*^9, 
-   3.585485001589202*^9}, {3.585485471439643*^9, 3.585485482376832*^9}, {
-   3.585485524332342*^9, 3.585485535038837*^9}, 3.585570963320549*^9, {
-   3.5855710470762672`*^9, 3.585571052314816*^9}, {3.585571367405902*^9, 
-   3.585571370851866*^9}, {3.585571437498611*^9, 3.5855715399869633`*^9}, {
-   3.5855715964560328`*^9, 3.585571738474016*^9}, {3.5855717958856087`*^9, 
-   3.585571798078211*^9}, {3.585574681603099*^9, 3.585574681716324*^9}, {
-   3.586161941623254*^9, 3.586161944988699*^9}, {3.586164029268216*^9, 
-   3.5861641539050207`*^9}, {3.586164421574217*^9, 3.586164478828764*^9}, 
-   3.5878940773072033`*^9, {3.587894113526791*^9, 3.5878941209845963`*^9}, 
-   3.5878941953045597`*^9, {3.58789496606532*^9, 3.5878949828270817`*^9}, {
-   3.5878950538752832`*^9, 3.587895053933016*^9}, 3.5878960958243103`*^9, {
-   3.5884872021176567`*^9, 3.588487208701807*^9}, {3.5884872988612432`*^9, 
-   3.588487357837906*^9}, {3.648364333098522*^9, 3.6483644185582457`*^9}, {
-   3.648364529747301*^9, 3.648364530215952*^9}, {3.648364664019823*^9, 
-   3.6483646983304453`*^9}, {3.648367991889491*^9, 3.648368007628243*^9}, {
-   3.648368087777671*^9, 3.6483680943916683`*^9}, {3.648368437327928*^9, 
-   3.648368463002264*^9}, 3.648368746298521*^9, 3.6483687888681097`*^9, 
-   3.6483690334616547`*^9, {3.648369100498784*^9, 3.6483691012112713`*^9}, {
-   3.648370668887127*^9, 3.6483706693093367`*^9}, {3.6483708061952972`*^9, 
-   3.6483708180846148`*^9}, {3.648371051361751*^9, 3.648371053437654*^9}, {
-   3.6483720044106092`*^9, 3.648372010447901*^9}}],
-
-Cell[CellGroupData[{
-
-Cell[BoxData[
+             "\"\<Year\>\"", ",", " ", "\"\<-\>\"", ",", " ", "\"\<Month\>\"",
+               ",", " ", "\"\<-\>\"", ",", " ", "\"\<Day\>\"", ",", " ", 
+              "\"\<T\>\"", ",", " ", "\"\<Hour\>\"", ",", " ", "\"\<:\>\"", 
+              ",", " ", "\"\<Minute\>\""}], "}"}]}], "}"}], "]"}], ",", " ", 
+         RowBox[{"#1", "[", 
+          RowBox[{"[", "2", "]"}], "]"}]}], "}"}], " ", "&"}], " ", ")"}], 
+     " ", "/@", " ", "\n", "    ", 
+     RowBox[{"Import", "[", 
+      RowBox[{
+       RowBox[{"StringJoin", "[", 
+        RowBox[{"dataDir1", ",", " ", "\"\<main-dish.dat\>\""}], "]"}], ",", 
+       " ", 
+       RowBox[{"{", 
+        RowBox[{"\"\<Data\>\"", ",", " ", "\"\<All\>\"", ",", " ", 
+         RowBox[{"{", 
+          RowBox[{"2", ",", " ", "n"}], "}"}]}], "}"}]}], "]"}]}]}], ";"}], 
+  " "}], "\n", 
  RowBox[{
-  RowBox[{"(*", 
-   RowBox[{
-    RowBox[{"NotebookEvaluate", "[", 
-     RowBox[{"StringJoin", "[", 
-      RowBox[{
-       RowBox[{"Directory", "[", "]"}], ",", " ", "\"\</legendMaker.nb\>\""}],
-       "]"}], "]"}], ";"}], " ", "*)"}], "\[IndentingNewLine]", 
   RowBox[{
-   RowBox[{
-    RowBox[{"dataDir1", " ", "=", " ", 
-     RowBox[{"StringJoin", "[", 
-      RowBox[{
-       RowBox[{"Directory", "[", "]"}], ",", "  ", "\"\</\>\""}], "]"}]}], 
-    ";"}], " ", "\n", 
-   RowBox[{
-    RowBox[{"leg", " ", "=", " ", 
-     RowBox[{"{", 
-      RowBox[{
-      "\"\<Total\>\"", ",", " ", "\"\<Gnu\>\"", ",", " ", "\"\<Marmalade\>\"",
-        ",", " ", "\"\<Melpa\>\"", ",", " ", "\"\<Melpa Stable\>\""}], 
-      "}"}]}], ";"}], " ", "\n", "\n", 
-   RowBox[{
-    RowBox[{
-     RowBox[{"importWithDate", "[", "n_Integer", "]"}], " ", ":=", " ", 
+   RowBox[{"totalCount", " ", "=", " ", 
+    RowBox[{"importWithDate", "[", "3", "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"singleCount", " ", "=", " ", 
+    RowBox[{"importWithDate", "[", "4", "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"tarCount", " ", "=", " ", 
+    RowBox[{"importWithDate", "[", "5", "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"gnuCount", " ", "=", " ", 
+    RowBox[{"importWithDate", "[", "6", "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"marmaladeCount", " ", "=", " ", 
+    RowBox[{"importWithDate", "[", "7", "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"melpaCount", " ", "=", " ", 
+    RowBox[{"importWithDate", "[", "8", "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"stableCount", " ", "=", " ", 
+    RowBox[{"importWithDate", "[", "9", "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"today", " ", "=", " ", 
+    RowBox[{"Take", "[", 
      RowBox[{
-      RowBox[{"(", 
+      RowBox[{"DateList", "[", "]"}], ",", " ", "3"}], "]"}]}], ";"}], 
+  " "}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"takeAfterDate", "=", 
+   RowBox[{"Function", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{"list", ",", "date"}], "}"}], ",", 
+     RowBox[{"Drop", "[", 
+      RowBox[{"list", ",", " ", 
+       RowBox[{
+        RowBox[{
+         RowBox[{
+          RowBox[{"(", 
+           RowBox[{
+            RowBox[{"Position", "[", 
+             RowBox[{"#1", ",", " ", 
+              RowBox[{"First", "[", 
+               RowBox[{"Nearest", "[", 
+                RowBox[{"#1", ",", " ", 
+                 RowBox[{"AbsoluteTime", "[", "date", "]"}]}], "]"}], "]"}]}],
+              "]"}], " ", "&"}], " ", ")"}], "[", 
+          RowBox[{"AbsoluteTime", " ", "/@", " ", 
+           RowBox[{"list", "[", 
+            RowBox[{"[", 
+             RowBox[{"All", ",", "1"}], "]"}], "]"}]}], "]"}], "[", 
+         RowBox[{"[", 
+          RowBox[{"1", ",", "1"}], "]"}], "]"}], " ", "-", " ", "1"}]}], 
+      "]"}]}], "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"countToGrowth", "=", 
+    RowBox[{"Function", "[", 
+     RowBox[{
+      RowBox[{"{", 
+       RowBox[{"list", ",", "date"}], "}"}], ",", " ", 
+      RowBox[{"Module", "[", 
        RowBox[{
         RowBox[{"{", 
-         RowBox[{
-          RowBox[{"DateList", "[", 
+         RowBox[{"iv", " ", "=", " ", 
+          RowBox[{"takeAfterDate", "[", 
+           RowBox[{"list", ",", "date"}], "]"}]}], "}"}], ",", 
+        RowBox[{
+         RowBox[{"(", 
+          RowBox[{
            RowBox[{"{", 
             RowBox[{
              RowBox[{"#1", "[", 
               RowBox[{"[", "1", "]"}], "]"}], ",", " ", 
-             RowBox[{"{", 
-              RowBox[{
-              "\"\<Year\>\"", ",", " ", "\"\<-\>\"", ",", " ", 
-               "\"\<Month\>\"", ",", " ", "\"\<-\>\"", ",", " ", 
-               "\"\<Day\>\"", ",", " ", "\"\<T\>\"", ",", " ", "\"\<Hour\>\"",
-                ",", " ", "\"\<:\>\"", ",", " ", "\"\<Minute\>\""}], "}"}]}], 
-            "}"}], "]"}], ",", " ", 
-          RowBox[{"#1", "[", 
-           RowBox[{"[", "2", "]"}], "]"}]}], "}"}], " ", "&"}], " ", ")"}], 
-      " ", "/@", " ", "\n", "    ", 
-      RowBox[{"Import", "[", 
-       RowBox[{
-        RowBox[{"StringJoin", "[", 
-         RowBox[{"dataDir1", ",", " ", "\"\<main-dish.dat\>\""}], "]"}], ",", 
-        " ", 
-        RowBox[{"{", 
-         RowBox[{"\"\<Data\>\"", ",", " ", "\"\<All\>\"", ",", " ", 
-          RowBox[{"{", 
-           RowBox[{"2", ",", " ", "n"}], "}"}]}], "}"}]}], "]"}]}]}], ";"}], 
-   " ", "\n", 
-   RowBox[{
-    RowBox[{"totalCount", " ", "=", " ", 
-     RowBox[{"importWithDate", "[", "3", "]"}]}], ";"}], " ", "\n", 
-   RowBox[{
-    RowBox[{"singleCount", " ", "=", " ", 
-     RowBox[{"importWithDate", "[", "4", "]"}]}], ";"}], " ", "\n", 
-   RowBox[{
-    RowBox[{"tarCount", " ", "=", " ", 
-     RowBox[{"importWithDate", "[", "5", "]"}]}], ";"}], " ", "\n", 
-   RowBox[{
-    RowBox[{"gnuCount", " ", "=", " ", 
-     RowBox[{"importWithDate", "[", "6", "]"}]}], ";"}], " ", "\n", 
-   RowBox[{
-    RowBox[{"marmaladeCount", " ", "=", " ", 
-     RowBox[{"importWithDate", "[", "7", "]"}]}], ";"}], " ", "\n", 
-   RowBox[{
-    RowBox[{"melpaCount", " ", "=", " ", 
-     RowBox[{"importWithDate", "[", "8", "]"}]}], ";"}], " ", "\n", 
-   RowBox[{
-    RowBox[{"stableCount", " ", "=", " ", 
-     RowBox[{"importWithDate", "[", "9", "]"}]}], ";"}], " ", "\n", 
-   RowBox[{
-    RowBox[{"today", " ", "=", " ", 
-     RowBox[{"Take", "[", 
-      RowBox[{
-       RowBox[{"DateList", "[", "]"}], ",", " ", "3"}], "]"}]}], ";"}], " ", 
-   "\[IndentingNewLine]", 
-   RowBox[{
-    RowBox[{"takeAfterDate", "=", 
-     RowBox[{"Function", "[", 
-      RowBox[{
-       RowBox[{"{", 
-        RowBox[{"list", ",", "date"}], "}"}], ",", 
-       RowBox[{"Drop", "[", 
-        RowBox[{"list", ",", " ", 
-         RowBox[{
-          RowBox[{
-           RowBox[{
-            RowBox[{"(", 
-             RowBox[{
-              RowBox[{"Position", "[", 
-               RowBox[{"#1", ",", " ", 
-                RowBox[{"First", "[", 
-                 RowBox[{"Nearest", "[", 
-                  RowBox[{"#1", ",", " ", 
-                   RowBox[{"AbsoluteTime", "[", "date", "]"}]}], "]"}], 
-                 "]"}]}], "]"}], " ", "&"}], " ", ")"}], "[", 
-            RowBox[{"AbsoluteTime", " ", "/@", " ", 
-             RowBox[{"list", "[", 
-              RowBox[{"[", 
-               RowBox[{"All", ",", "1"}], "]"}], "]"}]}], "]"}], "[", 
-           RowBox[{"[", 
-            RowBox[{"1", ",", "1"}], "]"}], "]"}], " ", "-", " ", "1"}]}], 
-        "]"}]}], "]"}]}], ";"}], "\[IndentingNewLine]", 
-   RowBox[{
-    RowBox[{"countToGrowth", "=", 
-     RowBox[{"Function", "[", 
-      RowBox[{
-       RowBox[{"{", 
-        RowBox[{"list", ",", "date"}], "}"}], ",", " ", 
-       RowBox[{"Module", "[", 
-        RowBox[{
-         RowBox[{"{", 
-          RowBox[{"iv", " ", "=", " ", 
-           RowBox[{"takeAfterDate", "[", 
-            RowBox[{"list", ",", "date"}], "]"}]}], "}"}], ",", 
-         RowBox[{
-          RowBox[{"(", 
-           RowBox[{
-            RowBox[{"{", 
              RowBox[{
               RowBox[{"#1", "[", 
-               RowBox[{"[", "1", "]"}], "]"}], ",", " ", 
-              RowBox[{
-               RowBox[{"#1", "[", 
-                RowBox[{"[", "2", "]"}], "]"}], " ", "-", " ", 
-               RowBox[{"iv", "[", 
-                RowBox[{"[", 
-                 RowBox[{"1", ",", "2"}], "]"}], "]"}]}]}], "}"}], " ", "&"}],
-            " ", ")"}], " ", "/@", " ", "iv"}]}], "]"}]}], "]"}]}], ";"}], 
-   " ", "\n", 
+               RowBox[{"[", "2", "]"}], "]"}], " ", "-", " ", 
+              RowBox[{"iv", "[", 
+               RowBox[{"[", 
+                RowBox[{"1", ",", "2"}], "]"}], "]"}]}]}], "}"}], " ", "&"}], 
+          " ", ")"}], " ", "/@", " ", "iv"}]}], "]"}]}], "]"}]}], ";"}], 
+  " "}], "\n", 
+ RowBox[{
+  RowBox[{
    RowBox[{
-    RowBox[{
-     RowBox[{"bigPlot", "[", 
-      RowBox[{
-      "rs_", ",", " ", "re_", ",", "dateFormat_", ",", "filterFunction_", ",",
-        "label_", ",", "tickStep_"}], "]"}], " ", ":=", " ", 
+    RowBox[{"bigPlot", "[", 
      RowBox[{
-      RowBox[{"(", 
-       RowBox[{
-        RowBox[{"Overlay", "[", 
-         RowBox[{
-          RowBox[{"{", 
-           RowBox[{"#1", ",", " ", 
-            RowBox[{"legendMaker", "[", "leg", "]"}]}], "}"}], ",", " ", 
-          RowBox[{"Alignment", " ", "->", " ", 
-           RowBox[{"{", 
-            RowBox[{
-             RowBox[{"-", "0.7"}], ",", " ", "0.7"}], "}"}]}]}], "]"}], " ", 
-        "&"}], " ", ")"}], "[", "\n", "    ", 
-      RowBox[{"DateListPlot", "[", 
-       RowBox[{
+     "rs_", ",", " ", "re_", ",", "dateFormat_", ",", "filterFunction_", ",", 
+      "label_", ",", "tickStep_"}], "]"}], " ", ":=", " ", 
+    RowBox[{
+     RowBox[{"(", 
+      RowBox[{
+       RowBox[{"Overlay", "[", 
         RowBox[{
-         RowBox[{"(", 
-          RowBox[{
-           RowBox[{"filterFunction", "[", 
-            RowBox[{"#1", ",", " ", "rs"}], "]"}], " ", "&"}], " ", ")"}], 
-         " ", "/@", " ", 
          RowBox[{"{", 
-          RowBox[{
-          "totalCount", ",", " ", "gnuCount", ",", " ", "marmaladeCount", ",",
-            " ", "melpaCount", ",", "stableCount"}], "}"}]}], ",", 
-        "\[IndentingNewLine]", 
-        RowBox[{"PlotLabel", "->", 
-         RowBox[{"If", "[", 
-          RowBox[{"label", ",", "label", ",", 
-           RowBox[{"StringJoin", "[", 
-            RowBox[{"\"\<New packages since \>\"", ",", " ", 
-             RowBox[{"DateString", "[", 
-              RowBox[{"rs", ",", " ", 
-               RowBox[{"{", 
-                RowBox[{
-                "\"\<Day\>\"", ",", " ", "\"\< \>\"", ",", " ", 
-                 "\"\<MonthNameShort\>\"", ",", " ", "\"\< \>\"", ",", " ", 
-                 "\"\<Year\>\""}], "}"}]}], "]"}]}], "]"}], ",", "label"}], 
-          "]"}]}], ",", "\[IndentingNewLine]", 
-        RowBox[{"Joined", " ", "->", " ", "True"}], ",", 
-        "\[IndentingNewLine]", 
-        RowBox[{"AxesStyle", " ", "->", " ", 
-         RowBox[{"Directive", "[", 
-          RowBox[{"Thickness", "[", "0.004", "]"}], "]"}]}], ",", " ", 
-        "\[IndentingNewLine]", 
-        RowBox[{"DateTicksFormat", " ", "->", " ", "dateFormat"}], ",", 
-        "\[IndentingNewLine]", 
-        RowBox[{"GridLines", " ", "->", " ", 
-         RowBox[{"{", 
-          RowBox[{
-           RowBox[{"Join", "[", 
-            RowBox[{
-             RowBox[{
-              RowBox[{"(", 
-               RowBox[{
-                RowBox[{"{", 
-                 RowBox[{"#1", ",", " ", "Gray"}], "}"}], " ", "&"}], " ", 
-               ")"}], " ", "/@", " ", 
-              RowBox[{"DateRange", "[", 
-               RowBox[{"rs", ",", " ", "re", ",", " ", 
-                RowBox[{"Quantity", "[", 
-                 RowBox[{
-                  RowBox[{
-                   RowBox[{"DateDifference", "[", 
-                    RowBox[{"rs", ",", " ", "re"}], "]"}], "/", "40"}], ",", 
-                  " ", "\"\<Day\>\""}], "]"}]}], "]"}]}], ",", 
-             "\[IndentingNewLine]", 
-             RowBox[{
-              RowBox[{"(", 
-               RowBox[{
-                RowBox[{"{", 
-                 RowBox[{"#1", ",", " ", "Black"}], "}"}], " ", "&"}], " ", 
-               ")"}], " ", "/@", " ", 
-              RowBox[{"DateRange", "[", 
-               RowBox[{"rs", ",", " ", "re", ",", " ", 
-                RowBox[{"Quantity", "[", 
-                 RowBox[{
-                  RowBox[{
-                   RowBox[{"DateDifference", "[", 
-                    RowBox[{"rs", ",", " ", "re"}], "]"}], "/", "4"}], ",", 
-                  " ", "\"\<Day\>\""}], "]"}]}], "]"}]}]}], "]"}], ",", 
-           "\[IndentingNewLine]", 
+          RowBox[{"#1", ",", " ", 
+           RowBox[{"legendMaker", "[", "leg", "]"}]}], "}"}], ",", " ", 
+         RowBox[{"Alignment", " ", "->", " ", 
+          RowBox[{"{", 
            RowBox[{
-            RowBox[{"(", 
-             RowBox[{
+            RowBox[{"-", "0.7"}], ",", " ", "0.7"}], "}"}]}]}], "]"}], " ", 
+       "&"}], " ", ")"}], "[", "\n", "    ", 
+     RowBox[{"DateListPlot", "[", 
+      RowBox[{
+       RowBox[{
+        RowBox[{"(", 
+         RowBox[{
+          RowBox[{"filterFunction", "[", 
+           RowBox[{"#1", ",", " ", "rs"}], "]"}], " ", "&"}], " ", ")"}], " ",
+         "/@", " ", 
+        RowBox[{"{", 
+         RowBox[{
+         "totalCount", ",", " ", "gnuCount", ",", " ", "marmaladeCount", ",", 
+          " ", "melpaCount", ",", "stableCount"}], "}"}]}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"PlotLabel", "->", 
+        RowBox[{"If", "[", 
+         RowBox[{"label", ",", "label", ",", 
+          RowBox[{"StringJoin", "[", 
+           RowBox[{"\"\<New packages since \>\"", ",", " ", 
+            RowBox[{"DateString", "[", 
+             RowBox[{"rs", ",", " ", 
               RowBox[{"{", 
-               RowBox[{"#1", ",", " ", "Gray"}], "}"}], " ", "&"}], " ", 
-             ")"}], " ", "/@", " ", 
-            RowBox[{"Array", "[", 
-             RowBox[{
-              RowBox[{
-               RowBox[{"tickStep", "*", "#1"}], " ", "&"}], " ", ",", " ", 
-              "200"}], "]"}]}]}], "}"}]}], ",", "\[IndentingNewLine]", 
-        RowBox[{"FrameTicks", " ", "->", " ", 
-         RowBox[{"{", 
-          RowBox[{"Automatic", ",", " ", 
-           RowBox[{"{", 
+               RowBox[{
+               "\"\<Day\>\"", ",", " ", "\"\< \>\"", ",", " ", 
+                "\"\<MonthNameShort\>\"", ",", " ", "\"\< \>\"", ",", " ", 
+                "\"\<Year\>\""}], "}"}]}], "]"}]}], "]"}], ",", "label"}], 
+         "]"}]}], ",", "\[IndentingNewLine]", 
+       RowBox[{"Joined", " ", "->", " ", "True"}], ",", "\[IndentingNewLine]", 
+       RowBox[{"AxesStyle", " ", "->", " ", 
+        RowBox[{"Directive", "[", 
+         RowBox[{"Thickness", "[", "0.004", "]"}], "]"}]}], ",", " ", 
+       "\[IndentingNewLine]", 
+       RowBox[{"DateTicksFormat", " ", "->", " ", "dateFormat"}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"GridLines", " ", "->", " ", 
+        RowBox[{"{", 
+         RowBox[{
+          RowBox[{"Join", "[", 
+           RowBox[{
             RowBox[{
+             RowBox[{"(", 
+              RowBox[{
+               RowBox[{"{", 
+                RowBox[{"#1", ",", " ", "Gray"}], "}"}], " ", "&"}], " ", 
+              ")"}], " ", "/@", " ", 
+             RowBox[{"DateRange", "[", 
+              RowBox[{"rs", ",", " ", "re", ",", " ", 
+               RowBox[{"Quantity", "[", 
+                RowBox[{
+                 RowBox[{
+                  RowBox[{"DateDifference", "[", 
+                   RowBox[{"rs", ",", " ", "re"}], "]"}], "/", "40"}], ",", 
+                 " ", "\"\<Day\>\""}], "]"}]}], "]"}]}], ",", 
+            "\[IndentingNewLine]", 
+            RowBox[{
+             RowBox[{"(", 
+              RowBox[{
+               RowBox[{"{", 
+                RowBox[{"#1", ",", " ", "Black"}], "}"}], " ", "&"}], " ", 
+              ")"}], " ", "/@", " ", 
              RowBox[{"DateRange", "[", 
               RowBox[{"rs", ",", " ", "re", ",", " ", 
                RowBox[{"Quantity", "[", 
@@ -804,102 +252,131 @@ Cell[BoxData[
                  RowBox[{
                   RowBox[{"DateDifference", "[", 
                    RowBox[{"rs", ",", " ", "re"}], "]"}], "/", "4"}], ",", 
-                 " ", "\"\<Day\>\""}], "]"}]}], "]"}], ",", " ", "None"}], 
-            "}"}]}], "}"}]}], ",", " ", 
-        RowBox[{"Method", " ", "->", " ", 
-         RowBox[{"{", 
-          RowBox[{"\"\<AxesInFront\>\"", " ", "->", " ", "False"}], "}"}]}]}],
-        "]"}], "]"}]}], ";"}], " ", "\n", 
-   RowBox[{
-    RowBox[{"rangeStart", " ", "=", " ", 
-     RowBox[{"DatePlus", "[", 
-      RowBox[{"today", ",", " ", 
-       RowBox[{"{", 
+                 " ", "\"\<Day\>\""}], "]"}]}], "]"}]}]}], "]"}], ",", 
+          "\[IndentingNewLine]", 
+          RowBox[{
+           RowBox[{"(", 
+            RowBox[{
+             RowBox[{"{", 
+              RowBox[{"#1", ",", " ", "Gray"}], "}"}], " ", "&"}], " ", ")"}],
+            " ", "/@", " ", 
+           RowBox[{"Array", "[", 
+            RowBox[{
+             RowBox[{
+              RowBox[{"tickStep", "*", "#1"}], " ", "&"}], " ", ",", " ", 
+             "200"}], "]"}]}]}], "}"}]}], ",", "\[IndentingNewLine]", 
+       RowBox[{"FrameTicks", " ", "->", " ", 
         RowBox[{"{", 
+         RowBox[{"Automatic", ",", " ", 
+          RowBox[{"{", 
+           RowBox[{
+            RowBox[{"DateRange", "[", 
+             RowBox[{"rs", ",", " ", "re", ",", " ", 
+              RowBox[{"Quantity", "[", 
+               RowBox[{
+                RowBox[{
+                 RowBox[{"DateDifference", "[", 
+                  RowBox[{"rs", ",", " ", "re"}], "]"}], "/", "4"}], ",", 
+                " ", "\"\<Day\>\""}], "]"}]}], "]"}], ",", " ", "None"}], 
+           "}"}]}], "}"}]}], ",", " ", 
+       RowBox[{"Method", " ", "->", " ", 
+        RowBox[{"{", 
+         RowBox[{"\"\<AxesInFront\>\"", " ", "->", " ", "False"}], "}"}]}]}], 
+      "]"}], "]"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"rangeStart", " ", "=", " ", 
+    RowBox[{"DatePlus", "[", 
+     RowBox[{"today", ",", " ", 
+      RowBox[{"{", 
+       RowBox[{"{", 
+        RowBox[{
+         RowBox[{"-", "1"}], ",", " ", "\"\<Month\>\""}], "}"}], "}"}]}], 
+     "]"}]}], ";"}], " ", "\n", 
+  RowBox[{"(*", " ", 
+   RowBox[{"Do", " ", "the", " ", "plots"}], " ", 
+   "*)"}]}], "\[IndentingNewLine]", 
+ RowBox[{"newPackagePlotMonth", " ", "=", " ", 
+  RowBox[{"bigPlot", "[", 
+   RowBox[{"rangeStart", ",", " ", "today", ",", 
+    RowBox[{"{", 
+     RowBox[{
+     "\"\<Day\>\"", ",", " ", "\"\< \>\"", ",", " ", 
+      "\"\<MonthNameShort\>\""}], "}"}], ",", "countToGrowth", ",", "False", 
+    ",", " ", "5"}], "]"}]}], "\n", 
+ RowBox[{"newPackagePlotEver", " ", "=", " ", 
+  RowBox[{"bigPlot", "[", 
+   RowBox[{
+    RowBox[{"totalCount", "[", 
+     RowBox[{"[", 
+      RowBox[{"1", ",", "1"}], "]"}], "]"}], ",", " ", "today", ",", 
+    RowBox[{"{", 
+     RowBox[{
+     "\"\<MonthNameShort\>\"", ",", " ", "\"\< \>\"", ",", " ", 
+      "\"\<Year\>\""}], "}"}], ",", "countToGrowth", ",", "False", ",", 
+    "100"}], "]"}]}], "\n", 
+ RowBox[{"totalPackagePlotEver", " ", "=", " ", 
+  RowBox[{"bigPlot", "[", 
+   RowBox[{
+    RowBox[{"totalCount", "[", 
+     RowBox[{"[", 
+      RowBox[{"1", ",", "1"}], "]"}], "]"}], ",", " ", "today", ",", 
+    RowBox[{"{", 
+     RowBox[{
+     "\"\<MonthNameShort\>\"", ",", " ", "\"\< \>\"", ",", " ", 
+      "\"\<Year\>\""}], "}"}], ",", "takeAfterDate", ",", 
+    "\"\<Total number of packages\>\"", ",", "200"}], "]"}]}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"(", 
+     RowBox[{
+      RowBox[{"Export", "[", 
+       RowBox[{
+        RowBox[{"StringJoin", "[", 
          RowBox[{
-          RowBox[{"-", "1"}], ",", " ", "\"\<Month\>\""}], "}"}], "}"}]}], 
-      "]"}]}], ";"}], " ", "\n", 
-   RowBox[{"(*", " ", 
-    RowBox[{"Do", " ", "the", " ", "plots"}], " ", "*)"}], 
-   "\[IndentingNewLine]", 
-   RowBox[{"newPackagePlotMonth", " ", "=", " ", 
-    RowBox[{"bigPlot", "[", 
-     RowBox[{"rangeStart", ",", " ", "today", ",", 
-      RowBox[{"{", 
-       RowBox[{
-       "\"\<Day\>\"", ",", " ", "\"\< \>\"", ",", " ", 
-        "\"\<MonthNameShort\>\""}], "}"}], ",", "countToGrowth", ",", "False",
-       ",", " ", "5"}], "]"}]}], "\n", 
-   RowBox[{"newPackagePlotEver", " ", "=", " ", 
-    RowBox[{"bigPlot", "[", 
+         "dataDir1", ",", " ", "\"\<totalPackagePlotEver.\>\"", ",", " ", 
+          "#1"}], "]"}], ",", " ", "totalPackagePlotEver", ",", " ", 
+        RowBox[{"ImageSize", " ", "->", " ", "1200"}]}], "]"}], " ", "&"}], 
+     " ", ")"}], " ", "/@", " ", 
+    RowBox[{"{", 
      RowBox[{
-      RowBox[{"totalCount", "[", 
-       RowBox[{"[", 
-        RowBox[{"1", ",", "1"}], "]"}], "]"}], ",", " ", "today", ",", 
-      RowBox[{"{", 
-       RowBox[{
-       "\"\<MonthNameShort\>\"", ",", " ", "\"\< \>\"", ",", " ", 
-        "\"\<Year\>\""}], "}"}], ",", "countToGrowth", ",", "False", ",", 
-      "100"}], "]"}]}], "\n", 
-   RowBox[{"totalPackagePlotEver", " ", "=", " ", 
-    RowBox[{"bigPlot", "[", 
+     "\"\<pdf\>\"", ",", " ", "\"\<jpg\>\"", ",", " ", "\"\<svg\>\"", ",", 
+      " ", "\"\<png\>\""}], "}"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"(", 
      RowBox[{
-      RowBox[{"totalCount", "[", 
-       RowBox[{"[", 
-        RowBox[{"1", ",", "1"}], "]"}], "]"}], ",", " ", "today", ",", 
-      RowBox[{"{", 
+      RowBox[{"Export", "[", 
        RowBox[{
-       "\"\<MonthNameShort\>\"", ",", " ", "\"\< \>\"", ",", " ", 
-        "\"\<Year\>\""}], "}"}], ",", "takeAfterDate", ",", 
-      "\"\<Total number of packages\>\"", ",", "200"}], "]"}]}], "\n", 
+        RowBox[{"StringJoin", "[", 
+         RowBox[{
+         "dataDir1", ",", " ", "\"\<newPackagePlotEver.\>\"", ",", " ", 
+          "#1"}], "]"}], ",", " ", "newPackagePlotEver", ",", " ", 
+        RowBox[{"ImageSize", " ", "->", " ", "1200"}]}], "]"}], " ", "&"}], 
+     " ", ")"}], " ", "/@", " ", 
+    RowBox[{"{", 
+     RowBox[{
+     "\"\<pdf\>\"", ",", " ", "\"\<jpg\>\"", ",", " ", "\"\<svg\>\"", ",", 
+      " ", "\"\<png\>\""}], "}"}]}], ";"}], " "}], "\n", 
+ RowBox[{
+  RowBox[{
    RowBox[{
-    RowBox[{
-     RowBox[{"(", 
-      RowBox[{
-       RowBox[{"Export", "[", 
-        RowBox[{
-         RowBox[{"StringJoin", "[", 
-          RowBox[{
-          "dataDir1", ",", " ", "\"\<totalPackagePlotEver.\>\"", ",", " ", 
-           "#1"}], "]"}], ",", " ", "totalPackagePlotEver", ",", " ", 
-         RowBox[{"ImageSize", " ", "->", " ", "1200"}]}], "]"}], " ", "&"}], 
-      " ", ")"}], " ", "/@", " ", 
-     RowBox[{"{", 
-      RowBox[{
-      "\"\<pdf\>\"", ",", " ", "\"\<jpg\>\"", ",", " ", "\"\<svg\>\"", ",", 
-       " ", "\"\<png\>\""}], "}"}]}], ";"}], " ", "\n", 
-   RowBox[{
-    RowBox[{
-     RowBox[{"(", 
-      RowBox[{
-       RowBox[{"Export", "[", 
-        RowBox[{
-         RowBox[{"StringJoin", "[", 
-          RowBox[{
-          "dataDir1", ",", " ", "\"\<newPackagePlotEver.\>\"", ",", " ", 
-           "#1"}], "]"}], ",", " ", "newPackagePlotEver", ",", " ", 
-         RowBox[{"ImageSize", " ", "->", " ", "1200"}]}], "]"}], " ", "&"}], 
-      " ", ")"}], " ", "/@", " ", 
-     RowBox[{"{", 
-      RowBox[{
-      "\"\<pdf\>\"", ",", " ", "\"\<jpg\>\"", ",", " ", "\"\<svg\>\"", ",", 
-       " ", "\"\<png\>\""}], "}"}]}], ";"}], " ", "\n", 
-   RowBox[{
-    RowBox[{
-     RowBox[{"(", 
-      RowBox[{
-       RowBox[{"Export", "[", 
-        RowBox[{
-         RowBox[{"StringJoin", "[", 
-          RowBox[{
-          "dataDir1", ",", " ", "\"\<newPackagePlotMonth.\>\"", ",", " ", 
-           "#1"}], "]"}], ",", " ", "newPackagePlotMonth", ",", " ", 
-         RowBox[{"ImageSize", " ", "->", " ", "1200"}]}], "]"}], " ", "&"}], 
-      " ", ")"}], " ", "/@", " ", 
-     RowBox[{"{", 
-      RowBox[{
-      "\"\<pdf\>\"", ",", " ", "\"\<jpg\>\"", ",", " ", "\"\<svg\>\"", ",", 
-       " ", "\"\<png\>\""}], "}"}]}], ";"}], " "}]}]], "Input",
+    RowBox[{"(", 
+     RowBox[{
+      RowBox[{"Export", "[", 
+       RowBox[{
+        RowBox[{"StringJoin", "[", 
+         RowBox[{
+         "dataDir1", ",", " ", "\"\<newPackagePlotMonth.\>\"", ",", " ", 
+          "#1"}], "]"}], ",", " ", "newPackagePlotMonth", ",", " ", 
+        RowBox[{"ImageSize", " ", "->", " ", "1200"}]}], "]"}], " ", "&"}], 
+     " ", ")"}], " ", "/@", " ", 
+    RowBox[{"{", 
+     RowBox[{
+     "\"\<pdf\>\"", ",", " ", "\"\<jpg\>\"", ",", " ", "\"\<svg\>\"", ",", 
+      " ", "\"\<png\>\""}], "}"}]}], ";"}], " "}]}], "Input",
  CellChangeTimes->{{3.5854827233397913`*^9, 3.58548273638514*^9}, {
    3.585482877780487*^9, 3.585482897358056*^9}, {3.585482955378525*^9, 
    3.585482957708852*^9}, {3.585482987940235*^9, 3.585482997668165*^9}, 
@@ -926,8 +403,7 @@ Cell[BoxData[
    3.648368463002264*^9}, 3.648368746298521*^9, 3.6483687888681097`*^9, 
    3.6483690334616547`*^9, {3.648369100498784*^9, 3.6483691012112713`*^9}, {
    3.648370668887127*^9, 3.6483706693093367`*^9}, {3.6483708061952972`*^9, 
-   3.6483708180846148`*^9}, {3.648371051361751*^9, 3.648371053437654*^9}, {
-   3.6483720044106092`*^9, 3.648372010447901*^9}}],
+   3.6483708180846148`*^9}, {3.648371051361751*^9, 3.648371053437654*^9}}],
 
 Cell[BoxData[
  OverlayBox[{
@@ -1362,7 +838,7 @@ U6vo2Cbat4e+P+J/PeT0OViYCtz3SH8joRTt
    RoundingRadius->10,
    StripOnInput->False]},
   Alignment->{-0.7, 0.7}]], "Output",
- CellChangeTimes->{3.648372358474349*^9}],
+ CellChangeTimes->{3.648370836803887*^9}],
 
 Cell[BoxData[
  OverlayBox[{
@@ -3021,7 +2497,7 @@ saW9h9G2k2mduXTkUtrHn7YLo3MOyi6t+T7PwEL787LfB9n8P6BKerM=
    RoundingRadius->10,
    StripOnInput->False]},
   Alignment->{-0.7, 0.7}]], "Output",
- CellChangeTimes->{3.648372359806532*^9}],
+ CellChangeTimes->{3.648370838159226*^9}],
 
 Cell[BoxData[
  OverlayBox[{
@@ -4678,7 +4154,7 @@ saW9h9G2k2mduXTkUtrHn7YLo3MOyi6t+T7PwEL787LfB9n8P6BKerM=
    RoundingRadius->10,
    StripOnInput->False]},
   Alignment->{-0.7, 0.7}]], "Output",
- CellChangeTimes->{3.648372361163991*^9}]
+ CellChangeTimes->{3.648370839553482*^9}]
 }, Open  ]]
 },
 WindowSize->{1642, 1004},
@@ -4697,12 +4173,11 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[557, 20, 22407, 534, 797, "Input"],
 Cell[CellGroupData[{
-Cell[22989, 558, 15295, 371, 708, "Input"],
-Cell[38287, 931, 15549, 433, 272, "Output"],
-Cell[53839, 1366, 90666, 1657, 258, "Output"],
-Cell[144508, 3025, 90581, 1655, 257, "Output"]
+Cell[579, 22, 14973, 383, 692, "Input"],
+Cell[15555, 407, 15549, 433, 272, "Output"],
+Cell[31107, 842, 90666, 1657, 258, "Output"],
+Cell[121776, 2501, 90581, 1655, 257, "Output"]
 }, Open  ]]
 }
 ]
