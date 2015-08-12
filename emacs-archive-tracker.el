@@ -46,6 +46,7 @@
 ;;; Code:
 
 (setq user-emacs-directory (expand-file-name "./fake-user-dir"))
+(setq package-check-signature nil)
 (make-directory user-emacs-directory :parents)
 
 (require 'cl-lib)
