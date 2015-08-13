@@ -99,7 +99,7 @@
 		 [(0 0 3)
 		  nil "Look up wxWidgets API by using local html manual." tar])
  (wsd-mode .
-	   [(0 3 0)
+	   [(0 4 0)
 	    nil "Emacs major-mode for www.websequencediagrams.com" tar])
  (ws-trim .
 	  [(1 4)
