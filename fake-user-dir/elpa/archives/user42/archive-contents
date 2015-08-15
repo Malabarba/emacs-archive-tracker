@@ -168,7 +168,7 @@
 	       nil "coding system from meta in html files (for Emacs 21)" single
 	       ((:url . "http://user42.tuxfamily.org/html-coding/index.html"))])
  (html-sizes .
-	     [(15)
+	     [(16)
 	      nil "maintain file sizes shown for html links" single
 	      ((:url . "http://user42.tuxfamily.org/html-sizes/index.html"))])
  (html-smarter-href .
@@ -208,7 +208,7 @@
 		 nil "use Info-mode with makeinfo-buffer." single
 		 ((:url . "http://user42.tuxfamily.org/makeinfo-info/index.html"))])
  (man-completion .
-		 [(34)
+		 [(35)
 		  nil "completion for M-x man" single
 		  ((:url . "http://user42.tuxfamily.org/man-completion/index.html"))])
  (man-preview .
@@ -300,8 +300,8 @@
 		    nil "preview TeX math expressions." single
 		    ((:url . "http://user42.tuxfamily.org/tex-math-preview/index.html"))])
  (texinfo-nobreak .
-		  [(7)
-		   nil "texinfo line break workarounds" single
+		  [(8)
+		   nil "texinfo line break workarounds for past makeinfo" single
 		   ((:url . "http://user42.tuxfamily.org/texinfo-nobreak/index.html"))])
  (texinfo-warn .
 	       [(9)

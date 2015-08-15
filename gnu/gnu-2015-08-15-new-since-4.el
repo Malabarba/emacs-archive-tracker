@@ -22,6 +22,7 @@
   (poker [cl-struct-package-desc poker (0 1) "Texas hold'em poker" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/poker.html") (:keywords "games")) nil])
   (pinentry [cl-struct-package-desc pinentry (0 1) "GnuPG Pinentry server implementation" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/pinentry.html") (:keywords "gnupg")) nil])
   (pabbrev [cl-struct-package-desc pabbrev (4 2 1) "Predictive abbreviation expansion" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/pabbrev.html") (:keywords)) nil])
+  (other-frame-window [cl-struct-package-desc other-frame-window (1 0 0) "Minor mode to enable global prefix keys for other frame/window buffer placement" ((emacs (24 4))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/other-frame-window.html") (:keywords "frame" "window")) nil])
   (osc [cl-struct-package-desc osc (0 1) "Open Sound Control protocol library" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/osc.html") (:keywords "comm" "processes" "multimedia")) nil])
   (names [cl-struct-package-desc names (20150723 0) "Namespaces for emacs-lisp. Avoid name clobbering without hiding symbols." ((emacs (24 1)) (cl-lib (0 5))) tar "gnu" nil ((:keywords "extensions" "lisp") (:url . "http://github.com/Bruce-Connor/names")) nil])
   (minibuffer-line [cl-struct-package-desc minibuffer-line (0 1) "Display status info in the minibuffer window" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/minibuffer-line.html") (:keywords)) nil])
