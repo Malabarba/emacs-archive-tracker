@@ -275,4 +275,5 @@
   (zeal-at-point [cl-struct-package-desc zeal-at-point (0 0 3) "Search the word at point with Zeal" nil single "marmalade" nil nil nil])
   (zenburn [cl-struct-package-desc zenburn (0 1) "A low contrast colour theme for Emacs" nil single "marmalade" nil nil nil])
   (zone-matrix [cl-struct-package-desc zone-matrix (0 0 1) "Matrix themed Zone mode" nil tar "marmalade" nil nil nil])
+  (async [cl-struct-package-desc async (1 4) "Asynchronous processing in Emacs" nil tar "marmalade" nil nil nil])
  )

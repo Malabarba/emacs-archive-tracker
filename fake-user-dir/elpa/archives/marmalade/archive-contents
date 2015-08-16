@@ -1,4 +1,7 @@
 (1
+ (async .
+	[(1 4)
+	 nil "Asynchronous processing in Emacs" tar])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
