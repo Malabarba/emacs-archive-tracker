@@ -394,7 +394,7 @@
   (wsd-mode [cl-struct-package-desc wsd-mode (0 4 0) "Emacs major-mode for www.websequencediagrams.com" nil tar "melpa-stable" nil ((:url . "https://github.com/josteink/wsd-mode") (:keywords "wsd" "diagrams" "design" "process" "modelling" "uml")) nil])
   (xbm-life [cl-struct-package-desc xbm-life (0 1) "A XBM version of Conway's Game of Life" nil single "melpa-stable" nil ((:url . "https://github.com/wasamasa/xbm-life") (:keywords "games")) nil])
   (xtest [cl-struct-package-desc xtest (1 1 0) "Simple Testing with Emacs & ERT" ((cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/promethial/xtest") (:keywords "testing" "ert")) nil])
-  (yaml-mode [cl-struct-package-desc yaml-mode (0 0 11) "Major mode for editing YAML files" nil single "melpa-stable" nil ((:keywords "data" "yaml")) nil])
+  (yaml-mode [cl-struct-package-desc yaml-mode (0 0 12) "Major mode for editing YAML files" nil single "melpa-stable" nil ((:keywords "data" "yaml")) nil])
   (yatemplate [cl-struct-package-desc yatemplate (1 0) "File templates with yasnippet" ((yasnippet (0 8 1))) single "melpa-stable" nil ((:url . "https://github.com/mineo/yatemplate") (:keywords "files" "convenience")) nil])
   (yatex [cl-struct-package-desc yatex (0) "No description available." nil tar "melpa-stable" nil nil nil])
   (yaxception [cl-struct-package-desc yaxception (0 3 3) "Provide framework about exception like Java for Elisp" nil single "melpa-stable" nil ((:url . "https://github.com/aki2o/yaxception") (:keywords "exception" "error" "signal")) nil])
