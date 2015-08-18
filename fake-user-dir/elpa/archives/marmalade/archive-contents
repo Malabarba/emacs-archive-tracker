@@ -1,7 +1,4 @@
 (1
- (async .
-	[(1 4)
-	 nil "Asynchronous processing in Emacs" tar])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -4435,6 +4432,9 @@
 		 ((popup
 		   (0 5)))
 		 "Auto Completion for GNU Emacs" tar])
+ (async .
+	[(1 4)
+	 nil "Asynchronous processing in Emacs" tar])
  (assemblage-theme .
 		   [(20130715 621)
 		    nil "a dark theme for Emacs 24" single])

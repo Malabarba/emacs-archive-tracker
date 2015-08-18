@@ -11,6 +11,7 @@
   (anzu [cl-struct-package-desc anzu (0 22) "Show number of matches in mode-line while searching" nil single "marmalade" nil nil nil])
   (aok [cl-struct-package-desc aok (0 1) "various useful ways to do `multi-occur'" nil single "marmalade" nil nil nil])
   (ariadne [cl-struct-package-desc ariadne (0 1) "Ariadne plugin for Emacs" ((bert (0 1))) single "marmalade" nil nil nil])
+  (async [cl-struct-package-desc async (1 4) "Asynchronous processing in Emacs" nil tar "marmalade" nil nil nil])
   (auto-complete-etags [cl-struct-package-desc auto-complete-etags (0 2) "Auto-complete etags" ((auto-complete (1 3))) single "marmalade" nil nil nil])
   (auto-complete-octave [cl-struct-package-desc auto-complete-octave (0 1) "Auto-complete for Octave" nil single "marmalade" nil nil nil])
   (auto-complete-verilog [cl-struct-package-desc auto-complete-verilog (0 0) "Verukig" nil single "marmalade" nil nil nil])
@@ -275,5 +276,4 @@
   (zeal-at-point [cl-struct-package-desc zeal-at-point (0 0 3) "Search the word at point with Zeal" nil single "marmalade" nil nil nil])
   (zenburn [cl-struct-package-desc zenburn (0 1) "A low contrast colour theme for Emacs" nil single "marmalade" nil nil nil])
   (zone-matrix [cl-struct-package-desc zone-matrix (0 0 1) "Matrix themed Zone mode" nil tar "marmalade" nil nil nil])
-  (async [cl-struct-package-desc async (1 4) "Asynchronous processing in Emacs" nil tar "marmalade" nil nil nil])
  )
