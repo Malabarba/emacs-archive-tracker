@@ -213,6 +213,11 @@
 	   nil "Info-like viewer for DocBook" single
 	   ((:url . "http://elpa.gnu.org/packages/docbook.html")
 	    (:keywords "docs" "help"))])
+ (dts-mode .
+	   [(0 1 0)
+	    nil "Major mode for Devicetree source code" single
+	    ((:url . "http://elpa.gnu.org/packages/dts-mode.html")
+	     (:keywords "languages"))])
  (easy-kill .
 	    [(0 9 3)
 	     ((emacs

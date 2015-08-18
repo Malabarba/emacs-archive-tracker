@@ -41,6 +41,7 @@
   (electric-spacing [cl-struct-package-desc electric-spacing (5 0) "Insert operators with surrounding spaces smartly" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/electric-spacing.html") (:keywords)) nil])
   (el-search [cl-struct-package-desc el-search (0 0 2) "Expression based incremental search for emacs-lisp-mode" ((emacs (25)) (cl-lib (0))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/el-search.html") (:keywords "lisp")) nil])
   (easy-kill [cl-struct-package-desc easy-kill (0 9 3) "kill & mark things easily" ((emacs (24)) (cl-lib (0 5))) tar "gnu" nil ((:keywords "killing" "convenience") (:url . "https://github.com/leoliu/easy-kill")) nil])
+  (dts-mode [cl-struct-package-desc dts-mode (0 1 0) "Major mode for Devicetree source code" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/dts-mode.html") (:keywords "languages")) nil])
   (dismal [cl-struct-package-desc dismal (1 5) "Dis Mode Ain't Lotus: Spreadsheet program Emacs" ((cl-lib (0))) tar "gnu" nil ((:url . "http://elpa.gnu.org/packages/dismal.html")) nil])
   (diff-hl [cl-struct-package-desc diff-hl (1 7 0) "Highlight uncommitted changes" ((cl-lib (0 2))) tar "gnu" nil ((:keywords "vc" "diff") (:url . "https://github.com/dgutov/diff-hl")) nil])
   (dbus-codegen [cl-struct-package-desc dbus-codegen (0 1) "Lisp code generation for D-Bus." ((cl-lib (0 5))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/dbus-codegen.html") (:keywords "comm" "dbus" "convenience")) nil])
