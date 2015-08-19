@@ -298,7 +298,7 @@
   (haskell-mode [cl-struct-package-desc haskell-mode (13 14 2) "A Haskell editing mode" ((cl-lib (0 5))) tar "melpa-stable" nil nil nil])
   (helm [cl-struct-package-desc helm (1 7 6) "Helm is an Emacs incremental and narrowing framework" ((emacs (24)) (cl-lib (0 5)) (async (1 3)) (helm-core (1 7 6))) tar "melpa-stable" nil ((:url . "https://emacs-helm.github.io/helm/")) nil])
   (helm-ack [cl-struct-package-desc helm-ack (0 13) "Ack command with helm interface" ((helm (1 0)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-helm-ack")) nil])
-  (helm-ag [cl-struct-package-desc helm-ag (0 41) "the silver searcher with helm interface" ((helm (1 5 6)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-helm-ag")) nil])
+  (helm-ag [cl-struct-package-desc helm-ag (0 42) "the silver searcher with helm interface" ((helm (1 6 9)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-helm-ag")) nil])
   (helm-backup [cl-struct-package-desc helm-backup (0 2 0) "Backup each file change using git" ((helm (1 5 5)) (s (1 8 0))) single "melpa-stable" nil ((:url . "http://github.com/antham/helm-backup") (:keywords "backup")) nil])
   (helm-dash [cl-struct-package-desc helm-dash (1 1 0) "Helm extension to search dash docsets" ((helm (0 0 0))) single "melpa-stable" nil ((:url . "http://github.com/areina/helm-dash") (:keywords "docs")) nil])
   (helm-descbinds [cl-struct-package-desc helm-descbinds (1 7 1) "Yet Another `describe-bindings' with `helm'." nil single "melpa-stable" nil ((:keywords "helm" "help")) nil])
