@@ -13,4 +13,4 @@ If you know of any others please create an issue and let me know.
 Global Reports
 ====
 
-To see all reports we generate, simply visit [our gh-page](http://bruce-connor.github.io/emacs-archive-tracker/).
+To see all reports we generate, simply visit [our gh-page](http://malabarba.github.io/emacs-archive-tracker/).
