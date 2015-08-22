@@ -555,7 +555,7 @@
 	   ((:keywords "games")
 	    (:url . "http://elpa.gnu.org/packages/sokoban.html"))])
  (sotlisp .
-	  [(1 2)
+	  [(1 3)
 	   ((emacs
 	     (24 1)))
 	   "Write lisp at the speed of thought." single

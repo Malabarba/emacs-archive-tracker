@@ -296,7 +296,7 @@
   (haml-mode [cl-struct-package-desc haml-mode (3 1 9) "Major mode for editing Haml files" ((ruby-mode (1 0))) single "melpa-stable" nil ((:url . "http://github.com/nex3/haml/tree/master") (:keywords "markup" "language" "html")) nil])
   (hardhat [cl-struct-package-desc hardhat (0 4 4) "Protect against clobbering user-writable files" ((ignoramus (0 7 0))) single "melpa-stable" nil ((:url . "http://github.com/rolandwalker/hardhat") (:keywords "convenience")) nil])
   (haskell-mode [cl-struct-package-desc haskell-mode (13 14 2) "A Haskell editing mode" ((cl-lib (0 5))) tar "melpa-stable" nil nil nil])
-  (helm [cl-struct-package-desc helm (1 7 6) "Helm is an Emacs incremental and narrowing framework" ((emacs (24)) (cl-lib (0 5)) (async (1 3)) (helm-core (1 7 6))) tar "melpa-stable" nil ((:url . "https://emacs-helm.github.io/helm/")) nil])
+  (helm [cl-struct-package-desc helm (1 7 7) "Helm is an Emacs incremental and narrowing framework" ((emacs (24)) (cl-lib (0 5)) (async (1 4)) (helm-core (1 7 7))) tar "melpa-stable" nil ((:url . "https://emacs-helm.github.io/helm/")) nil])
   (helm-ack [cl-struct-package-desc helm-ack (0 13) "Ack command with helm interface" ((helm (1 0)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-helm-ack")) nil])
   (helm-ag [cl-struct-package-desc helm-ag (0 42) "the silver searcher with helm interface" ((helm (1 6 9)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-helm-ag")) nil])
   (helm-backup [cl-struct-package-desc helm-backup (0 2 0) "Backup each file change using git" ((helm (1 5 5)) (s (1 8 0))) single "melpa-stable" nil ((:url . "http://github.com/antham/helm-backup") (:keywords "backup")) nil])
