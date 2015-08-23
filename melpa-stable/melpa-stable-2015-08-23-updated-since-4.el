@@ -507,7 +507,7 @@
   (phi-search-mc [cl-struct-package-desc phi-search-mc (2 2 1) "multiple-cursors extension for phi-search" ((phi-search (2 0 0)) (multiple-cursors (1 2 1))) single "melpa-stable" nil ((:url . "https://github.com/knu/phi-search-mc.el") (:keywords "search" "cursors")) nil])
   (php-auto-yasnippets [cl-struct-package-desc php-auto-yasnippets (2 3 1) "Creates snippets for PHP functions" ((php-mode (1 11)) (yasnippet (0 8 0))) tar "melpa-stable" nil ((:url . "https://github.com/ejmr/php-auto-yasnippets")) nil])
   (php-mode [cl-struct-package-desc php-mode (1 17 0) "Major mode for editing PHP code" nil single "melpa-stable" nil ((:url . "https://github.com/ejmr/php-mode")) nil])
-  (phpunit [cl-struct-package-desc phpunit (0 4 0) "Launch PHP unit tests using phpunit" ((s (1 9 0)) (f (0 16 0)) (pkg-info (0 5))) single "melpa-stable" nil ((:url . "https://github.com/nlamirault/phpunit.el") (:keywords "php" "tests" "phpunit")) nil])
+  (phpunit [cl-struct-package-desc phpunit (0 5 0) "Launch PHP unit tests using phpunit" ((s (1 9 0)) (f (0 16 0)) (pkg-info (0 5))) single "melpa-stable" nil ((:url . "https://github.com/nlamirault/phpunit.el") (:keywords "php" "tests" "phpunit")) nil])
   (pip-requirements [cl-struct-package-desc pip-requirements (0 4) "A major mode for editing pip requirements files." ((dash (2 8 0))) single "melpa-stable" nil nil nil])
   (pkg-info [cl-struct-package-desc pkg-info (0 6) "Information about packages" ((epl (0 8))) single "melpa-stable" nil ((:url . "https://github.com/lunaryorn/pkg-info.el") (:keywords "convenience")) nil])
   (pkgbuild-mode [cl-struct-package-desc pkgbuild-mode (0 14) "Interface to the ArchLinux package manager" nil single "melpa-stable" nil nil nil])
