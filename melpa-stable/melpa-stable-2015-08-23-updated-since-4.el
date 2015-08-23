@@ -569,7 +569,7 @@
   (serverspec [cl-struct-package-desc serverspec (0 0 7) "Serverspec minor mode" ((dash (2 6 0)) (s (1 9 0)) (f (0 16 2)) (helm (1 6 1))) tar "melpa-stable" nil ((:url . "http://101000lab.org")) nil])
   (session [cl-struct-package-desc session (2 3 1) "use variables, registers and buffer places across sessions" nil single "melpa-stable" nil ((:url . "http://emacs-session.sourceforge.net/") (:keywords "session" "session management" "desktop" "data" "tools")) nil])
   (shampoo [cl-struct-package-desc shampoo (0 0 1) "Shampoo, a remote Smalltalk developemnt" nil tar "melpa-stable" nil nil nil])
-  (shell-pop [cl-struct-package-desc shell-pop (0 6) "helps you to use shell easily on Emacs. Only one key action to work." ((emacs (24))) single "melpa-stable" nil ((:url . "http://github.com/kyagi/shell-pop-el") (:keywords "shell" "terminal" "tools")) nil])
+  (shell-pop [cl-struct-package-desc shell-pop (0 61) "helps you to use shell easily on Emacs. Only one key action to work." ((emacs (24))) single "melpa-stable" nil ((:url . "http://github.com/kyagi/shell-pop-el") (:keywords "shell" "terminal" "tools")) nil])
   (shm [cl-struct-package-desc shm (1 0 20) "Structured Haskell Mode" nil tar "melpa-stable" nil ((:keywords "development" "haskell" "structured")) nil])
   (shut-up [cl-struct-package-desc shut-up (0 3 2) "Shut up would you!" ((cl-lib (0 3)) (emacs (24))) single "melpa-stable" nil ((:url . "http://github.com/rejeep/shut-up.el")) nil])
   (simple-httpd [cl-struct-package-desc simple-httpd (1 4 6) "pure elisp HTTP server" ((cl-lib (0 3))) single "melpa-stable" nil ((:url . "https://github.com/skeeto/emacs-http-server")) nil])
