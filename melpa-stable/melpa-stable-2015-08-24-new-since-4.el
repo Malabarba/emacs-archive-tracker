@@ -358,7 +358,7 @@
   (sphinx-doc [cl-struct-package-desc sphinx-doc (0 1 0) "Sphinx friendly docstrings for Python functions" ((s (1 9 0)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/naiquevin/sphinx-doc.el") (:keywords "sphinx" "python")) nil])
   (splitjoin [cl-struct-package-desc splitjoin (0 1) "splitjoin" ((cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-splitjoin")) nil])
   (spotify [cl-struct-package-desc spotify (0 3 2) "Control the spotify application from emacs" nil single "melpa-stable" nil ((:url . "https://github.com/remvee/spotify-el") (:keywords "convenience")) nil])
-  (sqlup-mode [cl-struct-package-desc sqlup-mode (0 5 1) "Upcase SQL words for you" nil single "melpa-stable" nil ((:url . "https://github.com/trevoke/sqlup-mode.el") (:keywords "sql" "tools")) nil])
+  (sqlup-mode [cl-struct-package-desc sqlup-mode (0 5 2) "Upcase SQL words for you" nil single "melpa-stable" nil ((:url . "https://github.com/trevoke/sqlup-mode.el") (:keywords "sql" "tools")) nil])
   (srefactor [cl-struct-package-desc srefactor (0 5) "A refactoring tool based on Semantic parser framework" ((emacs (24 4))) tar "melpa-stable" nil ((:url . "https://github.com/tuhdo/semantic-refactor") (:keywords "c" "languages" "tools")) nil])
   (stash [cl-struct-package-desc stash (0 4 1) "lightweight persistent caching" nil single "melpa-stable" nil ((:url . "https://www.github.com/vermiculus/stash.el/") (:keywords "extensions" "data" "internal" "lisp")) nil])
   (stylus-mode [cl-struct-package-desc stylus-mode (1 0 0) "Major mode for editing .jade files" ((sws-mode (0))) single "melpa-stable" nil ((:url . "https://github.com/brianc/jade-mode")) nil])
