@@ -1,4 +1,7 @@
 (1
+ (dxr .
+      [(2 1)
+       nil "Convenient access to a DXR server" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
