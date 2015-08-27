@@ -1,7 +1,4 @@
 (1
- (dxr .
-      [(2 1)
-       nil "Convenient access to a DXR server" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -3714,6 +3711,9 @@
 		  (pcache
 		   (0 2 3)))
 		 "Set faces based on available fonts" single])
+ (dxr .
+      [(2 1)
+       nil "Convenient access to a DXR server" single])
  (durendal .
 	   [(0 2)
 	    ((clojure-mode

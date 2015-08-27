@@ -44,6 +44,7 @@
   (discord [cl-struct-package-desc discord (0 5) "Discordian dates for calendar" nil single "marmalade" nil nil nil])
   (downplay-mode [cl-struct-package-desc downplay-mode (0 1) "focus attention on a region of the buffer" nil single "marmalade" nil nil nil])
   (dummy-package [cl-struct-package-desc dummy-package (0 0 25) "a fake package for the marmalade test suite" ((timeclock (2 6 1))) single "marmalade" nil nil nil])
+  (dxr [cl-struct-package-desc dxr (2 1) "Convenient access to a DXR server" nil single "marmalade" nil nil nil])
   (eh-common [cl-struct-package-desc eh-common (0 0 1) "Tumashu's  emacs functions" nil single "marmalade" nil nil nil])
   (el-init [cl-struct-package-desc el-init (20130416) "Loader for configuration files" nil tar "marmalade" nil nil nil])
   (eldoro [cl-struct-package-desc eldoro (0 1 0) "A pomodoro timer/tracker that works with org-mode." nil tar "marmalade" nil nil nil])
@@ -276,5 +277,4 @@
   (zeal-at-point [cl-struct-package-desc zeal-at-point (0 0 3) "Search the word at point with Zeal" nil single "marmalade" nil nil nil])
   (zenburn [cl-struct-package-desc zenburn (0 1) "A low contrast colour theme for Emacs" nil single "marmalade" nil nil nil])
   (zone-matrix [cl-struct-package-desc zone-matrix (0 0 1) "Matrix themed Zone mode" nil tar "marmalade" nil nil nil])
-  (dxr [cl-struct-package-desc dxr (2 1) "Convenient access to a DXR server" nil single "marmalade" nil nil nil])
  )

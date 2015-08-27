@@ -83,6 +83,7 @@
   (align-let [cl-struct-package-desc align-let (13) "align expressions in a lisp \"let\"" nil single "user42" nil ((:url . "http://user42.tuxfamily.org/align-let/index.html")) nil])
   (accjournal [cl-struct-package-desc accjournal (7) "double entry journal accounting" nil single "user42" nil ((:url . "http://user42.tuxfamily.org/accjournal/index.html")) nil])
   (ac-tex-ref [cl-struct-package-desc ac-tex-ref (2) "auto-complete for tex-mode \\ref and \\cite labels" nil single "user42" nil ((:url . "http://user42.tuxfamily.org/ac-tex-ref/index.html")) nil])
+  (dynamic-ruler [cl-struct-package-desc dynamic-ruler (0 1 4) "Displays a dynamic ruler at point." nil single "melpa-stable" nil ((:url . "http://rocher.github.io/dynamic-ruler") (:keywords "ruler" "tools" "convenience")) nil])
   (latex-math-preview [cl-struct-package-desc latex-math-preview (0 7 0) "preview LaTeX mathematical expressions." nil single "melpa-stable" nil ((:url . "http://www.emacswiki.org/latex-math-preview.el") (:keywords "latex" "tex")) nil])
   (tempbuf [cl-struct-package-desc tempbuf (1 4) "kill unused buffers in the background" nil single "melpa-stable" nil ((:keywords "convenience")) nil])
   (0blayout [cl-struct-package-desc 0blayout (20150806 4) "Layout grouping with ease" nil single "melpa" nil ((:url . "https://github.com/etu/0blayout") (:keywords "convenience" "window-management")) nil])
