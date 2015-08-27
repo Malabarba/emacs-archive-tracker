@@ -1,4 +1,5 @@
 '(
+  (ac-alchemist [cl-struct-package-desc ac-alchemist (0 1) "auto-complete source for alchemist" ((auto-complete (1 5 0)) (alchemist (1 3 1)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-ac-alchemist")) nil])
   (ac-clang [cl-struct-package-desc ac-clang (1 5 0) "Auto Completion source by libclang for GNU Emacs" ((emacs (24)) (cl-lib (0 5)) (auto-complete (1 4 0)) (pos-tip (0 4 6)) (yasnippet (0 8 0))) tar "melpa-stable" nil ((:url . "https://github.com/yaruopooner/ac-clang") (:keywords "completion" "convenience" "intellisense")) nil])
   (ac-emoji [cl-struct-package-desc ac-emoji (0 2) "auto-complete source of Emoji" ((auto-complete (1 5 0)) (cl-lib (0 5))) tar "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-ac-emoji")) nil])
   (ac-html [cl-struct-package-desc ac-html (0 31) "auto complete source for html tags and attributes" ((auto-complete (1 4)) (web-completion-data (0 1))) tar "melpa-stable" nil ((:url . "https://github.com/cheunghy/ac-html") (:keywords "html" "auto-complete" "rails" "ruby")) nil])
@@ -102,6 +103,7 @@
   (emms-player-mpv [cl-struct-package-desc emms-player-mpv (0 0 5) "mpv support for EMMS" ((emms (0))) single "melpa-stable" nil ((:url . "https://github.com/dochang/emms-player-mpv/") (:keywords "emms" "mpv")) nil])
   (emms-player-simple-mpv [cl-struct-package-desc emms-player-simple-mpv (0 2 0) "An extension of emms-player-simple.el for mpv JSON IPC" ((emacs (24)) (cl-lib (0 5)) (emms (4 0))) tar "melpa-stable" nil ((:url . "https://github.com/momomo5717/emms-player-simple-mpv") (:keywords "emms" "mpv")) nil])
   (emoji-cheat-sheet-plus [cl-struct-package-desc emoji-cheat-sheet-plus (1 2 1) "emoji-cheat-sheet for emacs" ((emacs (24)) (helm (1 6 4))) tar "melpa-stable" nil ((:url . "https://github.com/syl20bnr/emacs-emoji-cheat-sheet-plus") (:keywords "emacs" "emoji")) nil])
+  (enlive [cl-struct-package-desc enlive (0 0 1) "query html document with css selectors" nil single "melpa-stable" nil ((:url . "http://github.com/zweifisch/enlive") (:keywords "css" "selector" "query")) nil])
   (erc-youtube [cl-struct-package-desc erc-youtube (0 -3) "Show received youtube urls in the ERC buffer" ((erc (5 3))) single "melpa-stable" nil ((:keywords "multimedia")) nil])
   (erefactor [cl-struct-package-desc erefactor (0 7 0) "Emacs-Lisp refactoring utilities" ((cl-lib (0 3))) single "melpa-stable" nil ((:url . "https://github.com/mhayashi1120/Emacs-erefactor") (:keywords "extensions" "tools" "maint")) nil])
   (es-lib [cl-struct-package-desc es-lib (0 4) "A collection of emacs utilities" ((cl-lib (0 3))) tar "melpa-stable" nil ((:url . "https://github.com/sabof/es-lib")) nil])
