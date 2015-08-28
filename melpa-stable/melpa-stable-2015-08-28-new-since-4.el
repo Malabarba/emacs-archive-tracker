@@ -194,6 +194,7 @@
   (history [cl-struct-package-desc history (1 0 0) "History utility for source code navigation" ((emacs (24 3))) tar "melpa-stable" nil ((:url . "https://github.com/boyw165/history")) nil])
   (hl-anything [cl-struct-package-desc hl-anything (0 0 9) "Highlight symbols, selections, enclosing parens and more." ((emacs (24 3))) tar "melpa-stable" nil nil nil])
   (hoa-pp-mode [cl-struct-package-desc hoa-pp-mode (0 2 1) "Major mode for Hoa PP grammars" ((emacs (24 1)) (names (20150723 0))) single "melpa-stable" nil ((:url . "https://github.com/stevenremot/hoa-pp-mode") (:keywords "php" "hoa")) nil])
+  (homebrew-mode [cl-struct-package-desc homebrew-mode (1 0 0) "minor mode for editing Homebrew formulae" nil single "melpa-stable" nil ((:url . "https://github.com/dunn/homebrew-mode") (:keywords "homebrew" "brew" "ruby")) nil])
   (hyai [cl-struct-package-desc hyai (1 0 0) "Haskell Yet Another Indentation" ((cl-lib (0 5)) (emacs (24))) single "melpa-stable" nil ((:url . "https://github.com/iquiw/hyai")) nil])
   (hydra [cl-struct-package-desc hydra (0 13 0) "Make bindings that stick around." ((cl-lib (0 5))) tar "melpa-stable" nil ((:url . "https://github.com/abo-abo/hydra") (:keywords "bindings")) nil])
   (ibuffer-projectile [cl-struct-package-desc ibuffer-projectile (0 2) "Group ibuffer's list by projectile root" ((projectile (0 11 0))) single "melpa-stable" nil ((:url . "http://github.com/purcell/ibuffer-projectile") (:keywords "themes")) nil])
