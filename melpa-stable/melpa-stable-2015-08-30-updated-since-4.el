@@ -156,7 +156,7 @@
   (elmine [cl-struct-package-desc elmine (0 3) "No description available." nil single "melpa-stable" nil nil nil])
   (elpa-audit [cl-struct-package-desc elpa-audit (0 4) "Handy functions for inspecting and comparing package archives" nil single "melpa-stable" nil ((:url . "https://github.com/purcell/elpa-audit") (:keywords "maint")) nil])
   (elpa-mirror [cl-struct-package-desc elpa-mirror (1 2 0) "ELPA mirror from locally installed packages is easy" nil tar "melpa-stable" nil nil nil])
-  (elpy [cl-struct-package-desc elpy (1 8 1) "Emacs Python Development Environment" ((company (0 8 2)) (find-file-in-project (3 3)) (highlight-indentation (0 5 0)) (pyvenv (1 3)) (yasnippet (0 8 0))) tar "melpa-stable" nil nil nil])
+  (elpy [cl-struct-package-desc elpy (1 9 0) "Emacs Python Development Environment" ((company (0 8 2)) (find-file-in-project (3 3)) (highlight-indentation (0 5 0)) (pyvenv (1 3)) (yasnippet (0 8 0))) tar "melpa-stable" nil nil nil])
   (elx [cl-struct-package-desc elx (0 10 0) "extract information from Emacs Lisp libraries" ((emacs (24 4))) single "melpa-stable" nil ((:url . "https://github.com/tarsius/elx") (:keywords "docs" "libraries" "packages")) nil])
   (emacs-eclim [cl-struct-package-desc emacs-eclim (0 3) "An interface to the Eclipse IDE." ((dash (2 11 0)) (json (1 2)) (popup (0 5 2)) (s (1 9 0))) tar "melpa-stable" nil nil nil])
   (emacs-setup [cl-struct-package-desc emacs-setup (1 0) "Package for maintaining your emacs configuration. Clean up your .emacs!" nil tar "melpa-stable" nil nil nil])
