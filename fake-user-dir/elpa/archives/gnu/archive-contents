@@ -48,7 +48,7 @@
 		     ((:url . "http://github.com/Malabarba/aggressive-indent-mode")
 		      (:keywords "indent" "lisp" "maint" "tools"))])
  (ahungry-theme .
-		[(1 0 9)
+		[(1 0 10)
 		 ((emacs
 		   (24)))
 		 "Ahungry color theme for Emacs.  Make sure to (load-theme 'ahungry)." tar
@@ -132,6 +132,15 @@
 	   "Modular text completion framework" tar
 	   ((:keywords "abbrev" "convenience" "matching")
 	    (:url . "http://company-mode.github.io/"))])
+ (company-math .
+	       [(1 0 1)
+		((company
+		  (0 8 0))
+		 (math-symbol-lists
+		  (1 0)))
+		"Completion backends for unicode math symbols and latex tags" single
+		((:url . "https://github.com/vspinu/company-math")
+		 (:keywords "unicode" "symbols" "completion"))])
  (company-statistics .
 		     [(0 2 1)
 		      ((emacs
@@ -400,6 +409,11 @@
 	     nil "Mark chars fitting certain characteristics" single
 	     ((:url . "http://elpa.gnu.org/packages/markchars.html")
 	      (:keywords))])
+ (math-symbol-lists .
+		    [(1 0)
+		     nil "Lists of Unicode math symbols and latex commands" single
+		     ((:url . "https://github.com/vspinu/math-symbol-lists")
+		      (:keywords "unicode" "symbols" "mathematics"))])
  (memory-usage .
 	       [(0 2)
 		nil "Analyze the memory usage of Emacs in various ways" single
@@ -466,7 +480,7 @@
 	    ((:url . "http://elpa.gnu.org/packages/omn-mode.html")
 	     (:keywords))])
  (org .
-      [(20150824)
+      [(20150831)
        nil "Outline-based notes management and organizer" tar nil])
  (osc .
       [(0 1)
