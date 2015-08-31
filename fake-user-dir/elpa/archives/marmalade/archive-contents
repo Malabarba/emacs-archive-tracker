@@ -1,4 +1,12 @@
 (1
+ (moccur-edit .
+	      [(2 16)
+	       ((color-moccur
+		 (2 71)))
+	       "apply replaces to multiple files" single])
+ (cparen .
+	 [(1 0)
+	  nil "coloured parentheses in Lisp-derived modes" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
