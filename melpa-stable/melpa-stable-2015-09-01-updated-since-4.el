@@ -625,7 +625,7 @@
   (tempbuf [cl-struct-package-desc tempbuf (1 4) "kill unused buffers in the background" nil single "melpa-stable" nil ((:keywords "convenience")) nil])
   (tern [cl-struct-package-desc tern (0 14 0) "Tern-powered JavaScript integration" ((json (1 2)) (cl-lib (0 5)) (emacs (24))) single "melpa-stable" nil ((:url . "http://ternjs.net/")) nil])
   (tern-auto-complete [cl-struct-package-desc tern-auto-complete (0 14 0) "Tern Completion by auto-complete.el" ((tern (0 0 1)) (auto-complete (1 4)) (cl-lib (0 5)) (emacs (24))) single "melpa-stable" nil nil nil])
-  (terraform-mode [cl-struct-package-desc terraform-mode (0 2) "Major mode for terraform configuration file" ((cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-terraform-mode")) nil])
+  (terraform-mode [cl-struct-package-desc terraform-mode (0 3) "Major mode for terraform configuration file" ((cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-terraform-mode")) nil])
   (test-case-mode [cl-struct-package-desc test-case-mode (1 0) "unit test front-end" ((fringe-helper (0 1 1))) single "melpa-stable" nil ((:url . "http://nschum.de/src/emacs/test-case-mode/") (:keywords "tools")) nil])
   (textmate [cl-struct-package-desc textmate (1) "No description available." nil single "melpa-stable" nil nil nil])
   (textmate-to-yas [cl-struct-package-desc textmate-to-yas (0 21) "Import Textmate macros into yasnippet syntax" nil tar "melpa-stable" nil ((:url . "https://github.com/mlf176f2/textmate-to-yas.el/") (:keywords "yasnippet" "textmate")) nil])
