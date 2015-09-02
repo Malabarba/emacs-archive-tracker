@@ -1,12 +1,4 @@
 (1
- (moccur-edit .
-	      [(2 16)
-	       ((color-moccur
-		 (2 71)))
-	       "apply replaces to multiple files" single])
- (cparen .
-	 [(1 0)
-	  nil "coloured parentheses in Lisp-derived modes" single])
  (zone-matrix .
 	      [(0 0 1)
 	       nil "Matrix themed Zone mode" tar])
@@ -1929,6 +1921,11 @@
 	   (el-x
 	    (0 2 4)))
 	  "mocking framework for emacs" single])
+ (moccur-edit .
+	      [(2 16)
+	       ((color-moccur
+		 (2 71)))
+	       "apply replaces to multiple files" single])
  (mo-git-blame .
 	       [(0 1 0)
 		nil "An interactive, iterative 'git blame' mode for Emacs" single])
@@ -3953,6 +3950,9 @@
  (cppcheck .
 	   [(1 0)
 	    nil "run cppcheck putting hits in a grep buffer" single])
+ (cparen .
+	 [(1 0)
+	  nil "coloured parentheses in Lisp-derived modes" single])
  (control-lock .
 	       [(1 1 2)
 		nil "Like caps-lock, but for your control key.  Give your pinky a rest!" single])

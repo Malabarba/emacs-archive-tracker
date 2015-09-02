@@ -37,7 +37,7 @@
 		 nil "Indent and dedent Lisp code, automatically adjust close parens" tar
 		 ((:url . "http://elpa.gnu.org/packages/adjust-parens.html"))])
  (aggressive-indent .
-		    [(1 1 3)
+		    [(1 2)
 		     ((emacs
 		       (24 1))
 		      (names
@@ -475,7 +475,7 @@
 	  ((:url . "http://elpa.gnu.org/packages/oauth2.html")
 	   (:keywords "comm"))])
  (omn-mode .
-	   [(1 1)
+	   [(1 2)
 	    nil "Support for OWL Manchester Notation" single
 	    ((:url . "http://elpa.gnu.org/packages/omn-mode.html")
 	     (:keywords))])

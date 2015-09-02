@@ -77,6 +77,7 @@
   (date-field [cl-struct-package-desc date-field (0 0 1) "Date widget" ((dash (2 9 0)) (log4e (0 2 0)) (yaxception (0 3 2))) single "melpa-stable" nil ((:url . "https://github.com/aki2o/emacs-date-field") (:keywords "widgets")) nil])
   (default-text-scale [cl-struct-package-desc default-text-scale (0 1) "Easily adjust the font size in all frames" nil single "melpa-stable" nil ((:keywords "frames" "faces")) nil])
   (define-word [cl-struct-package-desc define-word (0 1 0) "display the definition of word at point." ((emacs (24 1))) single "melpa-stable" nil ((:url . "https://github.com/abo-abo/define-word") (:keywords "dictionary" "convenience")) nil])
+  (desktop+ [cl-struct-package-desc desktop+ (0 1) "improved sessions" nil single "melpa-stable" nil nil nil])
   (dired-fdclone [cl-struct-package-desc dired-fdclone (1 5 2) "dired functions and settings to mimic FDclone" nil single "melpa-stable" nil ((:url . "https://github.com/knu/dired-fdclone.el") (:keywords "unix" "directories" "dired")) nil])
   (dired-imenu [cl-struct-package-desc dired-imenu (0 5 0) "imenu binding for dired mode" nil single "melpa-stable" nil ((:url . "https://github.com/DamienCassou/dired-imenu") (:keywords "dired" "imenu")) nil])
   (direx [cl-struct-package-desc direx (1 0 0) "Simple Directory Explorer" nil tar "melpa-stable" nil ((:keywords "convenience")) nil])
