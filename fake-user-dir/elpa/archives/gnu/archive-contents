@@ -441,6 +441,13 @@
 	nil "Authoring and publishing tool for Emacs" tar
 	((:keywords "hypermedia")
 	 (:url . "http://mwolson.org/projects/EmacsMuse.html"))])
+ (nameless .
+	   [(0 2)
+	    ((emacs
+	      (24 2)))
+	    "Hide package namespace in your emacs-lisp code" single
+	    ((:url . "http://elpa.gnu.org/packages/nameless.html")
+	     (:keywords "convenience" "lisp"))])
  (names .
 	[(20150723 0)
 	 ((emacs
