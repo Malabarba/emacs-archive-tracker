@@ -302,7 +302,7 @@
   (ghc [cl-struct-package-desc ghc (1 10 2) "Happy Haskell programming on Emacs" ((haskell-mode (2 8 0))) tar "marmalade" nil nil nil])
   (ghci-completion [cl-struct-package-desc ghci-completion (0 1 3) "Completion for GHCi commands in inferior-haskell buffers" nil single "marmalade" nil nil nil])
   (gimme [cl-struct-package-desc gimme (2 1) "The XMMS2 interface we all love! Check out http://gimmeplayer.org for more info." nil tar "marmalade" nil nil nil])
-  (gist [cl-struct-package-desc gist (1 2 1) "Emacs integration for gist.github.com" ((eieio (1 4)) (gh (0 8 1)) (tabulated-list (0))) single "marmalade" nil nil nil])
+  (gist [cl-struct-package-desc gist (1 3 1) "Emacs integration for gist.github.com" ((emacs (24 1)) (gh (0 9 2))) single "marmalade" nil nil nil])
   (git-auto-commit-mode [cl-struct-package-desc git-auto-commit-mode (4 4 0) "Emacs Minor mode to automatically commit and push" nil single "marmalade" nil nil nil])
   (git-commit [cl-struct-package-desc git-commit (2 2 2) "Edit Git commit messages" ((emacs (24 4)) (dash (2 11 0)) (with-editor (2 2 2))) single "marmalade" nil nil nil])
   (git-gutter [cl-struct-package-desc git-gutter (0 78) "Port of Sublime Text plugin GitGutter" ((cl-lib (0 5)) (emacs (24))) single "marmalade" nil nil nil])

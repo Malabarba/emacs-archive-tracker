@@ -293,6 +293,15 @@
 	   "Color unbalanced parentheses and parentheses inconsistent with indentation" single
 	   ((:url . "http://elpa.gnu.org/packages/flylisp.html")
 	    (:keywords))])
+ (fsm .
+      [(0 2)
+       ((emacs
+	 (24 1))
+	(cl-lib
+	 (0 5)))
+       "state machine library" single
+       ((:url . "http://elpa.gnu.org/packages/fsm.html")
+	(:keywords "extensions"))])
  (ggtags .
 	 [(0 8 10)
 	  ((emacs
