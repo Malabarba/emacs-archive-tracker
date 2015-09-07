@@ -451,9 +451,9 @@
 	((:keywords "hypermedia")
 	 (:url . "http://mwolson.org/projects/EmacsMuse.html"))])
  (nameless .
-	   [(0 2)
+	   [(0 3)
 	    ((emacs
-	      (24 2)))
+	      (24 4)))
 	    "Hide package namespace in your emacs-lisp code" single
 	    ((:url . "http://elpa.gnu.org/packages/nameless.html")
 	     (:keywords "convenience" "lisp"))])
@@ -496,7 +496,7 @@
 	    ((:url . "http://elpa.gnu.org/packages/omn-mode.html")
 	     (:keywords))])
  (org .
-      [(20150831)
+      [(20150907)
        nil "Outline-based notes management and organizer" tar nil])
  (osc .
       [(0 1)
