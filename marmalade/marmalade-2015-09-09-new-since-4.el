@@ -270,7 +270,7 @@
   (wisp-mode [cl-struct-package-desc wisp-mode (0 2 1) "Tools for wisp: the Whitespace-to-Lisp preprocessor" nil single "marmalade" nil nil nil])
   (with-editor [cl-struct-package-desc with-editor (2 2 2) "Use the Emacsclient as $EDITOR" ((emacs (24 4)) (async (1 4)) (dash (2 11 0))) tar "marmalade" nil nil nil])
   (wonderland [cl-struct-package-desc wonderland (0 1 1) "declarative configuration for Emacsen" ((dash (2 0 0)) (dash-functional (1 0 0)) (multi (2 0 0)) (emacs (24))) single "marmalade" nil nil nil])
-  (wsd-mode [cl-struct-package-desc wsd-mode (0 4 0) "Emacs major-mode for www.websequencediagrams.com" nil tar "marmalade" nil nil nil])
+  (wsd-mode [cl-struct-package-desc wsd-mode (0 4 1) "Emacs major-mode for www.websequencediagrams.com" nil tar "marmalade" nil nil nil])
   (xbm-life [cl-struct-package-desc xbm-life (0 1) "A XBM version of Conway's Game of Life" nil single "marmalade" nil nil nil])
   (xkcd [cl-struct-package-desc xkcd (1 0) "View xkcd from Emacs" ((json (1 3))) single "marmalade" nil nil nil])
   (xmlgen [cl-struct-package-desc xmlgen (0 4) "A DSL for generating XML." nil single "marmalade" nil nil nil])

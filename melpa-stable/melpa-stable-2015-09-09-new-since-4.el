@@ -416,6 +416,7 @@
   (unkillable-scratch [cl-struct-package-desc unkillable-scratch (0 1) "Disallow buffers from being killed by regexp -- default is *scratch* buffer" nil single "melpa-stable" nil ((:keywords "scratch")) nil])
   (vagrant [cl-struct-package-desc vagrant (0 5 2) "Manage a vagrant box from emacs" nil single "melpa-stable" nil ((:url . "https://github.com/ottbot/vagrant.el") (:keywords "vagrant" "chef")) nil])
   (vbasense [cl-struct-package-desc vbasense (0 1 1) "provide a environment like Visual Basic Editor." ((auto-complete (1 4 0)) (log4e (0 2 0)) (yaxception (0 1))) tar "melpa-stable" nil ((:url . "https://github.com/aki2o/emacs-vbasense") (:keywords "vba" "completion")) nil])
+  (vimish-fold [cl-struct-package-desc vimish-fold (0 1 0) "Fold text like in Vim" ((emacs (24 4)) (cl-lib (0 5)) (f (0 18 0))) single "melpa-stable" nil ((:url . "https://github.com/mrkkrp/vimish-fold") (:keywords "convenience")) nil])
   (visual-fill-column [cl-struct-package-desc visual-fill-column (1 4) "fill-column for visual-line-mode" ((emacs (24 3))) single "melpa-stable" nil nil nil])
   (voca-builder [cl-struct-package-desc voca-builder (0 2 0) "No description available." nil single "melpa-stable" nil nil nil])
   (weather-metno [cl-struct-package-desc weather-metno (0 1 0) "Weather data from met.no in Emacs" ((emacs (24)) (cl-lib (0 3))) tar "melpa-stable" nil nil nil])
