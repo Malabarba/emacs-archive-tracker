@@ -32,7 +32,7 @@
   (lmc [cl-struct-package-desc lmc (1 3) "Little Man Computer in Elisp" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/lmc.html") (:keywords)) nil])
   (lex [cl-struct-package-desc lex (1 1) "Lexical analyser construction" nil tar "gnu" nil ((:url . "http://elpa.gnu.org/packages/lex.html")) nil])
   (jumpc [cl-struct-package-desc jumpc (3 0) "jump to previous insertion points" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/jumpc.html") (:keywords)) nil])
-  (js2-mode [cl-struct-package-desc js2-mode (20150713) "Improved JavaScript editing mode" ((emacs (24 1)) (cl-lib (0 5))) tar "gnu" nil ((:keywords "languages" "javascript") (:url . "https://github.com/mooz/js2-mode/")) nil])
+  (js2-mode [cl-struct-package-desc js2-mode (20150909) "Improved JavaScript editing mode" ((emacs (24 1)) (cl-lib (0 5))) tar "gnu" nil ((:keywords "languages" "javascript") (:url . "https://github.com/mooz/js2-mode/")) nil])
   (jgraph-mode [cl-struct-package-desc jgraph-mode (1 1) "Major mode for Jgraph files" ((cl-lib (0 5))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/jgraph-mode.html") (:keywords "tex" "wp")) nil])
   (ioccur [cl-struct-package-desc ioccur (2 4) "Incremental occur" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/ioccur.html") (:keywords)) nil])
   (heap [cl-struct-package-desc heap (0 3) "Heap (a.k.a. priority queue) data structure" nil single "gnu" nil ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "extensions" "data structures" "heap" "priority queue")) nil])
