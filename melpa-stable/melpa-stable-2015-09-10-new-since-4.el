@@ -310,6 +310,7 @@
   (overseer [cl-struct-package-desc overseer (0 3 0) "Ert-runner Integration Into Emacs" ((emacs (24)) (dash (2 10 0)) (pkg-info (0 4))) single "melpa-stable" nil ((:url . "http://www.github.com/tonini/overseer.el")) nil])
   (owdriver [cl-struct-package-desc owdriver (0 0 6) "Quickly perform various actions on other windows" ((smartrep (0 0 3)) (log4e (0 2 0)) (yaxception (0 2 0))) single "melpa-stable" nil ((:url . "https://github.com/aki2o/owdriver") (:keywords "convenience")) nil])
   (ox-ioslide [cl-struct-package-desc ox-ioslide (0 2) "Export org-mode to Google I/O HTML5 slide." ((emacs (24 1)) (org (8 0)) (cl-lib (0 5)) (f (0 17 2))) tar "melpa-stable" nil ((:url . "http://github.com/coldnew/org-ioslide") (:keywords "html" "presentation")) nil])
+  (ox-pandoc [cl-struct-package-desc ox-pandoc (1 150707) "org exporter for pandoc." ((org (8 2)) (emacs (24)) (dash (2 8)) (ht (2 0))) single "melpa-stable" nil ((:url . "https://github.com/kawabata/ox-pandoc") (:keywords "tools")) nil])
   (ox-twbs [cl-struct-package-desc ox-twbs (1 0 2) "Bootstrap compatible HTML Back-End for Org" nil single "melpa-stable" nil ((:url . "https://github.com/marsmining/ox-twbs") (:keywords "org" "html" "publish" "twitter" "bootstrap")) nil])
   (package+ [cl-struct-package-desc package+ (1 1 0) "Extensions for the package library." nil single "melpa-stable" nil ((:url . "TBA") (:keywords "extensions" "tools")) nil])
   (parenface [cl-struct-package-desc parenface (1 0 3) "Provide a face for parens in lispy modes." nil tar "melpa-stable" nil nil nil])
