@@ -667,7 +667,7 @@
   (window-layout [cl-struct-package-desc window-layout (1 3) "window layout manager" nil single "melpa-stable" nil ((:keywords "window" "layout")) nil])
   (window-numbering [cl-struct-package-desc window-numbering (1 1 2) "No description available." nil single "melpa-stable" nil nil nil])
   (windsize [cl-struct-package-desc windsize (0 1) "Simple, intuitive window resizing" nil single "melpa-stable" nil ((:url . "http://github.com/grammati/windsize") (:keywords "window" "resizing" "convenience")) nil])
-  (wisp-mode [cl-struct-package-desc wisp-mode (0 8 5) "Tools for wisp: the Whitespace-to-Lisp preprocessor" nil single "melpa-stable" nil ((:keywords "languages" "lisp")) nil])
+  (wisp-mode [cl-struct-package-desc wisp-mode (0 8 6) "Tools for wisp: the Whitespace-to-Lisp preprocessor" nil single "melpa-stable" nil ((:keywords "languages" "lisp")) nil])
   (wispjs-mode [cl-struct-package-desc wispjs-mode (0 2 0) "Major mode for Wisp code." ((clojure-mode (0))) single "melpa-stable" nil ((:url . "https://github.com/krisajenkins/wispjs-mode")) nil])
   (wonderland [cl-struct-package-desc wonderland (0 1 1) "declarative configuration for Emacsen" ((dash (2 0 0)) (dash-functional (1 0 0)) (multi (2 0 0)) (emacs (24))) single "melpa-stable" nil ((:url . "http://github.com/kurisuwhyte/emacs-wonderland") (:keywords "configuration" "profile" "wonderland")) nil])
   (wrap-region [cl-struct-package-desc wrap-region (0 7 3) "Wrap text with punctation or tag" ((dash (1 0 3))) single "melpa-stable" nil ((:url . "http://github.com/rejeep/wrap-region") (:keywords "speed" "convenience")) nil])
