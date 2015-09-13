@@ -161,7 +161,7 @@
   (marmalade-client [cl-struct-package-desc marmalade-client (0 0 12) "client for marmalade API from emacs" ((web (0 5 2)) (kv (0 0 19)) (gh (0 8 0))) single "marmalade" nil nil nil])
   (marmalade-demo [cl-struct-package-desc marmalade-demo (0 0 5) "a demonstration elpa package" nil single "marmalade" nil nil nil])
   (marmalade-upload [cl-struct-package-desc marmalade-upload (0 0 5) "upload client for marmalade from emacs" ((web (0 4 2)) (kv (0 0 19))) single "marmalade" nil nil nil])
-  (marshal [cl-struct-package-desc marshal (0 5 0) "eieio extension for automatic (un)marshalling" ((eieio (1 4)) (json (1 3))) single "marmalade" nil nil nil])
+  (marshal [cl-struct-package-desc marshal (0 5 1) "eieio extension for automatic (un)marshalling" ((eieio (1 4)) (json (1 3))) single "marmalade" nil nil nil])
   (master-mode [cl-struct-package-desc master-mode (0 1) "Become an Emacs master" nil single "marmalade" nil nil nil])
   (math-at-point [cl-struct-package-desc math-at-point (0 0 1) "Utilities for modifying numbers at point" nil single "marmalade" nil nil nil])
   (mbe [cl-struct-package-desc mbe (0 1) "Macros by Example" ((emacs (24)) (cl-lib (0 5))) single "marmalade" nil nil nil])
