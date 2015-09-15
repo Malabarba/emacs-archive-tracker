@@ -455,7 +455,7 @@
 	     [(12)
 	      nil "A theme loosely based on Tron: Legacy colors" single])
  (transmission .
-	       [(0 4 1)
+	       [(0 5)
 		((emacs
 		  (24 4))
 		 (let-alist
