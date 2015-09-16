@@ -257,7 +257,7 @@
   (ggo-mode [cl-struct-package-desc ggo-mode (20130521) "Gengetopt major mode" nil single "melpa-stable" nil ((:keywords "extensions" "convenience" "local")) nil])
   (ggtags [cl-struct-package-desc ggtags (0 8 10) "emacs frontend to GNU Global source code tagging system" ((emacs (24)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/leoliu/ggtags") (:keywords "tools" "convenience")) nil])
   (gh [cl-struct-package-desc gh (0 9 2) "A GitHub library for Emacs" ((eieio (1 4)) (pcache (0 3 0)) (logito (0 1))) tar "melpa-stable" nil nil nil])
-  (ghc [cl-struct-package-desc ghc (5 3 0 0) "Sub mode for Haskell mode" ((haskell-mode (13 0))) tar "melpa-stable" nil nil nil])
+  (ghc [cl-struct-package-desc ghc (5 4 0 0) "Sub mode for Haskell mode" ((haskell-mode (13 0))) tar "melpa-stable" nil nil nil])
   (gist [cl-struct-package-desc gist (1 3 1) "Emacs integration for gist.github.com" ((emacs (24 1)) (gh (0 9 2))) single "melpa-stable" nil ((:url . "https://github.com/defunkt/gist.el") (:keywords "tools")) nil])
   (git [cl-struct-package-desc git (0 1 1) "An Elisp API for programmatically using Git" ((s (1 7 0)) (dash (2 2 0)) (f (0 10 0))) single "melpa-stable" nil ((:url . "http://github.com/rejeep/git.el") (:keywords "git")) nil])
   (git-auto-commit-mode [cl-struct-package-desc git-auto-commit-mode (4 4 0) "Emacs Minor mode to automatically commit and push" nil single "melpa-stable" nil ((:url . "http://projects.ryuslash.org/git-auto-commit-mode/") (:keywords "vc")) nil])
