@@ -3713,7 +3713,7 @@
 		   (0 2 3)))
 		 "Set faces based on available fonts" single])
  (dxr .
-      [(2 1)
+      [(2 2)
        nil "Convenient access to a DXR server" single])
  (durendal .
 	   [(0 2)
