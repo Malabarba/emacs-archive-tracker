@@ -995,7 +995,7 @@
   (wc-mode [cl-struct-package-desc wc-mode (20150116 2102) "show wc-like information in status bar" nil single "melpa" nil ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "length" "characters" "words" "lines" "mode line")) nil])
   (wcheck-mode [cl-struct-package-desc wcheck-mode (20140621 1033) "General interface for text checkers" nil tar "melpa" nil nil nil])
   (web [cl-struct-package-desc web (20141231 1201) "useful HTTP client" ((dash (2 9 0)) (s (1 5 0))) single "melpa" nil ((:url . "http://github.com/nicferrier/emacs-web") (:keywords "lisp" "http" "hypermedia")) nil])
-  (web-mode [cl-struct-package-desc web-mode (20150920 2310) "major mode for editing web templates" nil single "melpa" nil ((:url . "http://web-mode.org") (:keywords "languages")) nil])
+  (web-mode [cl-struct-package-desc web-mode (20150922 508) "major mode for editing web templates" nil single "melpa" nil ((:url . "http://web-mode.org") (:keywords "languages")) nil])
   (weblogger [cl-struct-package-desc weblogger (20110926 918) "Weblog maintenance via XML-RPC APIs" ((xml-rpc (1 6 8))) single "melpa" nil ((:url . "http://launchpad.net/weblogger-el") (:keywords "weblog" "blogger" "cms" "movable" "type" "openweblog" "blog")) nil])
   (websocket [cl-struct-package-desc websocket (20150719 1048) "Emacs WebSocket client and server" nil single "melpa" nil ((:keywords "communication" "websocket" "server")) nil])
   (weechat [cl-struct-package-desc weechat (20150703 247) "Chat via WeeChat's relay protocol in Emacs" ((s (1 3 1)) (cl-lib (0 2)) (emacs (24)) (tracking (1 2))) tar "melpa" nil nil nil])

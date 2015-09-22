@@ -722,6 +722,15 @@
 	 nil "use xclip to copy&paste" single
 	 ((:url . "http://elpa.gnu.org/packages/xclip.html")
 	  (:keywords "convenience" "tools"))])
+ (xelb .
+       [(0 1)
+	((emacs
+	  (24 4))
+	 (cl-generic
+	  (0 2)))
+	"X protocol Emacs Lisp Binding" tar
+	((:keywords "unix")
+	 (:url . "https://github.com/ch11ng/xelb"))])
  (xpm .
       [(1 0 3)
        nil "edit XPM images" tar

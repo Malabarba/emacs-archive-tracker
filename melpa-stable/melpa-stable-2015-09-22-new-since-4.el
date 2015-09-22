@@ -24,7 +24,7 @@
   (amd-mode [cl-struct-package-desc amd-mode (0 5) "Minor mode for handling JavaScript AMD module requirements." ((projectile (0 10 0)) (s (1 9 0)) (f (0 16 2)) (dash (2 5 0)) (makey (0 3)) (js2-mode (20140114)) (js2-refactor (0 6 1))) single "melpa-stable" nil ((:keywords "javascript" "amd" "projectile")) nil])
   (android-mode [cl-struct-package-desc android-mode (0 4 0) "Minor mode for Android application development" nil single "melpa-stable" nil ((:url . "https://github.com/remvee/android-mode") (:keywords "tools" "processes")) nil])
   (angularjs-mode [cl-struct-package-desc angularjs-mode (1 0) "No description available." nil tar "melpa-stable" nil nil nil])
-  (annotate [cl-struct-package-desc annotate (0 3 0) "annotate files without changing them" nil single "melpa-stable" nil ((:url . "https://github.com/bastibe/annotate.el")) nil])
+  (annotate [cl-struct-package-desc annotate (0 3 5) "annotate files without changing them" nil single "melpa-stable" nil ((:url . "https://github.com/bastibe/annotate.el")) nil])
   (aproject [cl-struct-package-desc aproject (0 3) "Basic project framework for Emacs" nil tar "melpa-stable" nil ((:url . "https://github.com/vietor/aproject") (:keywords "environment" "project")) nil])
   (artbollocks-mode [cl-struct-package-desc artbollocks-mode (1 1 2) "Improve your writing (especially about art)" nil single "melpa-stable" nil ((:url . "https://github.com/sachac/artbollocks-mode")) nil])
   (asilea [cl-struct-package-desc asilea (0 2 1) "Find best compiler options using simulated annealing" ((emacs (24)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/Fanael/asilea")) nil])

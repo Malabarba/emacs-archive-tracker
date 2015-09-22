@@ -133,7 +133,7 @@
   (e2wm-R [cl-struct-package-desc e2wm-R (0 4) "some e2wm plugin and perspective for GNU R" ((e2wm (1 2))) single "melpa-stable" nil ((:keywords "window manager" "convenience" "e2wm")) nil])
   (easy-kill [cl-struct-package-desc easy-kill (0 9 3) "kill & mark things easily" ((emacs (24)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/leoliu/easy-kill") (:keywords "killing" "convenience")) nil])
   (easy-kill-extras [cl-struct-package-desc easy-kill-extras (0 9 4) "Extra functions for easy-kill." ((easy-kill (0 9 4))) tar "melpa-stable" nil ((:url . "https://github.com/knu/easy-kill-extras.el") (:keywords "killing" "convenience")) nil])
-  (ebib [cl-struct-package-desc ebib (2 4 1) "a BibTeX database manager" ((dash (2 5 0)) (parsebib (1 0)) (emacs (24 3))) tar "melpa-stable" nil ((:keywords "text" "bibtex")) nil])
+  (ebib [cl-struct-package-desc ebib (2 4 2) "a BibTeX database manager" ((dash (2 5 0)) (parsebib (1 0)) (emacs (24 3))) tar "melpa-stable" nil ((:keywords "text" "bibtex")) nil])
   (ecb [cl-struct-package-desc ecb (2 -3 24) "a code browser for Emacs" nil tar "melpa-stable" nil ((:keywords "browser" "code" "programming" "tools")) nil])
   (ecukes [cl-struct-package-desc ecukes (0 6 15) "Cucumber for Emacs." ((commander (0 6 1)) (espuds (0 2 2)) (ansi (0 3 0)) (dash (2 2 0)) (s (1 8 0)) (f (0 11 0))) tar "melpa-stable" nil nil nil])
   (edbi [cl-struct-package-desc edbi (0 1 2) "Emacs Database Interface" ((concurrent (0 3 1)) (ctable (0 1 1)) (epc (0 1 1))) tar "melpa-stable" nil nil nil])

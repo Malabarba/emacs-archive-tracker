@@ -1,6 +1,7 @@
 '(
   (ztree [cl-struct-package-desc ztree (1 0 2) "Text mode directory tree" nil tar "gnu" nil ((:keywords "files" "tools") (:url . "https://github.com/fourier/ztree")) nil])
   (xpm [cl-struct-package-desc xpm (1 0 3) "edit XPM images" nil tar "gnu" nil ((:keywords "multimedia" "xpm") (:url . "http://www.gnuvola.org/software/xpm/")) nil])
+  (xelb [cl-struct-package-desc xelb (0 1) "X protocol Emacs Lisp Binding" ((emacs (24 4)) (cl-generic (0 2))) tar "gnu" nil ((:keywords "unix") (:url . "https://github.com/ch11ng/xelb")) nil])
   (wpuzzle [cl-struct-package-desc wpuzzle (1 1) "find as many word in a given time" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/wpuzzle.html") (:keywords)) nil])
   (wisi [cl-struct-package-desc wisi (1 1 1) "Utilities for implementing an indentation/navigation engine using a generalized LALR parser" ((cl-lib (0 4)) (emacs (24 2))) tar "gnu" nil ((:keywords "parser" "indentation" "navigation") (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) nil])
   (websocket [cl-struct-package-desc websocket (1 5) "Emacs WebSocket client and server" nil tar "gnu" nil ((:keywords "communication" "websocket" "server") (:url . "http://elpa.gnu.org/packages/websocket.html")) nil])
