@@ -663,7 +663,7 @@
   (rw-hunspell [cl-struct-package-desc rw-hunspell (0 2) "special functions for Hunspell in ispell.el" nil single "marmalade" nil nil nil])
   (rw-ispell [cl-struct-package-desc rw-ispell (0 1) "additional functions for ispell.el" nil single "marmalade" nil nil nil])
   (rw-language-and-country-codes [cl-struct-package-desc rw-language-and-country-codes (0 1) "Language & Country Codes" nil single "marmalade" nil nil nil])
-  (s [cl-struct-package-desc s (1 9 0) "The long lost Emacs string manipulation library." nil single "marmalade" nil nil nil])
+  (s [cl-struct-package-desc s (1 10 0) "The long lost Emacs string manipulation library." nil single "marmalade" nil nil nil])
   (s-buffer [cl-struct-package-desc s-buffer (0 0 4) "s operations for buffers" ((s (1 6 0)) (noflet (0 0 3))) single "marmalade" nil nil nil])
   (sackspace [cl-struct-package-desc sackspace (0 8 2) "A better backspace" nil single "marmalade" nil nil nil])
   (sass-mode [cl-struct-package-desc sass-mode (3 0 16) "Major mode for editing Sass files" ((haml-mode (3 0 15))) single "marmalade" nil nil nil])

@@ -275,7 +275,7 @@
   (mbe [cl-struct-package-desc mbe (0 1) "Macros by Example" ((emacs (24)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/ijp/mbe.el") (:keywords "tools" "macros")) nil])
   (mediawiki [cl-struct-package-desc mediawiki (2 2 5) "mediawiki frontend" nil single "melpa-stable" nil ((:url . "http://github.com/hexmode/mediawiki-el") (:keywords "mediawiki" "wikipedia" "network" "wiki")) nil])
   (metaweblog [cl-struct-package-desc metaweblog (0 1 1) "An emacs library to access metaweblog based weblogs" ((xml-rpc (1 6 8))) tar "melpa-stable" nil nil nil])
-  (mhc [cl-struct-package-desc mhc (1 0 3) "No description available." nil tar "melpa-stable" nil nil nil])
+  (mhc [cl-struct-package-desc mhc (1 0 4) "Message Harmonized Calendaring system." ((calfw (20150703))) tar "melpa-stable" nil ((:url . "http://www.quickhack.net/mhc") (:keywords "calendar")) nil])
   (mmt [cl-struct-package-desc mmt (0 1 1) "Missing macro tools for Emacs Lisp" ((emacs (24 1)) (cl-lib (0 3))) single "melpa-stable" nil ((:url . "https://github.com/mrkkrp/mmt") (:keywords "macro" "emacs-lisp")) nil])
   (modalka [cl-struct-package-desc modalka (0 1 1) "Easily introduce native modal editing of your own design" ((emacs (24 4))) single "melpa-stable" nil ((:url . "https://github.com/mrkkrp/modalka") (:keywords "modal" "editing")) nil])
   (monokai-theme [cl-struct-package-desc monokai-theme (1 0 0) "A fruity color theme for Emacs." nil single "melpa-stable" nil ((:url . "http://github.com/oneKelvinSmith/monokai-emacs")) nil])

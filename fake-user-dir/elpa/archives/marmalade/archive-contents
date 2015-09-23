@@ -1029,7 +1029,7 @@
 	(0 0 3)))
 	    "s operations for buffers" single])
  (s .
-    [(1 9 0)
+    [(1 10 0)
      nil "The long lost Emacs string manipulation library." single])
  (rw-language-and-country-codes .
 				[(0 1)
