@@ -440,7 +440,7 @@
   (weather-metno [cl-struct-package-desc weather-metno (0 1 0) "Weather data from met.no in Emacs" ((emacs (24)) (cl-lib (0 3))) tar "melpa-stable" nil nil nil])
   (web-completion-data [cl-struct-package-desc web-completion-data (0 1) "Shared completion data for ac-html and company-web" nil tar "melpa-stable" nil ((:url . "https://github.com/osv/web-completion-data") (:keywords "html" "auto-complete" "company")) nil])
   (weibo [cl-struct-package-desc weibo (1 0) "No description available." nil tar "melpa-stable" nil nil nil])
-  (which-key [cl-struct-package-desc which-key (0 6) "Display available keybindings in popup" ((emacs (24 3)) (s (1 9 0)) (dash (2 11 0))) single "melpa-stable" nil ((:url . "https://github.com/justbur/emacs-which-key")) nil])
+  (which-key [cl-struct-package-desc which-key (0 6 1) "Display available keybindings in popup" ((emacs (24 3)) (s (1 9 0)) (dash (2 11 0))) single "melpa-stable" nil ((:url . "https://github.com/justbur/emacs-which-key")) nil])
   (whitaker [cl-struct-package-desc whitaker (0 3) "Comint interface for Whitaker's Words" ((dash (2 10 0))) single "melpa-stable" nil ((:keywords "processes")) nil])
   (whole-line-or-region [cl-struct-package-desc whole-line-or-region (1 3 1) "operate on current line if region undefined" nil single "melpa-stable" nil ((:keywords "kill" "yank" "cut" "copy" "paste" "whole" "lines")) nil])
   (win-switch [cl-struct-package-desc win-switch (1 1) "fast, dynamic bindings for window-switching/resizing" nil single "melpa-stable" nil ((:url . "http://www.stat.cmu.edu/~genovese/emacs/win-switch/") (:keywords "window" "switch" "key bindings" "ergonomic" "efficient")) nil])

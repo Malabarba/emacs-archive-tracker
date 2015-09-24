@@ -41,7 +41,7 @@
   (epoch-view [cl-struct-package-desc epoch-view (0 0 1) "Minor mode to visualize epoch timestamps" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/epoch-view.html") (:keywords "data" "timestamp" "epoch" "unix")) nil])
   (enwc [cl-struct-package-desc enwc (1 0) "The Emacs Network Client" nil tar "gnu" nil ((:keywords "enwc" "network" "wicd" "manager" "nm") (:url . "http://elpa.gnu.org/packages/enwc.html")) nil])
   (eldoc-eval [cl-struct-package-desc eldoc-eval (0 1) "Enable eldoc support when minibuffer is in use." nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/eldoc-eval.html") (:keywords)) nil])
-  (ediprolog [cl-struct-package-desc ediprolog (1 0) "Emacs Does Interactive Prolog" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/ediprolog.html") (:keywords "languages" "processes")) nil])
+  (ediprolog [cl-struct-package-desc ediprolog (1 1) "Emacs Does Interactive Prolog" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/ediprolog.html") (:keywords "languages" "processes")) nil])
   (docbook [cl-struct-package-desc docbook (0 1) "Info-like viewer for DocBook" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/docbook.html") (:keywords "docs" "help")) nil])
   (djvu [cl-struct-package-desc djvu (0 5) "Edit and view Djvu files via djvused" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/djvu.html") (:keywords "files" "wp")) nil])
   (dict-tree [cl-struct-package-desc dict-tree (0 12 8) "Dictionary data structure" ((trie (0 2 5)) (tNFA (0 1 1)) (heap (0 3))) single "gnu" nil ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "extensions" "matching" "data structures trie" "tree" "dictionary" "completion" "regexp")) nil])
