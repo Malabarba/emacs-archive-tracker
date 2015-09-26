@@ -92,7 +92,7 @@
   (flymake-puppet [cl-struct-package-desc flymake-puppet (1 0 0) "An Emacs flymake handler for syntax-checking puppet using puppet-lint" ((flymake-easy (0 9))) single "marmalade" nil nil nil])
   (flymake-racket [cl-struct-package-desc flymake-racket (0 40) "A flymake handler for scheme-mode files" ((flymake-easy (0 1))) single "marmalade" nil nil nil])
   (fooddice [cl-struct-package-desc fooddice (0 1) "Help me I am hungry and dont know what to eat!" nil single "marmalade" nil nil nil])
-  (form-feed [cl-struct-package-desc form-feed (0 2 1) "Display ^L glyphs as horizontal lines" nil single "marmalade" nil nil nil])
+  (form-feed [cl-struct-package-desc form-feed (0 2 2) "Display ^L glyphs as horizontal lines" nil single "marmalade" nil nil nil])
   (fpaste [cl-struct-package-desc fpaste (0 1 3) "Send text to http://fpaste.org" nil single "marmalade" nil nil nil])
   (garoon [cl-struct-package-desc garoon (0 0 1) "A Garoon client." nil single "marmalade" nil nil nil])
   (gecf [cl-struct-package-desc gecf (0 1 0) "G\366ktu's Emacs configuration framework." nil single "marmalade" nil nil nil])

@@ -1,7 +1,7 @@
 '(
   (ztree [cl-struct-package-desc ztree (1 0 2) "Text mode directory tree" nil tar "gnu" nil ((:keywords "files" "tools") (:url . "https://github.com/fourier/ztree")) nil])
   (xpm [cl-struct-package-desc xpm (1 0 3) "edit XPM images" nil tar "gnu" nil ((:keywords "multimedia" "xpm") (:url . "http://www.gnuvola.org/software/xpm/")) nil])
-  (xelb [cl-struct-package-desc xelb (0 1) "X protocol Emacs Lisp Binding" ((emacs (24 4)) (cl-generic (0 2))) tar "gnu" nil ((:keywords "unix") (:url . "https://github.com/ch11ng/xelb")) nil])
+  (xelb [cl-struct-package-desc xelb (0 2) "X protocol Emacs Lisp Binding" ((emacs (24 4)) (cl-generic (0 2))) tar "gnu" nil ((:keywords "unix") (:url . "https://github.com/ch11ng/xelb")) nil])
   (wpuzzle [cl-struct-package-desc wpuzzle (1 1) "find as many word in a given time" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/wpuzzle.html") (:keywords)) nil])
   (wisi [cl-struct-package-desc wisi (1 1 1) "Utilities for implementing an indentation/navigation engine using a generalized LALR parser" ((cl-lib (0 4)) (emacs (24 2))) tar "gnu" nil ((:keywords "parser" "indentation" "navigation") (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) nil])
   (websocket [cl-struct-package-desc websocket (1 5) "Emacs WebSocket client and server" nil tar "gnu" nil ((:keywords "communication" "websocket" "server") (:url . "http://elpa.gnu.org/packages/websocket.html")) nil])
@@ -16,7 +16,7 @@
   (swiper [cl-struct-package-desc swiper (0 5 1) "Isearch with an overview. Oh, man!" ((emacs (24 1))) tar "gnu" nil ((:keywords "matching") (:url . "https://github.com/abo-abo/swiper")) nil])
   (svg [cl-struct-package-desc svg (0 1) "svg image creation functions" ((emacs (25))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/svg.html") (:keywords "image")) nil])
   (spinner [cl-struct-package-desc spinner (1 4) "Add spinners and progress-bars to the mode-line for ongoing operations" nil single "gnu" nil ((:url . "https://github.com/Malabarba/spinner.el") (:keywords "processes" "mode-line")) nil])
-  (sotlisp [cl-struct-package-desc sotlisp (1 3) "Write lisp at the speed of thought." ((emacs (24 1))) single "gnu" nil ((:url . "https://github.com/Malabarba/speed-of-thought-lisp") (:keywords "convenience" "lisp")) nil])
+  (sotlisp [cl-struct-package-desc sotlisp (1 4) "Write lisp at the speed of thought." ((emacs (24 1))) single "gnu" nil ((:url . "https://github.com/Malabarba/speed-of-thought-lisp") (:keywords "convenience" "lisp")) nil])
   (seq [cl-struct-package-desc seq (1 9) "Sequence manipulation functions" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/seq.html") (:keywords "sequences")) nil])
   (scroll-restore [cl-struct-package-desc scroll-restore (1 0) "restore original position after scrolling" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/scroll-restore.html") (:keywords "scrolling")) nil])
   (rudel [cl-struct-package-desc rudel (0 3) "A collaborative editing framework for Emacs" nil tar "gnu" nil ((:keywords "rudel" "collaboration") (:url . "http://rudel.sourceforge.net/")) nil])
