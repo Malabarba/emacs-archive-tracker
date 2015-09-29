@@ -4,7 +4,7 @@
 	      nil "auto-complete for tex-mode \\ref and \\cite labels" single
 	      ((:url . "http://user42.tuxfamily.org/ac-tex-ref/index.html"))])
  (accjournal .
-	     [(7)
+	     [(8)
 	      nil "double entry journal accounting" single
 	      ((:url . "http://user42.tuxfamily.org/accjournal/index.html"))])
  (align-let .
