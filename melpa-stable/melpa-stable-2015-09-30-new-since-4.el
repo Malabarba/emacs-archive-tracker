@@ -245,7 +245,7 @@
   (jedi-core [cl-struct-package-desc jedi-core (0 2 5) "Common code of jedi.el and company-jedi.el" ((emacs (24)) (epc (0 1 0)) (python-environment (0 0 2)) (cl-lib (0 5))) tar "melpa-stable" nil nil nil])
   (js2-highlight-vars [cl-struct-package-desc js2-highlight-vars (0 1 0) "highlight occurrences of the variable under cursor" ((js2-mode (20150909))) single "melpa-stable" nil ((:url . "http://mihai.bazon.net/projects/editing-javascript-with-emacs-js2-mode/js2-highlight-vars-mode")) nil])
   (jsfmt [cl-struct-package-desc jsfmt (0 2 0) "No description available." nil single "melpa-stable" nil nil nil])
-  (json-reformat [cl-struct-package-desc json-reformat (0 0 3) "Reformatting tool for JSON" nil single "melpa-stable" nil ((:url . "https://github.com/gongo/json-reformat") (:keywords "json")) nil])
+  (json-reformat [cl-struct-package-desc json-reformat (0 0 4) "Reformatting tool for JSON" nil single "melpa-stable" nil ((:url . "https://github.com/gongo/json-reformat") (:keywords "json")) nil])
   (jvm-mode [cl-struct-package-desc jvm-mode (0 2 0) "Monitor and manage your JVMs" ((dash (2 6 0)) (emacs (24))) single "melpa-stable" nil ((:url . "https://github.com/martintrojer/jvm-mode.el") (:keywords "convenience")) nil])
   (kaesar [cl-struct-package-desc kaesar (0 9 0) "Another AES algorithm encrypt/decrypt string with password." ((cl-lib (0 3))) single "melpa-stable" nil ((:url . "https://github.com/mhayashi1120/Emacs-kaesar/raw/master/kaesar.el") (:keywords "data")) nil])
   (kaesar-file [cl-struct-package-desc kaesar-file (0 9 0) "Encrypt/Decrypt file by AES with password." ((kaesar (0 1 1))) single "melpa-stable" nil ((:url . "https://github.com/mhayashi1120/Emacs-kaesar/raw/master/cipher/kaesar-file.el") (:keywords "data" "files")) nil])

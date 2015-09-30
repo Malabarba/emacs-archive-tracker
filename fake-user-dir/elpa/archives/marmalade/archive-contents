@@ -2336,7 +2336,7 @@
 	[(0 1 0)
 	 nil "Karma Test Runner Emacs Integration" single])
  (kanban .
-	 [(0 1 4)
+	 [(0 1 6)
 	  nil "Parse org-todo headlines to use org-tables as Kanban tables" single])
  (jump-dls .
 	   [(0 6)
