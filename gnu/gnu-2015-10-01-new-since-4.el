@@ -20,6 +20,7 @@
   (seq [cl-struct-package-desc seq (1 9) "Sequence manipulation functions" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/seq.html") (:keywords "sequences")) nil])
   (scroll-restore [cl-struct-package-desc scroll-restore (1 0) "restore original position after scrolling" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/scroll-restore.html") (:keywords "scrolling")) nil])
   (rudel [cl-struct-package-desc rudel (0 3) "A collaborative editing framework for Emacs" nil tar "gnu" nil ((:keywords "rudel" "collaboration") (:url . "http://rudel.sourceforge.net/")) nil])
+  (rich-minority [cl-struct-package-desc rich-minority (1 0) "Clean-up and Beautify the list of minor-modes." ((cl-lib (0 5))) single "gnu" nil ((:url . "http://github.com/Malabarba/rich-minority") (:keywords "mode-line" "faces")) nil])
   (poker [cl-struct-package-desc poker (0 1) "Texas hold'em poker" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/poker.html") (:keywords "games")) nil])
   (pinentry [cl-struct-package-desc pinentry (0 1) "GnuPG Pinentry server implementation" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/pinentry.html") (:keywords "gnupg")) nil])
   (pabbrev [cl-struct-package-desc pabbrev (4 2 1) "Predictive abbreviation expansion" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/pabbrev.html") (:keywords)) nil])
