@@ -6,7 +6,7 @@
   (ac-python [cl-struct-package-desc ac-python (20110519) "Simple Python Completion Source for Auto-Complete" ((auto-complete (1 4))) single "marmalade" nil nil nil])
   (alchemist [cl-struct-package-desc alchemist (1 5 0) "Elixir tooling integration into Emacs" ((elixir-mode (2 2 5)) (dash (2 11 0)) (emacs (24 4)) (company (0 8 0)) (pkg-info (0 4))) tar "marmalade" nil nil nil])
   (ample-zen-theme [cl-struct-package-desc ample-zen-theme (0 3) "AmpleZen Theme for Emacs 24" nil single "marmalade" nil nil nil])
-  (annotate [cl-struct-package-desc annotate (0 4 0) "annotate files without changing them" nil single "marmalade" nil nil nil])
+  (annotate [cl-struct-package-desc annotate (0 4 1) "annotate files without changing them" nil single "marmalade" nil nil nil])
   (ansible-doc [cl-struct-package-desc ansible-doc (0 3) "Ansible documentation Minor Mode" ((emacs (24 1))) single "marmalade" nil nil nil])
   (anzu [cl-struct-package-desc anzu (0 22) "Show number of matches in mode-line while searching" nil single "marmalade" nil nil nil])
   (aok [cl-struct-package-desc aok (0 1) "various useful ways to do `multi-occur'" nil single "marmalade" nil nil nil])

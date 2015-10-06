@@ -4479,7 +4479,7 @@
 		 (24 1)))
 	       "Ansible documentation Minor Mode" single])
  (annotate .
-	   [(0 4 0)
+	   [(0 4 1)
 	    nil "annotate files without changing them" single])
  (angular-snippets .
 		   [(0 2 3)
