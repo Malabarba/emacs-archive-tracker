@@ -106,7 +106,7 @@
   (ctags-update [cl-struct-package-desc ctags-update (0 2 0) "(auto) update TAGS in parent directory using exuberant-ctags" nil single "melpa-stable" nil ((:url . "https://github.com/jixiuf/helm-etags-plus") (:keywords "exuberant-ctags" "etags")) nil])
   (cuda-mode [cl-struct-package-desc cuda-mode (1 0 0) "NVIDIA CUDA Major Mode" nil single "melpa-stable" nil ((:keywords "c" "languages")) nil])
   (cyberpunk-theme [cl-struct-package-desc cyberpunk-theme (1 14) "Cyberpunk Color Theme" nil single "melpa-stable" nil ((:keywords "color" "theme" "cyberpunk")) nil])
-  (cython-mode [cl-struct-package-desc cython-mode (0 23 3) "Major mode for editing Cython files" nil single "melpa-stable" nil nil nil])
+  (cython-mode [cl-struct-package-desc cython-mode (0 23 4) "Major mode for editing Cython files" nil single "melpa-stable" nil nil nil])
   (d-mode [cl-struct-package-desc d-mode (2 0 6) "D Programming Language mode for (X)Emacs" nil single "melpa-stable" nil ((:keywords "d" "programming" "language" "emacs" "cc-mode")) nil])
   (dart-mode [cl-struct-package-desc dart-mode (0 14) "Major mode for editing Dart files" ((cl-lib (0 5)) (dash (2 10 0)) (flycheck (0 23))) single "melpa-stable" nil ((:url . "http://code.google.com/p/dart-mode") (:keywords "language")) nil])
   (dash [cl-struct-package-desc dash (2 12 0) "A modern list library for Emacs" nil single "melpa-stable" nil ((:keywords "lists")) nil])
