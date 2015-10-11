@@ -400,7 +400,7 @@
   (sexp-move [cl-struct-package-desc sexp-move (0 2 6) "Improved S-Expression Movement" nil single "melpa-stable" nil ((:url . "https://gitlab.com/elzair/sexp-move") (:keywords "sexp")) nil])
   (shackle [cl-struct-package-desc shackle (0 7 0) "Enforce rules for popups" ((cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/wasamasa/shackle") (:keywords "convenience")) nil])
   (shell-split-string [cl-struct-package-desc shell-split-string (0 1) "Split strings using shell-like syntax" nil single "melpa-stable" nil ((:url . "https://github.com/10sr/shell-split-string-el") (:keywords "utility" "library" "shell" "string")) nil])
-  (shell-switcher [cl-struct-package-desc shell-switcher (1 0 0) "Provide fast switching between shell buffers." ((names (20141119))) tar "melpa-stable" nil nil nil])
+  (shell-switcher [cl-struct-package-desc shell-switcher (1 0 1) "Provide fast switching between shell buffers." nil tar "melpa-stable" nil nil nil])
   (shell-toggle [cl-struct-package-desc shell-toggle (1 3 1) "Toggle to and from the shell buffer" nil single "melpa-stable" nil ((:url . "https://github.com/knu/shell-toggle.el") (:keywords "processes")) nil])
   (shelldoc [cl-struct-package-desc shelldoc (0 0 5) "shell command editing support with man page." ((cl-lib (0 3)) (s (1 9 0))) single "melpa-stable" nil ((:url . "http://github.com/mhayashi1120/Emacs-shelldoc/raw/master/shelldoc.el") (:keywords "applications")) nil])
   (shelltest-mode [cl-struct-package-desc shelltest-mode (1 1) "Major mode for shelltestrunner" nil single "melpa-stable" nil ((:url . "https://github.com/rtrn/shelltest-mode") (:keywords "languages")) nil])
