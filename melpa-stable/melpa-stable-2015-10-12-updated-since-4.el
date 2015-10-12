@@ -253,7 +253,7 @@
   (fvwm-mode [cl-struct-package-desc fvwm-mode (1 6 4) "major mode for editing Fvwm configuration files" nil single "melpa-stable" nil ((:keywords "files")) nil])
   (fwb-cmds [cl-struct-package-desc fwb-cmds (0 4 0) "misc frame, window and buffer commands" nil single "melpa-stable" nil ((:url . "http://github.com/tarsius/fwb-cmds") (:keywords "convenience")) nil])
   (gather [cl-struct-package-desc gather (1 1 0) "Gather string in buffer." nil single "melpa-stable" nil ((:url . "https://github.com/mhayashi1120/Emacs-gather/raw/master/gather.el") (:keywords "matching" "convenience" "tools")) nil])
-  (geiser [cl-struct-package-desc geiser (0 7) "GNU Emacs and Scheme talk to each other" nil tar "melpa-stable" nil nil nil])
+  (geiser [cl-struct-package-desc geiser (0 8) "GNU Emacs and Scheme talk to each other" nil tar "melpa-stable" nil nil nil])
   (ggo-mode [cl-struct-package-desc ggo-mode (20130521) "Gengetopt major mode" nil single "melpa-stable" nil ((:keywords "extensions" "convenience" "local")) nil])
   (ggtags [cl-struct-package-desc ggtags (0 8 10) "emacs frontend to GNU Global source code tagging system" ((emacs (24)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/leoliu/ggtags") (:keywords "tools" "convenience")) nil])
   (gh [cl-struct-package-desc gh (0 9 2) "A GitHub library for Emacs" ((eieio (1 4)) (pcache (0 3 0)) (logito (0 1))) tar "melpa-stable" nil nil nil])
