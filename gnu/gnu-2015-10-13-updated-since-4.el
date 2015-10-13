@@ -14,7 +14,7 @@
   (sisu-mode [cl-struct-package-desc sisu-mode (3 0 3) "Major mode for SiSU markup text" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/sisu-mode.html") (:keywords "text" "processes" "tools")) nil])
   (shen-mode [cl-struct-package-desc shen-mode (0 1) "A major mode for editing shen source code" nil tar "gnu" nil ((:keywords "languages" "shen") (:url . "http://elpa.gnu.org/packages/shen-mode.html")) nil])
   (register-list [cl-struct-package-desc register-list (0 1) "Interactively list/edit registers" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/register-list.html") (:keywords "register")) nil])
-  (rainbow-mode [cl-struct-package-desc rainbow-mode (0 11) "Colorize color names in buffers" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/rainbow-mode.html") (:keywords "faces")) nil])
+  (rainbow-mode [cl-struct-package-desc rainbow-mode (0 12) "Colorize color names in buffers" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/rainbow-mode.html") (:keywords "faces")) nil])
   (queue [cl-struct-package-desc queue (0 1 1) "Queue data structure" nil single "gnu" nil ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "extensions" "data structures" "queue")) nil])
   (quarter-plane [cl-struct-package-desc quarter-plane (0 1) "Minor mode for quarter-plane style editing" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/quarter-plane.html") (:keywords "convenience" "wp")) nil])
   (org [cl-struct-package-desc org (20151005) "Outline-based notes management and organizer" nil tar "gnu" nil nil nil])
