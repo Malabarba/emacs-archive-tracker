@@ -529,7 +529,7 @@
   (purescript-mode [cl-struct-package-desc purescript-mode (13 10) "No description available." nil tar "melpa-stable" nil nil nil])
   (pushbullet [cl-struct-package-desc pushbullet (0 5 2) "Emacs client for the PushBullet Android app" ((grapnel (0 5 2)) (json (1 2))) single "melpa-stable" nil ((:url . "http://www.github.com/theanalyst/revolver") (:keywords "convenience")) nil])
   (python-environment [cl-struct-package-desc python-environment (0 0 2) "virtualenv API for Emacs Lisp" ((deferred (0 3 1))) tar "melpa-stable" nil ((:keywords "applications" "tools")) nil])
-  (pyvenv [cl-struct-package-desc pyvenv (1 7) "Python virtual environment interface" nil single "melpa-stable" nil ((:url . "http://github.com/jorgenschaefer/pyvenv") (:keywords "python" "virtualenv" "tools")) nil])
+  (pyvenv [cl-struct-package-desc pyvenv (1 8) "Python virtual environment interface" nil single "melpa-stable" nil ((:url . "http://github.com/jorgenschaefer/pyvenv") (:keywords "python" "virtualenv" "tools")) nil])
   (qiita [cl-struct-package-desc qiita (0 0 1) "No description available." nil single "melpa-stable" nil nil nil])
   (qml-mode [cl-struct-package-desc qml-mode (0 1) "Major mode for editing QT Declarative (QML) code." nil single "melpa-stable" nil ((:url . "https://github.com/coldnew/qml-mode") (:keywords "qml" "qt" "qt declarative")) nil])
   (quickrun [cl-struct-package-desc quickrun (2 2 6) "Run commands quickly" ((emacs (24)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-quickrun")) nil])
