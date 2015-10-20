@@ -50,7 +50,7 @@
   (company [cl-struct-package-desc company (0 8 12) "Modular text completion framework" ((emacs (24 1)) (cl-lib (0 5))) tar "gnu" nil ((:keywords "abbrev" "convenience" "matching") (:url . "http://company-mode.github.io/")) nil])
   (coffee-mode [cl-struct-package-desc coffee-mode (0 4 1 1) "Major mode for CoffeeScript files" nil single "gnu" nil ((:url . "http://github.com/defunkt/coffee-mode") (:keywords "coffeescript" "major" "mode")) nil])
   (cl-lib [cl-struct-package-desc cl-lib (0 5) "Properly prefixed CL functions and macros" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/cl-lib.html") (:keywords)) nil])
-  (auctex [cl-struct-package-desc auctex (11 88 8) "Integrated environment for *TeX*" nil tar "gnu" nil ((:url . "http://www.gnu.org/software/auctex/")) nil])
+  (auctex [cl-struct-package-desc auctex (11 88 9) "Integrated environment for *TeX*" nil tar "gnu" nil ((:url . "http://www.gnu.org/software/auctex/")) nil])
   (all [cl-struct-package-desc all (1 0) "Edit all lines matching a given regexp" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/all.html") (:keywords "matching")) nil])
   (adaptive-wrap [cl-struct-package-desc adaptive-wrap (0 5) "Smart line-wrapping with wrap-prefix" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/adaptive-wrap.html") (:keywords)) nil])
   (ack [cl-struct-package-desc ack (1 5) "interface to ack-like tools" nil tar "gnu" nil ((:keywords "tools" "processes" "convenience") (:url . "https://github.com/leoliu/ack-el")) nil])
