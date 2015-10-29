@@ -361,7 +361,7 @@
   (jedi [cl-struct-package-desc jedi (0 2 5) "a Python auto-completion for Emacs" ((emacs (24)) (jedi-core (0 2 2)) (auto-complete (1 4))) single "melpa-stable" nil nil nil])
   (js2-closure [cl-struct-package-desc js2-closure (1 4) "Google Closure dependency manager" ((js2-mode (20140114))) single "melpa-stable" nil ((:url . "http://github.com/jart/js2-closure")) nil])
   (js2-mode [cl-struct-package-desc js2-mode (20150909) "Improved JavaScript editing mode" ((emacs (24 1)) (cl-lib (0 5))) tar "melpa-stable" nil ((:url . "https://github.com/mooz/js2-mode/") (:keywords "languages" "javascript")) nil])
-  (js2-refactor [cl-struct-package-desc js2-refactor (0 7 0) "A JavaScript refactoring library for emacs." ((js2-mode (20101228)) (s (1 9 0)) (multiple-cursors (1 0 0)) (dash (1 0 0)) (s (1 0 0)) (yasnippet (20130218))) tar "melpa-stable" nil nil nil])
+  (js2-refactor [cl-struct-package-desc js2-refactor (0 7 1) "A JavaScript refactoring library for emacs." ((js2-mode (20101228)) (s (1 9 0)) (multiple-cursors (1 0 0)) (dash (1 0 0)) (s (1 0 0)) (yasnippet (0 9 0 1))) tar "melpa-stable" nil nil nil])
   (js3-mode [cl-struct-package-desc js3-mode (1 1 0) "An improved JavaScript editing mode" nil tar "melpa-stable" nil ((:keywords "javascript" "languages")) nil])
   (json-mode [cl-struct-package-desc json-mode (1 1 0) "Major mode for editing JSON files" nil single "melpa-stable" nil ((:url . "https://github.com/joshwnj/json-mode")) nil])
   (jsx-mode [cl-struct-package-desc jsx-mode (0 1 10) "major mode for JSX" nil single "melpa-stable" nil ((:url . "https://github.com/jsx/jsx-mode.el")) nil])
