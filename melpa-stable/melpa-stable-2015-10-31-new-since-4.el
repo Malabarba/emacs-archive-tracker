@@ -502,6 +502,7 @@
   (zerodark-theme [cl-struct-package-desc zerodark-theme (0 1) "A dark, medium contrast theme for Emacs" nil single "melpa-stable" nil ((:url . "https://github.com/NicolasPetton/zerodark-theme") (:keywords "themes")) nil])
   (zombie-trellys-mode [cl-struct-package-desc zombie-trellys-mode (0 2 1) "A minor mode for interaction with Zombie Trellys" ((emacs (24)) (cl-lib (0 5)) (haskell-mode (1 5))) single "melpa-stable" nil ((:keywords "languages")) nil])
   (zone-nyan [cl-struct-package-desc zone-nyan (0 0 1) "Zone out with nyan cat" ((esxml (0 3 1))) single "melpa-stable" nil ((:url . "https://github.com/wasamasa/zone-nyan") (:keywords "zone")) nil])
+  (zoom-window [cl-struct-package-desc zoom-window (0 1) "Zoom window like tmux" nil single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-zoom-window")) nil])
   (zop-to-char [cl-struct-package-desc zop-to-char (1 0) "A replacement of zap-to-char." ((cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/thierryvolpiatto/zop-to-char")) nil])
   (zotelo [cl-struct-package-desc zotelo (1 3) "Manage Zotero collections from emacs" nil single "melpa-stable" nil ((:url . "https://github.com/vitoshka/zotelo") (:keywords "zotero" "emacs" "reftex" "bibtex" "mozrepl" "bibliography manager")) nil])
   (zzz-to-char [cl-struct-package-desc zzz-to-char (0 1 0) "Fancy version of `zap-to-char' command" ((emacs (24 4)) (cl-lib (0 5)) (avy (0 3 0))) single "melpa-stable" nil ((:url . "https://github.com/mrkkrp/zzz-to-char") (:keywords "convenience")) nil])

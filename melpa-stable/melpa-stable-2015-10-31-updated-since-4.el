@@ -364,7 +364,7 @@
   (js2-mode [cl-struct-package-desc js2-mode (20150909) "Improved JavaScript editing mode" ((emacs (24 1)) (cl-lib (0 5))) tar "melpa-stable" nil ((:url . "https://github.com/mooz/js2-mode/") (:keywords "languages" "javascript")) nil])
   (js2-refactor [cl-struct-package-desc js2-refactor (0 7 1) "A JavaScript refactoring library for emacs." ((js2-mode (20101228)) (s (1 9 0)) (multiple-cursors (1 0 0)) (dash (1 0 0)) (s (1 0 0)) (yasnippet (0 9 0 1))) tar "melpa-stable" nil nil nil])
   (js3-mode [cl-struct-package-desc js3-mode (1 1 0) "An improved JavaScript editing mode" nil tar "melpa-stable" nil ((:keywords "javascript" "languages")) nil])
-  (json-mode [cl-struct-package-desc json-mode (1 1 0) "Major mode for editing JSON files" nil single "melpa-stable" nil ((:url . "https://github.com/joshwnj/json-mode")) nil])
+  (json-mode [cl-struct-package-desc json-mode (1 5 0) "Major mode for editing JSON files" ((json-reformat (20141009 1155)) (json-snatcher (20131110 1107))) single "melpa-stable" nil ((:url . "https://github.com/joshwnj/json-mode")) nil])
   (jsx-mode [cl-struct-package-desc jsx-mode (0 1 10) "major mode for JSX" nil single "melpa-stable" nil ((:url . "https://github.com/jsx/jsx-mode.el")) nil])
   (julia-mode [cl-struct-package-desc julia-mode (0 4 0) "Major mode for editing Julia source code" nil single "melpa-stable" nil ((:url . "https://github.com/JuliaLang/julia") (:keywords "languages")) nil])
   (jump [cl-struct-package-desc jump (2 3) "build functions which contextually jump between files" ((findr (0 7)) (inflections (1 1))) single "melpa-stable" nil ((:url . "http://github.com/eschulte/jump.el/tree/master") (:keywords "project" "convenience" "navigation")) nil])
