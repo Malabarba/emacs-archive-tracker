@@ -3305,7 +3305,7 @@
 	      (1 4)))
 	    "finalizers for Emacs Lisp" tar])
  (fill-column-indicator .
-			[(1 86)
+			[(1 87)
 			 nil "Graphically indicate the fill column" single])
  (file-format .
 	      [(0 0 4)
