@@ -100,6 +100,7 @@
   (docker [cl-struct-package-desc docker (0 1 0) "Emacs interface to Docker" ((emacs (24 4)) (dash (1 5 0)) (magit-popup (2 0 50)) (s (1 9 0))) tar "melpa-stable" nil nil nil])
   (dockerfile-mode [cl-struct-package-desc dockerfile-mode (1 2) "Major mode for editing Docker's Dockerfiles" nil single "melpa-stable" nil nil nil])
   (downplay-mode [cl-struct-package-desc downplay-mode (0 1) "focus attention on a region of the buffer" nil single "melpa-stable" nil ((:url . "https://github.com/tobias/downplay-mode/")) nil])
+  (dracula-theme [cl-struct-package-desc dracula-theme (1 0 0) "No description available." nil single "melpa-stable" nil nil nil])
   (dyalog-mode [cl-struct-package-desc dyalog-mode (0 3) "Major mode for editing Dyalog APL source code" nil single "melpa-stable" nil ((:url . "http://bitbucket.org/harsman/dyalog-mode") (:keywords "languages")) nil])
   (dynamic-ruler [cl-struct-package-desc dynamic-ruler (0 1 4) "Displays a dynamic ruler at point." nil single "melpa-stable" nil ((:url . "http://rocher.github.io/dynamic-ruler") (:keywords "ruler" "tools" "convenience")) nil])
   (e2wm-direx [cl-struct-package-desc e2wm-direx (0 0 5) "Plugin of e2wm.el for direx.el" ((e2wm (1 2)) (direx (0 1 -3))) single "melpa-stable" nil ((:url . "https://github.com/aki2o/e2wm-direx") (:keywords "tools" "window manager" "convenience")) nil])

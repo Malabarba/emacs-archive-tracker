@@ -182,7 +182,7 @@
   (ess-smart-underscore [cl-struct-package-desc ess-smart-underscore (0 79) "Ess Smart Underscore" nil tar "melpa-stable" nil ((:url . "http://github.com/mlf176f2/ess-smart-underscore.el") (:keywords "ess" "underscore")) nil])
   (esup [cl-struct-package-desc esup (0 4) "the Emacs StartUp Profiler (ESUP)" nil single "melpa-stable" nil ((:url . "http://github.com/jschaf/esup") (:keywords "emacs-lisp" "elisp" "profile" "startup")) nil])
   (eval-sexp-fu [cl-struct-package-desc eval-sexp-fu (0 4 0) "Tiny functionality enhancements for evaluating sexps." nil single "melpa-stable" nil ((:keywords "lisp" "highlight" "convenience")) nil])
-  (evil [cl-struct-package-desc evil (1 2 6) "Extensible Vi layer for Emacs." ((undo-tree (0 6 3)) (goto-chg (1 6))) tar "melpa-stable" nil nil nil])
+  (evil [cl-struct-package-desc evil (1 2 7) "Extensible Vi layer for Emacs." ((undo-tree (0 6 3)) (goto-chg (1 6))) tar "melpa-stable" nil nil nil])
   (evil-args [cl-struct-package-desc evil-args (1 0) "Motions and text objects for delimited arguments in Evil." ((evil (1 0 8))) single "melpa-stable" nil ((:url . "http://github.com/wcsmith/evil-args") (:keywords "evil" "vim-emulation")) nil])
   (evil-jumper [cl-struct-package-desc evil-jumper (0 2 0) "Jump like vimmers do!" ((evil (0))) single "melpa-stable" nil ((:url . "https://github.com/bling/evil-jumper") (:keywords "evil" "vim" "jumplist" "jump" "list")) nil])
   (evil-leader [cl-struct-package-desc evil-leader (0 4 3) "let there be <leader>" ((evil (0))) single "melpa-stable" nil ((:url . "http://github.com/cofi/evil-leader") (:keywords "evil" "vim-emulation" "leader")) nil])
