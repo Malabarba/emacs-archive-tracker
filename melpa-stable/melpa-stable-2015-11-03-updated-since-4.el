@@ -205,7 +205,6 @@
   (factlog [cl-struct-package-desc factlog (0 0 1) "File activity logger" nil single "melpa-stable" nil nil nil])
   (fancy-battery [cl-struct-package-desc fancy-battery (0 2) "Fancy battery display" ((emacs (24 1))) single "melpa-stable" nil ((:url . "https://github.com/lunaryorn/fancy-battery.el") (:keywords "convenience" "tools" "hardware")) nil])
   (fancy-narrow [cl-struct-package-desc fancy-narrow (0 9 4) "narrow-to-region with more eye candy." nil single "melpa-stable" nil ((:url . "http://github.com/Bruce-Connor/fancy-narrow-region") (:keywords "faces" "convenience")) nil])
-  (fasm-mode [cl-struct-package-desc fasm-mode (0 1 11) "Fasm major mode" nil single "melpa-stable" nil ((:url . "https://github.com/Fanael/fasm-mode")) nil])
   (fastnav [cl-struct-package-desc fastnav (1 0 7) "Fast navigation and editing routines." nil single "melpa-stable" nil ((:keywords "nav" "fast" "fastnav" "navigation")) nil])
   (fill-column-indicator [cl-struct-package-desc fill-column-indicator (1 81) "Graphically indicate the fill column" nil tar "melpa-stable" nil ((:keywords "convenience")) nil])
   (finalize [cl-struct-package-desc finalize (1 0 0) "finalizers for Emacs Lisp" ((emacs (24 1)) (cl-lib (0 3)) (eieio (1 4))) tar "melpa-stable" nil nil nil])
