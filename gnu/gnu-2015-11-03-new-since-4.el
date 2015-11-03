@@ -45,6 +45,7 @@
   (gnorb [cl-struct-package-desc gnorb (1 1 1) "Glue code between Gnus, Org, and BBDB" ((cl-lib (0 5))) tar "gnu" nil ((:keywords "mail" "org" "gnus" "bbdb" "todo" "task") (:url . "https://github.com/girzel/gnorb")) nil])
   (fsm [cl-struct-package-desc fsm (0 2) "state machine library" ((emacs (24 1)) (cl-lib (0 5))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/fsm.html") (:keywords "extensions")) nil])
   (flylisp [cl-struct-package-desc flylisp (0 2) "Color unbalanced parentheses and parentheses inconsistent with indentation" ((emacs (24 1)) (cl-lib (0 4))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/flylisp.html") (:keywords)) nil])
+  (exwm [cl-struct-package-desc exwm (0 1) "Emacs X Window Manager" ((xelb (0 3))) tar "gnu" nil ((:keywords "unix") (:url . "https://github.com/ch11ng/exwm")) nil])
   (ergoemacs-mode [cl-struct-package-desc ergoemacs-mode (5 14 7 3) "Emacs mode based on common modern interface and ergonomics." ((emacs (24 1)) (undo-tree (0 6 5))) tar "gnu" nil ((:keywords "convenience") (:url . "https://github.com/ergoemacs/ergoemacs-mode")) nil])
   (electric-spacing [cl-struct-package-desc electric-spacing (5 0) "Insert operators with surrounding spaces smartly" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/electric-spacing.html") (:keywords)) nil])
   (el-search [cl-struct-package-desc el-search (0 1) "Expression based incremental search for emacs-lisp-mode" ((emacs (25))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/el-search.html") (:keywords "lisp")) nil])
