@@ -261,7 +261,7 @@
   (esh-help [cl-struct-package-desc esh-help (20140107 222) "Add some help functions and support for Eshell" ((dash (1 4 0))) single "melpa" nil ((:url . "https://github.com/tom-tan/esh-help/") (:keywords "eshell" "extensions")) nil])
   (espresso-theme [cl-struct-package-desc espresso-theme (20130228 2348) "Espresso Tutti Colori port for Emacs" nil single "melpa" nil ((:url . "https://github.com/dgutov/espresso-theme")) nil])
   (espuds [cl-struct-package-desc espuds (20150717 834) "Ecukes step definitions" ((s (1 7 0)) (dash (2 2 0)) (f (0 12 1))) single "melpa" nil ((:url . "http://github.com/ecukes/espuds") (:keywords "test")) nil])
-  (ess [cl-struct-package-desc ess (20151105 852) "Emacs Speaks Statistics" ((julia-mode (0 3))) tar "melpa" nil ((:url . "http://ess.r-project.org")) nil])
+  (ess [cl-struct-package-desc ess (20151107 425) "Emacs Speaks Statistics" ((julia-mode (0 3))) tar "melpa" nil ((:url . "http://ess.r-project.org")) nil])
   (ess-R-data-view [cl-struct-package-desc ess-R-data-view (20130509 458) "Data viewer for GNU R" ((ctable (20130313 1743)) (popup (20130324 1305)) (ess (20130225 1754))) single "melpa" nil ((:url . "https://github.com/myuhe/ess-R-data-view.el") (:keywords "convenience")) nil])
   (ess-R-object-popup [cl-struct-package-desc ess-R-object-popup (20130302 336) "popup description of R object" ((popup (20130117 1954)) (ess (20130225 1754))) single "melpa" nil ((:url . "https://github.com/myuhe/ess-R-object-popup.el") (:keywords "convenience" "ess")) nil])
   (esup [cl-struct-package-desc esup (20151005 1952) "the Emacs StartUp Profiler (ESUP)" ((cl-lib (0 5)) (emacs (24))) tar "melpa" nil ((:url . "http://github.com/jschaf/esup") (:keywords "convenience" "processes")) nil])
