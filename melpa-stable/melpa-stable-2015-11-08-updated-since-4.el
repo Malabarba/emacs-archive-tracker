@@ -365,7 +365,7 @@
   (js3-mode [cl-struct-package-desc js3-mode (1 1 0) "An improved JavaScript editing mode" nil tar "melpa-stable" nil ((:keywords "javascript" "languages")) nil])
   (json-mode [cl-struct-package-desc json-mode (1 5 0) "Major mode for editing JSON files" ((json-reformat (20141009 1155)) (json-snatcher (20131110 1107))) single "melpa-stable" nil ((:url . "https://github.com/joshwnj/json-mode")) nil])
   (jsx-mode [cl-struct-package-desc jsx-mode (0 1 10) "major mode for JSX" nil single "melpa-stable" nil ((:url . "https://github.com/jsx/jsx-mode.el")) nil])
-  (julia-mode [cl-struct-package-desc julia-mode (0 4 0) "Major mode for editing Julia source code" nil single "melpa-stable" nil ((:url . "https://github.com/JuliaLang/julia") (:keywords "languages")) nil])
+  (julia-mode [cl-struct-package-desc julia-mode (0 4 1) "Major mode for editing Julia source code" nil single "melpa-stable" nil ((:url . "https://github.com/JuliaLang/julia") (:keywords "languages")) nil])
   (jump [cl-struct-package-desc jump (2 3) "build functions which contextually jump between files" ((findr (0 7)) (inflections (1 1))) single "melpa-stable" nil ((:url . "http://github.com/eschulte/jump.el/tree/master") (:keywords "project" "convenience" "navigation")) nil])
   (jump-to-line [cl-struct-package-desc jump-to-line (0 2 0) "Jump to line number at point." nil single "melpa-stable" nil ((:keywords "jump" "line" "back" "file" "ruby" "csharp" "python" "perl")) nil])
   (key-combo [cl-struct-package-desc key-combo (1 6) "map key sequence to commands" nil single "melpa-stable" nil ((:url . "https://github.com/uk-ar/key-combo") (:keywords "keyboard" "input")) nil])
