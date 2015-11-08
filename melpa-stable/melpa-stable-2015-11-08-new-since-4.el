@@ -131,6 +131,7 @@
   (emms-player-mpv [cl-struct-package-desc emms-player-mpv (0 0 5) "mpv support for EMMS" ((emms (0))) single "melpa-stable" nil ((:url . "https://github.com/dochang/emms-player-mpv/") (:keywords "emms" "mpv")) nil])
   (emms-player-simple-mpv [cl-struct-package-desc emms-player-simple-mpv (0 3 0) "An extension of emms-player-simple.el for mpv JSON IPC" ((emacs (24)) (cl-lib (0 5)) (emms (4 0))) tar "melpa-stable" nil ((:url . "https://github.com/momomo5717/emms-player-simple-mpv") (:keywords "emms" "mpv")) nil])
   (emoji-cheat-sheet-plus [cl-struct-package-desc emoji-cheat-sheet-plus (1 2 1) "emoji-cheat-sheet for emacs" ((emacs (24)) (helm (1 6 4))) tar "melpa-stable" nil ((:url . "https://github.com/syl20bnr/emacs-emoji-cheat-sheet-plus") (:keywords "emacs" "emoji")) nil])
+  (emoji-fontset [cl-struct-package-desc emoji-fontset (0 1 0) "Set font face for Emoji." nil single "melpa-stable" nil ((:keywords "emoji" "font" "config")) nil])
   (engine-mode [cl-struct-package-desc engine-mode (1 0 0) "Define and query search engines from within Emacs." nil single "melpa-stable" nil ((:url . "https://github.com/hrs/engine-mode/engine-mode.el")) nil])
   (enlive [cl-struct-package-desc enlive (0 0 1) "query html document with css selectors" nil single "melpa-stable" nil ((:url . "http://github.com/zweifisch/enlive") (:keywords "css" "selector" "query")) nil])
   (erc-youtube [cl-struct-package-desc erc-youtube (0 -3) "Show received youtube urls in the ERC buffer" ((erc (5 3))) single "melpa-stable" nil ((:keywords "multimedia")) nil])
