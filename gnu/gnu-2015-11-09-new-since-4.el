@@ -1,7 +1,7 @@
 '(
   (ztree [cl-struct-package-desc ztree (1 0 2) "Text mode directory tree" nil tar "gnu" nil ((:keywords "files" "tools") (:url . "https://github.com/fourier/ztree")) nil])
   (xpm [cl-struct-package-desc xpm (1 0 3) "edit XPM images" nil tar "gnu" nil ((:keywords "multimedia" "xpm") (:url . "http://www.gnuvola.org/software/xpm/")) nil])
-  (xelb [cl-struct-package-desc xelb (0 3) "X protocol Emacs Lisp Binding" ((emacs (24 4)) (cl-generic (0 2))) tar "gnu" nil ((:keywords "unix") (:url . "https://github.com/ch11ng/xelb")) nil])
+  (xelb [cl-struct-package-desc xelb (0 4) "X protocol Emacs Lisp Binding" ((emacs (24 4)) (cl-generic (0 2))) tar "gnu" nil ((:keywords "unix") (:url . "https://github.com/ch11ng/xelb")) nil])
   (wpuzzle [cl-struct-package-desc wpuzzle (1 1) "find as many word in a given time" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/wpuzzle.html") (:keywords)) nil])
   (wisi [cl-struct-package-desc wisi (1 1 1) "Utilities for implementing an indentation/navigation engine using a generalized LALR parser" ((cl-lib (0 4)) (emacs (24 2))) tar "gnu" nil ((:keywords "parser" "indentation" "navigation") (:url . "http://stephe-leake.org/emacs/ada-mode/emacs-ada-mode.html")) nil])
   (websocket [cl-struct-package-desc websocket (1 5) "Emacs WebSocket client and server" nil tar "gnu" nil ((:keywords "communication" "websocket" "server") (:url . "http://elpa.gnu.org/packages/websocket.html")) nil])
@@ -27,7 +27,7 @@
   (pabbrev [cl-struct-package-desc pabbrev (4 2 1) "Predictive abbreviation expansion" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/pabbrev.html") (:keywords)) nil])
   (other-frame-window [cl-struct-package-desc other-frame-window (1 0 1) "Minor mode to enable global prefix keys for other frame/window buffer placement" ((emacs (24 4))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/other-frame-window.html") (:keywords "frame" "window")) nil])
   (osc [cl-struct-package-desc osc (0 1) "Open Sound Control protocol library" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/osc.html") (:keywords "comm" "processes" "multimedia")) nil])
-  (on-screen [cl-struct-package-desc on-screen (1 3 1) "guide your eyes while scrolling" ((cl-lib (0))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/on-screen.html") (:keywords "convenience")) nil])
+  (on-screen [cl-struct-package-desc on-screen (1 3 2) "guide your eyes while scrolling" ((cl-lib (0))) single "gnu" nil ((:url . "https://github.com/michael-heerdegen/on-screen.el") (:keywords "convenience")) nil])
   (names [cl-struct-package-desc names (20150723 0) "Namespaces for emacs-lisp. Avoid name clobbering without hiding symbols." ((emacs (24 1)) (cl-lib (0 5))) tar "gnu" nil ((:keywords "extensions" "lisp") (:url . "https://github.com/Bruce-Connor/names")) nil])
   (nameless [cl-struct-package-desc nameless (0 5 1) "Hide package namespace in your emacs-lisp code" ((emacs (24 4))) single "gnu" nil ((:url . "https://github.com/Malabarba/nameless") (:keywords "convenience" "lisp")) nil])
   (minibuffer-line [cl-struct-package-desc minibuffer-line (0 1) "Display status info in the minibuffer window" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/minibuffer-line.html") (:keywords)) nil])
