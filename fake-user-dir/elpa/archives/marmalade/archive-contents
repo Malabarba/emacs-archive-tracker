@@ -1,4 +1,7 @@
 (1
+ (eruby-mode .
+	     [(1 20151111)
+	      nil "minor mode for eRuby (.erb) template files" single])
  (zone-nyan .
 	    [(0 1 1)
 	     ((esxml
