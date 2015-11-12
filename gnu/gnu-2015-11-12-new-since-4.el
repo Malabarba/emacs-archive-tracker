@@ -15,7 +15,7 @@
   (temp-buffer-browse [cl-struct-package-desc temp-buffer-browse (1 4) "temp buffer browse mode" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/temp-buffer-browse.html") (:keywords "convenience")) nil])
   (swiper [cl-struct-package-desc swiper (0 5 1) "Isearch with an overview. Oh, man!" ((emacs (24 1))) tar "gnu" nil ((:keywords "matching") (:url . "https://github.com/abo-abo/swiper")) nil])
   (svg [cl-struct-package-desc svg (0 1) "svg image creation functions" ((emacs (25))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/svg.html") (:keywords "image")) nil])
-  (stream [cl-struct-package-desc stream (2 0 5) "Implementation of streams" ((emacs (25))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/stream.html") (:keywords "stream" "laziness" "sequences")) nil])
+  (stream [cl-struct-package-desc stream (2 1 0) "Implementation of streams" ((emacs (25))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/stream.html") (:keywords "stream" "laziness" "sequences")) nil])
   (spinner [cl-struct-package-desc spinner (1 4) "Add spinners and progress-bars to the mode-line for ongoing operations" nil single "gnu" nil ((:url . "https://github.com/Malabarba/spinner.el") (:keywords "processes" "mode-line")) nil])
   (sotlisp [cl-struct-package-desc sotlisp (1 4 1) "Write lisp at the speed of thought." ((emacs (24 1))) single "gnu" nil ((:url . "https://github.com/Malabarba/speed-of-thought-lisp") (:keywords "convenience" "lisp")) nil])
   (seq [cl-struct-package-desc seq (1 11) "Sequence manipulation functions" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/seq.html") (:keywords "sequences")) nil])
