@@ -1,7 +1,4 @@
 (1
- (eruby-mode .
-	     [(1 20151111)
-	      nil "minor mode for eRuby (.erb) template files" single])
  (zone-nyan .
 	    [(0 1 1)
 	     ((esxml
@@ -3459,6 +3456,9 @@
 	       (emacs
 		(24)))
 	      "Window-management utilities" single])
+ (eruby-mode .
+	     [(1 20151111)
+	      nil "minor mode for eRuby (.erb) template files" single])
  (ertx .
        [(0 0 2)
 	nil "Extra useful testing functions for EmacsLisp." single])

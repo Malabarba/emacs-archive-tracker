@@ -62,6 +62,7 @@
   (eprime-mode [cl-struct-package-desc eprime-mode (1 1 2) "An E-prime checking mode for Emacs" nil single "marmalade" nil nil nil])
   (erc-nick-notify [cl-struct-package-desc erc-nick-notify (0 2 1) "Notify popup for ERC" nil single "marmalade" nil nil nil])
   (ertx [cl-struct-package-desc ertx (0 0 2) "Extra useful testing functions for EmacsLisp." nil single "marmalade" nil nil nil])
+  (eruby-mode [cl-struct-package-desc eruby-mode (1 20151111) "minor mode for eRuby (.erb) template files" nil single "marmalade" nil nil nil])
   (es-windows [cl-struct-package-desc es-windows (0 2) "Window-management utilities" ((cl-lib (0 3)) (emacs (24))) single "marmalade" nil nil nil])
   (eshell-fringe-status [cl-struct-package-desc eshell-fringe-status (1 0 0) "Show last status in fringe" nil single "marmalade" nil nil nil])
   (ess-R-object-popup [cl-struct-package-desc ess-R-object-popup (0 0 6) "popup description of R object" nil single "marmalade" nil nil nil])
@@ -280,5 +281,4 @@
   (zenburn [cl-struct-package-desc zenburn (0 1) "A low contrast colour theme for Emacs" nil single "marmalade" nil nil nil])
   (zone-matrix [cl-struct-package-desc zone-matrix (0 0 1) "Matrix themed Zone mode" nil tar "marmalade" nil nil nil])
   (zone-nyan [cl-struct-package-desc zone-nyan (0 1 1) "Zone out with nyan cat" ((esxml (0 3 1))) single "marmalade" nil nil nil])
-  (eruby-mode [cl-struct-package-desc eruby-mode (1 20151111) "minor mode for eRuby (.erb) template files" nil single "marmalade" nil nil nil])
  )
