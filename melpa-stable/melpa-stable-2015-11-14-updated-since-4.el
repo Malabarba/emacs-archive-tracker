@@ -177,7 +177,7 @@
   (ert-runner [cl-struct-package-desc ert-runner (0 7 0) "Opinionated Ert testing workflow" ((s (1 6 1)) (dash (1 8 0)) (f (0 10 0)) (commander (0 2 0)) (ansi (0 1 0)) (shut-up (0 1 0))) tar "melpa-stable" nil ((:url . "http://github.com/rejeep/ert-runner.el") (:keywords "test")) nil])
   (es-mode [cl-struct-package-desc es-mode (4 0 0) "A major mode for editing Elasticsearch queries" nil tar "melpa-stable" nil ((:url . "http://www.github.com/dakrone/es-mode") (:keywords "elasticsearch")) nil])
   (es-windows [cl-struct-package-desc es-windows (0 3) "Window-management utilities" ((cl-lib (0 3)) (emacs (24))) single "melpa-stable" nil ((:url . "https://github.com/sabof/es-windows")) nil])
-  (espuds [cl-struct-package-desc espuds (0 3 2) "Ecukes step definitions" ((s (1 7 0)) (dash (2 2 0)) (f (0 12 1))) single "melpa-stable" nil ((:url . "http://github.com/ecukes/espuds") (:keywords "test")) nil])
+  (espuds [cl-struct-package-desc espuds (0 3 3) "Ecukes step definitions" ((s (1 7 0)) (dash (2 2 0)) (f (0 12 1))) single "melpa-stable" nil ((:url . "http://github.com/ecukes/espuds") (:keywords "test")) nil])
   (ess [cl-struct-package-desc ess (15 9) "Emacs Speaks Statistics" ((julia-mode (0 3))) tar "melpa-stable" nil ((:url . "http://ess.r-project.org")) nil])
   (ess-smart-underscore [cl-struct-package-desc ess-smart-underscore (0 79) "Ess Smart Underscore" nil tar "melpa-stable" nil ((:url . "http://github.com/mlf176f2/ess-smart-underscore.el") (:keywords "ess" "underscore")) nil])
   (esup [cl-struct-package-desc esup (0 4) "the Emacs StartUp Profiler (ESUP)" nil single "melpa-stable" nil ((:url . "http://github.com/jschaf/esup") (:keywords "emacs-lisp" "elisp" "profile" "startup")) nil])
