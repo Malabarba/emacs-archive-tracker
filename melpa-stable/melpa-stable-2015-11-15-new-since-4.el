@@ -445,6 +445,7 @@
   (shelltest-mode [cl-struct-package-desc shelltest-mode (1 1) "Major mode for shelltestrunner" nil single "melpa-stable" nil ((:url . "https://github.com/rtrn/shelltest-mode") (:keywords "languages")) nil])
   (shpec-mode [cl-struct-package-desc shpec-mode (0 1 0) "Minor mode for shpec specification" nil single "melpa-stable" nil ((:url . "http://github.com/shpec/shpec-mode") (:keywords "languages" "tools")) nil])
   (shrink-whitespace [cl-struct-package-desc shrink-whitespace (0 0 1) "Whitespace removal DWIM key" nil single "melpa-stable" nil ((:url . "https://github.com/jcpetkovich/shrink-whitespace.el") (:keywords "editing")) nil])
+  (sift [cl-struct-package-desc sift (0 1 0) "A front-end for sift, a fast and powerful open source alternative to grep" nil tar "melpa-stable" nil ((:url . "https://github.com/nlamirault/sift.el") (:keywords "sift" "ack" "pt" "ag" "grep" "search")) nil])
   (simplenote2 [cl-struct-package-desc simplenote2 (2 2 2) "Interact with simple-note.appspot.com" ((request-deferred (0 2 0))) single "melpa-stable" nil ((:keywords "simplenote")) nil])
   (sly-company [cl-struct-package-desc sly-company (0 8) "sly completion backend for company mode" ((sly (1 0 0 -3)) (company (0 7)) (emacs (24 3))) single "melpa-stable" nil ((:keywords "convenience" "lisp" "abbrev")) nil])
   (smartparens [cl-struct-package-desc smartparens (1 6 3) "Automatic insertion, wrapping and paredit-like navigation with user defined pairs." ((cl-lib (0 3)) (dash (2 6 0))) tar "melpa-stable" nil nil nil])
