@@ -1,6 +1,6 @@
 (1
  (ac-tex-ref .
-	     [(2)
+	     [(3)
 	      nil "auto-complete for tex-mode \\ref and \\cite labels" single
 	      ((:url . "http://user42.tuxfamily.org/ac-tex-ref/index.html"))])
  (accjournal .
@@ -128,7 +128,7 @@
 	    nil "find Gnus message MML attached file at point" single
 	    ((:url . "http://user42.tuxfamily.org/ffap-mml/index.html"))])
  (ffap-perl-module .
-		   [(23)
+		   [(24)
 		    nil "find perl module at point with ffap" single
 		    ((:url . "http://user42.tuxfamily.org/ffap-perl-module/index.html"))])
  (ffap-pod-F .
@@ -232,11 +232,11 @@
 		   nil "nroff comment prefixes for filladapt" single
 		   ((:url . "http://user42.tuxfamily.org/nroff-filladapt/index.html"))])
  (oeis .
-       [(7)
+       [(8)
 	nil "helpers for the Online Encyclopedia of Integer Sequences" single
 	((:url . "http://user42.tuxfamily.org/oeis-el/index.html"))])
  (parasep .
-	  [(5)
+	  [(6)
 	   nil "more paragraph separators" single
 	   ((:url . "http://user42.tuxfamily.org/parasep/index.html"))])
  (pcf2bdf .
@@ -312,7 +312,7 @@
 	      nil "text file backspacing and ANSI SGR as faces" single
 	      ((:url . "http://user42.tuxfamily.org/tty-format/index.html"))])
  (unicode-disp .
-	       [(10)
+	       [(11)
 		nil "display-table fallbacks for some unicode chars" single
 		((:url . "http://user42.tuxfamily.org/unicode-disp/index.html"))])
  (upstr .
