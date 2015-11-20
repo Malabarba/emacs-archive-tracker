@@ -1,7 +1,4 @@
 (1
- (buffer-extension .
-		   [(0 1)
-		    nil "Some enhanced functions for buffer manipulate." single])
  (zone-nyan .
 	    [(0 2 0)
 	     ((esxml
@@ -4344,6 +4341,9 @@
  (buffer-file-utils .
 		    [(1 0)
 		     nil "utilities operating on a buffer and the associated file" single])
+ (buffer-extension .
+		   [(0 1)
+		    nil "Some enhanced functions for buffer manipulate." single])
  (bubbleberry-theme .
 		    [(0 1 2)
 		     ((emacs
