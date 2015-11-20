@@ -458,6 +458,7 @@
   (sos [cl-struct-package-desc sos (0 1) "StackOverflow Search" ((org (7))) single "melpa-stable" nil ((:url . "https://github.com/omouse/emacs-sos") (:keywords "tools" "search" "questions")) nil])
   (sotlisp [cl-struct-package-desc sotlisp (1 4 1) "Write lisp at the speed of thought." ((emacs (24 1))) single "melpa-stable" nil ((:url . "https://github.com/Malabarba/speed-of-thought-lisp") (:keywords "convenience" "lisp")) nil])
   (sound-wav [cl-struct-package-desc sound-wav (0 1) "Play wav file" ((deferred (0 3 1)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/syohex/emacs-sound-wav")) nil])
+  (spaceline [cl-struct-package-desc spaceline (1 0) "Modeline configuration library for powerline" ((emacs (24)) (cl-lib (0 5)) (powerline (2 3)) (dash (2 11 0)) (s (1 10 0))) tar "melpa-stable" nil ((:url . "https://github.com/TheBB/spaceline") (:keywords "mode-line" "powerline" "spacemacs")) nil])
   (sparkline [cl-struct-package-desc sparkline (1 0 2) "Make sparkline images from a list of numbers" ((cl-lib (0 3))) single "melpa-stable" nil ((:keywords "extensions")) nil])
   (speech-tagger [cl-struct-package-desc speech-tagger (0 0 0) "No description available." nil single "melpa-stable" nil nil nil])
   (sphinx-doc [cl-struct-package-desc sphinx-doc (0 1 0) "Sphinx friendly docstrings for Python functions" ((s (1 9 0)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/naiquevin/sphinx-doc.el") (:keywords "sphinx" "python")) nil])
