@@ -3346,7 +3346,7 @@
        (2 2 0)))
      "Modern API for working with files and directories" single])
  (eyebrowse .
-	    [(0 6 7)
+	    [(0 6 8)
 	     ((dash
 	       (2 7 0))
 	      (emacs
@@ -3619,7 +3619,7 @@
 		(24 1)))
 	      "web interface to Elfeed" tar])
  (elfeed .
-	 [(1 2 0)
+	 [(1 3 0)
 	  ((emacs
 	    (24 3)))
 	  "an Emacs Atom/RSS feed reader" tar])
