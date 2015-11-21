@@ -126,7 +126,7 @@
   (crontab-mode [cl-struct-package-desc crontab-mode (1 2) "Mode for editing crontab files" nil single "marmalade" nil nil nil])
   (crosshairs [cl-struct-package-desc crosshairs (22 0) "Highlight the current line and column." nil single "marmalade" nil nil nil])
   (cryptol-mode [cl-struct-package-desc cryptol-mode (0 1 0) "Cryptol major mode for Emacs" nil single "marmalade" nil nil nil])
-  (csharp-mode [cl-struct-package-desc csharp-mode (0 8 10) "C# mode derived mode" nil tar "marmalade" nil nil nil])
+  (csharp-mode [cl-struct-package-desc csharp-mode (0 8 11) "C# mode derived mode" ((cl-lib (0 5))) tar "marmalade" nil nil nil])
   (ctable [cl-struct-package-desc ctable (0 1 1) "Table component for Emacs Lisp" nil single "marmalade" nil nil nil])
   (ctags-update [cl-struct-package-desc ctags-update (0 1 2) "auto update TAGS in parent directory using exuberant-ctags" nil single "marmalade" nil nil nil])
   (ctypes [cl-struct-package-desc ctypes (1 2) "Enhanced Font lock support for custom defined types." nil single "marmalade" nil nil nil])

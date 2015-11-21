@@ -3918,8 +3918,10 @@
 	 [(0 1 1)
 	  nil "Table component for Emacs Lisp" single])
  (csharp-mode .
-	      [(0 8 10)
-	       nil "C# mode derived mode" tar])
+	      [(0 8 11)
+	       ((cl-lib
+		 (0 5)))
+	       "C# mode derived mode" tar])
  (cryptol-mode .
 	       [(0 1 0)
 		nil "Cryptol major mode for Emacs" single])
