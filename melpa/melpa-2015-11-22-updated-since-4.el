@@ -371,7 +371,7 @@
   (go-eldoc [cl-struct-package-desc go-eldoc (20151028 10) "eldoc for go-mode" ((go-mode (1 0 0)) (cl-lib (0 5))) single "melpa" nil ((:url . "https://github.com/syohex/emacs-go-eldoc")) nil])
   (go-errcheck [cl-struct-package-desc go-errcheck (20150828 1135) "errcheck integration for go-mode" nil single "melpa" nil nil nil])
   (go-mode [cl-struct-package-desc go-mode (20150817 2318) "Major mode for the Go programming language" nil tar "melpa" nil ((:url . "https://github.com/dominikh/go-mode.el") (:keywords "languages" "go")) nil])
-  (go-snippets [cl-struct-package-desc go-snippets (20130821 844) "Yasnippets for go" ((yasnippet (0 8 0))) tar "melpa" nil nil nil])
+  (go-snippets [cl-struct-package-desc go-snippets (20151121 2257) "Yasnippets for go" ((yasnippet (0 8 0))) tar "melpa" nil nil nil])
   (golden-ratio [cl-struct-package-desc golden-ratio (20150819 420) "Automatic resizing of Emacs windows to the golden ratio" nil single "melpa" nil ((:keywords "window" "resizing")) nil])
   (google-c-style [cl-struct-package-desc google-c-style (20140929 1118) "Google's C/C++ style for c-mode" nil single "melpa" nil ((:keywords "c" "tools")) nil])
   (google-contacts [cl-struct-package-desc google-contacts (20140530 233) "Support for Google Contacts in Emacs" ((oauth2 (0 10))) tar "melpa" nil ((:url . "http://julien.danjou.info/projects/emacs-packages#google-contacts") (:keywords "comm")) nil])

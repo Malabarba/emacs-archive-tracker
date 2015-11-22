@@ -418,7 +418,7 @@
   (racer [cl-struct-package-desc racer (1 0 1) "Rust completion and code navigation via racer" ((emacs (24 3)) (rust-mode (0 2 0)) (dash (2 11 0)) (s (1 10 0))) single "melpa-stable" nil ((:url . "https://github.com/racer-rust/emacs-racer") (:keywords "abbrev" "convenience" "matching" "rust" "tools")) nil])
   (rainbow-blocks [cl-struct-package-desc rainbow-blocks (1 0 0) "Block syntax highlighting for lisp code" nil single "melpa-stable" nil ((:url . "https://github.com/istib/rainbow-blocks")) nil])
   (rake [cl-struct-package-desc rake (0 4 0) "Run rake commands" ((f (0 13 0)) (dash (1 5 0)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/asok/rake.el") (:keywords "rake" "ruby")) nil])
-  (ranger [cl-struct-package-desc ranger (0 9 7) "Make dired more like ranger" ((emacs (24 4)) (cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/ralesi/ranger") (:keywords "files" "convenience")) nil])
+  (ranger [cl-struct-package-desc ranger (0 9 7) "Make dired more like ranger" ((emacs (24 4))) single "melpa-stable" nil ((:url . "https://github.com/ralesi/ranger") (:keywords "files" "convenience")) nil])
   (rcirc-styles [cl-struct-package-desc rcirc-styles (1 1) "support mIRC-style color and attribute codes" ((cl-lib (0 5))) single "melpa-stable" nil nil nil])
   (rdf-prefix [cl-struct-package-desc rdf-prefix (1 2) "Prefix lookup for RDF" nil single "melpa-stable" nil ((:keywords "convenience" "abbrev")) nil])
   (real-auto-save [cl-struct-package-desc real-auto-save (0 4) "enable real auto save" nil single "melpa-stable" nil nil nil])
