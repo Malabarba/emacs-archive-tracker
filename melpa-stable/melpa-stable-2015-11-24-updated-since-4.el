@@ -246,7 +246,7 @@
   (fountain-mode [cl-struct-package-desc fountain-mode (1 5 0) "Major mode for screenwriting in Fountain markup" ((s (1 9 0))) single "melpa-stable" nil ((:url . "https://github.com/rnkn/fountain-mode") (:keywords "wp")) nil])
   (frame-restore [cl-struct-package-desc frame-restore (0 5) "Restore Emacs frame" ((emacs (24 1))) single "melpa-stable" nil ((:url . "https://github.com/lunaryorn/frame-restore.el") (:keywords "frames" "convenience")) nil])
   (fringe-helper [cl-struct-package-desc fringe-helper (1 0 1) "helper functions for fringe bitmaps" nil single "melpa-stable" nil ((:url . "http://nschum.de/src/emacs/fringe-helper/") (:keywords "lisp")) nil])
-  (fsharp-mode [cl-struct-package-desc fsharp-mode (1 6 1) "F# mode for Emacs" ((auto-complete (1 4)) (popup (0 5)) (pos-tip (0 4 5)) (s (1 3 1)) (dash (1 1 0))) tar "melpa-stable" nil nil nil])
+  (fsharp-mode [cl-struct-package-desc fsharp-mode (1 7 0) "F# mode for Emacs" ((auto-complete (1 4)) (popup (0 5)) (pos-tip (0 4 5)) (s (1 3 1)) (dash (1 1 0))) tar "melpa-stable" nil nil nil])
   (fuel [cl-struct-package-desc fuel (0 96) "No description available." nil tar "melpa-stable" nil nil nil])
   (full-ack [cl-struct-package-desc full-ack (1 0) "a front-end for ack" nil single "melpa-stable" nil ((:url . "http://nschum.de/src/emacs/full-ack/") (:keywords "tools" "matching")) nil])
   (fuzzy [cl-struct-package-desc fuzzy (0 1) "Fuzzy Matching" nil single "melpa-stable" nil ((:keywords "convenience")) nil])
