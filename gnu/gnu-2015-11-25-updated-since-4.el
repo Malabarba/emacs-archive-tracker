@@ -45,7 +45,7 @@
   (docbook [cl-struct-package-desc docbook (0 1) "Info-like viewer for DocBook" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/docbook.html") (:keywords "docs" "help")) nil])
   (djvu [cl-struct-package-desc djvu (0 5) "Edit and view Djvu files via djvused" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/djvu.html") (:keywords "files" "wp")) nil])
   (dict-tree [cl-struct-package-desc dict-tree (0 12 8) "Dictionary data structure" ((trie (0 2 5)) (tNFA (0 1 1)) (heap (0 3))) single "gnu" nil ((:url . "http://www.dr-qubit.org/emacs.php") (:keywords "extensions" "matching" "data structures trie" "tree" "dictionary" "completion" "regexp")) nil])
-  (debbugs [cl-struct-package-desc debbugs (0 7) "SOAP library to access debbugs servers" nil tar "gnu" nil ((:keywords "comm" "hypermedia") (:url . "http://elpa.gnu.org/packages/debbugs.html")) nil])
+  (debbugs [cl-struct-package-desc debbugs (0 8) "SOAP library to access debbugs servers" nil tar "gnu" nil ((:keywords "comm" "hypermedia") (:url . "http://elpa.gnu.org/packages/debbugs.html")) nil])
   (csv-mode [cl-struct-package-desc csv-mode (1 5) "Major mode for editing comma/char separated values" nil single "gnu" nil ((:url . "http://centaur.maths.qmul.ac.uk/Emacs/") (:keywords "convenience")) nil])
   (company [cl-struct-package-desc company (0 8 12) "Modular text completion framework" ((emacs (24 1)) (cl-lib (0 5))) tar "gnu" nil ((:keywords "abbrev" "convenience" "matching") (:url . "http://company-mode.github.io/")) nil])
   (coffee-mode [cl-struct-package-desc coffee-mode (0 4 1 1) "Major mode for CoffeeScript files" nil single "gnu" nil ((:url . "http://github.com/defunkt/coffee-mode") (:keywords "coffeescript" "major" "mode")) nil])

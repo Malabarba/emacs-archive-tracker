@@ -418,7 +418,7 @@
   (maxframe [cl-struct-package-desc maxframe (0 5) "No description available." nil single "melpa-stable" nil nil nil])
   (mc-extras [cl-struct-package-desc mc-extras (1 2 1) "Extra functions for multiple-cursors mode." ((multiple-cursors (1 2 1))) tar "melpa-stable" nil ((:url . "https://github.com/knu/mc-extras.el") (:keywords "editing" "cursors")) nil])
   (mentor [cl-struct-package-desc mentor (0 1) "Control rtorrent from GNU Emacs" nil tar "melpa-stable" nil ((:keywords "bittorrent" "rtorrent")) nil])
-  (merlin [cl-struct-package-desc merlin (2 3) "Mode for Merlin, an assistant for OCaml." nil tar "melpa-stable" nil ((:url . "http://github.com/the-lambda-church/merlin") (:keywords "ocaml" "languages")) nil])
+  (merlin [cl-struct-package-desc merlin (2 3 1) "Mode for Merlin, an assistant for OCaml." nil tar "melpa-stable" nil ((:url . "http://github.com/the-lambda-church/merlin") (:keywords "ocaml" "languages")) nil])
   (mew [cl-struct-package-desc mew (6 7) "Messaging in the Emacs World" nil tar "melpa-stable" nil nil nil])
   (migemo [cl-struct-package-desc migemo (1 9 1) "Japanese incremental search through dynamic pattern expansion" nil single "melpa-stable" nil ((:url . "https://github.com/emacs-jp/migemo")) nil])
   (milkode [cl-struct-package-desc milkode (0 4) "Command line search and direct jump with Milkode" nil single "melpa-stable" nil ((:keywords "milkode" "search" "grep" "jump" "keyword")) nil])
