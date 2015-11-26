@@ -673,7 +673,7 @@
   (sawfish [cl-struct-package-desc sawfish (1 32) "Sawfish mode." nil single "marmalade" nil nil nil])
   (scala-mode [cl-struct-package-desc scala-mode (0 0 2) "Scala major mode" nil tar "marmalade" nil nil nil])
   (scheme-here [cl-struct-package-desc scheme-here (12 8 2008) "cmuscheme extension for multiple inferior processes" nil single "marmalade" nil nil nil])
-  (scpaste [cl-struct-package-desc scpaste (0 6 3) "Paste to the web via scp." ((htmlize (1 39))) single "marmalade" nil nil nil])
+  (scpaste [cl-struct-package-desc scpaste (0 6 4) "Paste to the web via scp." ((htmlize (1 39))) single "marmalade" nil nil nil])
   (scratch [cl-struct-package-desc scratch (20110708) "Mode-specific scratch buffers" nil single "marmalade" nil nil nil])
   (scratch-persist [cl-struct-package-desc scratch-persist (1 1) "persist the scratch buffer across sessions" nil single "marmalade" nil nil nil])
   (screen-lines [cl-struct-package-desc screen-lines (0 55) "a minor mode for screen-line-based point motion" nil single "marmalade" nil nil nil])
