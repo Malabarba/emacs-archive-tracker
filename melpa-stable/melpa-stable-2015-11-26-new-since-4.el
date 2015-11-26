@@ -101,7 +101,7 @@
   (direx [cl-struct-package-desc direx (1 0 0) "Simple Directory Explorer" nil tar "melpa-stable" nil ((:keywords "convenience")) nil])
   (direx-grep [cl-struct-package-desc direx-grep (0 1 0) "Grep node of direx.el using incremental search like anything.el/helm.el" ((direx (0 1 -3))) single "melpa-stable" nil ((:url . "https://github.com/aki2o/direx-grep") (:keywords "convenience")) nil])
   (discover-my-major [cl-struct-package-desc discover-my-major (1 0) "Discover key bindings and their meaning for the current Emacs major mode" ((makey (0 2))) single "melpa-stable" nil ((:url . "https://github.com/steckerhalter/discover-my-major") (:keywords "discover" "help" "major-mode" "keys")) nil])
-  (docker [cl-struct-package-desc docker (0 1 0) "Emacs interface to Docker" ((emacs (24 4)) (dash (1 5 0)) (magit-popup (2 0 50)) (s (1 9 0))) tar "melpa-stable" nil nil nil])
+  (docker [cl-struct-package-desc docker (0 2 0) "Emacs interface to Docker" ((emacs (24 4)) (dash (1 5 0)) (magit-popup (2 0 50)) (s (1 9 0))) tar "melpa-stable" nil nil nil])
   (dockerfile-mode [cl-struct-package-desc dockerfile-mode (1 2) "Major mode for editing Docker's Dockerfiles" nil single "melpa-stable" nil nil nil])
   (downplay-mode [cl-struct-package-desc downplay-mode (0 1) "focus attention on a region of the buffer" nil single "melpa-stable" nil ((:url . "https://github.com/tobias/downplay-mode/")) nil])
   (dracula-theme [cl-struct-package-desc dracula-theme (1 2 0) "Dracula Theme" ((emacs (24))) single "melpa-stable" nil ((:url . "https://github.com/zenorocha/dracula-theme")) nil])

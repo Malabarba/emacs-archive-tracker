@@ -139,7 +139,7 @@
   (edbi [cl-struct-package-desc edbi (0 1 2) "Emacs Database Interface" ((concurrent (0 3 1)) (ctable (0 1 1)) (epc (0 1 1))) tar "melpa-stable" nil nil nil])
   (edit-list [cl-struct-package-desc edit-list (0 3) "edit a single list" nil single "melpa-stable" nil ((:url . "http://mwolson.org/static/dist/elisp/edit-list.el")) nil])
   (edit-server [cl-struct-package-desc edit-server (1 13) "server that responds to edit requests from Chrome" nil single "melpa-stable" nil ((:url . "https://github.com/stsquad/emacs_chrome")) nil])
-  (editorconfig [cl-struct-package-desc editorconfig (0 4) "EditorConfig Emacs extension" nil single "melpa-stable" nil ((:url . "http://github.com/editorconfig/editorconfig-emacs#readme")) nil])
+  (editorconfig [cl-struct-package-desc editorconfig (0 5) "EditorConfig Emacs Plugin" nil single "melpa-stable" nil ((:url . "https://github.com/editorconfig/editorconfig-emacs#readme")) nil])
   (edts [cl-struct-package-desc edts (0 1 0) "No description available." nil tar "melpa-stable" nil nil nil])
   (egison-mode [cl-struct-package-desc egison-mode (3 5 10) "Egison editing mode" nil single "melpa-stable" nil ((:url . "https://github.com/egisatoshi/egison3/blob/master/elisp/egison-mode.el")) nil])
   (eide [cl-struct-package-desc eide (2 1 0) "IDE interface" nil tar "melpa-stable" nil nil nil])
