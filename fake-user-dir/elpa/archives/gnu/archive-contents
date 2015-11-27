@@ -147,7 +147,7 @@
 		((:url . "https://github.com/vspinu/company-math")
 		 (:keywords "unicode" "symbols" "completion"))])
  (company-statistics .
-		     [(0 2 1)
+		     [(0 2 2)
 		      ((emacs
 			(24 3))
 		       (company
