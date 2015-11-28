@@ -226,7 +226,7 @@
   (sensitive [cl-struct-package-desc sensitive (1 0 1) "A dead simple way to load sensitive information" ((emacs (24)) (sequences (0 1 0))) single "marmalade" nil nil nil])
   (sequences [cl-struct-package-desc sequences (0 1 0) "Ports of some Clojure sequence functions." ((emacs (24))) single "marmalade" nil nil nil])
   (setup-cygwin [cl-struct-package-desc setup-cygwin (21 0) "Set up Emacs for using Cygwin" nil single "marmalade" nil nil nil])
-  (shackle [cl-struct-package-desc shackle (0 7 0) "Enforce rules for popups" ((cl-lib (0 5))) single "marmalade" nil nil nil])
+  (shackle [cl-struct-package-desc shackle (0 8 0) "Enforce rules for popups" ((cl-lib (0 5))) single "marmalade" nil nil nil])
   (shell-pop [cl-struct-package-desc shell-pop (0 3) "helps you to use shell easily on Emacs. Only one key action to work." nil single "marmalade" nil nil nil])
   (simple-httpd [cl-struct-package-desc simple-httpd (1 4 6) "pure elisp HTTP server" ((cl-lib (0 3))) single "marmalade" nil nil nil])
   (skewer-less [cl-struct-package-desc skewer-less (0 2) "Skewer support for live LESS stylesheet updates" ((skewer-mode (1 5 3))) single "marmalade" nil nil nil])

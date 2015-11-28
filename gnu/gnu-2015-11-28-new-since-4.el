@@ -48,7 +48,7 @@
   (exwm [cl-struct-package-desc exwm (0 1) "Emacs X Window Manager" ((xelb (0 3))) tar "gnu" nil ((:keywords "unix") (:url . "https://github.com/ch11ng/exwm")) nil])
   (ergoemacs-mode [cl-struct-package-desc ergoemacs-mode (5 14 7 3) "Emacs mode based on common modern interface and ergonomics." ((emacs (24 1)) (undo-tree (0 6 5))) tar "gnu" nil ((:keywords "convenience") (:url . "https://github.com/ergoemacs/ergoemacs-mode")) nil])
   (electric-spacing [cl-struct-package-desc electric-spacing (5 0) "Insert operators with surrounding spaces smartly" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/electric-spacing.html") (:keywords)) nil])
-  (el-search [cl-struct-package-desc el-search (0 1) "Expression based incremental search for emacs-lisp-mode" ((emacs (25))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/el-search.html") (:keywords "lisp")) nil])
+  (el-search [cl-struct-package-desc el-search (0 1 1) "Expression based incremental search for emacs-lisp-mode" ((emacs (25))) single "gnu" nil ((:url . "http://elpa.gnu.org/packages/el-search.html") (:keywords "lisp")) nil])
   (easy-kill [cl-struct-package-desc easy-kill (0 9 3) "kill & mark things easily" ((emacs (24)) (cl-lib (0 5))) tar "gnu" nil ((:keywords "killing" "convenience") (:url . "https://github.com/leoliu/easy-kill")) nil])
   (dts-mode [cl-struct-package-desc dts-mode (0 1 0) "Major mode for Device Tree source files" nil single "gnu" nil ((:url . "http://elpa.gnu.org/packages/dts-mode.html") (:keywords "languages")) nil])
   (dismal [cl-struct-package-desc dismal (1 5) "Dis Mode Ain't Lotus: Spreadsheet program Emacs" ((cl-lib (0))) tar "gnu" nil ((:url . "http://elpa.gnu.org/packages/dismal.html")) nil])

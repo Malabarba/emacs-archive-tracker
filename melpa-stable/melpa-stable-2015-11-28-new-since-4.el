@@ -447,7 +447,7 @@
   (search-web [cl-struct-package-desc search-web (1 1) "Post web search queries using `browse-url'." nil single "melpa-stable" nil nil nil])
   (seq [cl-struct-package-desc seq (1 11) "Sequence manipulation functions" nil single "melpa-stable" nil ((:keywords "sequences")) nil])
   (sexp-move [cl-struct-package-desc sexp-move (0 2 6) "Improved S-Expression Movement" nil single "melpa-stable" nil ((:url . "https://gitlab.com/elzair/sexp-move") (:keywords "sexp")) nil])
-  (shackle [cl-struct-package-desc shackle (0 7 0) "Enforce rules for popups" ((cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/wasamasa/shackle") (:keywords "convenience")) nil])
+  (shackle [cl-struct-package-desc shackle (0 8 0) "Enforce rules for popups" ((cl-lib (0 5))) single "melpa-stable" nil ((:url . "https://github.com/wasamasa/shackle") (:keywords "convenience")) nil])
   (shell-split-string [cl-struct-package-desc shell-split-string (0 1) "Split strings using shell-like syntax" nil single "melpa-stable" nil ((:url . "https://github.com/10sr/shell-split-string-el") (:keywords "utility" "library" "shell" "string")) nil])
   (shell-switcher [cl-struct-package-desc shell-switcher (1 0 1) "Provide fast switching between shell buffers." nil tar "melpa-stable" nil nil nil])
   (shell-toggle [cl-struct-package-desc shell-toggle (1 3 1) "Toggle to and from the shell buffer" nil single "melpa-stable" nil ((:url . "https://github.com/knu/shell-toggle.el") (:keywords "processes")) nil])
